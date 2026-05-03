@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-03T20:43:27.695Z",
+  "generatedAt": "2026-05-03T22:08:19.404Z",
   "events": [
     {
       "id": 101,
@@ -11553,6 +11553,1315 @@
           "time": "2026-12-30T19:30:00+08:00",
           "duration": 30,
           "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 2100,
+      "series": "woosc",
+      "name": "Federated Auto Parts Spring Classic",
+      "circuit": "I-55 Federated Auto Parts Raceway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-10T18:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2101,
+      "series": "woosc",
+      "name": "Federated Auto Parts Spring Classic",
+      "circuit": "I-55 Federated Auto Parts Raceway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-11T18:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2102,
+      "series": "woosc",
+      "name": "Southern Indiana Showdown",
+      "circuit": "Tri-State Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-19T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2103,
+      "series": "woosc",
+      "name": "Premier Chevy Dealers Clash",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-24T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2104,
+      "series": "woosc",
+      "name": "Premier Chevy Dealers Clash",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-25T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2105,
+      "series": "woosc",
+      "name": "Gettysburg Clash",
+      "circuit": "Lincoln Speedway (PA)",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-05T18:30:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2106,
+      "series": "woosc",
+      "name": "HVAC Distributors Morgan Cup",
+      "circuit": "Williams Grove Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-08T19:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2107,
+      "series": "woosc",
+      "name": "HVAC Distributors Morgan Cup",
+      "circuit": "Williams Grove Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-09T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2108,
+      "series": "woosc",
+      "name": "#LetsRaceTwo",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-15T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2109,
+      "series": "woosc",
+      "name": "#LetsRaceTwo",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-16T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2110,
+      "series": "woosc",
+      "name": "Hy-Vee Perks 40",
+      "circuit": "Jacksonville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-19T17:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2111,
+      "series": "woosc",
+      "name": "Stars and Stripes Salute",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-23T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2112,
+      "series": "woosc",
+      "name": "Stars and Stripes Salute",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-24T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2113,
+      "series": "woosc",
+      "name": "1st Leg of the Northern Tour Don Mack Classic",
+      "circuit": "River Cities Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-29T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2114,
+      "series": "woosc",
+      "name": "Gerdau Metals Recycling Magic City Showdown",
+      "circuit": "Nodak Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-31T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2115,
+      "series": "woosc",
+      "name": "Pure Michigan Showdown",
+      "circuit": "Hartford Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-05T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2116,
+      "series": "woosc",
+      "name": "Cheese Town Showdown",
+      "circuit": "Plymouth Dirt Track",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-06T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2117,
+      "series": "woosc",
+      "name": "Ted Johnson Memorial Race",
+      "circuit": "Angell Park Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-07T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2118,
+      "series": "woosc",
+      "name": "Premier Chevy Dealers Clash",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-12T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2119,
+      "series": "woosc",
+      "name": "Premier Chevy Dealers Clash",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-13T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2120,
+      "series": "woosc",
+      "name": "Hefty Seed Huset's Hustle",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-17T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2121,
+      "series": "woosc",
+      "name": "Hefty Seed Huset's Hustle",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-18T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2122,
+      "series": "woosc",
+      "name": "BillionAuto.com Huset's High Bank Nationals",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-19T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2123,
+      "series": "woosc",
+      "name": "BillionAuto.com Huset's High Bank Nationals",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-20T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2124,
+      "series": "woosc",
+      "name": "Independence Spectacular",
+      "circuit": "Cedar Lake Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-26T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2125,
+      "series": "woosc",
+      "name": "Independence Spectacular",
+      "circuit": "Cedar Lake Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-27T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2126,
+      "series": "woosc",
+      "name": "O'Reilly Auto Parts presents the Larry Hillerud Memorial",
+      "circuit": "Wilmot Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-10T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2127,
+      "series": "woosc",
+      "name": "O'Reilly Auto Parts presents the Larry Hillerud Memorial",
+      "circuit": "Wilmot Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-11T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2128,
+      "series": "woosc",
+      "name": "Ohio Logistics Brad Doty Classic presented by dac Vitamins and Minerals",
+      "circuit": "Attica Raceway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-14T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2129,
+      "series": "woosc",
+      "name": "Knight Before the Kings Royal",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-17T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2130,
+      "series": "woosc",
+      "name": "43rd Kings Royal",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-18T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2131,
+      "series": "woosc",
+      "name": "Federated Auto Parts Six Nations Showdown",
+      "circuit": "Ohsweken Speedway",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-21T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2132,
+      "series": "woosc",
+      "name": "Federated Auto Parts Six Nations Showdown",
+      "circuit": "Ohsweken Speedway",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-22T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2133,
+      "series": "woosc",
+      "name": "Empire State Challenge",
+      "circuit": "Weedsport Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-25T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2134,
+      "series": "woosc",
+      "name": "Empire State Challenge",
+      "circuit": "Weedsport Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-26T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2135,
+      "series": "woosc",
+      "name": "Bricker's Bash",
+      "circuit": "BAPS Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-29T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2136,
+      "series": "woosc",
+      "name": "C&D Rigging Summer Nationals",
+      "circuit": "Williams Grove Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-31T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2137,
+      "series": "woosc",
+      "name": "C&D Rigging Summer Nationals",
+      "circuit": "Williams Grove Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-01T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2138,
+      "series": "woosc",
+      "name": "Night Before The Ironman 55",
+      "circuit": "I-55 Federated Auto Parts Raceway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-07T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2139,
+      "series": "woosc",
+      "name": "Ironman 55",
+      "circuit": "I-55 Federated Auto Parts Raceway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-08T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2140,
+      "series": "woosc",
+      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-12T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2141,
+      "series": "woosc",
+      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-13T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2142,
+      "series": "woosc",
+      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-14T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2143,
+      "series": "woosc",
+      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-15T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2144,
+      "series": "woosc",
+      "name": "Big O Showdown presented by Wagamon Brothers",
+      "circuit": "Ogilvie Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-21T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2145,
+      "series": "woosc",
+      "name": "FENDT Showdown",
+      "circuit": "Jackson Motorplex",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-22T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2146,
+      "series": "woosc",
+      "name": "2nd Leg of the Northern Tour",
+      "circuit": "River Cities Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-28T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2147,
+      "series": "woosc",
+      "name": "Danny Schatz Memorial",
+      "circuit": "Fix it Forward Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-29T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2148,
+      "series": "woosc",
+      "name": "L.G. Everist Huset’s Shootout presented by D & I Railroad",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-04T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2149,
+      "series": "woosc",
+      "name": "L.G. Everist Huset’s Shootout presented by Ace Ready Mix",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-05T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2150,
+      "series": "woosc",
+      "name": "L.G. Everist Huset’s Shootout presented by Myrl & Roy’s Paving",
+      "circuit": "Huset's Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-06T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2151,
+      "series": "woosc",
+      "name": "Belleville High Banks 30",
+      "circuit": "Belleville High Banks",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-11T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2152,
+      "series": "woosc",
+      "name": "Gunslinger Stampede",
+      "circuit": "Dodge City Raceway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-12T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2153,
+      "series": "woosc",
+      "name": "Rocky Mountain Rumble",
+      "circuit": "El Paso County Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Denver",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-14T18:00:00-06:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2154,
+      "series": "woosc",
+      "name": "Dennis Roth Classic Night One",
+      "circuit": "Stockton Dirt Track",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-18T18:00:00-07:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2155,
+      "series": "woosc",
+      "name": "Dennis Roth Classic Night Two",
+      "circuit": "Stockton Dirt Track",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-19T18:00:00-07:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2156,
+      "series": "woosc",
+      "name": "Central Valley Clash",
+      "circuit": "Kings Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-22T18:00:00-07:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2157,
+      "series": "woosc",
+      "name": "Nashville West Showdown",
+      "circuit": "Kevin Harvick's Kern Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-25T18:00:00-07:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2158,
+      "series": "woosc",
+      "name": "Battle on the Beach",
+      "circuit": "Ventura Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-26T18:00:00-07:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2159,
+      "series": "woosc",
+      "name": "J&S Classics National Open",
+      "circuit": "Williams Grove Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-02T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2160,
+      "series": "woosc",
+      "name": "J&S Classics National Open",
+      "circuit": "Williams Grove Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-03T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2161,
+      "series": "woosc",
+      "name": "Sheldon Haudenschild's NOS Energy Drink Buckeye Brawl Weekend: Round 1",
+      "circuit": "Millstream Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-08T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2162,
+      "series": "woosc",
+      "name": "Sheldon Haudenschild's NOS Energy Drink Buckeye Brawl Weekend: Round 2",
+      "circuit": "Mansfield Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-09T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2163,
+      "series": "woosc",
+      "name": "Sheldon Haudenschild's NOS Energy Drink Buckeye Brawl Weekend: Round 3",
+      "circuit": "Sharon Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-10T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2164,
+      "series": "woosc",
+      "name": "Cushion Capital Clash",
+      "circuit": "Lincoln Park Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-16T18:00:00-04:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2165,
+      "series": "woosc",
+      "name": "Jason Johnson Classic",
+      "circuit": "Texarkana 67 Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-23T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2166,
+      "series": "woosc",
+      "name": "Short Track Nationals",
+      "circuit": "Texarkana 67 Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-24T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2167,
+      "series": "woosc",
+      "name": "World Finals",
+      "circuit": "The Dirt Track at Charlotte",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-04T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2168,
+      "series": "woosc",
+      "name": "World Finals",
+      "circuit": "The Dirt Track at Charlotte",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-05T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2169,
+      "series": "woosc",
+      "name": "World Finals",
+      "circuit": "The Dirt Track at Charlotte",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-06T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2170,
+      "series": "woosc",
+      "name": "World Finals",
+      "circuit": "The Dirt Track at Charlotte",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-07T18:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2171,
+      "series": "woosc",
+      "name": "Federated Auto Parts DIRTcar Nationals - Day 6",
+      "circuit": "Volusia Speedway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2027-02-10T17:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2172,
+      "series": "woosc",
+      "name": "Federated Auto Parts DIRTcar Nationals - Day 7",
+      "circuit": "Volusia Speedway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2027-02-11T17:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2173,
+      "series": "woosc",
+      "name": "Federated Auto Parts DIRTcar Nationals - Day 8",
+      "circuit": "Volusia Speedway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2027-02-12T17:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2174,
+      "series": "woosc",
+      "name": "Federated Auto Parts DIRTcar Nationals - Day 9",
+      "circuit": "Volusia Speedway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2027-02-13T17:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2175,
+      "series": "woosc",
+      "name": "Bike Week Jamboree - Day 1",
+      "circuit": "Volusia Speedway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2027-03-07T18:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
+        }
+      ]
+    },
+    {
+      "id": 2176,
+      "series": "woosc",
+      "name": "Bike Week Jamboree - Day 2",
+      "circuit": "Volusia Speedway Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2027-03-08T18:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "DIRTVision"
         }
       ]
     },
