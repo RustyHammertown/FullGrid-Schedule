@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-03T23:22:57.236Z",
+  "generatedAt": "2026-05-03T23:45:00.959Z",
   "events": [
     {
       "id": 101,
@@ -1074,16 +1074,16 @@
       "sessions": [
         {
           "name": "Sprint",
-          "time": "2026-03-21T09:00:00-03:00",
-          "tbd": true,
+          "time": "2026-03-21T15:00:00-03:00",
           "laps": 13,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/motogp/spr/classification",
           "broadcastUS": "Fox Sports 1 / MotoGP+"
         },
         {
           "name": "Race",
-          "time": "2026-03-22T09:00:00-03:00",
-          "tbd": true,
-          "laps": 25,
+          "time": "2026-03-22T15:00:00-03:00",
+          "laps": 31,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/motogp/rac/classification",
           "broadcastUS": "Fox Sports 1 / MotoGP+"
         }
       ]
@@ -2306,19 +2306,37 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-14T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-11T10:00:00-05:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Daytona_500",
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-14T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-11T20:15:00-05:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Daytona_500",
+          "broadcastUS": "FS1"
+        },
+        {
+          "name": "Duel 1",
+          "time": "2026-02-12T19:00:00-05:00",
+          "laps": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/The_Duel_at_Daytona",
+          "broadcastUS": "FS1"
+        },
+        {
+          "name": "Duel 2",
+          "time": "2026-02-12T20:45:00-05:00",
+          "laps": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/The_Duel_at_Daytona",
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
           "time": "2026-02-15T13:30:00-05:00",
           "laps": 200,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-daytona-500/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Daytona_500"
         }
       ]
     },
@@ -2334,20 +2352,17 @@
       "broadcastUS": "FOX",
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-02-21T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-02-21T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-21T11:00:00-05:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Autotrader_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-02-22T15:00:00-05:00",
           "laps": 260,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-autotrader-400/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Autotrader_400"
         }
       ]
     },
@@ -2364,19 +2379,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-28T06:00:00-06:00",
-          "tbd": true
+          "time": "2026-02-28T09:00:00-06:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_DuraMAX_Texas_Grand_Prix",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-28T06:00:00-06:00",
-          "tbd": true
+          "time": "2026-02-28T10:10:00-06:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_DuraMAX_Texas_Grand_Prix",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-03-01T14:30:00-06:00",
           "laps": 95,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/duramax-grand-prix-powered-by-reladyne/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_DuraMAX_Texas_Grand_Prix"
         }
       ]
     },
@@ -2393,20 +2412,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-07T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-07T10:00:00-07:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Straight_Talk_Wireless_500",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-07T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-07T11:10:00-07:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Straight_Talk_Wireless_500",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
-          "time": "2026-03-08T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-03-08T13:30:00-07:00",
           "laps": 312,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-straight-talk-wireless-500/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Straight_Talk_Wireless_500"
         }
       ]
     },
@@ -2423,19 +2445,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-14T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-14T11:30:00-07:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Pennzoil_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-14T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-14T12:40:00-07:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Pennzoil_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-03-15T13:00:00-07:00",
           "laps": 267,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-pennzoil-400/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Pennzoil_400"
         }
       ]
     },
@@ -2452,19 +2478,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-21T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-21T14:30:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Goodyear_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-21T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-21T15:40:00-04:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Goodyear_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-03-22T15:00:00-04:00",
           "laps": 293,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-goodyear-400/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Goodyear_400"
         }
       ]
     },
@@ -2481,19 +2511,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-28T12:30:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Cook_Out_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-28T13:40:00-04:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Cook_Out_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-03-29T15:30:00-04:00",
           "laps": 400,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-cook-out-400-martinsville/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Cook_Out_400"
         }
       ]
     },
@@ -2510,19 +2544,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-11T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-11T16:30:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Food_City_500",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-11T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-11T17:40:00-04:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Food_City_500",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-04-12T15:00:00-04:00",
           "laps": 500,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-food-city-500/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Food_City_500"
         }
       ]
     },
@@ -2539,19 +2577,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-18T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-18T15:00:00-05:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_AdventHealth_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-18T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-18T16:05:00-05:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_AdventHealth_400",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-04-19T13:00:00-05:00",
           "laps": 267,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-adventhealth-400/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_AdventHealth_400"
         }
       ]
     },
@@ -2567,20 +2609,17 @@
       "broadcastUS": "FOX",
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-25T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-04-25T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-25T09:30:00-05:00",
+          "duration": 60,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Jack_Link%27s_500",
+          "broadcastUS": "Prime Video"
         },
         {
           "name": "Race",
           "time": "2026-04-26T14:00:00-05:00",
           "laps": 188,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-jack-links-500/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Jack_Link%27s_500"
         }
       ]
     },
@@ -3357,26 +3396,27 @@
       "sessions": [
         {
           "name": "Day 1",
-          "time": "2026-01-22T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-01-22T18:35:00+01:00",
+          "duration": 240,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 2",
-          "time": "2026-01-23T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-01-23T09:04:00+01:00",
+          "duration": 480,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 3",
-          "time": "2026-01-24T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-01-24T08:31:00+01:00",
+          "duration": 480,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 4",
-          "time": "2026-01-25T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-01-25T08:05:00+01:00",
+          "duration": 360,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rallye-monte-carlo-2026/",
           "broadcastUS": "Rally.tv"
         }
       ]
@@ -3393,26 +3433,27 @@
       "sessions": [
         {
           "name": "Day 1",
-          "time": "2026-02-12T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-02-12T19:05:00+01:00",
+          "duration": 180,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 2",
-          "time": "2026-02-13T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-02-13T10:07:00+01:00",
+          "duration": 480,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 3",
-          "time": "2026-02-14T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-02-14T10:10:00+01:00",
+          "duration": 480,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 4",
-          "time": "2026-02-15T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-02-15T12:15:00+01:00",
+          "duration": 240,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rally-sweden-2026/",
           "broadcastUS": "Rally.tv"
         }
       ]
@@ -3429,26 +3470,27 @@
       "sessions": [
         {
           "name": "Day 1",
-          "time": "2026-03-12T15:00:00+03:00",
-          "tbd": true,
+          "time": "2026-03-12T16:05:00+03:00",
+          "duration": 240,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 2",
-          "time": "2026-03-13T15:00:00+03:00",
-          "tbd": true,
+          "time": "2026-03-13T08:03:00+03:00",
+          "duration": 480,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 3",
-          "time": "2026-03-14T15:00:00+03:00",
-          "tbd": true,
+          "time": "2026-03-14T08:35:00+03:00",
+          "duration": 480,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 4",
-          "time": "2026-03-15T15:00:00+03:00",
-          "tbd": true,
+          "time": "2026-03-15T08:05:00+03:00",
+          "duration": 360,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-safari-rally-kenya-2026/",
           "broadcastUS": "Rally.tv"
         }
       ]
@@ -3465,26 +3507,27 @@
       "sessions": [
         {
           "name": "Day 1",
-          "time": "2026-04-09T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-04-09T10:01:00+02:00",
+          "duration": 240,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 2",
-          "time": "2026-04-10T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-04-10T09:13:00+02:00",
+          "duration": 540,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 3",
-          "time": "2026-04-11T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-04-11T08:43:00+02:00",
+          "duration": 540,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 4",
-          "time": "2026-04-12T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-04-12T08:05:00+02:00",
+          "duration": 360,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-croatia-rally-2026/",
           "broadcastUS": "Rally.tv"
         }
       ]
@@ -3501,26 +3544,27 @@
       "sessions": [
         {
           "name": "Day 1",
-          "time": "2026-04-23T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-04-23T17:35:00+01:00",
+          "duration": 180,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 2",
-          "time": "2026-04-24T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-04-24T09:20:00+01:00",
+          "duration": 540,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 3",
-          "time": "2026-04-25T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-04-25T08:20:00+01:00",
+          "duration": 540,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 4",
-          "time": "2026-04-26T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-04-26T08:05:00+01:00",
+          "duration": 360,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rally-islas-canarias-2026/",
           "broadcastUS": "Rally.tv"
         }
       ]
@@ -3860,15 +3904,27 @@
       "round": 1,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-01-22T07:00:00-05:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-01-22T10:05:00-05:00",
+          "duration": 90,
           "broadcastUS": "Peacock"
         },
         {
           "name": "Qualifying",
-          "time": "2026-01-23T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-01-22T14:10:00-05:00",
+          "duration": 75,
+          "broadcastUS": "Peacock"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-01-22T18:15:00-05:00",
+          "duration": 90,
+          "broadcastUS": "Peacock"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-01-23T11:05:00-05:00",
+          "duration": 75,
           "broadcastUS": "Peacock"
         },
         {
@@ -3890,20 +3946,32 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-03-19T08:00:00-04:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-03-19T10:05:00-04:00",
+          "duration": 90,
+          "broadcastUS": "Peacock"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-19T16:15:00-04:00",
+          "duration": 90,
+          "broadcastUS": "Peacock"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-03-19T19:45:00-04:00",
+          "duration": 90,
           "broadcastUS": "Peacock"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-20T11:25:00-04:00",
+          "duration": 75,
           "broadcastUS": "Peacock"
         },
         {
           "name": "Race",
-          "time": "2026-03-21T10:40:00-04:00",
+          "time": "2026-03-21T10:10:00-04:00",
           "duration": 720,
           "broadcastUS": "Peacock / USA Network"
         }
@@ -3920,15 +3988,21 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-16T05:00:00-07:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-04-17T09:00:00-07:00",
+          "duration": 60,
+          "broadcastUS": "Peacock"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-04-17T13:10:00-07:00",
+          "duration": 90,
           "broadcastUS": "Peacock"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-17T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-04-17T17:25:00-07:00",
+          "duration": 35,
           "broadcastUS": "Peacock"
         },
         {
@@ -4240,8 +4314,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-19T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-19T15:00:00-04:00",
+          "duration": 40
         },
         {
           "name": "Race",
@@ -4520,14 +4594,19 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-02-27T06:00:00-06:00",
-          "tbd": true
+          "name": "Practice 1",
+          "time": "2026-02-27T12:00:00-06:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-02-27T14:00:00-06:00",
+          "duration": 40
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-27T06:00:00-06:00",
-          "tbd": true
+          "time": "2026-02-27T18:30:00-06:00",
+          "duration": 35
         },
         {
           "name": "Race 1",
@@ -4555,13 +4634,13 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-03-06T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-03-06T16:30:00-05:00",
+          "duration": 50
         },
         {
           "name": "Practice 2",
-          "time": "2026-03-07T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-03-07T09:35:00-05:00",
+          "duration": 50
         },
         {
           "name": "Qualifying",
@@ -5556,24 +5635,34 @@
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "round": 1,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-03-26T08:00:00-04:00",
-          "tbd": true
+          "name": "Practice 1",
+          "time": "2026-03-27T16:00:00-07:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-28T11:00:00-07:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-03-28T14:15:00-07:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-27T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-29T08:50:00-07:00",
+          "duration": 35,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race",
-          "time": "2026-03-28T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-29T13:45:00-07:00",
+          "duration": 180,
           "broadcastUS": "YouTube/GTWorld"
         }
       ]
@@ -5589,20 +5678,30 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-23T07:00:00-05:00",
-          "tbd": true
+          "name": "Practice 1",
+          "time": "2026-04-24T16:20:00-05:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-04-25T10:25:00-05:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-04-25T14:30:00-05:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-24T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-04-26T08:45:00-05:00",
+          "duration": 35,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race",
-          "time": "2026-04-25T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-04-26T12:30:00-05:00",
+          "duration": 180,
           "broadcastUS": "YouTube/GTWorld"
         }
       ]
@@ -6674,21 +6773,28 @@
       "round": 1,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2025-12-04T09:00:00-03:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2025-12-05T16:30:00-03:00",
+          "duration": 40,
+          "broadcastUS": "Roku Channel / FE app"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2025-12-06T07:30:00-03:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2025-12-05T09:00:00-03:00",
-          "tbd": true,
+          "time": "2025-12-06T09:40:00-03:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
-          "time": "2025-12-06T14:04:00-03:00",
+          "time": "2025-12-06T14:05:00-03:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/sao-paulo",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6704,21 +6810,28 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-01-08T06:00:00-06:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-01-09T16:00:00-06:00",
+          "duration": 40,
+          "broadcastUS": "Roku Channel / FE app"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-01-10T07:30:00-06:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2026-01-09T06:00:00-06:00",
-          "tbd": true,
+          "time": "2026-01-10T09:40:00-06:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
-          "time": "2026-01-10T14:00:00-06:00",
+          "time": "2026-01-10T14:05:00-06:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/mexico-city",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6734,21 +6847,28 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-01-29T07:00:00-05:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-01-30T17:00:00-05:00",
+          "duration": 40,
+          "broadcastUS": "Roku Channel / FE app"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-01-31T07:30:00-05:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2026-01-30T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-01-31T09:40:00-05:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
-          "time": "2026-01-31T14:00:00-05:00",
+          "time": "2026-01-31T14:05:00-05:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/miami",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6764,21 +6884,28 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-02-11T15:00:00+03:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-02-12T20:00:00+03:00",
+          "duration": 40,
+          "broadcastUS": "Roku Channel / FE app"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-02-13T13:30:00+03:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-12T15:00:00+03:00",
-          "tbd": true,
+          "time": "2026-02-13T15:40:00+03:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
-          "time": "2026-02-13T20:00:00+03:00",
+          "time": "2026-02-13T20:05:00+03:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/jeddah/round-4",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6794,21 +6921,22 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-02-12T15:00:00+03:00",
-          "tbd": true,
+          "name": "Practice 3",
+          "time": "2026-02-14T13:30:00+03:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-13T15:00:00+03:00",
-          "tbd": true,
+          "time": "2026-02-14T15:40:00+03:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
-          "time": "2026-02-14T20:00:00+03:00",
+          "time": "2026-02-14T20:05:00+03:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/jeddah/round-5",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6824,21 +6952,28 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-03-19T13:00:00+01:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-03-20T16:30:00+01:00",
+          "duration": 40,
+          "broadcastUS": "Roku Channel / FE app"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-21T08:30:00+01:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-20T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-03-21T10:40:00+01:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
-          "time": "2026-03-21T15:04:00+01:00",
+          "time": "2026-03-21T15:05:00+01:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/madrid",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6854,21 +6989,28 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-30T14:00:00+02:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-05-01T17:00:00+02:00",
+          "duration": 40,
+          "broadcastUS": "Roku Channel / FE app"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-02T09:30:00+02:00",
+          "duration": 30,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Qualifying",
-          "time": "2026-05-01T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-02T11:40:00+02:00",
+          "duration": 60,
           "broadcastUS": "Roku Channel / FE app"
         },
         {
           "name": "Race",
           "time": "2026-05-02T16:05:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/berlin/round-7",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -7371,19 +7513,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-13T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-13T16:30:00-05:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_United_Rentals_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-13T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-14T10:00:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_United_Rentals_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-02-14T17:00:00-05:00",
           "laps": 120,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-300/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_United_Rentals_300"
         }
       ]
     },
@@ -7398,21 +7544,17 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-02-20T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-02-20T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-20T17:00:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Bennett_Transportation_%26_Logistics_250",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
-          "time": "2026-02-21T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-02-21T17:00:00-05:00",
           "laps": 163,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-bennett-transportation-and-logistics-250/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Bennett_Transportation_%26_Logistics_250"
         }
       ]
     },
@@ -7428,19 +7570,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-27T06:00:00-06:00",
-          "tbd": true
+          "time": "2026-02-27T16:00:00-06:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Focused_Health_250_(COTA)",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-27T06:00:00-06:00",
-          "tbd": true
+          "time": "2026-02-27T17:05:00-06:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Focused_Health_250_(COTA)",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-02-28T14:00:00-06:00",
           "laps": 46,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-cota/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Focused_Health_250_(COTA)"
         }
       ]
     },
@@ -7456,19 +7602,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-07T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-06T17:00:00-07:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_GOVX_200",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-07T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-06T18:05:00-07:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_GOVX_200",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-03-07T17:30:00-07:00",
           "laps": 200,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_GOVX_200"
         }
       ]
     },
@@ -7484,19 +7634,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-13T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-14T09:00:00-07:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_The_LiUNA!",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-13T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-14T10:05:00-07:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_The_LiUNA!",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-03-14T14:30:00-07:00",
           "laps": 200,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-the-liuna/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_The_LiUNA!"
         }
       ]
     },
@@ -7512,20 +7666,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-21T12:00:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Sport_Clips_Haircuts_VFW_200",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-21T13:05:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Sport_Clips_Haircuts_VFW_200",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
-          "time": "2026-03-21T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-21T17:30:00-04:00",
           "laps": 147,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-sport-clips-haircuts-vfw-help-a-hero-200/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Sport_Clips_Haircuts_VFW_200"
         }
       ]
     },
@@ -7541,19 +7698,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-27T16:20:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_NFPA_250",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-27T17:25:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_NFPA_250",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-03-28T15:30:00-04:00",
           "laps": 250,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/nfpa-250/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_NFPA_250"
         }
       ]
     },
@@ -7569,19 +7730,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-03T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-03T13:30:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_North_Carolina_Education_Lottery_250",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-03T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-03T14:35:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_North_Carolina_Education_Lottery_250",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-04-04T14:30:00-04:00",
           "laps": 200,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nc-education-lottery-250-presented-by-blacks-tire/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_North_Carolina_Education_Lottery_250"
         }
       ]
     },
@@ -7597,19 +7762,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-10T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-11T14:00:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Suburban_Propane_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-10T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-11T15:05:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Suburban_Propane_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-04-11T19:30:00-04:00",
           "laps": 300,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/suburban-propane-300/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Suburban_Propane_300"
         }
       ]
     },
@@ -7625,19 +7794,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-17T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-17T18:00:00-05:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Kansas_Lottery_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-17T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-17T19:05:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Kansas_Lottery_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-04-18T18:00:00-05:00",
           "laps": 200,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-kansas-lottery-300/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Kansas_Lottery_300"
         }
       ]
     },
@@ -7652,20 +7825,17 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-24T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-04-24T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-24T16:30:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Ag-Pro_300",
+          "broadcastUS": "CW App"
         },
         {
           "name": "Race",
           "time": "2026-04-25T15:00:00-05:00",
           "laps": 113,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-ag-pro-300/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Ag-Pro_300"
         }
       ]
     },
@@ -8286,19 +8456,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-13T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-12T17:00:00-05:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fresh_From_Florida_250",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-13T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-13T15:00:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fresh_From_Florida_250",
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
           "time": "2026-02-13T19:30:00-05:00",
           "laps": 100,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-fresh-from-florida-250/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fresh_From_Florida_250"
         }
       ]
     },
@@ -8313,20 +8487,17 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-02-20T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-02-20T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-20T15:00:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fr8_208",
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
           "time": "2026-02-21T13:30:00-05:00",
           "laps": 135,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-fr8-racing-208/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fr8_208"
         }
       ]
     },
@@ -8342,19 +8513,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-27T16:00:00-05:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_OnlyBulls_Green_Flag_150",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-27T17:05:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_OnlyBulls_Green_Flag_150",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Race",
           "time": "2026-02-28T12:00:00-05:00",
           "laps": 84,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/onlybulls-green-flag-150-at-st-petersburg/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_OnlyBulls_Green_Flag_150"
         }
       ]
     },
@@ -8370,19 +8545,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-19T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-20T15:30:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Buckle_Up_South_Carolina_200",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-19T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-20T16:35:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Buckle_Up_South_Carolina_200",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Race",
           "time": "2026-03-20T19:30:00-04:00",
           "laps": 147,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-buckle-up-south-carolina-200/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Buckle_Up_South_Carolina_200"
         }
       ]
     },
@@ -8398,19 +8577,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-02T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-03T11:00:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Black%27s_Tire_200",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-02T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-03T12:30:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Black%27s_Tire_200",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Race",
           "time": "2026-04-03T16:30:00-04:00",
           "laps": 200,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-blacks-tire-200/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Black%27s_Tire_200"
         }
       ]
     },
@@ -8426,19 +8609,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-09T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-10T15:30:00-04:00",
+          "duration": 50,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Tennessee_Army_National_Guard_250",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-09T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-10T16:35:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Tennessee_Army_National_Guard_250",
+          "broadcastUS": "FS2"
         },
         {
           "name": "Race",
           "time": "2026-04-10T19:30:00-04:00",
           "laps": 250,
-          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-tennessee-army-national-guard-250/"
+          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Tennessee_Army_National_Guard_250"
         }
       ]
     },
@@ -8974,18 +9161,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-13T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-12T16:00:00-05:00",
+          "duration": 55
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-13T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-02-13T13:30:00-05:00",
+          "duration": 60
         },
         {
           "name": "Race",
-          "time": "2026-02-14T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-02-14T12:00:00-05:00",
           "laps": 80
         }
       ]
@@ -9003,18 +9189,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-04T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-05T13:30:00-07:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-04T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-05T14:30:00-07:00",
+          "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-03-05T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-03-05T16:00:00-07:00",
           "laps": 150
         }
       ]
@@ -9032,17 +9217,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-17T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-17T16:00:00-05:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-17T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-17T17:00:00-05:00",
+          "duration": 20
         },
         {
           "name": "Race",
-          "time": "2026-04-18T14:30:00-05:00",
+          "time": "2026-04-18T11:30:00-05:00",
           "laps": 100
         }
       ]
@@ -9060,17 +9245,12 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-24T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-04-24T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-04-24T14:30:00-05:00",
+          "duration": 60
         },
         {
           "name": "Race",
-          "time": "2026-04-25T14:30:00-05:00",
+          "time": "2026-04-25T11:30:00-05:00",
           "laps": 76
         }
       ]
@@ -9536,18 +9716,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-28T14:15:00-04:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-03-28T16:00:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-03-28T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-28T19:30:00-04:00",
           "laps": 200
         }
       ]
@@ -9565,18 +9744,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-03T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-04T09:00:00-04:00",
+          "duration": 50
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-03T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-04-04T10:05:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-04-04T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-04-04T11:35:00-04:00",
           "laps": 125
         }
       ]
@@ -9762,18 +9940,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-02-27T04:00:00-08:00",
-          "tbd": true
+          "time": "2026-02-28T13:00:00-08:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-02-27T04:00:00-08:00",
-          "tbd": true
+          "time": "2026-02-28T15:00:00-08:00",
+          "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-02-28T04:00:00-08:00",
-          "tbd": true,
+          "time": "2026-02-28T17:00:00-08:00",
           "laps": 150
         }
       ]
@@ -9791,18 +9968,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-03-04T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-05T13:30:00-07:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-04T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-03-05T14:30:00-07:00",
+          "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-03-05T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-03-05T16:00:00-07:00",
           "laps": 150
         }
       ]
@@ -9820,18 +9996,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-04-10T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-04-11T14:00:00-07:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-04-10T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-04-11T17:00:00-07:00",
+          "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-04-11T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-04-11T19:00:00-07:00",
           "laps": 150
         }
       ]
@@ -10495,9 +10670,26 @@
       "round": 1,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-02-07T13:00:00-05:00",
+          "duration": 75,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Final Practice",
+          "time": "2026-02-07T15:00:00-05:00",
+          "duration": 45,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-02-07T17:30:00-05:00",
+          "duration": 30,
+          "broadcastUS": "FloRacing"
+        },
+        {
           "name": "Race",
-          "time": "2026-02-07T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-02-07T19:30:00-05:00",
           "laps": 200,
           "broadcastUS": "FloRacing"
         }
@@ -10514,9 +10706,26 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-03-27T12:30:00-04:00",
+          "duration": 30,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Final Practice",
+          "time": "2026-03-27T13:10:00-04:00",
+          "duration": 30,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-27T15:15:00-04:00",
+          "duration": 30,
+          "broadcastUS": "FloRacing"
+        },
+        {
           "name": "Race",
-          "time": "2026-03-28T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-28T19:00:00-04:00",
           "laps": 200,
           "broadcastUS": "FloRacing"
         }
@@ -10533,9 +10742,26 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-04-12T12:00:00-04:00",
+          "duration": 50,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Final Practice",
+          "time": "2026-04-12T13:25:00-04:00",
+          "duration": 30,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-04-12T15:30:00-04:00",
+          "duration": 30,
+          "broadcastUS": "FloRacing"
+        },
+        {
           "name": "Race",
-          "time": "2026-04-12T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-04-12T16:30:00-04:00",
           "laps": 150,
           "broadcastUS": "FloRacing"
         }
@@ -14343,18 +14569,8 @@
       "round": 1,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-13T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-04-13T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
-          "time": "2026-04-14T18:30:00-05:00",
+          "time": "2026-04-14T19:00:00-05:00",
           "laps": 100,
           "broadcastUS": "YouTube/eNASCAR"
         }
@@ -14371,18 +14587,8 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-20T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-04-20T08:00:00-04:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
-          "time": "2026-04-21T19:30:00-04:00",
+          "time": "2026-04-21T20:00:00-04:00",
           "laps": 100,
           "broadcastUS": "YouTube/eNASCAR"
         }
@@ -14399,18 +14605,8 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-04-27T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-04-27T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
-          "time": "2026-04-28T18:30:00-05:00",
+          "time": "2026-04-28T19:00:00-05:00",
           "laps": 100,
           "broadcastUS": "YouTube/eNASCAR"
         }
@@ -14792,20 +14988,20 @@
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-03-06T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-03-06T13:30:00-05:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-03-07T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-03-07T12:35:00-05:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-03-08T12:00:00-04:00",
-          "duration": 180,
+          "time": "2026-03-08T10:00:00-04:00",
+          "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73871",
           "broadcastUS": "FOX / FS1"
         }
@@ -14818,25 +15014,25 @@
       "circuit": "Wild Horse Pass Motorsports Park",
       "flag": "🇺🇸",
       "country": "USA · FS1",
-      "tz": "America/New_York",
+      "tz": "America/Phoenix",
       "round": 2,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-03-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-20T09:30:00-07:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-03-21T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-03-21T10:00:00-07:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-03-22T18:30:00-04:00",
-          "duration": 180,
+          "time": "2026-03-22T10:00:00-07:00",
+          "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73872",
           "broadcastUS": "FOX / FS1"
         }
@@ -14849,25 +15045,25 @@
       "circuit": "In-N-Out Burger Pomona Dragstrip",
       "flag": "🇺🇸",
       "country": "USA · FS1",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "round": 3,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-04-10T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-04-10T13:30:00-07:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-04-11T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-04-11T12:30:00-07:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-04-12T18:30:00-04:00",
-          "duration": 180,
+          "time": "2026-04-12T10:00:00-07:00",
+          "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73873",
           "broadcastUS": "FOX / FS1"
         }
@@ -14885,20 +15081,20 @@
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-04-24T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-04-24T16:15:00-04:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-04-25T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-04-25T12:30:00-04:00",
+          "duration": 240,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-04-26T19:00:00-04:00",
-          "duration": 180,
+          "time": "2026-04-26T12:00:00-04:00",
+          "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73874",
           "broadcastUS": "FOX / FS1"
         }
@@ -16246,30 +16442,30 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-03-27T23:00:00+11:00",
-          "tbd": true
+          "time": "2026-03-27T10:10:00+11:00",
+          "duration": 60
         },
         {
           "name": "Practice 2",
-          "time": "2026-03-27T23:00:00+11:00",
-          "tbd": true
+          "time": "2026-03-27T13:50:00+11:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-03-28T23:00:00+11:00",
-          "tbd": true,
+          "time": "2026-03-28T11:15:00+11:00",
+          "duration": 35,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race 1",
-          "time": "2026-03-28T23:00:00+11:00",
-          "tbd": true,
+          "time": "2026-03-28T15:55:00+11:00",
+          "duration": 60,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race 2",
-          "time": "2026-03-29T23:00:00+11:00",
-          "tbd": true,
+          "time": "2026-03-29T13:40:00+11:00",
+          "duration": 60,
           "broadcastUS": "YouTube/GTWorld"
         }
       ]
