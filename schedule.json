@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-03T23:02:48.289Z",
+  "generatedAt": "2026-05-03T23:22:57.236Z",
   "events": [
     {
       "id": 101,
@@ -4186,6 +4186,72 @@
       ]
     },
     {
+      "id": 753,
+      "series": "pilot",
+      "name": "BMW M Endurance Challenge At Daytona",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-01-21T15:00:00-05:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-01-22T08:45:00-05:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-01-22T13:15:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race",
+          "time": "2026-01-23T13:45:00-05:00",
+          "duration": 240,
+          "broadcastUS": "Peacock"
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "series": "pilot",
+      "name": "Alan Jay Automotive Network 120",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-18T11:25:00-04:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-19T08:00:00-04:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-03-20T14:00:00-04:00",
+          "duration": 120,
+          "broadcastUS": "Peacock"
+        }
+      ]
+    },
+    {
       "id": 745,
       "series": "pilot",
       "name": "WeatherTech Raceway Laguna Seca 120",
@@ -4415,6 +4481,135 @@
       ]
     },
     {
+      "id": 715,
+      "series": "vpscc",
+      "name": "Daytona",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-01-17T10:25:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-01-17T14:00:00-05:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/imsaofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-01-18T13:20:00-05:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "series": "vpscc",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-02-27T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-02-27T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-02-28T11:30:00-06:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/imsaofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-02-28T17:30:00-06:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "series": "vpscc",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-07T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-07T15:30:00-05:00",
+          "duration": 15
+        },
+        {
+          "name": "Race",
+          "time": "2026-03-08T10:55:00-04:00",
+          "duration": 120,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "series": "vpscc",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-08T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-09T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-05-09T11:05:00-05:00",
+          "duration": 120,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
       "id": 720,
       "series": "vpscc",
       "name": "Mid-Ohio",
@@ -4422,7 +4617,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 1,
+      "round": 5,
       "sessions": [
         {
           "name": "Practice",
@@ -4449,6 +4644,39 @@
       ]
     },
     {
+      "id": 719,
+      "series": "vpscc",
+      "name": "VIR",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-19T16:40:00-04:00",
+          "duration": 50
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-20T09:45:00-04:00",
+          "duration": 50
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T14:50:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-21T10:35:00-04:00",
+          "duration": 120,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
       "id": 721,
       "series": "vpscc",
       "name": "Canadian Tire Motorsport Park",
@@ -4456,7 +4684,7 @@
       "flag": "🇨🇦",
       "country": "Canada",
       "tz": "America/Toronto",
-      "round": 2,
+      "round": 7,
       "sessions": [
         {
           "name": "Practice",
@@ -4483,6 +4711,66 @@
       ]
     },
     {
+      "id": 725,
+      "series": "vpscc",
+      "name": "Road America",
+      "circuit": "Road America, Elkhart Lake",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-14T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-08-16T10:00:00-05:00",
+          "duration": 120,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "series": "vpscc",
+      "name": "VIR",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-21T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 722,
       "series": "vpscc",
       "name": "Road Atlanta",
@@ -4490,7 +4778,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 3,
+      "round": 10,
       "sessions": [
         {
           "name": "Practice",
@@ -4517,6 +4805,45 @@
       ]
     },
     {
+      "id": 723,
+      "series": "trofeo",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-18T10:25:00-04:00",
+          "duration": 45
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-18T15:05:00-04:00",
+          "duration": 45
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-19T11:55:00-04:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-03-19T18:10:00-04:00",
+          "duration": 50,
+          "broadcastUS": "YouTube/imsaofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-20T16:35:00-04:00",
+          "duration": 50,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
       "id": 730,
       "series": "trofeo",
       "name": "Laguna Seca",
@@ -4524,7 +4851,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Los_Angeles",
-      "round": 1,
+      "round": 2,
       "sessions": [
         {
           "name": "Practice 1",
@@ -4563,7 +4890,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 2,
+      "round": 3,
       "sessions": [
         {
           "name": "Practice",
@@ -4597,7 +4924,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
-      "round": 3,
+      "round": 4,
       "sessions": [
         {
           "name": "Practice",
@@ -4631,7 +4958,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Indiana/Indianapolis",
-      "round": 4,
+      "round": 5,
       "sessions": [
         {
           "name": "Practice",
@@ -5043,6 +5370,45 @@
       ]
     },
     {
+      "id": 768,
+      "series": "mustang",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-18T08:55:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-18T13:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-18T16:05:00-04:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-03-19T13:05:00-04:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/imsaofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-20T10:20:00-04:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
       "id": 770,
       "series": "mustang",
       "name": "Laguna Seca",
@@ -5050,7 +5416,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Los_Angeles",
-      "round": 1,
+      "round": 2,
       "sessions": [
         {
           "name": "Practice 1",
@@ -5089,7 +5455,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 2,
+      "round": 3,
       "sessions": [
         {
           "name": "Practice",
@@ -5123,7 +5489,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 3,
+      "round": 4,
       "sessions": [
         {
           "name": "Practice",
@@ -5157,7 +5523,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 4,
+      "round": 5,
       "sessions": [
         {
           "name": "Practice",
@@ -10119,30 +10485,56 @@
       ]
     },
     {
-      "id": 1500,
+      "id": 1490,
       "series": "whelen",
-      "name": "All States Materials Group 150",
-      "circuit": "Oxford Plains Speedway",
+      "name": "New Smyrna Beach Area Visitors Bureau 200",
+      "circuit": "New Smyrna Speedway",
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
       "round": 1,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-06-06T08:00:00-04:00",
+          "name": "Race",
+          "time": "2026-02-07T07:00:00-05:00",
           "tbd": true,
+          "laps": 200,
           "broadcastUS": "FloRacing"
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true,
-          "broadcastUS": "FloRacing"
-        },
+        }
+      ]
+    },
+    {
+      "id": 1491,
+      "series": "whelen",
+      "name": "Virginia is for Racing Lovers 200",
+      "circuit": "Martinsville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-06T08:00:00-04:00",
+          "time": "2026-03-28T08:00:00-04:00",
+          "tbd": true,
+          "laps": 200,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1492,
+      "series": "whelen",
+      "name": "Icebreaker 150",
+      "circuit": "Thompson Speedway Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-12T08:00:00-04:00",
           "tbd": true,
           "laps": 150,
           "broadcastUS": "FloRacing"
@@ -10157,7 +10549,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 2,
+      "round": 4,
       "sessions": [
         {
           "name": "Practice",
@@ -10187,7 +10579,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 3,
+      "round": 5,
       "sessions": [
         {
           "name": "Practice",
@@ -10210,6 +10602,37 @@
       ]
     },
     {
+      "id": 1500,
+      "series": "whelen",
+      "name": "All States Materials Group 150",
+      "circuit": "Oxford Plains Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "FloRacing"
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true,
+          "laps": 150,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
       "id": 1503,
       "series": "whelen",
       "name": "Thunder in the Mountains 200",
@@ -10217,7 +10640,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 4,
+      "round": 7,
       "sessions": [
         {
           "name": "Practice",
@@ -10247,7 +10670,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 5,
+      "round": 8,
       "sessions": [
         {
           "name": "Practice",
@@ -10277,7 +10700,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 6,
+      "round": 9,
       "sessions": [
         {
           "name": "Practice",
@@ -10307,7 +10730,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 7,
+      "round": 10,
       "sessions": [
         {
           "name": "Practice",
@@ -10337,7 +10760,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 8,
+      "round": 11,
       "sessions": [
         {
           "name": "Practice",
@@ -10367,7 +10790,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 9,
+      "round": 12,
       "sessions": [
         {
           "name": "Practice",
@@ -10397,7 +10820,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 10,
+      "round": 13,
       "sessions": [
         {
           "name": "Practice",
@@ -10422,12 +10845,12 @@
     {
       "id": 1510,
       "series": "whelen",
-      "name": "Oswego",
+      "name": "Toyota Mod Classic 150",
       "circuit": "Oswego Speedway",
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 11,
+      "round": 14,
       "sessions": [
         {
           "name": "Practice",
@@ -10443,8 +10866,8 @@
         },
         {
           "name": "Race",
-          "time": "2026-09-05T20:00:00-04:00",
-          "laps": 200,
+          "time": "2026-09-05T19:00:00-04:00",
+          "laps": 150,
           "broadcastUS": "FloRacing"
         }
       ]
@@ -10457,7 +10880,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 12,
+      "round": 15,
       "sessions": [
         {
           "name": "Practice",
@@ -10487,7 +10910,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 13,
+      "round": 16,
       "sessions": [
         {
           "name": "Practice",
