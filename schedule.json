@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-03T22:13:58.373Z",
+  "generatedAt": "2026-05-03T23:02:48.289Z",
   "events": [
     {
       "id": 101,
@@ -4658,6 +4658,64 @@
       ]
     },
     {
+      "id": 736,
+      "series": "mx5",
+      "name": "Daytona",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-01-22T17:15:00-05:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/imsaofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-01-23T10:00:00-05:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
+      "id": 737,
+      "series": "mx5",
+      "name": "St. Petersburg",
+      "circuit": "Streets of St. Petersburg",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-02-27T08:55:00-05:00",
+          "duration": 45
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-02-27T10:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-02-28T07:30:00-05:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/imsaofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-01T15:55:00-05:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
       "id": 740,
       "series": "mx5",
       "name": "Mid-Ohio",
@@ -4665,7 +4723,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 1,
+      "round": 3,
       "sessions": [
         {
           "name": "Race 1",
@@ -4689,7 +4747,7 @@
       "flag": "🇨🇦",
       "country": "Canada",
       "tz": "America/Toronto",
-      "round": 2,
+      "round": 4,
       "sessions": [
         {
           "name": "Race 1",
@@ -4713,7 +4771,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 3,
+      "round": 5,
       "sessions": [
         {
           "name": "Race 1",
@@ -4737,7 +4795,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Indiana/Indianapolis",
-      "round": 4,
+      "round": 6,
       "sessions": [
         {
           "name": "Race 1",
@@ -4761,7 +4819,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 5,
+      "round": 7,
       "sessions": [
         {
           "name": "Race 1",
