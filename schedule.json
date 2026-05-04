@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-03T23:45:00.959Z",
+  "generatedAt": "2026-05-04T02:59:43.989Z",
   "events": [
     {
       "id": 101,
@@ -2831,23 +2831,23 @@
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "round": 18,
       "broadcastUS": "TNT",
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-27T08:00:00-04:00",
+          "time": "2026-06-27T05:00:00-07:00",
           "tbd": true
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T08:00:00-04:00",
+          "time": "2026-06-27T05:00:00-07:00",
           "tbd": true
         },
         {
           "name": "Race",
-          "time": "2026-06-28T15:30:00-04:00",
+          "time": "2026-06-28T12:30:00-07:00",
           "laps": 110
         }
       ]
@@ -4667,18 +4667,18 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-05-08T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-05-07T15:35:00-05:00",
+          "duration": 50
         },
         {
           "name": "Practice 2",
-          "time": "2026-05-09T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-05-08T09:25:00-05:00",
+          "duration": 50
         },
         {
           "name": "Qualifying",
-          "time": "2026-05-09T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-05-08T14:10:00-05:00",
+          "duration": 15
         },
         {
           "name": "Race",
@@ -8042,22 +8042,22 @@
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "round": 19,
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-26T08:00:00-04:00",
+          "time": "2026-06-26T05:00:00-07:00",
           "tbd": true
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-26T08:00:00-04:00",
+          "time": "2026-06-26T05:00:00-07:00",
           "tbd": true
         },
         {
           "name": "Race",
-          "time": "2026-06-27T17:30:00-04:00",
+          "time": "2026-06-27T14:30:00-07:00",
           "laps": 79
         }
       ]
@@ -10108,23 +10108,23 @@
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "round": 7,
       "broadcastUS": "FloRacing",
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-25T08:00:00-04:00",
+          "time": "2026-06-25T05:00:00-07:00",
           "tbd": true
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-25T08:00:00-04:00",
+          "time": "2026-06-25T05:00:00-07:00",
           "tbd": true
         },
         {
           "name": "Race",
-          "time": "2026-06-26T15:00:00-04:00",
+          "time": "2026-06-26T12:00:00-07:00",
           "laps": 64
         }
       ]
@@ -14982,7 +14982,7 @@
       "name": "Amalie Motor Oil NHRA Gatornationals",
       "circuit": "Gainesville Raceway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 1,
       "sessions": [
@@ -15013,7 +15013,7 @@
       "name": "FMP NHRA Arizona Nationals",
       "circuit": "Wild Horse Pass Motorsports Park",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/Phoenix",
       "round": 2,
       "sessions": [
@@ -15044,7 +15044,7 @@
       "name": "Lucas Oil NHRA Winternationals",
       "circuit": "In-N-Out Burger Pomona Dragstrip",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/Los_Angeles",
       "round": 3,
       "sessions": [
@@ -15075,7 +15075,7 @@
       "name": "NHRA 4-Wide Nationals",
       "circuit": "zMAX Dragway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 4,
       "sessions": [
@@ -15106,7 +15106,7 @@
       "name": "NHRA Southern Nationals",
       "circuit": "South Georgia Motorsports Park",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 5,
       "sessions": [
@@ -15137,25 +15137,25 @@
       "name": "Gerber Collision & Glass NHRA Nationals",
       "circuit": "Route 66 Raceway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
-      "tz": "America/New_York",
+      "country": "USA",
+      "tz": "America/Chicago",
       "round": 6,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-05-15T08:00:00-04:00",
+          "time": "2026-05-15T07:00:00-05:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-05-16T08:00:00-04:00",
+          "time": "2026-05-16T07:00:00-05:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-05-17T17:00:00-04:00",
+          "time": "2026-05-17T16:00:00-05:00",
           "duration": 180,
           "broadcastUS": "FOX / FS1"
         }
@@ -15167,7 +15167,7 @@
       "name": "NHRA Potomac Nationals",
       "circuit": "Maryland International Raceway",
       "flag": "🇺🇸",
-      "country": "USA · FOX",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 7,
       "sessions": [
@@ -15197,7 +15197,7 @@
       "name": "NHRA New England Nationals",
       "circuit": "New England Dragway",
       "flag": "🇺🇸",
-      "country": "USA · FOX",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 8,
       "sessions": [
@@ -15227,7 +15227,7 @@
       "name": "Super Grip NHRA Thunder Valley Nationals",
       "circuit": "Bristol Dragway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 9,
       "sessions": [
@@ -15257,7 +15257,7 @@
       "name": "Summit Racing Equipment NHRA Nationals",
       "circuit": "Summit Motorsports Park",
       "flag": "🇺🇸",
-      "country": "USA · FOX",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 10,
       "sessions": [
@@ -15287,25 +15287,25 @@
       "name": "Denso NHRA Sonoma Nationals",
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
-      "tz": "America/New_York",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
       "round": 11,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-07-17T08:00:00-04:00",
+          "time": "2026-07-17T05:00:00-07:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-07-18T08:00:00-04:00",
+          "time": "2026-07-18T05:00:00-07:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-07-19T22:00:00-04:00",
+          "time": "2026-07-19T19:00:00-07:00",
           "duration": 180,
           "broadcastUS": "FOX / FS1"
         }
@@ -15317,25 +15317,25 @@
       "name": "Muckleshoot Resort Casino NHRA Northwest Nationals",
       "circuit": "Pacific Raceways",
       "flag": "🇺🇸",
-      "country": "USA · FOX",
-      "tz": "America/New_York",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
       "round": 12,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-07-24T08:00:00-04:00",
+          "time": "2026-07-24T05:00:00-07:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-07-25T08:00:00-04:00",
+          "time": "2026-07-25T05:00:00-07:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-07-26T16:00:00-04:00",
+          "time": "2026-07-26T13:00:00-07:00",
           "duration": 180,
           "broadcastUS": "FOX / FS1"
         }
@@ -15347,7 +15347,7 @@
       "name": "NHRA Brainerd Nationals",
       "circuit": "Brainerd International Raceway",
       "flag": "🇺🇸",
-      "country": "USA · TBD",
+      "country": "USA",
       "tz": "America/Chicago",
       "round": 13,
       "sessions": [
@@ -15378,7 +15378,7 @@
       "name": "Cornwell Quality Tools NHRA U.S. Nationals",
       "circuit": "Lucas Oil Indianapolis Raceway Park",
       "flag": "🇺🇸",
-      "country": "USA · FOX/FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 14,
       "sessions": [
@@ -15408,7 +15408,7 @@
       "name": "NHRA Great Lakes Nationals",
       "circuit": "US 131 Motorsports Park",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 15,
       "sessions": [
@@ -15438,7 +15438,7 @@
       "name": "NHRA Nationals at The Rock",
       "circuit": "Rockingham Dragway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
+      "country": "USA",
       "tz": "America/New_York",
       "round": 16,
       "sessions": [
@@ -15468,7 +15468,7 @@
       "name": "NAPA NHRA Midwest Nationals",
       "circuit": "World Wide Technology Raceway",
       "flag": "🇺🇸",
-      "country": "USA · TBD",
+      "country": "USA",
       "tz": "America/Chicago",
       "round": 17,
       "sessions": [
@@ -15499,7 +15499,7 @@
       "name": "Texas NHRA FallNationals",
       "circuit": "Texas Motorplex",
       "flag": "🇺🇸",
-      "country": "USA · TBD",
+      "country": "USA",
       "tz": "America/Chicago",
       "round": 18,
       "sessions": [
@@ -15530,25 +15530,25 @@
       "name": "NHRA Nevada Nationals",
       "circuit": "The Strip at Las Vegas Motor Speedway",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
-      "tz": "America/New_York",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
       "round": 19,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-10-30T08:00:00-04:00",
+          "time": "2026-10-30T05:00:00-07:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-10-31T08:00:00-04:00",
+          "time": "2026-10-31T05:00:00-07:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-11-01T17:00:00-05:00",
+          "time": "2026-11-01T14:00:00-08:00",
           "duration": 180,
           "broadcastUS": "FOX / FS1"
         }
@@ -15560,25 +15560,25 @@
       "name": "In-N-Out Burger NHRA Finals",
       "circuit": "In-N-Out Burger Pomona Dragstrip",
       "flag": "🇺🇸",
-      "country": "USA · FS1",
-      "tz": "America/New_York",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
       "round": 20,
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-11-13T07:00:00-05:00",
+          "time": "2026-11-13T04:00:00-08:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-11-14T07:00:00-05:00",
+          "time": "2026-11-14T04:00:00-08:00",
           "tbd": true,
           "broadcastUS": "NHRA.tv / FS1"
         },
         {
           "name": "Eliminations",
-          "time": "2026-11-15T17:00:00-05:00",
+          "time": "2026-11-15T14:00:00-08:00",
           "duration": 180,
           "broadcastUS": "FOX / FS1"
         }
