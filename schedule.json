@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-04T02:59:43.989Z",
+  "generatedAt": "2026-05-04T03:09:53.138Z",
   "events": [
     {
       "id": 101,
@@ -14623,16 +14623,6 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-05-18T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-05-18T08:00:00-04:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-05-19T19:30:00-04:00",
           "laps": 100,
@@ -14650,16 +14640,6 @@
       "tz": "America/New_York",
       "round": 5,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-06-01T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-06-01T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-06-02T19:30:00-04:00",
@@ -14679,16 +14659,6 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-06-15T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-06-15T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-06-16T18:30:00-05:00",
           "laps": 150,
@@ -14706,16 +14676,6 @@
       "tz": "America/New_York",
       "round": 7,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-06-22T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-06-22T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-06-23T19:30:00-04:00",
@@ -14735,16 +14695,6 @@
       "round": 8,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-07-06T06:00:00-06:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-07-06T06:00:00-06:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-07-07T17:30:00-06:00",
           "laps": 60,
@@ -14762,16 +14712,6 @@
       "tz": "America/Indiana/Indianapolis",
       "round": 9,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-07-13T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-07-13T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-07-14T19:30:00-04:00",
@@ -14791,16 +14731,6 @@
       "round": 10,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-07-27T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-07-27T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-07-28T18:30:00-05:00",
           "laps": 100,
@@ -14818,16 +14748,6 @@
       "tz": "America/New_York",
       "round": 11,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-08-03T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-08-03T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-08-04T19:30:00-04:00",
@@ -14847,16 +14767,6 @@
       "round": 12,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-08-17T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-08-17T08:00:00-04:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-08-18T19:30:00-04:00",
           "laps": 80,
@@ -14874,16 +14784,6 @@
       "tz": "America/New_York",
       "round": 13,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-08-31T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-08-31T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-09-01T19:30:00-04:00",
@@ -14903,16 +14803,6 @@
       "round": 14,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-09-14T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-09-14T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-09-15T18:30:00-05:00",
           "laps": 100,
@@ -14931,16 +14821,6 @@
       "round": 15,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-09-21T07:00:00-05:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-09-21T07:00:00-05:00",
-          "tbd": true
-        },
-        {
           "name": "Race",
           "time": "2026-09-22T18:30:00-05:00",
           "laps": 100,
@@ -14958,16 +14838,6 @@
       "tz": "America/New_York",
       "round": 16,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-10-12T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-10-12T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-10-13T19:30:00-04:00",
