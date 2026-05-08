@@ -1,0 +1,1874 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-08T18:46:20.999Z",
+  "circuits": {
+    "Albert Park Circuit": {
+      "lat": -37.8497,
+      "lon": 144.968,
+      "city": "Melbourne",
+      "region": "Victoria",
+      "website": "https://www.grandprix.com.au"
+    },
+    "Algarve International Circuit": {
+      "lat": 37.2319,
+      "lon": -8.6319,
+      "city": "Portimão",
+      "region": "Algarve",
+      "website": "https://www.autodromodoalgarve.com"
+    },
+    "Autodromo Enzo e Dino Ferrari": {
+      "lat": 44.3411,
+      "lon": 11.7133,
+      "city": "Imola",
+      "region": "Emilia-Romagna",
+      "website": "https://www.autodromoimola.it"
+    },
+    "Autódromo Hermanos Rodríguez": {
+      "lat": 19.4061,
+      "lon": -99.0925,
+      "city": "Mexico City",
+      "website": "https://autodromohermanosrodriguez.mx"
+    },
+    "Autodromo Internazionale del Mugello": {
+      "lat": 43.9975,
+      "lon": 11.3719,
+      "city": "Scarperia",
+      "region": "Tuscany",
+      "website": "https://www.mugellocircuit.com"
+    },
+    "Autódromo José Carlos Pace (Interlagos)": {
+      "lat": -23.7011,
+      "lon": -46.6972,
+      "city": "São Paulo",
+      "website": "https://www.autodromointerlagos.com.br"
+    },
+    "Autodromo Nazionale Monza": {
+      "lat": 45.6206,
+      "lon": 9.2894,
+      "city": "Monza",
+      "region": "Lombardy",
+      "website": "https://www.monzanet.it"
+    },
+    "Automotodrom Brno": {
+      "lat": 49.205,
+      "lon": 16.4517,
+      "city": "Brno",
+      "website": "https://www.automotodrombrno.cz"
+    },
+    "Bahrain International Circuit": {
+      "lat": 26.0325,
+      "lon": 50.5106,
+      "city": "Sakhir",
+      "website": "https://www.bahraingp.com"
+    },
+    "Baku City Circuit": {
+      "lat": 40.3725,
+      "lon": 49.8533,
+      "city": "Baku",
+      "website": "https://www.bakucitycircuit.com"
+    },
+    "Balaton Park": {
+      "lat": 47.0081,
+      "lon": 18.1989,
+      "city": "Balatonfőkajár",
+      "website": "https://balatonpark.com"
+    },
+    "Brands Hatch": {
+      "lat": 51.3575,
+      "lon": 0.26,
+      "city": "Kent",
+      "region": "England",
+      "website": "https://www.brandshatch.co.uk"
+    },
+    "Chang International Circuit, Buriram": {
+      "lat": 14.9628,
+      "lon": 103.085,
+      "city": "Buriram",
+      "website": "https://www.chang-circuit.com"
+    },
+    "Circuit de Barcelona-Catalunya": {
+      "lat": 41.57,
+      "lon": 2.2611,
+      "city": "Montmeló",
+      "region": "Catalonia",
+      "website": "https://www.circuitcat.com"
+    },
+    "Circuit de la Sarthe": {
+      "lat": 47.933,
+      "lon": 0.233,
+      "city": "Le Mans",
+      "region": "Pays de la Loire",
+      "website": "https://www.lemans.org"
+    },
+    "Circuit de Monaco": {
+      "lat": 43.7347,
+      "lon": 7.4206,
+      "city": "Monte Carlo",
+      "website": "https://www.acm.mc"
+    },
+    "Circuit de Nevers Magny-Cours": {
+      "lat": 46.8633,
+      "lon": 3.1633,
+      "city": "Magny-Cours",
+      "region": "Burgundy",
+      "website": "https://www.circuitmagnycours.com"
+    },
+    "Circuit de Spa-Francorchamps": {
+      "lat": 50.4372,
+      "lon": 5.9714,
+      "city": "Stavelot",
+      "region": "Wallonia",
+      "website": "https://www.spa-francorchamps.be"
+    },
+    "Circuit Gilles Villeneuve": {
+      "lat": 45.5006,
+      "lon": -73.5225,
+      "city": "Montreal",
+      "region": "Quebec",
+      "website": "https://www.circuitgillesvilleneuve.ca"
+    },
+    "Circuit of the Americas": {
+      "lat": 30.1328,
+      "lon": -97.6411,
+      "city": "Austin",
+      "region": "Texas",
+      "website": "https://circuitoftheamericas.com"
+    },
+    "Circuit Paul Ricard": {
+      "lat": 43.2506,
+      "lon": 5.7917,
+      "city": "Le Castellet",
+      "region": "Provence",
+      "website": "https://www.circuitpaulricard.com"
+    },
+    "Circuit Ricardo Tormo": {
+      "lat": 39.4858,
+      "lon": -0.6281,
+      "city": "Cheste",
+      "region": "Valencia",
+      "website": "https://www.circuitvalencia.com"
+    },
+    "Circuit Zandvoort": {
+      "lat": 52.3889,
+      "lon": 4.5408,
+      "city": "Zandvoort",
+      "region": "North Holland",
+      "website": "https://www.circuitzandvoort.nl"
+    },
+    "Circuito de Jerez - Ángel Nieto": {
+      "lat": 36.7083,
+      "lon": -6.0344,
+      "city": "Jerez de la Frontera",
+      "region": "Andalusia",
+      "website": "https://www.circuitodejerez.com"
+    },
+    "Circuito del Jarama": {
+      "lat": 40.6172,
+      "lon": -3.5856,
+      "city": "San Sebastián de los Reyes",
+      "region": "Madrid",
+      "website": "https://www.jarama.org"
+    },
+    "Fuji International Speedway": {
+      "lat": 35.3717,
+      "lon": 138.9258,
+      "city": "Oyama",
+      "region": "Shizuoka",
+      "website": "https://www.fsw.tv"
+    },
+    "Hungaroring": {
+      "lat": 47.5828,
+      "lon": 19.2511,
+      "city": "Mogyoród",
+      "website": "https://www.hungaroring.hu"
+    },
+    "Jeddah Corniche Circuit": {
+      "lat": 21.6322,
+      "lon": 39.1047,
+      "city": "Jeddah",
+      "website": "https://saudiarabiangp.com"
+    },
+    "Le Mans": {
+      "lat": 47.933,
+      "lon": 0.233,
+      "city": "Le Mans",
+      "region": "Pays de la Loire",
+      "website": "https://www.lemans.org"
+    },
+    "Lusail International Circuit": {
+      "lat": 25.49,
+      "lon": 51.4536,
+      "city": "Lusail",
+      "website": "https://lusailcircuit.com"
+    },
+    "Marina Bay Street Circuit": {
+      "lat": 1.2913,
+      "lon": 103.8643,
+      "city": "Marina Bay",
+      "website": "https://www.singaporegp.sg"
+    },
+    "Miami International Autodrome": {
+      "lat": 25.958,
+      "lon": -80.2389,
+      "city": "Miami Gardens",
+      "region": "Florida",
+      "website": "https://f1miamigp.com"
+    },
+    "Misano World Circuit Marco Simoncelli": {
+      "lat": 43.9617,
+      "lon": 12.6839,
+      "city": "Misano Adriatico",
+      "region": "Emilia-Romagna",
+      "website": "https://www.misanocircuit.com"
+    },
+    "Misano World Circuit": {
+      "lat": 43.9617,
+      "lon": 12.6839,
+      "city": "Misano Adriatico",
+      "region": "Emilia-Romagna",
+      "website": "https://www.misanocircuit.com"
+    },
+    "Mobility Resort Motegi": {
+      "lat": 36.5331,
+      "lon": 140.2289,
+      "city": "Motegi",
+      "region": "Tochigi",
+      "website": "https://www.mr-motegi.jp"
+    },
+    "Monza": {
+      "lat": 45.6206,
+      "lon": 9.2894,
+      "city": "Monza",
+      "region": "Lombardy",
+      "website": "https://www.monzanet.it"
+    },
+    "MotorLand Aragón": {
+      "lat": 41.0783,
+      "lon": -0.2075,
+      "city": "Alcañiz",
+      "region": "Aragon",
+      "website": "https://www.motorlandaragon.com"
+    },
+    "Mount Panorama": {
+      "lat": -33.449,
+      "lon": 149.5547,
+      "city": "Bathurst",
+      "region": "New South Wales",
+      "website": "https://www.mount-panorama.com.au"
+    },
+    "Nürburgring GP": {
+      "lat": 50.3344,
+      "lon": 6.9472,
+      "city": "Nürburg",
+      "region": "Rhineland-Palatinate",
+      "website": "https://www.nuerburgring.de"
+    },
+    "Nürburgring Nordschleife": {
+      "lat": 50.33,
+      "lon": 6.945,
+      "city": "Nürburg",
+      "region": "Rhineland-Palatinate",
+      "website": "https://www.nuerburgring.de"
+    },
+    "Red Bull Ring": {
+      "lat": 47.2197,
+      "lon": 14.7647,
+      "city": "Spielberg",
+      "region": "Styria",
+      "website": "https://www.projekt-spielberg.com"
+    },
+    "Sachsenring": {
+      "lat": 50.7906,
+      "lon": 12.6878,
+      "city": "Hohenstein-Ernstthal",
+      "region": "Saxony",
+      "website": "https://www.sachsenring.de"
+    },
+    "Sepang International Circuit": {
+      "lat": 2.7603,
+      "lon": 101.7378,
+      "city": "Sepang",
+      "region": "Selangor",
+      "website": "https://www.sepangcircuit.com"
+    },
+    "Shanghai International Circuit": {
+      "lat": 31.3389,
+      "lon": 121.2197,
+      "city": "Jiading",
+      "region": "Shanghai",
+      "website": "https://www.f1china.com.cn"
+    },
+    "Silverstone Circuit": {
+      "lat": 52.0711,
+      "lon": -1.0161,
+      "city": "Silverstone",
+      "region": "Northamptonshire",
+      "website": "https://www.silverstone.co.uk"
+    },
+    "Suzuka International Racing Course": {
+      "lat": 34.8431,
+      "lon": 136.5408,
+      "city": "Suzuka",
+      "region": "Mie",
+      "website": "https://www.suzukacircuit.jp"
+    },
+    "TT Circuit Assen": {
+      "lat": 52.9595,
+      "lon": 6.5241,
+      "city": "Assen",
+      "region": "Drenthe",
+      "website": "https://www.ttcircuit.com"
+    },
+    "Yas Marina Circuit": {
+      "lat": 24.4672,
+      "lon": 54.6031,
+      "city": "Abu Dhabi",
+      "website": "https://www.yasmarinacircuit.com"
+    },
+    "Goiânia": {
+      "lat": -16.7181,
+      "lon": -49.1922,
+      "city": "Goiânia",
+      "region": "Goiás"
+    },
+    "Haitang Bay Circuit": {
+      "lat": 18.355,
+      "lon": 109.7369,
+      "city": "Sanya",
+      "region": "Hainan"
+    },
+    "ExCeL London Circuit": {
+      "lat": 51.5083,
+      "lon": 0.0297,
+      "city": "London",
+      "region": "England"
+    },
+    "Tempelhof Airport Street Circuit": {
+      "lat": 52.4736,
+      "lon": 13.4017,
+      "city": "Berlin"
+    },
+    "Tokyo Street Circuit": {
+      "lat": 35.6321,
+      "lon": 139.7978,
+      "city": "Tokyo"
+    },
+    "São Paulo Street Circuit": {
+      "lat": -23.5164,
+      "lon": -46.6447,
+      "city": "São Paulo"
+    },
+    "Jeddah Service Park": {
+      "lat": 21.58,
+      "lon": 39.17,
+      "city": "Jeddah"
+    },
+    "Circuito de Madrid": {
+      "lat": 40.4653,
+      "lon": -3.6153,
+      "city": "Madrid"
+    },
+    "Las Vegas Strip Circuit": {
+      "lat": 36.11,
+      "lon": -115.1622,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "website": "https://f1lasvegasgp.com"
+    },
+    "Streets of St. Petersburg": {
+      "lat": 27.7644,
+      "lon": -82.6289,
+      "city": "St. Petersburg",
+      "region": "Florida",
+      "website": "https://www.gpstpete.com"
+    },
+    "Streets of Long Beach": {
+      "lat": 33.7647,
+      "lon": -118.1907,
+      "city": "Long Beach",
+      "region": "California",
+      "website": "https://gplb.com"
+    },
+    "Long Beach Street Circuit": {
+      "lat": 33.7647,
+      "lon": -118.1907,
+      "city": "Long Beach",
+      "region": "California",
+      "website": "https://gplb.com"
+    },
+    "Streets of Detroit": {
+      "lat": 42.3289,
+      "lon": -83.0383,
+      "city": "Detroit",
+      "region": "Michigan",
+      "website": "https://www.detroitgp.com"
+    },
+    "Detroit Street Course": {
+      "lat": 42.3289,
+      "lon": -83.0383,
+      "city": "Detroit",
+      "region": "Michigan",
+      "website": "https://www.detroitgp.com"
+    },
+    "Streets of Arlington": {
+      "lat": 32.7475,
+      "lon": -97.0828,
+      "city": "Arlington",
+      "region": "Texas"
+    },
+    "Streets of Markham": {
+      "lat": 43.8781,
+      "lon": -79.2664,
+      "city": "Markham",
+      "region": "Ontario"
+    },
+    "Streets of Washington, D.C.": {
+      "lat": 38.8895,
+      "lon": -77.0226,
+      "city": "Washington",
+      "region": "D.C."
+    },
+    "San Diego Street Course (Naval Base Coronado)": {
+      "lat": 32.6992,
+      "lon": -117.2153,
+      "city": "San Diego",
+      "region": "California"
+    },
+    "Mid-Ohio Sports Car Course": {
+      "lat": 40.689,
+      "lon": -82.6364,
+      "city": "Lexington",
+      "region": "Ohio",
+      "website": "https://www.midohio.com"
+    },
+    "Iowa Speedway": {
+      "lat": 41.6778,
+      "lon": -93.0144,
+      "city": "Newton",
+      "region": "Iowa",
+      "website": "https://www.iowaspeedway.com"
+    },
+    "Road America": {
+      "lat": 43.7992,
+      "lon": -87.9923,
+      "city": "Elkhart Lake",
+      "region": "Wisconsin",
+      "website": "https://www.roadamerica.com"
+    },
+    "Road America, Elkhart Lake": {
+      "lat": 43.7992,
+      "lon": -87.9923,
+      "city": "Elkhart Lake",
+      "region": "Wisconsin",
+      "website": "https://www.roadamerica.com"
+    },
+    "WeatherTech Raceway Laguna Seca": {
+      "lat": 36.5844,
+      "lon": -121.7534,
+      "city": "Salinas",
+      "region": "California",
+      "website": "https://www.weathertechraceway.com"
+    },
+    "Portland International Raceway": {
+      "lat": 45.5966,
+      "lon": -122.6949,
+      "city": "Portland",
+      "region": "Oregon",
+      "website": "https://www.portlandraceway.com"
+    },
+    "Milwaukee Mile": {
+      "lat": 43.02,
+      "lon": -88.01,
+      "city": "West Allis",
+      "region": "Wisconsin",
+      "website": "https://www.milwaukeemile.com"
+    },
+    "Nashville Superspeedway": {
+      "lat": 36.0456,
+      "lon": -86.4101,
+      "city": "Lebanon",
+      "region": "Tennessee",
+      "website": "https://www.nashvillesuperspeedway.com"
+    },
+    "Barber Motorsports Park": {
+      "lat": 33.5332,
+      "lon": -86.6188,
+      "city": "Birmingham",
+      "region": "Alabama",
+      "website": "https://www.barbermotorsports.com"
+    },
+    "Indianapolis Motor Speedway": {
+      "lat": 39.7962,
+      "lon": -86.2348,
+      "city": "Indianapolis",
+      "region": "Indiana",
+      "website": "https://www.indianapolismotorspeedway.com"
+    },
+    "Indianapolis Motor Speedway (Road Course)": {
+      "lat": 39.7962,
+      "lon": -86.2348,
+      "city": "Indianapolis",
+      "region": "Indiana",
+      "website": "https://www.indianapolismotorspeedway.com"
+    },
+    "Lucas Oil Indianapolis Raceway Park": {
+      "lat": 39.8086,
+      "lon": -86.3414,
+      "city": "Brownsburg",
+      "region": "Indiana",
+      "website": "https://www.lucasoilindianapolisrp.com"
+    },
+    "Sebring International Raceway": {
+      "lat": 27.4535,
+      "lon": -81.3531,
+      "city": "Sebring",
+      "region": "Florida",
+      "website": "https://sebringraceway.com"
+    },
+    "Daytona International Speedway": {
+      "lat": 29.185,
+      "lon": -81.0697,
+      "city": "Daytona Beach",
+      "region": "Florida",
+      "website": "https://www.daytonainternationalspeedway.com"
+    },
+    "Watkins Glen International": {
+      "lat": 42.3364,
+      "lon": -76.925,
+      "city": "Watkins Glen",
+      "region": "New York",
+      "website": "https://www.theglen.com"
+    },
+    "Lime Rock Park": {
+      "lat": 41.9284,
+      "lon": -73.3826,
+      "city": "Lakeville",
+      "region": "Connecticut",
+      "website": "https://www.limerock.com"
+    },
+    "Michelin Raceway Road Atlanta": {
+      "lat": 34.1459,
+      "lon": -83.8149,
+      "city": "Braselton",
+      "region": "Georgia",
+      "website": "https://www.michelinraceway.com"
+    },
+    "Virginia International Raceway": {
+      "lat": 36.5624,
+      "lon": -79.2063,
+      "city": "Alton",
+      "region": "Virginia",
+      "website": "https://virnow.com"
+    },
+    "Canadian Tire Motorsport Park": {
+      "lat": 44.0491,
+      "lon": -78.6745,
+      "city": "Bowmanville",
+      "region": "Ontario",
+      "website": "https://canadiantiremotorsportpark.com"
+    },
+    "Calabogie Motorsport Park": {
+      "lat": 45.3028,
+      "lon": -76.6722,
+      "city": "Calabogie",
+      "region": "Ontario",
+      "website": "https://www.calabogiemotorsports.com"
+    },
+    "Circuit ICAR": {
+      "lat": 45.6814,
+      "lon": -74.0237,
+      "city": "Mirabel",
+      "region": "Quebec",
+      "website": "https://www.icar.tech"
+    },
+    "EchoPark Speedway": {
+      "lat": 33.3834,
+      "lon": -84.3178,
+      "city": "Hampton",
+      "region": "Georgia",
+      "website": "https://www.echoparkspeedway.com"
+    },
+    "EchoPark Speedway (Atlanta)": {
+      "lat": 33.3834,
+      "lon": -84.3178,
+      "city": "Hampton",
+      "region": "Georgia",
+      "website": "https://www.echoparkspeedway.com"
+    },
+    "Bristol Motor Speedway": {
+      "lat": 36.5161,
+      "lon": -82.2569,
+      "city": "Bristol",
+      "region": "Tennessee",
+      "website": "https://www.bristolmotorspeedway.com"
+    },
+    "Bristol Dragway": {
+      "lat": 36.5161,
+      "lon": -82.2569,
+      "city": "Bristol",
+      "region": "Tennessee",
+      "website": "https://www.bristolmotorspeedway.com"
+    },
+    "Charlotte Motor Speedway": {
+      "lat": 35.3522,
+      "lon": -80.6831,
+      "city": "Concord",
+      "region": "North Carolina",
+      "website": "https://www.charlottemotorspeedway.com"
+    },
+    "zMAX Dragway": {
+      "lat": 35.361,
+      "lon": -80.6867,
+      "city": "Concord",
+      "region": "North Carolina",
+      "website": "https://www.zmaxdragway.com"
+    },
+    "Chicagoland Speedway": {
+      "lat": 41.4744,
+      "lon": -88.0567,
+      "city": "Joliet",
+      "region": "Illinois"
+    },
+    "Darlington Raceway": {
+      "lat": 34.2951,
+      "lon": -79.9055,
+      "city": "Darlington",
+      "region": "South Carolina",
+      "website": "https://www.darlingtonraceway.com"
+    },
+    "Dover Motor Speedway": {
+      "lat": 39.1894,
+      "lon": -75.53,
+      "city": "Dover",
+      "region": "Delaware",
+      "website": "https://www.doverspeedway.com"
+    },
+    "Homestead-Miami Speedway": {
+      "lat": 25.4518,
+      "lon": -80.4094,
+      "city": "Homestead",
+      "region": "Florida",
+      "website": "https://www.homesteadmiamispeedway.com"
+    },
+    "Kansas Speedway": {
+      "lat": 39.1156,
+      "lon": -94.8311,
+      "city": "Kansas City",
+      "region": "Kansas",
+      "website": "https://www.kansasspeedway.com"
+    },
+    "Las Vegas Motor Speedway": {
+      "lat": 36.2722,
+      "lon": -115.0103,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "website": "https://www.lvms.com"
+    },
+    "The Bullring at Las Vegas Motor Speedway": {
+      "lat": 36.2664,
+      "lon": -115.0144,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "website": "https://www.lvms.com"
+    },
+    "The Strip at Las Vegas Motor Speedway": {
+      "lat": 36.2722,
+      "lon": -115.0103,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "website": "https://www.lvms.com"
+    },
+    "Hickory Motor Speedway": {
+      "lat": 35.6958,
+      "lon": -81.2683,
+      "city": "Newton",
+      "region": "North Carolina",
+      "website": "https://www.hickorymotorspeedway.com"
+    },
+    "Martinsville Speedway": {
+      "lat": 36.6342,
+      "lon": -79.8506,
+      "city": "Ridgeway",
+      "region": "Virginia",
+      "website": "https://www.martinsvillespeedway.com"
+    },
+    "Michigan International Speedway": {
+      "lat": 42.0656,
+      "lon": -84.2417,
+      "city": "Brooklyn",
+      "region": "Michigan",
+      "website": "https://www.mispeedway.com"
+    },
+    "Nashville Fairgrounds Speedway": {
+      "lat": 36.1308,
+      "lon": -86.7621,
+      "city": "Nashville",
+      "region": "Tennessee"
+    },
+    "New Hampshire Motor Speedway": {
+      "lat": 43.3625,
+      "lon": -71.4622,
+      "city": "Loudon",
+      "region": "New Hampshire",
+      "website": "https://www.nhms.com"
+    },
+    "North Wilkesboro Speedway": {
+      "lat": 36.1422,
+      "lon": -81.0725,
+      "city": "North Wilkesboro",
+      "region": "North Carolina",
+      "website": "https://www.northwilkesborospeedway.com"
+    },
+    "Phoenix Raceway": {
+      "lat": 33.3748,
+      "lon": -112.3112,
+      "city": "Avondale",
+      "region": "Arizona",
+      "website": "https://www.phoenixraceway.com"
+    },
+    "Pocono Raceway": {
+      "lat": 41.055,
+      "lon": -75.5114,
+      "city": "Long Pond",
+      "region": "Pennsylvania",
+      "website": "https://www.poconoraceway.com"
+    },
+    "Richmond Raceway": {
+      "lat": 37.5919,
+      "lon": -77.4197,
+      "city": "Richmond",
+      "region": "Virginia",
+      "website": "https://www.richmondraceway.com"
+    },
+    "Rockingham Speedway": {
+      "lat": 34.9742,
+      "lon": -79.6104,
+      "city": "Rockingham",
+      "region": "North Carolina"
+    },
+    "Rockingham Dragway": {
+      "lat": 34.9794,
+      "lon": -79.6131,
+      "city": "Rockingham",
+      "region": "North Carolina"
+    },
+    "Sonoma Raceway": {
+      "lat": 38.1611,
+      "lon": -122.4544,
+      "city": "Sonoma",
+      "region": "California",
+      "website": "https://www.sonomaraceway.com"
+    },
+    "Talladega Superspeedway": {
+      "lat": 33.5649,
+      "lon": -86.0666,
+      "city": "Talladega",
+      "region": "Alabama",
+      "website": "https://www.talladegasuperspeedway.com"
+    },
+    "Texas Motor Speedway": {
+      "lat": 33.0375,
+      "lon": -97.2814,
+      "city": "Fort Worth",
+      "region": "Texas",
+      "website": "https://www.texasmotorspeedway.com"
+    },
+    "Texas Motorplex": {
+      "lat": 32.3286,
+      "lon": -96.7174,
+      "city": "Ennis",
+      "region": "Texas",
+      "website": "https://texasmotorplex.com"
+    },
+    "World Wide Technology Raceway": {
+      "lat": 38.6522,
+      "lon": -90.1359,
+      "city": "Madison",
+      "region": "Illinois",
+      "website": "https://www.wwtraceway.com"
+    },
+    "All American Speedway": {
+      "lat": 38.7573,
+      "lon": -121.2911,
+      "city": "Roseville",
+      "region": "California"
+    },
+    "Berlin Raceway": {
+      "lat": 43.0356,
+      "lon": -85.8353,
+      "city": "Marne",
+      "region": "Michigan"
+    },
+    "Big Sky Speedway": {
+      "lat": 46.0033,
+      "lon": -108.4736,
+      "city": "Billings",
+      "region": "Montana"
+    },
+    "Colorado National Speedway": {
+      "lat": 40.0597,
+      "lon": -104.9744,
+      "city": "Dacono",
+      "region": "Colorado"
+    },
+    "Dacotah Speedway": {
+      "lat": 46.8175,
+      "lon": -100.856,
+      "city": "Mandan",
+      "region": "North Dakota"
+    },
+    "Davenport Speedway": {
+      "lat": 41.535,
+      "lon": -90.6183,
+      "city": "Davenport",
+      "region": "Iowa"
+    },
+    "Delaware Speedway": {
+      "lat": 42.9303,
+      "lon": -81.4177,
+      "city": "Delaware",
+      "region": "Ontario"
+    },
+    "DuQuoin State Fairgrounds Racetrack": {
+      "lat": 37.9828,
+      "lon": -89.2231,
+      "city": "Du Quoin",
+      "region": "Illinois"
+    },
+    "Elko Speedway": {
+      "lat": 44.5694,
+      "lon": -93.3313,
+      "city": "Elko New Market",
+      "region": "Minnesota"
+    },
+    "Flat Rock Speedway": {
+      "lat": 42.0818,
+      "lon": -83.3067,
+      "city": "Flat Rock",
+      "region": "Michigan"
+    },
+    "Illinois State Fairgrounds Racetrack": {
+      "lat": 39.8383,
+      "lon": -89.6389,
+      "city": "Springfield",
+      "region": "Illinois"
+    },
+    "Lucas Oil Speedway": {
+      "lat": 37.9404,
+      "lon": -93.3977,
+      "city": "Wheatland",
+      "region": "Missouri",
+      "website": "https://www.lucasoilspeedway.com"
+    },
+    "Madera Speedway": {
+      "lat": 36.9723,
+      "lon": -120.0763,
+      "city": "Madera",
+      "region": "California"
+    },
+    "Madison International Speedway": {
+      "lat": 42.9061,
+      "lon": -89.3268,
+      "city": "Oregon",
+      "region": "Wisconsin"
+    },
+    "Salem Speedway": {
+      "lat": 38.6,
+      "lon": -86.1403,
+      "city": "Salem",
+      "region": "Indiana"
+    },
+    "Shasta Speedway": {
+      "lat": 40.4482,
+      "lon": -122.2978,
+      "city": "Anderson",
+      "region": "California"
+    },
+    "Shelby County Speedway": {
+      "lat": 41.6647,
+      "lon": -95.3153,
+      "city": "Harlan",
+      "region": "Iowa"
+    },
+    "Toledo Speedway": {
+      "lat": 41.7167,
+      "lon": -83.5114,
+      "city": "Toledo",
+      "region": "Ohio"
+    },
+    "Tucson Speedway": {
+      "lat": 32.0372,
+      "lon": -110.7886,
+      "city": "Tucson",
+      "region": "Arizona"
+    },
+    "Vado Speedway Park": {
+      "lat": 32.1282,
+      "lon": -106.6434,
+      "city": "Vado",
+      "region": "New Mexico"
+    },
+    "Autodrome Chaudière": {
+      "lat": 46.3723,
+      "lon": -70.9426,
+      "city": "Vallée-Jonction",
+      "region": "Quebec"
+    },
+    "Autodrome Montmagny": {
+      "lat": 46.9378,
+      "lon": -70.5533,
+      "city": "Montmagny",
+      "region": "Quebec"
+    },
+    "Edmonton International Raceway": {
+      "lat": 52.9878,
+      "lon": -113.4522,
+      "city": "Wetaskiwin",
+      "region": "Alberta"
+    },
+    "Grand Prix de Trois-Rivières": {
+      "lat": 46.3475,
+      "lon": -72.5586,
+      "city": "Trois-Rivières",
+      "region": "Quebec"
+    },
+    "Riverside International Speedway": {
+      "lat": 45.5637,
+      "lon": -62.1331,
+      "city": "Antigonish",
+      "region": "Nova Scotia"
+    },
+    "Brainerd International Raceway": {
+      "lat": 46.4171,
+      "lon": -94.2765,
+      "city": "Brainerd",
+      "region": "Minnesota",
+      "website": "https://brainerdraceway.com"
+    },
+    "Claremont Motorsports Park": {
+      "lat": 43.3919,
+      "lon": -72.3519,
+      "city": "Claremont",
+      "region": "New Hampshire"
+    },
+    "Monadnock Speedway": {
+      "lat": 42.8311,
+      "lon": -72.3622,
+      "city": "Winchester",
+      "region": "New Hampshire"
+    },
+    "New Smyrna Speedway": {
+      "lat": 29.0133,
+      "lon": -81.07,
+      "city": "New Smyrna Beach",
+      "region": "Florida"
+    },
+    "Oswego Speedway": {
+      "lat": 43.4571,
+      "lon": -76.4843,
+      "city": "Oswego",
+      "region": "New York",
+      "website": "https://www.oswegospeedway.com"
+    },
+    "Oxford Plains Speedway": {
+      "lat": 44.1538,
+      "lon": -70.4846,
+      "city": "Oxford",
+      "region": "Maine"
+    },
+    "Riverhead Raceway": {
+      "lat": 40.9225,
+      "lon": -72.7044,
+      "city": "Riverhead",
+      "region": "New York"
+    },
+    "Seekonk Speedway": {
+      "lat": 41.7845,
+      "lon": -71.3021,
+      "city": "Seekonk",
+      "region": "Massachusetts"
+    },
+    "Stafford Speedway": {
+      "lat": 41.9553,
+      "lon": -72.3204,
+      "city": "Stafford Springs",
+      "region": "Connecticut",
+      "website": "https://staffordspeedway.com"
+    },
+    "Thompson Speedway Motorsports Park": {
+      "lat": 41.9821,
+      "lon": -71.8255,
+      "city": "Thompson",
+      "region": "Connecticut"
+    },
+    "US 131 Motorsports Park": {
+      "lat": 42.5175,
+      "lon": -85.66,
+      "city": "Martin",
+      "region": "Michigan"
+    },
+    "White Mountain Motorsports Park": {
+      "lat": 44.0917,
+      "lon": -71.7172,
+      "city": "North Woodstock",
+      "region": "New Hampshire"
+    },
+    "Gainesville Raceway": {
+      "lat": 29.7581,
+      "lon": -82.2747,
+      "city": "Gainesville",
+      "region": "Florida"
+    },
+    "In-N-Out Burger Pomona Dragstrip": {
+      "lat": 34.0883,
+      "lon": -117.7647,
+      "city": "Pomona",
+      "region": "California"
+    },
+    "Maryland International Raceway": {
+      "lat": 38.3958,
+      "lon": -76.8454,
+      "city": "Mechanicsville",
+      "region": "Maryland"
+    },
+    "New England Dragway": {
+      "lat": 43.0208,
+      "lon": -71.0272,
+      "city": "Epping",
+      "region": "New Hampshire"
+    },
+    "Pacific Raceways": {
+      "lat": 47.3201,
+      "lon": -122.1452,
+      "city": "Kent",
+      "region": "Washington"
+    },
+    "South Georgia Motorsports Park": {
+      "lat": 31.0648,
+      "lon": -83.3963,
+      "city": "Cecil",
+      "region": "Georgia"
+    },
+    "Summit Motorsports Park": {
+      "lat": 41.2353,
+      "lon": -82.5428,
+      "city": "Norwalk",
+      "region": "Ohio"
+    },
+    "Wild Horse Pass Motorsports Park": {
+      "lat": 33.2689,
+      "lon": -111.9671,
+      "city": "Chandler",
+      "region": "Arizona"
+    },
+    "Route 66 Raceway": {
+      "lat": 41.4641,
+      "lon": -88.0751,
+      "city": "Joliet",
+      "region": "Illinois"
+    },
+    "Route 66 Motor Speedway": {
+      "lat": 35.1676,
+      "lon": -101.7385,
+      "city": "Joliet",
+      "region": "Illinois"
+    },
+    "Alghero Service Park": {
+      "lat": 40.5587,
+      "lon": 8.3153,
+      "city": "Alghero",
+      "region": "Sardinia"
+    },
+    "Concepción Service Park": {
+      "lat": -36.827,
+      "lon": -73.0498,
+      "city": "Concepción",
+      "region": "Biobío"
+    },
+    "Encarnación Service Park": {
+      "lat": -27.3376,
+      "lon": -55.8669,
+      "city": "Encarnación",
+      "region": "Itapúa"
+    },
+    "Gap / Monaco Service Park": {
+      "lat": 44.5594,
+      "lon": 6.0817,
+      "city": "Gap",
+      "region": "Hautes-Alpes"
+    },
+    "Jyväskylä Service Park": {
+      "lat": 62.2417,
+      "lon": 25.7496,
+      "city": "Jyväskylä",
+      "region": "Central Finland"
+    },
+    "Las Palmas Service Park": {
+      "lat": 28.1289,
+      "lon": -15.4349,
+      "city": "Las Palmas de Gran Canaria",
+      "region": "Canary Islands"
+    },
+    "Loutraki Service Park": {
+      "lat": 37.9783,
+      "lon": 22.9794,
+      "city": "Loutraki",
+      "region": "Peloponnese"
+    },
+    "Matosinhos Service Park": {
+      "lat": 41.1807,
+      "lon": -8.6822,
+      "city": "Matosinhos",
+      "region": "Porto"
+    },
+    "Naivasha Service Park": {
+      "lat": -0.7224,
+      "lon": 36.4388,
+      "city": "Naivasha",
+      "region": "Nakuru"
+    },
+    "Tartu Service Park": {
+      "lat": 58.3776,
+      "lon": 26.729,
+      "city": "Tartu"
+    },
+    "Toyota City Service Park": {
+      "lat": 35.0823,
+      "lon": 137.1561,
+      "city": "Toyota City",
+      "region": "Aichi"
+    },
+    "Umeå Service Park": {
+      "lat": 63.8258,
+      "lon": 20.263,
+      "city": "Umeå",
+      "region": "Västerbotten"
+    },
+    "Zagreb Service Park": {
+      "lat": 45.8131,
+      "lon": 15.9772,
+      "city": "Zagreb"
+    },
+    "Arrowhead Speedway": {
+      "lat": 36.1805,
+      "lon": -94.6653,
+      "city": "Colcord",
+      "region": "Oklahoma"
+    },
+    "Butler Motor Speedway": {
+      "lat": 42.031,
+      "lon": -84.868,
+      "city": "Butler",
+      "region": "Michigan"
+    },
+    "Central Arizona Raceway": {
+      "lat": 32.87,
+      "lon": -111.5712,
+      "city": "Casa Grande",
+      "region": "Arizona"
+    },
+    "Dodge City Raceway Park": {
+      "lat": 37.7177,
+      "lon": -100.0287,
+      "city": "Dodge City",
+      "region": "Kansas"
+    },
+    "Douglas County Dirt Track": {
+      "lat": 43.1984,
+      "lon": -123.3577,
+      "city": "Roseburg",
+      "region": "Oregon"
+    },
+    "Eagle Raceway": {
+      "lat": 40.8105,
+      "lon": -96.3909,
+      "city": "Eagle",
+      "region": "Nebraska"
+    },
+    "Eldora Speedway": {
+      "lat": 40.3186,
+      "lon": -84.6339,
+      "city": "Rossburg",
+      "region": "Ohio",
+      "website": "https://www.eldoraspeedway.com"
+    },
+    "Fremont Speedway": {
+      "lat": 41.36,
+      "lon": -83.1147,
+      "city": "Fremont",
+      "region": "Ohio"
+    },
+    "Gondik Law Speedway": {
+      "lat": 46.6818,
+      "lon": -92.1014,
+      "city": "Superior",
+      "region": "Wisconsin"
+    },
+    "I-94 Speedway": {
+      "lat": 46.3058,
+      "lon": -96.0957,
+      "city": "Sauk Centre",
+      "region": "Minnesota"
+    },
+    "Kokomo Speedway": {
+      "lat": 40.5113,
+      "lon": -86.1434,
+      "city": "Kokomo",
+      "region": "Indiana"
+    },
+    "Lakeside Speedway": {
+      "lat": 39.1942,
+      "lon": -94.8008,
+      "city": "Kansas City",
+      "region": "Kansas"
+    },
+    "Lawrenceburg Speedway": {
+      "lat": 39.1056,
+      "lon": -84.855,
+      "city": "Lawrenceburg",
+      "region": "Indiana"
+    },
+    "Lernerville Speedway": {
+      "lat": 40.7387,
+      "lon": -79.7599,
+      "city": "Sarver",
+      "region": "Pennsylvania"
+    },
+    "Perth Motorplex": {
+      "lat": -32.2167,
+      "lon": 115.7883,
+      "city": "Kwinana Beach",
+      "region": "Western Australia",
+      "website": "https://www.perthmotorplex.com.au"
+    },
+    "Placerville Speedway": {
+      "lat": 38.7261,
+      "lon": -120.8322,
+      "city": "Placerville",
+      "region": "California"
+    },
+    "Port Royal Speedway": {
+      "lat": 40.5358,
+      "lon": -77.3895,
+      "city": "Port Royal",
+      "region": "Pennsylvania"
+    },
+    "Ransomville Speedway": {
+      "lat": 43.2617,
+      "lon": -78.925,
+      "city": "Ransomville",
+      "region": "New York"
+    },
+    "Red Cedar Speedway": {
+      "lat": 44.8772,
+      "lon": -91.9087,
+      "city": "Menomonie",
+      "region": "Wisconsin"
+    },
+    "Santa Maria Speedway": {
+      "lat": 34.8589,
+      "lon": -120.4467,
+      "city": "Nipomo",
+      "region": "California"
+    },
+    "Silver Dollar Speedway": {
+      "lat": 39.72,
+      "lon": -121.8109,
+      "city": "Chico",
+      "region": "California"
+    },
+    "Skagit Speedway": {
+      "lat": 48.5756,
+      "lon": -122.3302,
+      "city": "Alger",
+      "region": "Washington"
+    },
+    "Stateline Speedway": {
+      "lat": 42.0061,
+      "lon": -79.3268,
+      "city": "Busti",
+      "region": "New York"
+    },
+    "Thunderbowl Raceway": {
+      "lat": 36.2012,
+      "lon": -119.3444,
+      "city": "Tulare",
+      "region": "California"
+    },
+    "Tri-City Raceway": {
+      "lat": 46.282,
+      "lon": -119.393,
+      "city": "West Richland",
+      "region": "Washington"
+    },
+    "I-55 Federated Auto Parts Raceway Park": {
+      "lat": 38.269,
+      "lon": -90.3999,
+      "city": "Pevely",
+      "region": "Missouri"
+    },
+    "Knoxville Raceway": {
+      "lat": 41.3265,
+      "lon": -93.1117,
+      "city": "Knoxville",
+      "region": "Iowa",
+      "website": "https://www.knoxvilleraceway.com"
+    },
+    "Jacksonville Speedway": {
+      "lat": 39.7348,
+      "lon": -90.2618,
+      "city": "Jacksonville",
+      "region": "Illinois"
+    },
+    "Huset's Speedway": {
+      "lat": 43.5707,
+      "lon": -96.5837,
+      "city": "Brandon",
+      "region": "South Dakota"
+    },
+    "River Cities Speedway": {
+      "lat": 47.9332,
+      "lon": -97.0602,
+      "city": "Grand Forks",
+      "region": "North Dakota"
+    },
+    "Nodak Speedway": {
+      "lat": 48.2313,
+      "lon": -101.2636,
+      "city": "Minot",
+      "region": "North Dakota"
+    },
+    "Hartford Speedway": {
+      "lat": 42.2138,
+      "lon": -86.173,
+      "city": "Hartford",
+      "region": "Michigan"
+    },
+    "Plymouth Dirt Track": {
+      "lat": 43.7492,
+      "lon": -87.9693,
+      "city": "Plymouth",
+      "region": "Wisconsin"
+    },
+    "Angell Park Speedway": {
+      "lat": 43.1778,
+      "lon": -89.2113,
+      "city": "Sun Prairie",
+      "region": "Wisconsin"
+    },
+    "Wilmot Raceway": {
+      "lat": 42.5191,
+      "lon": -88.1857,
+      "city": "Wilmot",
+      "region": "Wisconsin"
+    },
+    "Ohsweken Speedway": {
+      "lat": 43.0822,
+      "lon": -80.1135,
+      "city": "Ohsweken",
+      "region": "Ontario"
+    },
+    "Weedsport Speedway": {
+      "lat": 43.0572,
+      "lon": -76.5466,
+      "city": "Weedsport",
+      "region": "New York"
+    },
+    "Fix it Forward Speedway": {
+      "lat": 46.8712,
+      "lon": -96.9286,
+      "city": "West Fargo",
+      "region": "North Dakota"
+    },
+    "Belleville High Banks": {
+      "lat": 39.8339,
+      "lon": -97.6258,
+      "city": "Belleville",
+      "region": "Kansas"
+    },
+    "El Paso County Raceway": {
+      "lat": 39.0319,
+      "lon": -104.2956,
+      "city": "Calhan",
+      "region": "Colorado"
+    },
+    "Stockton Dirt Track": {
+      "lat": 37.9385,
+      "lon": -121.2619,
+      "city": "Stockton",
+      "region": "California"
+    },
+    "Kings Speedway": {
+      "lat": 36.319,
+      "lon": -119.6369,
+      "city": "Hanford",
+      "region": "California"
+    },
+    "Ventura Raceway": {
+      "lat": 34.2769,
+      "lon": -119.3051,
+      "city": "Ventura",
+      "region": "California"
+    },
+    "Mansfield Speedway": {
+      "lat": 40.8144,
+      "lon": -82.4963,
+      "city": "Mansfield",
+      "region": "Ohio"
+    },
+    "Sharon Speedway": {
+      "lat": 41.3048,
+      "lon": -80.5481,
+      "city": "Hartford",
+      "region": "Ohio"
+    },
+    "Texarkana 67 Speedway": {
+      "lat": 33.4651,
+      "lon": -93.9901,
+      "city": "Texarkana",
+      "region": "Arkansas"
+    },
+    "The Dirt Track at Charlotte": {
+      "lat": 35.3562,
+      "lon": -80.6846,
+      "city": "Concord",
+      "region": "North Carolina"
+    },
+    "Volusia Speedway Park": {
+      "lat": 29.215,
+      "lon": -81.345,
+      "city": "Barberville",
+      "region": "Florida"
+    },
+    "Farmer City Raceway": {
+      "lat": 40.2509,
+      "lon": -88.641,
+      "city": "Farmer City",
+      "region": "Illinois"
+    },
+    "Independence Motor Speedway": {
+      "lat": 42.4793,
+      "lon": -91.8932,
+      "city": "Independence",
+      "region": "Iowa"
+    },
+    "Mississippi Thunder Speedway": {
+      "lat": 44.0998,
+      "lon": -91.679,
+      "city": "Fountain City",
+      "region": "Wisconsin"
+    },
+    "Bedford Speedway": {
+      "lat": 40.0237,
+      "lon": -78.5204,
+      "city": "Bedford",
+      "region": "Pennsylvania"
+    },
+    "West Virginia Motor Speedway": {
+      "lat": 39.1708,
+      "lon": -81.5423,
+      "city": "Mineral Wells",
+      "region": "West Virginia"
+    },
+    "141 Speedway": {
+      "lat": 44.2527,
+      "lon": -87.7652,
+      "city": "Maribel",
+      "region": "Wisconsin"
+    },
+    "I-94 emr Speedway": {
+      "lat": 46.306,
+      "lon": -96.0989,
+      "city": "Fergus Falls",
+      "region": "Minnesota"
+    },
+    "Norman County Raceway": {
+      "lat": 47.296,
+      "lon": -96.5236,
+      "city": "Ada",
+      "region": "Minnesota"
+    },
+    "Maquoketa Speedway": {
+      "lat": 42.0708,
+      "lon": -90.6535,
+      "city": "Maquoketa",
+      "region": "Iowa"
+    },
+    "Southern Iowa Speedway": {
+      "lat": 41.3005,
+      "lon": -92.6557,
+      "city": "Oskaloosa",
+      "region": "Iowa"
+    },
+    "Adams County Speedway": {
+      "lat": 40.9937,
+      "lon": -94.7304,
+      "city": "Corning",
+      "region": "Iowa"
+    },
+    "Boothill Speedway": {
+      "lat": 32.4544,
+      "lon": -93.9759,
+      "city": "Greenwood",
+      "region": "Louisiana"
+    },
+    "Modoc Speedway": {
+      "lat": 33.7428,
+      "lon": -82.2028,
+      "city": "Modoc",
+      "region": "South Carolina"
+    },
+    "Tri-State Speedway": {
+      "lat": 38.2084,
+      "lon": -87.554,
+      "city": "Haubstadt",
+      "region": "Indiana"
+    },
+    "Lincoln Speedway (PA)": {
+      "lat": 39.8704,
+      "lon": -76.9948,
+      "city": "Abbottstown",
+      "region": "Pennsylvania"
+    },
+    "Williams Grove Speedway": {
+      "lat": 40.1553,
+      "lon": -77.0336,
+      "city": "Mechanicsburg",
+      "region": "Pennsylvania"
+    },
+    "Cedar Lake Speedway": {
+      "lat": 45.1919,
+      "lon": -92.5884,
+      "city": "New Richmond",
+      "region": "Wisconsin"
+    },
+    "Attica Raceway Park": {
+      "lat": 41.0686,
+      "lon": -82.8774,
+      "city": "Attica",
+      "region": "Ohio"
+    },
+    "BAPS Motor Speedway": {
+      "lat": 40.1126,
+      "lon": -76.8259,
+      "city": "York Haven",
+      "region": "Pennsylvania"
+    },
+    "Ogilvie Raceway": {
+      "lat": 45.8324,
+      "lon": -93.4062,
+      "city": "Ogilvie",
+      "region": "Minnesota"
+    },
+    "Jackson Motorplex": {
+      "lat": 43.6282,
+      "lon": -94.9713,
+      "city": "Jackson",
+      "region": "Minnesota"
+    },
+    "Kevin Harvick's Kern Raceway": {
+      "lat": 35.2928,
+      "lon": -119.2564,
+      "city": "Bakersfield",
+      "region": "California"
+    },
+    "Millstream Speedway": {
+      "lat": 41.0755,
+      "lon": -83.7308,
+      "city": "Findlay",
+      "region": "Ohio"
+    },
+    "Lincoln Park Speedway": {
+      "lat": 39.576,
+      "lon": -86.8692,
+      "city": "Putnamville",
+      "region": "Indiana"
+    },
+    "Georgetown Speedway": {
+      "lat": 38.6519,
+      "lon": -75.3639,
+      "city": "Georgetown",
+      "region": "Delaware"
+    },
+    "Selinsgrove Speedway": {
+      "lat": 40.7871,
+      "lon": -76.8706,
+      "city": "Selinsgrove",
+      "region": "Pennsylvania"
+    },
+    "Marion Center Raceway": {
+      "lat": 40.8123,
+      "lon": -79.0372,
+      "city": "Marion Center",
+      "region": "Pennsylvania"
+    },
+    "Wayne County (OH) Speedway": {
+      "lat": 40.8104,
+      "lon": -81.7825,
+      "city": "Orrville",
+      "region": "Ohio"
+    },
+    "Deer Creek Speedway": {
+      "lat": 43.721,
+      "lon": -92.4774,
+      "city": "Spring Valley",
+      "region": "Minnesota"
+    },
+    "Fairbury Speedway": {
+      "lat": 40.7392,
+      "lon": -88.514,
+      "city": "Fairbury",
+      "region": "Illinois"
+    },
+    "Grandview Speedway": {
+      "lat": 40.373,
+      "lon": -75.61,
+      "city": "Bechtelsville",
+      "region": "Pennsylvania"
+    },
+    "Angel Stadium": {
+      "lat": 33.8003,
+      "lon": -117.8827,
+      "city": "Anaheim",
+      "region": "California",
+      "website": "https://www.mlb.com/angels/ballpark"
+    },
+    "Snapdragon Stadium": {
+      "lat": 32.7831,
+      "lon": -117.1196,
+      "city": "San Diego",
+      "region": "California",
+      "website": "https://snapdragonstadium.com"
+    },
+    "NRG Stadium": {
+      "lat": 29.6847,
+      "lon": -95.4107,
+      "city": "Houston",
+      "region": "Texas",
+      "website": "https://www.nrgpark.com/nrg-stadium"
+    },
+    "State Farm Stadium": {
+      "lat": 33.5276,
+      "lon": -112.2626,
+      "city": "Glendale",
+      "region": "Arizona",
+      "website": "https://www.statefarmstadium.com"
+    },
+    "Lumen Field": {
+      "lat": 47.5952,
+      "lon": -122.3316,
+      "city": "Seattle",
+      "region": "Washington",
+      "website": "https://www.lumenfield.com"
+    },
+    "AT&T Stadium": {
+      "lat": 32.7473,
+      "lon": -97.0945,
+      "city": "Arlington",
+      "region": "Texas",
+      "website": "https://attstadium.com"
+    },
+    "Lucas Oil Stadium": {
+      "lat": 39.7601,
+      "lon": -86.1639,
+      "city": "Indianapolis",
+      "region": "Indiana",
+      "website": "https://www.lucasoilstadium.com"
+    },
+    "Protective Stadium": {
+      "lat": 33.5242,
+      "lon": -86.8041,
+      "city": "Birmingham",
+      "region": "Alabama",
+      "website": "https://protectivestadium.com"
+    },
+    "Ford Field": {
+      "lat": 42.34,
+      "lon": -83.0456,
+      "city": "Detroit",
+      "region": "Michigan",
+      "website": "https://www.fordfield.com"
+    },
+    "The Dome at America's Center": {
+      "lat": 38.6326,
+      "lon": -90.1888,
+      "city": "St. Louis",
+      "region": "Missouri",
+      "website": "https://www.explorestlouis.com/americas-center/the-dome"
+    },
+    "Nissan Stadium": {
+      "lat": 36.1665,
+      "lon": -86.7713,
+      "city": "Nashville",
+      "region": "Tennessee",
+      "website": "https://www.nissanstadium.com"
+    },
+    "Huntington Bank Field": {
+      "lat": 41.5061,
+      "lon": -81.6995,
+      "city": "Cleveland",
+      "region": "Ohio",
+      "website": "https://www.huntingtonbankfield.com"
+    },
+    "Lincoln Financial Field": {
+      "lat": 39.9008,
+      "lon": -75.1675,
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "website": "https://www.lincolnfinancialfield.com"
+    },
+    "Empower Field at Mile High": {
+      "lat": 39.7439,
+      "lon": -105.0201,
+      "city": "Denver",
+      "region": "Colorado",
+      "website": "https://www.empowerfieldatmilehigh.com"
+    },
+    "Rice-Eccles Stadium": {
+      "lat": 40.76,
+      "lon": -111.8483,
+      "city": "Salt Lake City",
+      "region": "Utah",
+      "website": "https://riceecclesstadium.utah.edu"
+    },
+    "Historic Crew Stadium": {
+      "lat": 40.0096,
+      "lon": -83.0153,
+      "city": "Columbus",
+      "region": "Ohio",
+      "website": "https://www.historiccrewstadium.com"
+    },
+    "Dignity Health Sports Park": {
+      "lat": 33.8644,
+      "lon": -118.2611,
+      "city": "Carson",
+      "region": "California",
+      "website": "https://www.dignityhealthsportspark.com"
+    },
+    "Thunder Ridge Nature Arena": {
+      "lat": 36.6014,
+      "lon": -93.2789,
+      "city": "Ridgedale",
+      "region": "Missouri",
+      "website": "https://thunderridgenaturearena.com"
+    },
+    "Fox Raceway": {
+      "lat": 33.3603,
+      "lon": -117.0436,
+      "city": "Pala",
+      "region": "California",
+      "website": "https://www.foxraceway.com"
+    },
+    "Prairie City SVRA": {
+      "lat": 38.593,
+      "lon": -121.2094,
+      "city": "Rancho Cordova",
+      "region": "California",
+      "website": "https://www.parks.ca.gov/?page_id=502"
+    },
+    "Thunder Valley Motocross Park": {
+      "lat": 39.7019,
+      "lon": -105.1963,
+      "city": "Lakewood",
+      "region": "Colorado",
+      "website": "https://thundervalleymx.com"
+    },
+    "High Point Raceway": {
+      "lat": 39.7346,
+      "lon": -80.0071,
+      "city": "Mount Morris",
+      "region": "Pennsylvania",
+      "website": "https://highpointmx.com"
+    },
+    "RedBud MX": {
+      "lat": 41.8714,
+      "lon": -86.37,
+      "city": "Buchanan",
+      "region": "Michigan",
+      "website": "https://redbudmx.com"
+    },
+    "The Wick 338": {
+      "lat": 42.0561,
+      "lon": -72.7505,
+      "city": "Southwick",
+      "region": "Massachusetts",
+      "website": "https://www.thewick338.com"
+    },
+    "Spring Creek MX Park": {
+      "lat": 44.2997,
+      "lon": -92.2612,
+      "city": "Millville",
+      "region": "Minnesota",
+      "website": "https://springcreekmx.com"
+    },
+    "Washougal MX Park": {
+      "lat": 45.6326,
+      "lon": -122.2552,
+      "city": "Washougal",
+      "region": "Washington",
+      "website": "https://washougalmx.com"
+    },
+    "Unadilla MX": {
+      "lat": 42.7018,
+      "lon": -75.3203,
+      "city": "New Berlin",
+      "region": "New York",
+      "website": "https://www.unadillamx.com"
+    },
+    "Budds Creek Motocross Park": {
+      "lat": 38.3676,
+      "lon": -76.7814,
+      "city": "Mechanicsville",
+      "region": "Maryland",
+      "website": "https://buddscreekmx.com"
+    },
+    "Ironman Raceway": {
+      "lat": 40.0056,
+      "lon": -86.9292,
+      "city": "Crawfordsville",
+      "region": "Indiana",
+      "website": "https://ironmanraceway.com"
+    },
+    "Phillip Island Grand Prix Circuit": {
+      "lat": -38.5041,
+      "lon": 145.2346,
+      "city": "Phillip Island",
+      "region": "Victoria",
+      "website": "https://www.phillipislandcircuit.com.au"
+    },
+    "The Bend Motorsport Park": {
+      "lat": -35.3083,
+      "lon": 139.5167,
+      "city": "Tailem Bend",
+      "region": "South Australia",
+      "website": "https://thebend.com.au"
+    },
+    "Queensland Raceway": {
+      "lat": -27.6903,
+      "lon": 152.6541,
+      "city": "Ipswich",
+      "region": "Queensland",
+      "website": "https://www.queenslandraceway.com.au"
+    },
+    "Hidden Valley Raceway": {
+      "lat": -12.4492,
+      "lon": 130.9069,
+      "city": "Darwin",
+      "region": "Northern Territory",
+      "website": "https://www.hiddenvalleyraceway.com.au"
+    },
+    "Sydney Motorsport Park": {
+      "lat": -33.8064,
+      "lon": 150.871,
+      "city": "Eastern Creek",
+      "region": "New South Wales",
+      "website": "https://www.sydneymotorsportpark.com.au"
+    },
+    "Adelaide Street Circuit": {
+      "lat": -34.9279,
+      "lon": 138.6155,
+      "city": "Adelaide",
+      "region": "South Australia"
+    }
+  }
+}
