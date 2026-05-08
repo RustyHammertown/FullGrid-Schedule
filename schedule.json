@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T20:53:40.924Z",
+  "generatedAt": "2026-05-08T20:58:01.565Z",
   "events": [
     {
       "id": 101,
@@ -15342,13 +15342,13 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-05-07T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-05-08T08:00:00-04:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-05-08T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-05-08T12:00:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race",
@@ -15368,11 +15368,6 @@
       "tz": "America/Indiana/Indianapolis",
       "round": 6,
       "sessions": [
-        {
-          "name": "Qualifying",
-          "time": "2026-05-09T08:00:00-04:00",
-          "tbd": true
-        },
         {
           "name": "Race",
           "time": "2026-05-09T14:30:00-04:00",
