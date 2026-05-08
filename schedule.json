@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T20:58:01.565Z",
+  "generatedAt": "2026-05-08T21:17:51.655Z",
   "events": [
     {
       "id": 101,
@@ -15282,7 +15282,7 @@
     {
       "id": 2702,
       "series": "indynxt",
-      "name": "Grand Prix of Alabama Race 1",
+      "name": "Grand Prix of Alabama",
       "circuit": "Barber Motorsports Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -15300,30 +15300,18 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-03-28T12:00:00-05:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
-        }
-      ]
-    },
-    {
-      "id": 2703,
-      "series": "indynxt",
-      "name": "Grand Prix of Alabama Race 2",
-      "circuit": "Barber Motorsports Park",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/Chicago",
-      "round": 4,
-      "sessions": [
+        },
         {
-          "name": "Qualifying",
+          "name": "Qualifying 2",
           "time": "2026-03-29T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 2",
           "time": "2026-03-29T10:00:00-05:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
@@ -15333,12 +15321,12 @@
     {
       "id": 2704,
       "series": "indynxt",
-      "name": "Indianapolis Grand Prix Race 1",
+      "name": "Indianapolis Grand Prix",
       "circuit": "Indianapolis Motor Speedway (Road Course)",
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Indiana/Indianapolis",
-      "round": 5,
+      "round": 4,
       "sessions": [
         {
           "name": "Practice",
@@ -15351,25 +15339,13 @@
           "duration": 30
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-05-08T16:00:00-04:00",
           "duration": 60,
           "broadcastUS": "FS2 / FOX"
-        }
-      ]
-    },
-    {
-      "id": 2705,
-      "series": "indynxt",
-      "name": "Indianapolis Grand Prix Race 2",
-      "circuit": "Indianapolis Motor Speedway (Road Course)",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/Indiana/Indianapolis",
-      "round": 6,
-      "sessions": [
+        },
         {
-          "name": "Race",
+          "name": "Race 2",
           "time": "2026-05-09T14:30:00-04:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
@@ -15384,7 +15360,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Detroit",
-      "round": 7,
+      "round": 5,
       "sessions": [
         {
           "name": "Practice",
@@ -15412,7 +15388,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
-      "round": 8,
+      "round": 6,
       "sessions": [
         {
           "name": "Practice",
@@ -15435,12 +15411,12 @@
     {
       "id": 2708,
       "series": "indynxt",
-      "name": "Grand Prix at Road America Race 1",
+      "name": "Grand Prix at Road America",
       "circuit": "Road America",
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
-      "round": 9,
+      "round": 7,
       "sessions": [
         {
           "name": "Practice",
@@ -15453,30 +15429,13 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-06-20T11:30:00-05:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
-        }
-      ]
-    },
-    {
-      "id": 2709,
-      "series": "indynxt",
-      "name": "Grand Prix at Road America Race 2",
-      "circuit": "Road America",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/Chicago",
-      "round": 10,
-      "sessions": [
-        {
-          "name": "Qualifying",
-          "time": "2026-06-21T07:00:00-05:00",
-          "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 2",
           "time": "2026-06-21T11:00:00-05:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
@@ -15486,12 +15445,12 @@
     {
       "id": 2710,
       "series": "indynxt",
-      "name": "Grand Prix at Mid-Ohio Race 1",
+      "name": "Grand Prix at Mid-Ohio",
       "circuit": "Mid-Ohio Sports Car Course",
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 11,
+      "round": 8,
       "sessions": [
         {
           "name": "Practice",
@@ -15504,30 +15463,13 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-07-04T13:00:00-04:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
-        }
-      ]
-    },
-    {
-      "id": 2711,
-      "series": "indynxt",
-      "name": "Grand Prix at Mid-Ohio Race 2",
-      "circuit": "Mid-Ohio Sports Car Course",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/New_York",
-      "round": 12,
-      "sessions": [
-        {
-          "name": "Qualifying",
-          "time": "2026-07-05T08:00:00-04:00",
-          "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 2",
           "time": "2026-07-05T10:00:00-04:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
@@ -15542,7 +15484,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
-      "round": 13,
+      "round": 9,
       "sessions": [
         {
           "name": "Practice",
@@ -15570,7 +15512,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Los_Angeles",
-      "round": 14,
+      "round": 10,
       "sessions": [
         {
           "name": "Practice",
@@ -15598,7 +15540,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
-      "round": 15,
+      "round": 11,
       "sessions": [
         {
           "name": "Practice",
@@ -15621,12 +15563,12 @@
     {
       "id": 2715,
       "series": "indynxt",
-      "name": "Grand Prix of Monterey Race 1",
+      "name": "Grand Prix of Monterey",
       "circuit": "WeatherTech Raceway Laguna Seca",
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Los_Angeles",
-      "round": 16,
+      "round": 12,
       "sessions": [
         {
           "name": "Practice",
@@ -15639,30 +15581,13 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-09-05T15:30:00-07:00",
           "duration": 60,
           "broadcastUS": "FS2 / FOX"
-        }
-      ]
-    },
-    {
-      "id": 2716,
-      "series": "indynxt",
-      "name": "Grand Prix of Monterey Race 2",
-      "circuit": "WeatherTech Raceway Laguna Seca",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/Los_Angeles",
-      "round": 17,
-      "sessions": [
-        {
-          "name": "Qualifying",
-          "time": "2026-09-06T05:00:00-07:00",
-          "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 2",
           "time": "2026-09-06T09:30:00-07:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
