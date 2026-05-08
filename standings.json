@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T14:38:20.143Z",
+  "generatedAt": "2026-05-08T17:32:00.599Z",
   "flat": {
     "f1": [
       {
@@ -2283,6 +2283,173 @@
             "pos": 10,
             "name": "#50 Richard Mille AF Corse",
             "points": 10
+          }
+        ]
+      }
+    ],
+    "supercross": [
+      {
+        "className": "450",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Ken Roczen",
+            "points": 332
+          },
+          {
+            "pos": 2,
+            "name": "Hunter Lawrence",
+            "points": 331
+          },
+          {
+            "pos": 3,
+            "name": "Cooper Webb",
+            "points": 297
+          },
+          {
+            "pos": 4,
+            "name": "Eli Tomac",
+            "points": 275
+          },
+          {
+            "pos": 5,
+            "name": "Justin Cooper",
+            "points": 251
+          },
+          {
+            "pos": 6,
+            "name": "Chase Sexton",
+            "points": 212
+          },
+          {
+            "pos": 7,
+            "name": "Joey Savatgy",
+            "points": 194
+          },
+          {
+            "pos": 8,
+            "name": "Malcolm Stewart",
+            "points": 189
+          },
+          {
+            "pos": 9,
+            "name": "Justin Hill",
+            "points": 172
+          },
+          {
+            "pos": 10,
+            "name": "Jorge Prado",
+            "points": 169
+          }
+        ]
+      },
+      {
+        "className": "250 East",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Cole Davies",
+            "points": 206
+          },
+          {
+            "pos": 2,
+            "name": "Seth Hammaker",
+            "points": 180
+          },
+          {
+            "pos": 3,
+            "name": "Daxton Bennick",
+            "points": 160
+          },
+          {
+            "pos": 4,
+            "name": "Coty Schock",
+            "points": 137
+          },
+          {
+            "pos": 5,
+            "name": "Nate Thrasher",
+            "points": 133
+          },
+          {
+            "pos": 6,
+            "name": "Devin Simonson",
+            "points": 122
+          },
+          {
+            "pos": 7,
+            "name": "Jo Shimoda",
+            "points": 100
+          },
+          {
+            "pos": 8,
+            "name": "Henry Miller",
+            "points": 92
+          },
+          {
+            "pos": 9,
+            "name": "Derek Kelley",
+            "points": 79
+          },
+          {
+            "pos": 10,
+            "name": "Nick Romano",
+            "points": 65
+          }
+        ]
+      },
+      {
+        "className": "250 West",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Haiden Deegan",
+            "points": 215
+          },
+          {
+            "pos": 2,
+            "name": "Levi Kitchen",
+            "points": 155
+          },
+          {
+            "pos": 3,
+            "name": "Max Anstie",
+            "points": 148
+          },
+          {
+            "pos": 4,
+            "name": "Ryder DiFrancesco",
+            "points": 147
+          },
+          {
+            "pos": 5,
+            "name": "Max Vohland",
+            "points": 130
+          },
+          {
+            "pos": 6,
+            "name": "Michael Mosiman",
+            "points": 107
+          },
+          {
+            "pos": 7,
+            "name": "Hunter Yoder",
+            "points": 107
+          },
+          {
+            "pos": 8,
+            "name": "Cameron McAdoo",
+            "points": 106
+          },
+          {
+            "pos": 9,
+            "name": "Parker Ross",
+            "points": 82
+          },
+          {
+            "pos": 10,
+            "name": "Joshua Varize",
+            "points": 80
           }
         ]
       }

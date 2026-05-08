@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T14:38:19.443Z",
+  "generatedAt": "2026-05-08T17:31:48.094Z",
   "events": [
     {
       "id": 101,
@@ -14248,6 +14248,813 @@
           "time": "2026-11-29T22:30:00+10:30",
           "tbd": true,
           "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2300,
+      "series": "supercross",
+      "name": "Anaheim 1",
+      "circuit": "Angel Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-01-10T04:00:00-08:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-01-10T04:00:00-08:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2301,
+      "series": "supercross",
+      "name": "San Diego",
+      "circuit": "Snapdragon Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-01-17T04:00:00-08:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-01-17T04:00:00-08:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2302,
+      "series": "supercross",
+      "name": "Anaheim 2",
+      "circuit": "Angel Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-01-24T04:00:00-08:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-01-24T04:00:00-08:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2303,
+      "series": "supercross",
+      "name": "Houston",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-01-31T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-01-31T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2304,
+      "series": "supercross",
+      "name": "Glendale",
+      "circuit": "State Farm Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Phoenix",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-02-07T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-02-07T05:00:00-07:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2305,
+      "series": "supercross",
+      "name": "Seattle",
+      "circuit": "Lumen Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-02-14T04:00:00-08:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-02-14T04:00:00-08:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2306,
+      "series": "supercross",
+      "name": "Arlington",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-02-21T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-02-21T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2307,
+      "series": "supercross",
+      "name": "Daytona",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-02-28T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-02-28T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2308,
+      "series": "supercross",
+      "name": "Indianapolis",
+      "circuit": "Lucas Oil Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-03-07T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-03-07T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2309,
+      "series": "supercross",
+      "name": "Birmingham Showdown",
+      "circuit": "Protective Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "250 East Main",
+          "time": "2026-03-21T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "250 West Main",
+          "time": "2026-03-21T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-03-21T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2310,
+      "series": "supercross",
+      "name": "Detroit",
+      "circuit": "Ford Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Detroit",
+      "round": 11,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-03-28T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-03-28T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2311,
+      "series": "supercross",
+      "name": "St. Louis Showdown",
+      "circuit": "The Dome at America's Center",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 12,
+      "sessions": [
+        {
+          "name": "250 East Main",
+          "time": "2026-04-04T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "250 West Main",
+          "time": "2026-04-04T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-04-04T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2312,
+      "series": "supercross",
+      "name": "Nashville",
+      "circuit": "Nissan Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 13,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-04-11T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-04-11T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2313,
+      "series": "supercross",
+      "name": "Cleveland",
+      "circuit": "Huntington Bank Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 14,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-04-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-04-18T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2314,
+      "series": "supercross",
+      "name": "Philadelphia",
+      "circuit": "Lincoln Financial Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 15,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-04-25T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-04-25T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2315,
+      "series": "supercross",
+      "name": "Denver",
+      "circuit": "Empower Field at Mile High",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Denver",
+      "round": 16,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-05-02T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-05-02T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2316,
+      "series": "supercross",
+      "name": "Salt Lake City Showdown",
+      "circuit": "Rice-Eccles Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Denver",
+      "round": 17,
+      "sessions": [
+        {
+          "name": "250 East Main",
+          "time": "2026-05-09T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "250 West Main",
+          "time": "2026-05-09T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-05-09T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2400,
+      "series": "promotocross",
+      "name": "Fox Raceway National",
+      "circuit": "Fox Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2401,
+      "series": "promotocross",
+      "name": "Hangtown Motocross Classic",
+      "circuit": "Prairie City SVRA",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-06-06T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-06-06T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-06-06T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-06-06T05:00:00-07:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2402,
+      "series": "promotocross",
+      "name": "Thunder Valley National",
+      "circuit": "Thunder Valley Motocross Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Denver",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-06-13T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-06-13T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-06-13T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-06-13T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2403,
+      "series": "promotocross",
+      "name": "High Point National",
+      "circuit": "High Point Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2404,
+      "series": "promotocross",
+      "name": "RedBud National",
+      "circuit": "RedBud MX",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Detroit",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2405,
+      "series": "promotocross",
+      "name": "Southwick National",
+      "circuit": "The Wick 338",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2406,
+      "series": "promotocross",
+      "name": "Spring Creek National",
+      "circuit": "Spring Creek MX Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2407,
+      "series": "promotocross",
+      "name": "Washougal National",
+      "circuit": "Washougal MX Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-07-25T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-07-25T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-07-25T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-07-25T05:00:00-07:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2408,
+      "series": "promotocross",
+      "name": "Unadilla National",
+      "circuit": "Unadilla MX",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2409,
+      "series": "promotocross",
+      "name": "Budds Creek National",
+      "circuit": "Budds Creek Motocross Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2410,
+      "series": "promotocross",
+      "name": "Ironman National",
+      "circuit": "Ironman Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "round": 11,
+      "sessions": [
+        {
+          "name": "250 Moto 1",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2500,
+      "series": "smx",
+      "name": "SMX Playoff 1 — Columbus",
+      "circuit": "Historic Crew Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2501,
+      "series": "smx",
+      "name": "SMX Playoff 2 — Carson",
+      "circuit": "Dignity Health Sports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-09-19T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-09-19T05:00:00-07:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2502,
+      "series": "smx",
+      "name": "SMX World Final — Ridgedale",
+      "circuit": "Thunder Ridge Nature Arena",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "250 Main",
+          "time": "2026-09-26T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "450 Main",
+          "time": "2026-09-26T07:00:00-05:00",
+          "tbd": true
         }
       ]
     }
