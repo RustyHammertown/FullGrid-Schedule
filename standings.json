@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T20:04:08.092Z",
+  "generatedAt": "2026-05-08T20:45:19.216Z",
   "flat": {
     "f1": [
       {
@@ -1344,6 +1344,68 @@
         "name": "Antron Brown",
         "points": 218,
         "team": "Top Fuel"
+      }
+    ],
+    "indynxt": [
+      {
+        "pos": 1,
+        "name": "Nikita Johnson",
+        "points": 168,
+        "team": "Cape/ECR"
+      },
+      {
+        "pos": 2,
+        "name": "Max Taylor",
+        "points": 146,
+        "team": "Andretti Global"
+      },
+      {
+        "pos": 3,
+        "name": "Tymek Kucharczyk",
+        "points": 135,
+        "team": "HMD Motorsports"
+      },
+      {
+        "pos": 4,
+        "name": "Enzo Fittipaldi",
+        "points": 129,
+        "team": "HMD Motorsports"
+      },
+      {
+        "pos": 5,
+        "name": "Alessandro de Tullio",
+        "points": 109,
+        "team": "A.J. Foyt Racing"
+      },
+      {
+        "pos": 6,
+        "name": "Juan Manuel Correa",
+        "points": 97,
+        "team": "Cusick Morgan"
+      },
+      {
+        "pos": 7,
+        "name": "Lochie Hughes",
+        "points": 92,
+        "team": "Andretti Global"
+      },
+      {
+        "pos": 8,
+        "name": "Jordan Missig",
+        "points": 92,
+        "team": "Abel Motorsports"
+      },
+      {
+        "pos": 9,
+        "name": "Myles Rowe",
+        "points": 87,
+        "team": "Abel/Force Indy"
+      },
+      {
+        "pos": 10,
+        "name": "Sebastian Murray",
+        "points": 86,
+        "team": "Andretti Global"
       }
     ],
     "xtrial": [
