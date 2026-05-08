@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T14:32:47.098Z",
+  "generatedAt": "2026-05-08T14:38:19.443Z",
   "events": [
     {
       "id": 101,
@@ -10517,7 +10517,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-05-24T18:00:00-05:00",
+          "time": "2026-05-24T18:30:00-05:00",
           "duration": 240,
           "broadcastUS": "DIRTVision"
         }
@@ -13430,35 +13430,41 @@
         {
           "name": "Practice 1",
           "time": "2026-04-10T14:25:00+02:00",
-          "duration": 90
+          "duration": 90,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/free-practice-1"
         },
         {
           "name": "Practice 2",
           "time": "2026-04-10T19:25:00+02:00",
-          "duration": 90
+          "duration": 90,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/free-practice-2"
         },
         {
           "name": "Qualifying 1",
           "time": "2026-04-11T12:05:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/qualifying-1",
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Qualifying 2",
           "time": "2026-04-11T12:30:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/qualifying-2",
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Qualifying 3",
           "time": "2026-04-11T12:55:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/qualifying-3",
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race",
           "time": "2026-04-11T18:00:00+02:00",
           "duration": 360,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/race",
           "broadcastUS": "YouTube/GTWorld"
         }
       ]
@@ -13476,35 +13482,41 @@
         {
           "name": "Practice 1",
           "time": "2026-05-02T09:35:00+01:00",
-          "duration": 60
+          "duration": 60,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/free-practice-1"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-02T12:00:00+01:00",
-          "duration": 60
+          "duration": 60,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/free-practice-2"
         },
         {
           "name": "Qualifying 1",
           "time": "2026-05-02T16:40:00+01:00",
           "duration": 10,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/qualifying-1",
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Qualifying 2",
           "time": "2026-05-02T17:00:00+01:00",
           "duration": 10,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/qualifying-2",
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race 1",
           "time": "2026-05-03T11:15:00+01:00",
           "duration": 60,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/race-1",
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race 2",
           "time": "2026-05-03T15:45:00+01:00",
           "duration": 60,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/race-2",
           "broadcastUS": "YouTube/GTWorld"
         }
       ]
