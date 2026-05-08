@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-04T03:40:51.488Z",
+  "generatedAt": "2026-05-08T14:32:47.098Z",
   "events": [
     {
       "id": 101,
@@ -1151,9 +1151,39 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-08T10:45:00+02:00",
+          "duration": 45,
+          "broadcastUS": "Fox Sports 1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-05-08T15:00:00+02:00",
+          "duration": 60,
+          "broadcastUS": "Fox Sports 1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-09T10:10:00+02:00",
+          "duration": 30,
+          "broadcastUS": "Fox Sports 1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T10:50:00+02:00",
+          "duration": 30,
+          "broadcastUS": "Fox Sports 1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-05-09T15:00:00+02:00",
           "laps": 13,
+          "broadcastUS": "Fox Sports 1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-10T09:40:00+02:00",
+          "duration": 10,
           "broadcastUS": "Fox Sports 1 / MotoGP+"
         },
         {
@@ -1750,32 +1780,32 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-05-08T09:00:00-04:00",
+          "time": "2026-05-08T09:05:00-04:00",
           "duration": 75,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS2"
         },
         {
           "name": "Practice 2",
-          "time": "2026-05-08T13:00:00-04:00",
+          "time": "2026-05-08T13:05:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
-          "time": "2026-05-08T17:30:00-04:00",
+          "time": "2026-05-08T17:35:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS2"
         },
         {
           "name": "Warmup",
-          "time": "2026-05-09T11:30:00-04:00",
+          "time": "2026-05-09T11:40:00-04:00",
           "duration": 30,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
-          "time": "2026-05-09T16:30:00-04:00",
-          "laps": 85,
+          "time": "2026-05-09T16:55:00-04:00",
+          "laps": 90,
           "broadcastUS": "FOX"
         }
       ]
@@ -2120,7 +2150,7 @@
           "name": "Race",
           "time": "2026-02-15T13:30:00-05:00",
           "laps": 200,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Daytona_500"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-daytona-500/"
         }
       ]
     },
@@ -2146,7 +2176,7 @@
           "name": "Race",
           "time": "2026-02-22T15:00:00-05:00",
           "laps": 260,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Autotrader_400"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-autotrader-400/"
         }
       ]
     },
@@ -2179,7 +2209,7 @@
           "name": "Race",
           "time": "2026-03-01T14:30:00-06:00",
           "laps": 95,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_DuraMAX_Texas_Grand_Prix"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/duramax-grand-prix-powered-by-reladyne/"
         }
       ]
     },
@@ -2212,7 +2242,7 @@
           "name": "Race",
           "time": "2026-03-08T13:30:00-07:00",
           "laps": 312,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Straight_Talk_Wireless_500"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-straight-talk-wireless-500/"
         }
       ]
     },
@@ -2245,7 +2275,7 @@
           "name": "Race",
           "time": "2026-03-15T13:00:00-07:00",
           "laps": 267,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Pennzoil_400"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-pennzoil-400/"
         }
       ]
     },
@@ -2278,7 +2308,7 @@
           "name": "Race",
           "time": "2026-03-22T15:00:00-04:00",
           "laps": 293,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Goodyear_400"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-goodyear-400/"
         }
       ]
     },
@@ -2311,7 +2341,7 @@
           "name": "Race",
           "time": "2026-03-29T15:30:00-04:00",
           "laps": 400,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Cook_Out_400"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-cook-out-400-martinsville/"
         }
       ]
     },
@@ -2344,7 +2374,7 @@
           "name": "Race",
           "time": "2026-04-12T15:00:00-04:00",
           "laps": 500,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Food_City_500"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-food-city-500/"
         }
       ]
     },
@@ -2377,7 +2407,7 @@
           "name": "Race",
           "time": "2026-04-19T13:00:00-05:00",
           "laps": 267,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_AdventHealth_400"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-adventhealth-400/"
         }
       ]
     },
@@ -2403,7 +2433,7 @@
           "name": "Race",
           "time": "2026-04-26T14:00:00-05:00",
           "laps": 188,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Jack_Link%27s_500"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-jack-links-500/"
         }
       ]
     },
@@ -3116,25 +3146,25 @@
         {
           "name": "Day 1",
           "time": "2026-05-07T15:05:00+01:00",
-          "duration": 480,
+          "duration": 240,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 2",
           "time": "2026-05-08T07:35:00+01:00",
-          "duration": 480,
+          "duration": 540,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 3",
-          "time": "2026-05-09T07:05:00+01:00",
-          "duration": 480,
+          "time": "2026-05-09T07:00:00+01:00",
+          "duration": 720,
           "broadcastUS": "Rally.tv"
         },
         {
           "name": "Day 4",
           "time": "2026-05-10T08:05:00+01:00",
-          "duration": 240,
+          "duration": 360,
           "broadcastUS": "Rally.tv"
         }
       ]
@@ -6113,6 +6143,7 @@
           "name": "Race",
           "time": "2026-05-03T16:05:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/berlin/round-8",
           "broadcastUS": "CBS Sports Network / Roku Channel"
         }
       ]
@@ -6493,7 +6524,7 @@
           "name": "Race",
           "time": "2026-02-14T17:00:00-05:00",
           "laps": 120,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_United_Rentals_300"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-300/"
         }
       ]
     },
@@ -6518,7 +6549,7 @@
           "name": "Race",
           "time": "2026-02-21T17:00:00-05:00",
           "laps": 163,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Bennett_Transportation_%26_Logistics_250"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-bennett-transportation-and-logistics-250/"
         }
       ]
     },
@@ -6550,7 +6581,7 @@
           "name": "Race",
           "time": "2026-02-28T14:00:00-06:00",
           "laps": 46,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Focused_Health_250_(COTA)"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-cota/"
         }
       ]
     },
@@ -6582,7 +6613,7 @@
           "name": "Race",
           "time": "2026-03-07T17:30:00-07:00",
           "laps": 200,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_GOVX_200"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-govx-200/"
         }
       ]
     },
@@ -6614,7 +6645,7 @@
           "name": "Race",
           "time": "2026-03-14T14:30:00-07:00",
           "laps": 200,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_The_LiUNA!"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-the-liuna/"
         }
       ]
     },
@@ -6646,7 +6677,7 @@
           "name": "Race",
           "time": "2026-03-21T17:30:00-04:00",
           "laps": 147,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Sport_Clips_Haircuts_VFW_200"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-sport-clips-haircuts-vfw-help-a-hero-200/"
         }
       ]
     },
@@ -6678,7 +6709,7 @@
           "name": "Race",
           "time": "2026-03-28T15:30:00-04:00",
           "laps": 250,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_NFPA_250"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/nfpa-250/"
         }
       ]
     },
@@ -6710,7 +6741,7 @@
           "name": "Race",
           "time": "2026-04-04T14:30:00-04:00",
           "laps": 200,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_North_Carolina_Education_Lottery_250"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-nc-education-lottery-250-presented-by-blacks-tire/"
         }
       ]
     },
@@ -6742,7 +6773,7 @@
           "name": "Race",
           "time": "2026-04-11T19:30:00-04:00",
           "laps": 300,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Suburban_Propane_300"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/suburban-propane-300/"
         }
       ]
     },
@@ -6774,7 +6805,7 @@
           "name": "Race",
           "time": "2026-04-18T18:00:00-05:00",
           "laps": 200,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Kansas_Lottery_300"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-kansas-lottery-300/"
         }
       ]
     },
@@ -6799,7 +6830,7 @@
           "name": "Race",
           "time": "2026-04-25T15:00:00-05:00",
           "laps": 113,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Ag-Pro_300"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-ag-pro-300/"
         }
       ]
     },
@@ -6829,7 +6860,8 @@
         {
           "name": "Race",
           "time": "2026-05-02T14:30:00-05:00",
-          "laps": 200
+          "laps": 200,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-andys-frozen-custard-340/"
         }
       ]
     },
@@ -7236,7 +7268,7 @@
           "name": "Race",
           "time": "2026-02-13T19:30:00-05:00",
           "laps": 100,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fresh_From_Florida_250"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-fresh-from-florida-250/"
         }
       ]
     },
@@ -7261,7 +7293,7 @@
           "name": "Race",
           "time": "2026-02-21T13:30:00-05:00",
           "laps": 135,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Fr8_208"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-fr8-racing-208/"
         }
       ]
     },
@@ -7293,7 +7325,7 @@
           "name": "Race",
           "time": "2026-02-28T12:00:00-05:00",
           "laps": 84,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_OnlyBulls_Green_Flag_150"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/onlybulls-green-flag-150-at-st-petersburg/"
         }
       ]
     },
@@ -7325,7 +7357,7 @@
           "name": "Race",
           "time": "2026-03-20T19:30:00-04:00",
           "laps": 147,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Buckle_Up_South_Carolina_200"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-buckle-up-south-carolina-200/"
         }
       ]
     },
@@ -7357,7 +7389,7 @@
           "name": "Race",
           "time": "2026-04-03T16:30:00-04:00",
           "laps": 200,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Black%27s_Tire_200"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-blacks-tire-200/"
         }
       ]
     },
@@ -7389,7 +7421,7 @@
           "name": "Race",
           "time": "2026-04-10T19:30:00-04:00",
           "laps": 250,
-          "resultsUrl": "https://en.wikipedia.org/wiki/2026_Tennessee_Army_National_Guard_250"
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-tennessee-army-national-guard-250/"
         }
       ]
     },
@@ -7419,7 +7451,8 @@
         {
           "name": "Race",
           "time": "2026-05-01T19:00:00-05:00",
-          "laps": 167
+          "laps": 167,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-speedycashcom-250/"
         }
       ]
     },
@@ -13017,6 +13050,18 @@
       "tz": "America/Chicago",
       "round": 6,
       "sessions": [
+        {
+          "name": "Qualifying Day 1",
+          "time": "2026-05-15T15:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
+          "name": "Qualifying Day 2",
+          "time": "2026-05-16T12:30:00-05:00",
+          "duration": 240,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
         {
           "name": "Eliminations",
           "time": "2026-05-17T16:00:00-05:00",
