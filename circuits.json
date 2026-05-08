@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T18:46:20.999Z",
+  "generatedAt": "2026-05-08T20:04:08.926Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1869,6 +1869,56 @@
       "lon": 138.6155,
       "city": "Adelaide",
       "region": "South Australia"
+    },
+    "Pavellò Toni Martí": {
+      "lat": 42.5049,
+      "lon": 1.5166,
+      "city": "Andorra la Vella"
+    },
+    "Madrid Arena": {
+      "lat": 40.4131,
+      "lon": -3.7382,
+      "city": "Madrid",
+      "website": "https://www.madrid-destino.com/recintos/madrid-arena"
+    },
+    "Stade de l'Est": {
+      "lat": -20.895,
+      "lon": 55.5015,
+      "city": "Saint-Denis",
+      "region": "Réunion"
+    },
+    "Palasport Ponte di Legno": {
+      "lat": 46.2578,
+      "lon": 10.5129,
+      "city": "Ponte di Legno",
+      "region": "Lombardy"
+    },
+    "First Direct Bank Arena": {
+      "lat": 53.8034,
+      "lon": -1.5421,
+      "city": "Leeds",
+      "region": "England",
+      "website": "https://www.firstdirectarena.com"
+    },
+    "Palau Sant Jordi": {
+      "lat": 41.3635,
+      "lon": 2.1526,
+      "city": "Barcelona",
+      "region": "Catalonia",
+      "website": "https://palausantjordi.cat"
+    },
+    "Le Colisée": {
+      "lat": 46.7866,
+      "lon": 4.865,
+      "city": "Chalon-sur-Saône",
+      "region": "Bourgogne-Franche-Comté"
+    },
+    "Caixabank Tarraco Arena": {
+      "lat": 41.1144,
+      "lon": 1.2457,
+      "city": "Tarragona",
+      "region": "Catalonia",
+      "website": "https://www.tarracoarenaplaca.com"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T19:18:28.643Z",
+  "generatedAt": "2026-05-08T20:04:07.351Z",
   "events": [
     {
       "id": 101,
@@ -15058,6 +15058,168 @@
           "name": "450 Main",
           "time": "2026-09-26T07:00:00-05:00",
           "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 2600,
+      "series": "xtrial",
+      "name": "X-Trial Andorra la Vella",
+      "circuit": "Pavellò Toni Martí",
+      "flag": "🇦🇩",
+      "country": "Andorra",
+      "tz": "Europe/Andorra",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2025-10-04T18:00:00+02:00",
+          "duration": 120,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-andorra-la-vella"
+        }
+      ]
+    },
+    {
+      "id": 2601,
+      "series": "xtrial",
+      "name": "X-Trial Madrid",
+      "circuit": "Madrid Arena",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2025-10-25T14:00:00+02:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-madrid"
+        }
+      ]
+    },
+    {
+      "id": 2602,
+      "series": "xtrial",
+      "name": "X-Trial Saint-Denis / Île de la Réunion",
+      "circuit": "Stade de l'Est",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Indian/Reunion",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2025-11-08T16:00:00+04:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-saint-denis-le-de-la-reunion"
+        }
+      ]
+    },
+    {
+      "id": 2603,
+      "series": "xtrial",
+      "name": "X-Trial Ponte di Legno (Day 1)",
+      "circuit": "Palasport Ponte di Legno",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2025-12-12T13:00:00+01:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-ponte-di-legno"
+        }
+      ]
+    },
+    {
+      "id": 2604,
+      "series": "xtrial",
+      "name": "X-Trial Ponte di Legno (Day 2)",
+      "circuit": "Palasport Ponte di Legno",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2025-12-13T13:00:00+01:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-ponte-di-legno-1"
+        }
+      ]
+    },
+    {
+      "id": 2605,
+      "series": "xtrial",
+      "name": "X-Trial Leeds",
+      "circuit": "First Direct Bank Arena",
+      "flag": "🇬🇧",
+      "country": "UK",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2026-01-24T12:00:00+00:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-leeds"
+        }
+      ]
+    },
+    {
+      "id": 2606,
+      "series": "xtrial",
+      "name": "X-Trial Barcelona",
+      "circuit": "Palau Sant Jordi",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2026-02-08T13:00:00+01:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-barcelona"
+        }
+      ]
+    },
+    {
+      "id": 2607,
+      "series": "xtrial",
+      "name": "X-Trial Chalon-sur-Saône",
+      "circuit": "Le Colisée",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2026-03-06T13:00:00+01:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-chalon-sur-saone"
+        }
+      ]
+    },
+    {
+      "id": 2608,
+      "series": "xtrial",
+      "name": "X-Trial Tarragona",
+      "circuit": "Caixabank Tarraco Arena",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2026-04-18T14:00:00+02:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-tarragona"
         }
       ]
     }

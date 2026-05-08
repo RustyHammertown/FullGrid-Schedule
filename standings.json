@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T17:58:52.492Z",
+  "generatedAt": "2026-05-08T20:04:08.092Z",
   "flat": {
     "f1": [
       {
@@ -1344,6 +1344,68 @@
         "name": "Antron Brown",
         "points": 218,
         "team": "Top Fuel"
+      }
+    ],
+    "xtrial": [
+      {
+        "pos": 1,
+        "name": "Toni Bou",
+        "points": 175,
+        "team": "Montesa"
+      },
+      {
+        "pos": 2,
+        "name": "Gabriel Marcelli",
+        "points": 123,
+        "team": "Montesa"
+      },
+      {
+        "pos": 3,
+        "name": "Jaime Busto",
+        "points": 107,
+        "team": "Beta"
+      },
+      {
+        "pos": 4,
+        "name": "Harry Hemingway",
+        "points": 73,
+        "team": "Beta"
+      },
+      {
+        "pos": 5,
+        "name": "Matteo Grattarola",
+        "points": 47,
+        "team": "Beta"
+      },
+      {
+        "pos": 6,
+        "name": "Arnau Farré",
+        "points": 21,
+        "team": "Sherco"
+      },
+      {
+        "pos": 7,
+        "name": "Jack Peace",
+        "points": 19,
+        "team": "Sherco"
+      },
+      {
+        "pos": 8,
+        "name": "Francesco Titli",
+        "points": 18,
+        "team": "Montesa"
+      },
+      {
+        "pos": 9,
+        "name": "Hugo Dufrese",
+        "points": 11,
+        "team": "Beta"
+      },
+      {
+        "pos": 10,
+        "name": "Benoît Bincaz",
+        "points": 11,
+        "team": "EMotion"
       }
     ]
   },
