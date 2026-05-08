@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T17:58:51.795Z",
+  "generatedAt": "2026-05-08T18:05:34.043Z",
   "events": [
     {
       "id": 101,
@@ -14625,18 +14625,21 @@
       "sessions": [
         {
           "name": "Qualifying",
-          "time": "2026-05-09T10:47:00-06:00",
-          "duration": 280
+          "time": "2026-05-09T11:00:00-06:00",
+          "duration": 330,
+          "broadcastUS": "Peacock"
         },
         {
           "name": "250 Showdown",
           "time": "2026-05-09T18:57:00-06:00",
-          "duration": 16
+          "duration": 16,
+          "broadcastUS": "Peacock"
         },
         {
           "name": "450 Main",
           "time": "2026-05-09T19:29:00-06:00",
-          "duration": 21
+          "duration": 21,
+          "broadcastUS": "Peacock"
         }
       ]
     },
