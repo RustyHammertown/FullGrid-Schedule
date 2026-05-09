@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T20:00:17.093Z",
+  "generatedAt": "2026-05-09T20:05:29.316Z",
   "events": [
     {
       "id": 101,
@@ -18168,6 +18168,282 @@
         {
           "name": "Race 2",
           "time": "2026-10-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3800,
+      "series": "gt4european",
+      "name": "Paul Ricard",
+      "circuit": "Circuit Paul Ricard",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-04-10T17:20:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-04-11T10:00:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-11T15:50:00+02:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-11T16:15:00+02:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-12T11:00:00+02:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T16:30:00+02:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3801,
+      "series": "gt4european",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-05-29T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3802,
+      "series": "gt4european",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-28T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3803,
+      "series": "gt4european",
+      "name": "Misano",
+      "circuit": "Misano World Circuit",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-17T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3804,
+      "series": "gt4european",
+      "name": "Zandvoort",
+      "circuit": "Circuit Zandvoort",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3805,
+      "series": "gt4european",
+      "name": "Portimão",
+      "circuit": "Algarve International Circuit",
+      "flag": "🇵🇹",
+      "country": "Portugal",
+      "tz": "Europe/Lisbon",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-18T13:00:00+01:00",
           "tbd": true,
           "broadcastUS": "YouTube/GTWorld"
         }
