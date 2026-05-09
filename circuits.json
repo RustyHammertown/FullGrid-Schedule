@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T14:30:40.460Z",
+  "generatedAt": "2026-05-09T21:29:02.717Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -255,6 +255,19 @@
       "city": "Bathurst",
       "region": "New South Wales",
       "website": "https://www.mount-panorama.com.au"
+    },
+    "Inje Speedium": {
+      "lat": 38.00139,
+      "lon": 128.29194,
+      "city": "Inje",
+      "region": "Gangwon",
+      "website": "https://www.injespeedium.com"
+    },
+    "Ningbo International Circuit": {
+      "lat": 29.76139,
+      "lon": 121.86389,
+      "city": "Beilun",
+      "region": "Zhejiang"
     },
     "Nürburgring GP": {
       "lat": 50.3344,

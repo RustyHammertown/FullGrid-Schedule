@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T20:18:57.755Z",
+  "generatedAt": "2026-05-09T21:29:02.015Z",
   "events": [
     {
       "id": 101,
@@ -4390,6 +4390,30 @@
           "time": "2026-09-20T12:15:00-04:00",
           "duration": 50,
           "broadcastUS": "YouTube/imsaofficial"
+        }
+      ]
+    },
+    {
+      "id": 734,
+      "series": "trofeo",
+      "name": "Monza (World Finals)",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
         }
       ]
     },
@@ -18916,6 +18940,294 @@
           "time": "2026-10-18T13:00:00+01:00",
           "tbd": true,
           "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 4100,
+      "series": "trofeoeu",
+      "name": "Paul Ricard",
+      "circuit": "Circuit Paul Ricard",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-04-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4101,
+      "series": "trofeoeu",
+      "name": "Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4102,
+      "series": "trofeoeu",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4103,
+      "series": "trofeoeu",
+      "name": "Nürburgring",
+      "circuit": "Nürburgring GP",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4104,
+      "series": "trofeoeu",
+      "name": "Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4105,
+      "series": "trofeoeu",
+      "name": "Monza (World Finals)",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4200,
+      "series": "trofeoasia",
+      "name": "Sepang",
+      "circuit": "Sepang International Circuit",
+      "flag": "🇲🇾",
+      "country": "Malaysia",
+      "tz": "Asia/Kuala_Lumpur",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-04-25T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-26T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4201,
+      "series": "trofeoasia",
+      "name": "Ningbo",
+      "circuit": "Ningbo International Circuit",
+      "flag": "🇨🇳",
+      "country": "China",
+      "tz": "Asia/Shanghai",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4202,
+      "series": "trofeoasia",
+      "name": "Fuji",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4203,
+      "series": "trofeoasia",
+      "name": "Inje Speedium",
+      "circuit": "Inje Speedium",
+      "flag": "🇰🇷",
+      "country": "South Korea",
+      "tz": "Asia/Seoul",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-07-17T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-18T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4204,
+      "series": "trofeoasia",
+      "name": "Shanghai",
+      "circuit": "Shanghai International Circuit",
+      "flag": "🇨🇳",
+      "country": "China",
+      "tz": "Asia/Shanghai",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4205,
+      "series": "trofeoasia",
+      "name": "Monza (World Finals)",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/LamborghiniSquadraCorse"
         }
       ]
     }
