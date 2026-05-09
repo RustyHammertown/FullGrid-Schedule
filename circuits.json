@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T02:42:14.977Z",
+  "generatedAt": "2026-05-09T03:02:15.484Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1896,6 +1896,20 @@
       "city": "Murata",
       "region": "Miyagi",
       "website": "https://www.sportsland-sugo.co.jp"
+    },
+    "Circuit Paul Armagnac": {
+      "lat": 43.7694,
+      "lon": -0.0393,
+      "city": "Nogaro",
+      "region": "Gers",
+      "website": "https://www.circuit-nogaro.com"
+    },
+    "Circuit Dijon-Prenois": {
+      "lat": 47.3631,
+      "lon": 4.9002,
+      "city": "Prenois",
+      "region": "Côte-d'Or",
+      "website": "https://www.dijon-prenois.com"
     },
     "Pavellò Toni Martí": {
       "lat": 42.5049,
