@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T03:13:05.414Z",
+  "generatedAt": "2026-05-09T14:15:43.896Z",
   "events": [
     {
       "id": 101,
@@ -1051,14 +1051,14 @@
           "time": "2026-02-28T15:00:00+07:00",
           "laps": 13,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/tha/motogp/spr/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-03-01T15:00:00+07:00",
           "laps": 26,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/tha/motogp/rac/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1077,14 +1077,14 @@
           "time": "2026-03-21T15:00:00-03:00",
           "laps": 13,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/motogp/spr/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-03-22T15:00:00-03:00",
           "laps": 31,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/motogp/rac/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1103,14 +1103,14 @@
           "time": "2026-03-28T15:00:00-05:00",
           "laps": 10,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/motogp/spr/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-03-29T14:00:00-05:00",
           "laps": 19,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/motogp/rac/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1129,14 +1129,14 @@
           "time": "2026-04-25T15:00:00+02:00",
           "laps": 12,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/spa/motogp/spr/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-04-26T14:00:00+02:00",
           "laps": 25,
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/spa/motogp/rac/classification",
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1154,43 +1154,43 @@
           "name": "Practice 1",
           "time": "2026-05-08T10:45:00+02:00",
           "duration": 45,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Practice",
           "time": "2026-05-08T15:00:00+02:00",
           "duration": 60,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-09T10:10:00+02:00",
           "duration": 30,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Qualifying",
           "time": "2026-05-09T10:50:00+02:00",
           "duration": 30,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Sprint",
           "time": "2026-05-09T15:00:00+02:00",
           "laps": 13,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Warmup",
           "time": "2026-05-10T09:40:00+02:00",
           "duration": 10,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-05-10T14:00:00+02:00",
           "laps": 27,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1208,13 +1208,13 @@
           "name": "Sprint",
           "time": "2026-05-16T15:00:00+02:00",
           "laps": 12,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-05-17T14:00:00+02:00",
           "laps": 24,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1232,13 +1232,13 @@
           "name": "Sprint",
           "time": "2026-05-30T15:00:00+02:00",
           "laps": 11,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-05-31T14:00:00+02:00",
           "laps": 23,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1256,13 +1256,13 @@
           "name": "Sprint",
           "time": "2026-06-06T15:00:00+02:00",
           "laps": 12,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-06-07T14:00:00+02:00",
           "laps": 25,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1280,13 +1280,13 @@
           "name": "Sprint",
           "time": "2026-06-20T15:00:00+02:00",
           "laps": 10,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-06-21T14:00:00+02:00",
           "laps": 21,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1304,13 +1304,13 @@
           "name": "Sprint",
           "time": "2026-06-27T15:00:00+02:00",
           "laps": 13,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-06-28T14:00:00+02:00",
           "laps": 26,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1328,13 +1328,13 @@
           "name": "Sprint",
           "time": "2026-07-11T15:00:00+02:00",
           "laps": 15,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-07-12T14:00:00+02:00",
           "laps": 30,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1352,13 +1352,13 @@
           "name": "Sprint",
           "time": "2026-08-08T16:00:00+01:00",
           "laps": 10,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-08-09T13:00:00+01:00",
           "laps": 20,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1376,13 +1376,13 @@
           "name": "Sprint",
           "time": "2026-08-29T15:00:00+02:00",
           "laps": 11,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-08-30T14:00:00+02:00",
           "laps": 23,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1400,13 +1400,13 @@
           "name": "Sprint",
           "time": "2026-09-12T15:00:00+02:00",
           "laps": 13,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-09-13T14:00:00+02:00",
           "laps": 27,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1425,14 +1425,14 @@
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true,
           "laps": 14,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-09-20T14:00:00+02:00",
           "tbd": true,
           "laps": 28,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1451,14 +1451,14 @@
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
           "laps": 12,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-10-04T21:00:00+09:00",
           "tbd": true,
           "laps": 24,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1477,14 +1477,14 @@
           "time": "2026-10-31T20:00:00+08:00",
           "tbd": true,
           "laps": 10,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-11-01T20:00:00+08:00",
           "tbd": true,
           "laps": 20,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1503,14 +1503,14 @@
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
           "laps": 11,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-11-08T15:00:00+03:00",
           "tbd": true,
           "laps": 22,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
@@ -1529,14 +1529,14 @@
           "time": "2026-11-28T13:00:00+01:00",
           "tbd": true,
           "laps": 13,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         },
         {
           "name": "Race",
           "time": "2026-11-29T13:00:00+01:00",
           "tbd": true,
           "laps": 27,
-          "broadcastUS": "Fox Sports 1 / MotoGP+"
+          "broadcastUS": "FS1 / MotoGP+"
         }
       ]
     },
