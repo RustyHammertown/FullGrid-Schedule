@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T02:10:29.907Z",
+  "generatedAt": "2026-05-09T02:42:14.294Z",
   "events": [
     {
       "id": 101,
@@ -15855,6 +15855,176 @@
           "time": "2026-10-04T20:00:00+08:00",
           "tbd": true,
           "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2900,
+      "series": "japancup",
+      "name": "Sportsland SUGO",
+      "circuit": "Sportsland SUGO",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-15T15:15:00+09:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-05-16T10:30:00+09:00",
+          "duration": 60,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-16T15:00:00+09:00",
+          "duration": 15,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-16T15:22:00+09:00",
+          "duration": 15,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-17T10:30:00+09:00",
+          "duration": 60,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-17T15:15:00+09:00",
+          "duration": 60,
+          "broadcastUS": "J SPORTS"
+        }
+      ]
+    },
+    {
+      "id": 2901,
+      "series": "japancup",
+      "name": "Fuji",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-10T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-12T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        }
+      ]
+    },
+    {
+      "id": 2902,
+      "series": "japancup",
+      "name": "Okayama",
+      "circuit": "Okayama International Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-28T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-30T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        }
+      ]
+    },
+    {
+      "id": 2903,
+      "series": "japancup",
+      "name": "Suzuka",
+      "circuit": "Suzuka International Racing Course",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-11T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-12T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-12T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-12T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "J SPORTS"
         }
       ]
     }

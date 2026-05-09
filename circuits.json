@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T02:10:30.662Z",
+  "generatedAt": "2026-05-09T02:42:14.977Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1889,6 +1889,13 @@
       "lon": 116.3878,
       "city": "Beijing",
       "website": "https://www.gt-world-challenge-asia.com/event/83/beijing-street-circuit"
+    },
+    "Sportsland SUGO": {
+      "lat": 38.1409,
+      "lon": 140.7817,
+      "city": "Murata",
+      "region": "Miyagi",
+      "website": "https://www.sportsland-sugo.co.jp"
     },
     "Pavellò Toni Martí": {
       "lat": 42.5049,
