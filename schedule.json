@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T20:05:29.316Z",
+  "generatedAt": "2026-05-09T20:18:57.755Z",
   "events": [
     {
       "id": 101,
@@ -18421,6 +18421,476 @@
         {
           "name": "Free Practice 2",
           "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-18T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3900,
+      "series": "mclarena",
+      "name": "Sonoma Raceway",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-26T16:00:00-07:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-27T11:10:00-07:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-03-28T08:20:00-07:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-03-28T08:40:00-07:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-03-28T15:05:00-07:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-29T09:40:00-07:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3901,
+      "series": "mclarena",
+      "name": "Miami GP",
+      "circuit": "Miami International Autodrome",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-02T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-02T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-02T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-03T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3902,
+      "series": "mclarena",
+      "name": "Road Atlanta",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-14T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3903,
+      "series": "mclarena",
+      "name": "Road America",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-27T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-28T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-29T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-29T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-29T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-30T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3904,
+      "series": "mclarena",
+      "name": "Indianapolis",
+      "circuit": "Indianapolis Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-08T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-09T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-10T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 4000,
+      "series": "mclarene",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-05-29T10:10:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-29T13:40:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 3",
+          "time": "2026-05-30T11:25:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-30T11:45:00+02:00",
+          "duration": 20,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T16:25:00+02:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Free Practice 4",
+          "time": "2026-05-31T09:00:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-31T09:20:00+02:00",
+          "duration": 20,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T12:35:00+02:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 4001,
+      "series": "mclarene",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-06-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 4002,
+      "series": "mclarene",
+      "name": "Misano",
+      "circuit": "Misano World Circuit",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-17T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-17T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 4003,
+      "series": "mclarene",
+      "name": "Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 4004,
+      "series": "mclarene",
+      "name": "Portimão",
+      "circuit": "Algarve International Circuit",
+      "flag": "🇵🇹",
+      "country": "Portugal",
+      "tz": "Europe/Lisbon",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-16T13:00:00+01:00",
           "tbd": true
         },
         {
