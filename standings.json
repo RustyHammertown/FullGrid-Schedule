@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T20:45:19.216Z",
+  "generatedAt": "2026-05-09T19:03:59.944Z",
   "flat": {
     "f1": [
       {
@@ -2418,52 +2418,62 @@
           {
             "pos": 1,
             "name": "Ken Roczen",
-            "points": 332
+            "points": 332,
+            "team": "Suzuki"
           },
           {
             "pos": 2,
             "name": "Hunter Lawrence",
-            "points": 331
+            "points": 331,
+            "team": "Honda"
           },
           {
             "pos": 3,
             "name": "Cooper Webb",
-            "points": 297
+            "points": 297,
+            "team": "Yamaha"
           },
           {
             "pos": 4,
             "name": "Eli Tomac",
-            "points": 275
+            "points": 275,
+            "team": "KTM"
           },
           {
             "pos": 5,
             "name": "Justin Cooper",
-            "points": 251
+            "points": 251,
+            "team": "Yamaha"
           },
           {
             "pos": 6,
             "name": "Chase Sexton",
-            "points": 212
+            "points": 212,
+            "team": "Kawasaki"
           },
           {
             "pos": 7,
             "name": "Joey Savatgy",
-            "points": 194
+            "points": 194,
+            "team": "Honda"
           },
           {
             "pos": 8,
             "name": "Malcolm Stewart",
-            "points": 189
+            "points": 189,
+            "team": "Husqvarna"
           },
           {
             "pos": 9,
             "name": "Justin Hill",
-            "points": 172
+            "points": 172,
+            "team": "KTM"
           },
           {
             "pos": 10,
             "name": "Jorge Prado",
-            "points": 169
+            "points": 169,
+            "team": "KTM"
           }
         ]
       },
@@ -2473,52 +2483,62 @@
           {
             "pos": 1,
             "name": "Cole Davies",
-            "points": 206
+            "points": 206,
+            "team": "Yamaha"
           },
           {
             "pos": 2,
             "name": "Seth Hammaker",
-            "points": 180
+            "points": 180,
+            "team": "Kawasaki"
           },
           {
             "pos": 3,
             "name": "Daxton Bennick",
-            "points": 160
+            "points": 160,
+            "team": "Husqvarna"
           },
           {
             "pos": 4,
             "name": "Coty Schock",
-            "points": 137
+            "points": 137,
+            "team": "Yamaha"
           },
           {
             "pos": 5,
             "name": "Nate Thrasher",
-            "points": 133
+            "points": 133,
+            "team": "Yamaha"
           },
           {
             "pos": 6,
             "name": "Devin Simonson",
-            "points": 122
+            "points": 122,
+            "team": "Yamaha"
           },
           {
             "pos": 7,
             "name": "Jo Shimoda",
-            "points": 100
+            "points": 100,
+            "team": "Honda"
           },
           {
             "pos": 8,
             "name": "Henry Miller",
-            "points": 92
+            "points": 92,
+            "team": "Kawasaki"
           },
           {
             "pos": 9,
             "name": "Derek Kelley",
-            "points": 79
+            "points": 79,
+            "team": "Kawasaki"
           },
           {
             "pos": 10,
             "name": "Nick Romano",
-            "points": 65
+            "points": 65,
+            "team": "Kawasaki"
           }
         ]
       },
@@ -2528,52 +2548,62 @@
           {
             "pos": 1,
             "name": "Haiden Deegan",
-            "points": 215
+            "points": 215,
+            "team": "Yamaha"
           },
           {
             "pos": 2,
             "name": "Levi Kitchen",
-            "points": 155
+            "points": 155,
+            "team": "Kawasaki"
           },
           {
             "pos": 3,
             "name": "Max Anstie",
-            "points": 148
+            "points": 148,
+            "team": "Yamaha"
           },
           {
             "pos": 4,
             "name": "Ryder DiFrancesco",
-            "points": 147
+            "points": 147,
+            "team": "Husqvarna"
           },
           {
             "pos": 5,
             "name": "Max Vohland",
-            "points": 130
+            "points": 130,
+            "team": "Yamaha"
           },
           {
             "pos": 6,
             "name": "Michael Mosiman",
-            "points": 107
+            "points": 107,
+            "team": "Yamaha"
           },
           {
             "pos": 7,
             "name": "Hunter Yoder",
-            "points": 107
+            "points": 107,
+            "team": "Yamaha"
           },
           {
             "pos": 8,
             "name": "Cameron McAdoo",
-            "points": 106
+            "points": 106,
+            "team": "Kawasaki"
           },
           {
             "pos": 9,
             "name": "Parker Ross",
-            "points": 82
+            "points": 82,
+            "team": "Yamaha"
           },
           {
             "pos": 10,
             "name": "Joshua Varize",
-            "points": 80
+            "points": 80,
+            "team": "Kawasaki"
           }
         ]
       }
