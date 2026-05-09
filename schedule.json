@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T21:29:30.041Z",
+  "generatedAt": "2026-05-09T02:10:29.907Z",
   "events": [
     {
       "id": 101,
@@ -15591,6 +15591,270 @@
           "time": "2026-09-06T09:30:00-07:00",
           "duration": 60,
           "broadcastUS": "FS1 / FOX"
+        }
+      ]
+    },
+    {
+      "id": 2800,
+      "series": "gtwasia",
+      "name": "Sepang",
+      "circuit": "Sepang International Circuit",
+      "flag": "🇲🇾",
+      "country": "Malaysia",
+      "tz": "Asia/Kuala_Lumpur",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-04-03T11:00:00+08:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-04-03T15:40:00+08:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-04T10:25:00+08:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-04T10:47:00+08:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-04T14:15:00+08:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-05T11:30:00+08:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2801,
+      "series": "gtwasia",
+      "name": "Mandalika",
+      "circuit": "Pertamina Mandalika International Circuit",
+      "flag": "🇮🇩",
+      "country": "Indonesia",
+      "tz": "Asia/Makassar",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-01T10:50:00+08:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-05-01T14:55:00+08:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-02T09:15:00+08:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-02T09:37:00+08:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-02T13:30:00+08:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-03T11:30:00+08:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2802,
+      "series": "gtwasia",
+      "name": "Shanghai",
+      "circuit": "Shanghai International Circuit",
+      "flag": "🇨🇳",
+      "country": "China",
+      "tz": "Asia/Shanghai",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-04T09:20:00+08:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-06-04T14:55:00+08:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-05T08:30:00+08:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-05T08:45:00+08:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-05T14:35:00+08:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-06T10:50:00+08:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2803,
+      "series": "gtwasia",
+      "name": "Fuji",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-12T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2804,
+      "series": "gtwasia",
+      "name": "Okayama",
+      "circuit": "Okayama International Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-30T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 2805,
+      "series": "gtwasia",
+      "name": "Beijing",
+      "circuit": "Beijing Street Circuit",
+      "flag": "🇨🇳",
+      "country": "China",
+      "tz": "Asia/Shanghai",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-10-03T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-03T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-03T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-03T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-04T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
         }
       ]
     }

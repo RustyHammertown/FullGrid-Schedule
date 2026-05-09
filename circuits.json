@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-08T20:04:08.926Z",
+  "generatedAt": "2026-05-09T02:10:30.662Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1869,6 +1869,26 @@
       "lon": 138.6155,
       "city": "Adelaide",
       "region": "South Australia"
+    },
+    "Pertamina Mandalika International Circuit": {
+      "lat": -8.8985,
+      "lon": 116.3052,
+      "city": "Lombok",
+      "region": "West Nusa Tenggara",
+      "website": "https://mgpa.id"
+    },
+    "Okayama International Circuit": {
+      "lat": 34.9142,
+      "lon": 134.2203,
+      "city": "Mimasaka",
+      "region": "Okayama",
+      "website": "https://www.okayama-international-circuit.jp"
+    },
+    "Beijing Street Circuit": {
+      "lat": 39.9905,
+      "lon": 116.3878,
+      "city": "Beijing",
+      "website": "https://www.gt-world-challenge-asia.com/event/83/beijing-street-circuit"
     },
     "Pavellò Toni Martí": {
       "lat": 42.5049,
