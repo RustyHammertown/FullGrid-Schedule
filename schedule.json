@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T22:05:42.508Z",
+  "generatedAt": "2026-05-09T22:17:34.049Z",
   "events": [
     {
       "id": 101,
@@ -19370,6 +19370,150 @@
         {
           "name": "Race 2",
           "time": "2026-09-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4400,
+      "series": "mustangcupau",
+      "name": "Phillip Island",
+      "circuit": "Phillip Island Grand Prix Circuit",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Melbourne",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-03-28T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-29T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4401,
+      "series": "mustangcupau",
+      "name": "The Bend",
+      "circuit": "The Bend Motorsport Park",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Adelaide",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4402,
+      "series": "mustangcupau",
+      "name": "Queensland Raceway",
+      "circuit": "Queensland Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Brisbane",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-14T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4403,
+      "series": "mustangcupau",
+      "name": "Hidden Valley",
+      "circuit": "Hidden Valley Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Darwin",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4404,
+      "series": "mustangcupau",
+      "name": "Sydney Motorsport Park",
+      "circuit": "Sydney Motorsport Park",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Sydney",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4405,
+      "series": "mustangcupau",
+      "name": "Sandown",
+      "circuit": "Sandown International Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Melbourne",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-11-01T23:00:00+11:00",
           "tbd": true,
           "broadcastUS": "YouTube/FordRacing"
         }
