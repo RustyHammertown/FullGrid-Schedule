@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T22:44:42.813Z",
+  "generatedAt": "2026-05-09T23:42:40.744Z",
   "groups": {
     "f1": [
       {
@@ -153,6 +153,20 @@
         "sessions": [
           "Practice 1",
           "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "supercup": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
         ]
       },
       {

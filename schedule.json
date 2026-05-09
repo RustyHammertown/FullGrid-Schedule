@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T22:21:27.434Z",
+  "generatedAt": "2026-05-09T23:42:40.018Z",
   "events": [
     {
       "id": 101,
@@ -19536,6 +19536,215 @@
           "time": "2026-11-01T23:00:00+11:00",
           "tbd": true,
           "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4500,
+      "series": "supercup",
+      "name": "Monaco",
+      "circuit": "Circuit de Monaco",
+      "flag": "🇲🇨",
+      "country": "Monaco",
+      "tz": "Europe/Monaco",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4501,
+      "series": "supercup",
+      "name": "Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-14T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4502,
+      "series": "supercup",
+      "name": "Red Bull Ring",
+      "circuit": "Red Bull Ring",
+      "flag": "🇦🇹",
+      "country": "Austria",
+      "tz": "Europe/Vienna",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-28T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4503,
+      "series": "supercup",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-17T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race",
+          "time": "2026-07-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4504,
+      "series": "supercup",
+      "name": "Hungaroring",
+      "circuit": "Hungaroring",
+      "flag": "🇭🇺",
+      "country": "Hungary",
+      "tz": "Europe/Budapest",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4505,
+      "series": "supercup",
+      "name": "Zandvoort",
+      "circuit": "Circuit Zandvoort",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-21T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4506,
+      "series": "supercup",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "F1 TV"
         }
       ]
     }
