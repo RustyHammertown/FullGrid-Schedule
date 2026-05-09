@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T23:42:40.744Z",
+  "generatedAt": "2026-05-09T23:55:09.837Z",
   "groups": {
     "f1": [
       {
@@ -532,6 +532,8 @@
         "label": "Practice",
         "sessions": [
           "Practice",
+          "Practice 1",
+          "Practice 2",
           "Practice (TBD)"
         ]
       },

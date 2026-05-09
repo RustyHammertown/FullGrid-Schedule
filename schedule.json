@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T23:42:40.018Z",
+  "generatedAt": "2026-05-09T23:55:09.131Z",
   "events": [
     {
       "id": 101,
@@ -6930,10 +6930,20 @@
       "round": 14,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-05-16T09:30:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-16T10:35:00-04:00",
+          "duration": 60
+        },
+        {
           "name": "Race",
-          "time": "2026-05-16T08:00:00-04:00",
-          "tbd": true,
-          "laps": 200
+          "time": "2026-05-16T16:00:00-04:00",
+          "laps": 200,
+          "broadcastUS": "The CW"
         }
       ]
     },
@@ -8659,9 +8669,23 @@
       "round": 1,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-16T12:45:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-16T14:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-16T17:35:00-04:00",
+          "duration": 45
+        },
+        {
           "name": "Race",
-          "time": "2026-05-17T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-05-17T14:00:00-04:00",
           "laps": 60,
           "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries"
         }
@@ -18978,15 +19002,30 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Race 1",
+          "name": "Practice 1",
+          "time": "2026-05-09T09:00:00+02:00",
+          "duration": 90
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-05-09T14:00:00+02:00",
-          "tbd": true,
+          "duration": 90
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T17:50:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-10T09:25:00+02:00",
+          "duration": 50,
           "broadcastUS": "YouTube/LamborghiniSquadraCorse"
         },
         {
           "name": "Race 2",
-          "time": "2026-05-10T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-10T15:30:00+02:00",
+          "duration": 50,
           "broadcastUS": "YouTube/LamborghiniSquadraCorse"
         }
       ]
