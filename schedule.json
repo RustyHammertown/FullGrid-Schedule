@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T22:17:34.049Z",
+  "generatedAt": "2026-05-09T22:21:27.434Z",
   "events": [
     {
       "id": 101,
@@ -19410,15 +19410,35 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-08T12:00:00+09:30",
+          "duration": 20
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-08T15:20:00+09:30",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-09T09:05:00+09:30",
+          "duration": 20
+        },
+        {
           "name": "Race 1",
-          "time": "2026-05-09T21:30:00+09:30",
-          "tbd": true,
+          "time": "2026-05-09T12:00:00+09:30",
+          "duration": 40,
           "broadcastUS": "YouTube/FordRacing"
         },
         {
+          "name": "Qualifying 2",
+          "time": "2026-05-10T08:45:00+09:30",
+          "duration": 20
+        },
+        {
           "name": "Race 2",
-          "time": "2026-05-10T21:30:00+09:30",
-          "tbd": true,
+          "time": "2026-05-10T12:55:00+09:30",
+          "duration": 40,
           "broadcastUS": "YouTube/FordRacing"
         }
       ]
