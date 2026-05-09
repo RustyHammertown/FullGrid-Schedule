@@ -1,0 +1,888 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-09T22:44:42.813Z",
+  "groups": {
+    "f1": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 3"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Sprint Qualifying"
+        ]
+      },
+      {
+        "label": "Sprint",
+        "sessions": [
+          "Sprint"
+        ]
+      }
+    ],
+    "f2": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      },
+      {
+        "label": "Sprint",
+        "sessions": [
+          "Sprint Race",
+          "Sprint Race (TBD)"
+        ]
+      }
+    ],
+    "f3": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      },
+      {
+        "label": "Sprint",
+        "sessions": [
+          "Sprint Race"
+        ]
+      }
+    ],
+    "motogp": [
+      {
+        "label": "Race",
+        "sessions": [
+          "Race"
+        ]
+      },
+      {
+        "label": "Sprint",
+        "sessions": [
+          "Sprint"
+        ]
+      }
+    ],
+    "supercross": [
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      },
+      {
+        "label": "250 Class",
+        "sessions": [
+          "250 Main",
+          "250 East Main",
+          "250 West Main",
+          "250 Showdown"
+        ]
+      },
+      {
+        "label": "450 Class",
+        "sessions": [
+          "450 Main"
+        ]
+      }
+    ],
+    "smx": [
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      },
+      {
+        "label": "250 Class",
+        "sessions": [
+          "250 Main"
+        ]
+      },
+      {
+        "label": "450 Class",
+        "sessions": [
+          "450 Main"
+        ]
+      }
+    ],
+    "promotocross": [
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      },
+      {
+        "label": "250 Class",
+        "sessions": [
+          "250 Moto 1",
+          "250 Moto 2"
+        ]
+      },
+      {
+        "label": "450 Class",
+        "sessions": [
+          "450 Moto 1",
+          "450 Moto 2"
+        ]
+      }
+    ],
+    "carrera": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "indycar": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Final Practice",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Pole Day Qualifying",
+          "Qualifying (TBD)"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warmup",
+          "Warmup (TBD)"
+        ]
+      }
+    ],
+    "indynxt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "gtwasia": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Pre-Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "japancup": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Pre-Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "ffsagt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "gt4america": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "gt4australia": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "tcamerica": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "ffsatourisme": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "gtamerica": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "grcup": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "gt3revival": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Pre-Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "gt4european": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "mclarena": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "mclarene": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Free Practice 2",
+          "Free Practice 3",
+          "Free Practice 4"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "nascar": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Duel 1",
+          "Duel 2",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "oreilly": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "truck": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "arca": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "arcaeast": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "arcawest": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "nascarcanada": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "whelen": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Final Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "gtwce": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying 3",
+          "Qualifying 4"
+        ]
+      }
+    ],
+    "elms": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying LMGT3",
+          "Qualifying LMP3",
+          "Qualifying LMP2 Pro/Am",
+          "Qualifying LMP2",
+          "Qualifying LMGT3 (TBD)",
+          "Qualifying LMP3 (TBD)",
+          "Qualifying LMP2 Pro/Am (TBD)",
+          "Qualifying LMP2 (TBD)"
+        ]
+      }
+    ],
+    "fe": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "wec": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice 3",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)",
+          "Practice 3 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying HYPERCAR",
+          "Qualifying LMGT3",
+          "Hyperpole",
+          "Hyperpole HYPERCAR",
+          "Hyperpole LMGT3",
+          "Qualifying (TBD)",
+          "Hyperpole (TBD)"
+        ]
+      }
+    ],
+    "imsa": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice 3",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)",
+          "Practice 3 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying GTP",
+          "Qualifying GTD",
+          "Qualifying GTD PRO",
+          "Qualifying LMP2",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "gtwca": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "gtwau": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "pilot": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying TCR",
+          "Qualifying GS",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "trofeo": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "trofeoeu": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "trofeoasia": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "mx5": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "mustang": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "mustangcup": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice 3"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "mustangcupau": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "vpscc": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "nhra": [
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying Day 1",
+          "Qualifying Day 2",
+          "Qualifying Day 1 (TBD)",
+          "Qualifying Day 2 (TBD)"
+        ]
+      }
+    ]
+  }
+}
