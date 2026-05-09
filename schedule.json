@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T21:29:02.015Z",
+  "generatedAt": "2026-05-09T22:05:42.508Z",
   "events": [
     {
       "id": 101,
@@ -19228,6 +19228,150 @@
           "time": "2026-10-23T14:00:00+02:00",
           "tbd": true,
           "broadcastUS": "YouTube/LamborghiniSquadraCorse"
+        }
+      ]
+    },
+    {
+      "id": 4300,
+      "series": "mustangcup",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-03-07T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-08T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4301,
+      "series": "mustangcup",
+      "name": "Barber Motorsports Park",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-03-28T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-29T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4302,
+      "series": "mustangcup",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-08T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-09T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4303,
+      "series": "mustangcup",
+      "name": "Virginia International Raceway",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4304,
+      "series": "mustangcup",
+      "name": "Road America",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-16T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        }
+      ]
+    },
+    {
+      "id": 4305,
+      "series": "mustangcup",
+      "name": "Road Atlanta",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/FordRacing"
         }
       ]
     }
