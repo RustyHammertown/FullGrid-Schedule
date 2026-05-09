@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T14:15:43.896Z",
+  "generatedAt": "2026-05-09T14:30:39.668Z",
   "events": [
     {
       "id": 101,
@@ -16509,6 +16509,282 @@
         {
           "name": "Race 2",
           "time": "2026-10-11T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3200,
+      "series": "gt4australia",
+      "name": "GT Festival Phillip Island",
+      "circuit": "Phillip Island Grand Prix Circuit",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Melbourne",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-27T11:15:00+11:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-27T14:55:00+11:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-03-28T09:10:00+11:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-03-28T09:30:00+11:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-03-28T12:55:00+11:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-29T11:10:00+11:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3201,
+      "series": "gt4australia",
+      "name": "GT Festival The Bend",
+      "circuit": "The Bend Motorsport Park",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Adelaide",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-08T10:25:00+09:30",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-08T13:45:00+09:30",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-09T08:15:00+09:30",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-09T08:40:00+09:30",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T13:05:00+09:30",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T09:30:00+09:30",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3202,
+      "series": "gt4australia",
+      "name": "GT Festival Queensland",
+      "circuit": "Queensland Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Brisbane",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-12T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-12T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-14T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3203,
+      "series": "gt4australia",
+      "name": "GT Festival Darwin",
+      "circuit": "Hidden Valley Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Darwin",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-24T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-24T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3204,
+      "series": "gt4australia",
+      "name": "GT Festival Sydney",
+      "circuit": "Sydney Motorsport Park",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Sydney",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-18T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-18T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3205,
+      "series": "gt4australia",
+      "name": "GT Festival Sandown",
+      "circuit": "Sandown International Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Melbourne",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-30T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-30T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-11-01T23:00:00+11:00",
           "tbd": true,
           "broadcastUS": "YouTube/GTWorld"
         }

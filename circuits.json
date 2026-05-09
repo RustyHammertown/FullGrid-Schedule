@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T03:02:15.484Z",
+  "generatedAt": "2026-05-09T14:30:40.460Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1910,6 +1910,13 @@
       "city": "Prenois",
       "region": "Côte-d'Or",
       "website": "https://www.dijon-prenois.com"
+    },
+    "Sandown International Raceway": {
+      "lat": -37.9504,
+      "lon": 145.1666,
+      "city": "Springvale",
+      "region": "Victoria",
+      "website": "https://www.sandownraceway.com.au"
     },
     "Pavellò Toni Martí": {
       "lat": 42.5049,
