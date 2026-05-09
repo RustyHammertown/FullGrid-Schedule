@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T19:51:20.276Z",
+  "generatedAt": "2026-05-09T20:00:17.093Z",
   "events": [
     {
       "id": 101,
@@ -17933,6 +17933,241 @@
         {
           "name": "Race 2",
           "time": "2026-10-11T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3700,
+      "series": "gt3revival",
+      "name": "Paul Ricard",
+      "circuit": "Circuit Paul Ricard",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-04-10T18:30:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-04-11T11:10:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-11T16:45:00+02:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-11T17:05:00+02:00",
+          "duration": 15,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-12T09:30:00+02:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T15:00:00+02:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3701,
+      "series": "gt3revival",
+      "name": "Spa Classic",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-05-22T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-05-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3702,
+      "series": "gt3revival",
+      "name": "Le Mans Classic Legend",
+      "circuit": "Circuit de la Sarthe",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3703,
+      "series": "gt3revival",
+      "name": "Nürburgring",
+      "circuit": "Nürburgring GP",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        }
+      ]
+    },
+    {
+      "id": 3704,
+      "series": "gt3revival",
+      "name": "Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/GTWorld"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-04T14:00:00+02:00",
           "tbd": true,
           "broadcastUS": "YouTube/GTWorld"
         }
