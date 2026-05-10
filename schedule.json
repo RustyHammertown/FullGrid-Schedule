@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:01:36.253Z",
+  "generatedAt": "2026-05-10T20:11:21.596Z",
   "events": [
     {
       "id": 101,
@@ -24062,6 +24062,57 @@
       ]
     },
     {
+      "id": 5063,
+      "series": "caterhamuk",
+      "name": "Croft",
+      "circuit": "Croft",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-03T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5064,
+      "series": "caterhamuk",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-31T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5065,
+      "series": "caterhamuk",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5060,
       "series": "caterhamuk",
       "name": "Knockhill",
@@ -24069,7 +24120,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 1,
+      "round": 4,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24101,7 +24152,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 2,
+      "round": 5,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24126,6 +24177,40 @@
       ]
     },
     {
+      "id": 5066,
+      "series": "caterhamuk",
+      "name": "Snetterton (Endurance East)",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-29T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5067,
+      "series": "caterhamuk",
+      "name": "Snetterton (Speedfest East)",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5062,
       "series": "caterhamuk",
       "name": "Brands Hatch GP",
@@ -24133,7 +24218,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 3,
+      "round": 8,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24158,6 +24243,23 @@
       ]
     },
     {
+      "id": 5071,
+      "series": "caterham310r",
+      "name": "Cadwell Park",
+      "circuit": "Cadwell Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-12T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5070,
       "series": "caterham310r",
       "name": "Brands Hatch Indy",
@@ -24165,7 +24267,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 1,
+      "round": 2,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24190,6 +24292,159 @@
       ]
     },
     {
+      "id": 5072,
+      "series": "caterham310r",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-31T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5073,
+      "series": "caterham310r",
+      "name": "Donington Park (Seven Heaven)",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-20T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5074,
+      "series": "caterham310r",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5075,
+      "series": "caterham310r",
+      "name": "Knockhill (Highland Fling)",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-16T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5076,
+      "series": "caterham310r",
+      "name": "Snetterton (Endurance East)",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-29T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5077,
+      "series": "caterham310r",
+      "name": "Snetterton (Speedfest East)",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5081,
+      "series": "minise7en",
+      "name": "Donington GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-12T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5082,
+      "series": "minise7en",
+      "name": "Snetterton 200",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-10T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5083,
+      "series": "minise7en",
+      "name": "Silverstone National",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-14T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5080,
       "series": "minise7en",
       "name": "Thruxton",
@@ -24197,7 +24452,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 1,
+      "round": 4,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24217,6 +24472,108 @@
       ]
     },
     {
+      "id": 5084,
+      "series": "minise7en",
+      "name": "Brands Mini Festival",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-23T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5085,
+      "series": "minise7en",
+      "name": "Castle Combe",
+      "circuit": "Castle Combe",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5086,
+      "series": "minise7en",
+      "name": "Silverstone International",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5091,
+      "series": "minimiglia",
+      "name": "Donington GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-12T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5092,
+      "series": "minimiglia",
+      "name": "Snetterton 200",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-10T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5093,
+      "series": "minimiglia",
+      "name": "Silverstone National",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-14T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5090,
       "series": "minimiglia",
       "name": "Thruxton",
@@ -24224,7 +24581,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 1,
+      "round": 4,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24244,6 +24601,74 @@
       ]
     },
     {
+      "id": 5094,
+      "series": "minimiglia",
+      "name": "Brands Mini Festival",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-23T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5095,
+      "series": "minimiglia",
+      "name": "Castle Combe",
+      "circuit": "Castle Combe",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5096,
+      "series": "minimiglia",
+      "name": "Silverstone International",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5101,
+      "series": "legendselite",
+      "name": "Silverstone National",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-05T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5100,
       "series": "legendselite",
       "name": "Donington Park",
@@ -24251,7 +24676,7 @@
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
-      "round": 1,
+      "round": 2,
       "sessions": [
         {
           "name": "Free Practice",
@@ -24287,6 +24712,91 @@
           "name": "Race 6",
           "time": "2026-04-19T18:10:00+01:00",
           "duration": 12
+        }
+      ]
+    },
+    {
+      "id": 5102,
+      "series": "legendselite",
+      "name": "Brands Hatch GP",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-03T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5103,
+      "series": "legendselite",
+      "name": "Brands Hatch Indy (American Speedfest)",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5104,
+      "series": "legendselite",
+      "name": "Snetterton (USA)",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5105,
+      "series": "legendselite",
+      "name": "Oulton Park International (US Autoshow)",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5106,
+      "series": "legendselite",
+      "name": "Donington Park GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
         }
       ]
     },
@@ -24346,7 +24856,7 @@
     {
       "id": 5111,
       "series": "scotlegends",
-      "name": "Knockhill",
+      "name": "Knockhill (BTCC)",
       "circuit": "Knockhill",
       "flag": "🇬🇧",
       "country": "Great Britain",
@@ -24397,14 +24907,99 @@
       ]
     },
     {
-      "id": 5120,
+      "id": 5112,
+      "series": "scotlegends",
+      "name": "Knockhill (Round 3)",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5113,
+      "series": "scotlegends",
+      "name": "Knockhill (Round 4)",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5114,
+      "series": "scotlegends",
+      "name": "Knockhill (Final)",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5121,
       "series": "ctcrc",
-      "name": "Oulton Park",
-      "circuit": "Oulton Park",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
       "flag": "🇬🇧",
       "country": "Great Britain",
       "tz": "Europe/London",
       "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-22T12:00:00+00:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5122,
+      "series": "ctcrc",
+      "name": "Cadwell Park",
+      "circuit": "Cadwell Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-12T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5120,
+      "series": "ctcrc",
+      "name": "Oulton Park (BTCC)",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
       "sessions": [
         {
           "name": "Qualifying",
@@ -24425,6 +25020,74 @@
           "name": "Race 3",
           "time": "2026-06-07T15:55:00+01:00",
           "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5123,
+      "series": "ctcrc",
+      "name": "Thruxton (Retro)",
+      "circuit": "Thruxton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-05T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5124,
+      "series": "ctcrc",
+      "name": "Brands Hatch Indy",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-02T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5125,
+      "series": "ctcrc",
+      "name": "Snetterton 300",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5126,
+      "series": "ctcrc",
+      "name": "Silverstone International",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-04T13:00:00+01:00",
+          "tbd": true
         }
       ]
     }

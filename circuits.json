@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:01:39.746Z",
+  "generatedAt": "2026-05-10T20:11:22.332Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -2083,6 +2083,20 @@
       "city": "Pembrey",
       "region": "Carmarthenshire",
       "website": "https://www.barc.net/pembrey-circuit/"
+    },
+    "Cadwell Park": {
+      "lat": 53.3119,
+      "lon": 0.0608,
+      "city": "Louth",
+      "region": "Lincolnshire",
+      "website": "https://www.cadwellpark.co.uk"
+    },
+    "Castle Combe": {
+      "lat": 51.492,
+      "lon": -2.2275,
+      "city": "Castle Combe",
+      "region": "Wiltshire",
+      "website": "https://www.castlecombecircuit.co.uk"
     }
   }
 }
