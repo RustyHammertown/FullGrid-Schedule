@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T23:55:09.837Z",
+  "generatedAt": "2026-05-10T00:08:33.821Z",
   "groups": {
     "f1": [
       {
@@ -167,6 +167,53 @@
         "label": "Practice",
         "sessions": [
           "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "pscna": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pscw": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pec": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
         ]
       },
       {

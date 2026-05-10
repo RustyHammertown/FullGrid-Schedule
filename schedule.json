@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T23:55:09.131Z",
+  "generatedAt": "2026-05-10T00:08:32.442Z",
   "events": [
     {
       "id": 101,
@@ -19784,6 +19784,390 @@
           "time": "2026-09-06T14:00:00+02:00",
           "tbd": true,
           "broadcastUS": "F1 TV"
+        }
+      ]
+    },
+    {
+      "id": 4600,
+      "series": "pscna",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-03-07T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-08T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4601,
+      "series": "pscna",
+      "name": "Barber Motorsports Park",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-03-28T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-29T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4602,
+      "series": "pscna",
+      "name": "Sonoma Raceway",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-04-11T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4603,
+      "series": "pscna",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-08T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-09T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4604,
+      "series": "pscna",
+      "name": "Virginia International Raceway",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4605,
+      "series": "pscna",
+      "name": "Road America",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-16T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4606,
+      "series": "pscna",
+      "name": "Road Atlanta",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4700,
+      "series": "pscw",
+      "name": "Apex Motor Club",
+      "circuit": "Apex Motor Club",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Phoenix",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-02-07T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-02-08T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4701,
+      "series": "pscw",
+      "name": "Sonoma Raceway",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-04-11T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4702,
+      "series": "pscw",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-08T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-09T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4703,
+      "series": "pscw",
+      "name": "Sonoma (Velocity Invitational)",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4704,
+      "series": "pscw",
+      "name": "Road America",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-16T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4705,
+      "series": "pscw",
+      "name": "Laguna Seca",
+      "circuit": "WeatherTech Raceway Laguna Seca",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4800,
+      "series": "pec",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-07T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4801,
+      "series": "pec",
+      "name": "Sonoma Raceway",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-11T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4802,
+      "series": "pec",
+      "name": "Road America",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4803,
+      "series": "pec",
+      "name": "Road Atlanta",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/PorscheSprintChallenge"
         }
       ]
     }

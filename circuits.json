@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T21:29:02.717Z",
+  "generatedAt": "2026-05-10T00:08:33.146Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -255,6 +255,13 @@
       "city": "Bathurst",
       "region": "New South Wales",
       "website": "https://www.mount-panorama.com.au"
+    },
+    "Apex Motor Club": {
+      "lat": 33.084011,
+      "lon": -112.127017,
+      "city": "Maricopa",
+      "region": "Arizona",
+      "website": "https://apexmotorclub.com"
     },
     "Inje Speedium": {
       "lat": 38.00139,
