@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:55:23.593Z",
+  "generatedAt": "2026-05-10T21:12:44.156Z",
   "events": [
     {
       "id": 101,
@@ -25145,32 +25145,32 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-05-15T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-15T12:00:00+02:00",
+          "duration": 30,
           "broadcastUS": "YouTube/TCRTV"
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-05-15T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-15T16:50:00+02:00",
+          "duration": 30,
           "broadcastUS": "YouTube/TCRTV"
         },
         {
           "name": "Qualifying",
-          "time": "2026-05-16T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-16T12:10:00+02:00",
+          "duration": 35,
           "broadcastUS": "YouTube/TCRTV"
         },
         {
           "name": "Race 1",
-          "time": "2026-05-16T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-16T17:10:00+02:00",
+          "duration": 30,
           "broadcastUS": "YouTube/TCRTV"
         },
         {
           "name": "Race 2",
-          "time": "2026-05-17T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-17T10:35:00+02:00",
+          "duration": 30,
           "broadcastUS": "YouTube/TCRTV"
         }
       ]
