@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T16:49:09.136Z",
+  "generatedAt": "2026-05-10T17:14:47.647Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -921,7 +921,8 @@
         "US": "BTCC TV",
         "AU": "BTCC TV"
       },
-      "streamUrl": "https://btcc.net/"
+      "streamUrl": "https://btcc.net/",
+      "resultsUrl": "https://btcc.net/race-results/"
     }
   }
 }
