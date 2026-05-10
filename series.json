@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:34:35.966Z",
+  "generatedAt": "2026-05-10T21:27:35.226Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1131,6 +1131,62 @@
       },
       "streamUrl": "https://www.youtube.com/@TCRTV",
       "resultsUrl": "https://europe.tcr-series.com/index.php/tcrstandings"
+    },
+    "igtopen": {
+      "id": "igtopen",
+      "label": "International GT Open",
+      "short": "GTOPEN",
+      "color": "#D97706",
+      "bg": "rgba(217,119,6,0.15)",
+      "broadcast": {
+        "UK": "YouTube/GTOPENseries",
+        "US": "YouTube/GTOPENseries",
+        "AU": "YouTube/GTOPENseries"
+      },
+      "streamUrl": "https://www.youtube.com/@GTOPENseries",
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_International_GT_Open"
+    },
+    "efo": {
+      "id": "efo",
+      "label": "Euroformula Open",
+      "short": "EFO",
+      "color": "#4338CA",
+      "bg": "rgba(67,56,202,0.15)",
+      "broadcast": {
+        "UK": "YouTube/EuroFormulaOpen",
+        "US": "YouTube/EuroFormulaOpen",
+        "AU": "YouTube/EuroFormulaOpen"
+      },
+      "streamUrl": "https://www.youtube.com/@EuroFormulaOpen",
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Euroformula_Open_Championship"
+    },
+    "gtcupeu": {
+      "id": "gtcupeu",
+      "label": "GT Cup Europe",
+      "short": "GTCUP",
+      "color": "#15803D",
+      "bg": "rgba(21,128,61,0.15)",
+      "broadcast": {
+        "UK": "YouTube/GTCupOpenSeries",
+        "US": "YouTube/GTCupOpenSeries",
+        "AU": "YouTube/GTCupOpenSeries"
+      },
+      "streamUrl": "https://www.youtube.com/@GTCupOpenSeries",
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_GT_Cup_Open_Europe"
+    },
+    "pccd": {
+      "id": "pccd",
+      "label": "Porsche Carrera Cup DE",
+      "short": "PCCD",
+      "color": "#991B1B",
+      "bg": "rgba(153,27,27,0.15)",
+      "broadcast": {
+        "UK": "YouTube/PorscheCarreraCupDeutschland",
+        "US": "YouTube/PorscheCarreraCupDeutschland",
+        "AU": "YouTube/PorscheCarreraCupDeutschland"
+      },
+      "streamUrl": "https://www.youtube.com/@PorscheCarreraCupDeutschland",
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany"
     }
   }
 }

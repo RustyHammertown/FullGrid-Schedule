@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:11:22.332Z",
+  "generatedAt": "2026-05-10T21:27:37.497Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -176,6 +176,13 @@
       "region": "Shizuoka",
       "website": "https://www.fsw.tv"
     },
+    "Hockenheimring": {
+      "lat": 49.3278,
+      "lon": 8.5658,
+      "city": "Hockenheim",
+      "region": "Baden-Württemberg",
+      "website": "https://www.hockenheimring.de"
+    },
     "Hungaroring": {
       "lat": 47.5828,
       "lon": 19.2511,
@@ -187,6 +194,13 @@
       "lon": 39.1047,
       "city": "Jeddah",
       "website": "https://saudiarabiangp.com"
+    },
+    "Lausitzring": {
+      "lat": 51.535,
+      "lon": 13.9244,
+      "city": "Klettwitz",
+      "region": "Brandenburg",
+      "website": "https://www.eurospeedway.de"
     },
     "Le Mans": {
       "lat": 47.933,
@@ -275,6 +289,13 @@
       "lon": 121.86389,
       "city": "Beilun",
       "region": "Zhejiang"
+    },
+    "Norisring": {
+      "lat": 49.4283,
+      "lon": 11.1183,
+      "city": "Nuremberg",
+      "region": "Bavaria",
+      "website": "https://www.norisring.de"
     },
     "Nürburgring GP": {
       "lat": 50.3344,

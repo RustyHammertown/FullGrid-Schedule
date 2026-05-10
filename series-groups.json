@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:34:36.677Z",
+  "generatedAt": "2026-05-10T21:27:36.672Z",
   "groups": [
     {
       "id": "bikes",
@@ -56,6 +56,7 @@
       "id": "openwheel",
       "label": "Formula / Open-wheel",
       "series": [
+        "efo",
         "f1",
         "f2",
         "f3",
@@ -121,9 +122,12 @@
             "ffsatourisme",
             "gt3revival",
             "gt4european",
+            "gtcupeu",
             "gtwce",
             "igtc",
+            "igtopen",
             "mclarene",
+            "pccd",
             "pccgb",
             "pscgb",
             "supercup",

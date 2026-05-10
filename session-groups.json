@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:34:37.319Z",
+  "generatedAt": "2026-05-10T21:27:38.218Z",
   "groups": {
     "f1": [
       {
@@ -1223,6 +1223,73 @@
           "Free Practice 2",
           "Practice 1",
           "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "igtopen": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2",
+          "Free Practice 3",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "efo": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "gtcupeu": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccd": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {

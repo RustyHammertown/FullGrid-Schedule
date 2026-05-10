@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:34:38.115Z",
+  "generatedAt": "2026-05-10T21:27:35.947Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1570,6 +1570,78 @@
         {
           "url": "https://europe.tcr-series.com/index.php/tcrstandings",
           "label": "TCR Europe — standings (race-by-race)"
+        }
+      ]
+    },
+    "igtopen": {
+      "schedule": [
+        {
+          "url": "https://www.gtopenseries.com/",
+          "label": "International GT Open — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_International_GT_Open",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_International_GT_Open",
+          "label": "Wikipedia (race-by-race)"
+        }
+      ]
+    },
+    "efo": {
+      "schedule": [
+        {
+          "url": "https://www.euroformula.com/",
+          "label": "Euroformula Open — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Euroformula_Open_Championship",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Euroformula_Open_Championship",
+          "label": "Wikipedia (race-by-race)"
+        }
+      ]
+    },
+    "gtcupeu": {
+      "schedule": [
+        {
+          "url": "https://gtcup.gtsport.es/",
+          "label": "GT Cup Open Europe — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_GT_Cup_Open_Europe",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_GT_Cup_Open_Europe",
+          "label": "Wikipedia (race-by-race)"
+        }
+      ]
+    },
+    "pccd": {
+      "schedule": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-deutschland",
+          "label": "Porsche Carrera Cup DE — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany",
+          "label": "Wikipedia (race-by-race)"
         }
       ]
     }
