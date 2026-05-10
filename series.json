@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:32:21.657Z",
+  "generatedAt": "2026-05-10T02:25:53.832Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -896,6 +896,19 @@
       },
       "streamUrl": "https://plus.fiawec.com/",
       "resultsUrl": "https://www.europeanlemansseries.com/en/page/results"
+    },
+    "supercars": {
+      "id": "supercars",
+      "label": "Supercars Championship",
+      "short": "SCAR",
+      "color": "#FACC15",
+      "bg": "rgba(250,204,21,0.15)",
+      "broadcast": {
+        "AU": "Fox Sports / 7mate",
+        "US": "Supercars+",
+        "UK": "Supercars+"
+      },
+      "streamUrl": "https://www.supercars.com/"
     }
   }
 }

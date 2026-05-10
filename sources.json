@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:40:57.995Z",
+  "generatedAt": "2026-05-10T02:25:55.893Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1246,6 +1246,24 @@
         {
           "url": "https://www.porschesprint.com/",
           "label": "Porsche Sprint Challenge — official"
+        }
+      ]
+    },
+    "supercars": {
+      "schedule": [
+        {
+          "url": "https://www.supercars.com/calendar",
+          "label": "Official 2026 calendar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Supercars_Championship",
+          "label": "Wikipedia (full season + per-round detail)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Supercars_Championship",
+          "label": "Wikipedia (race-by-race results)"
         }
       ]
     }

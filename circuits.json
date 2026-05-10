@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:08:33.146Z",
+  "generatedAt": "2026-05-10T02:25:55.205Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1889,6 +1889,32 @@
       "lon": 138.6155,
       "city": "Adelaide",
       "region": "South Australia"
+    },
+    "Symmons Plains Raceway": {
+      "lat": -41.5319,
+      "lon": 147.2264,
+      "city": "Launceston",
+      "region": "Tasmania",
+      "website": "https://symmonsplainsraceway.com.au"
+    },
+    "Barbagallo Raceway": {
+      "lat": -31.6361,
+      "lon": 115.7575,
+      "city": "Wanneroo",
+      "region": "Western Australia",
+      "website": "https://www.barbagalloraceway.com.au"
+    },
+    "Townsville Street Circuit": {
+      "lat": -19.2614,
+      "lon": 146.8078,
+      "city": "Townsville",
+      "region": "Queensland"
+    },
+    "Surfers Paradise Street Circuit": {
+      "lat": -27.9961,
+      "lon": 153.4311,
+      "city": "Surfers Paradise",
+      "region": "Queensland"
     },
     "Pertamina Mandalika International Circuit": {
       "lat": -8.8985,

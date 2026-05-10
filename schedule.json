@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:08:32.442Z",
+  "generatedAt": "2026-05-10T02:25:53.124Z",
   "events": [
     {
       "id": 101,
@@ -20168,6 +20168,186 @@
           "time": "2026-09-12T08:00:00-04:00",
           "tbd": true,
           "broadcastUS": "YouTube/PorscheSprintChallenge"
+        }
+      ]
+    },
+    {
+      "id": 4900,
+      "series": "supercars",
+      "name": "Tyrepower Tasmania Super 440",
+      "circuit": "Symmons Plains Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Hobart",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-24T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4901,
+      "series": "supercars",
+      "name": "betr Darwin Triple Crown",
+      "circuit": "Hidden Valley Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Darwin",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-21T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4902,
+      "series": "supercars",
+      "name": "NTI Townsville 500",
+      "circuit": "Townsville Street Circuit",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Brisbane",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-12T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4903,
+      "series": "supercars",
+      "name": "Perth Super 440",
+      "circuit": "Barbagallo Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Perth",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-02T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4904,
+      "series": "supercars",
+      "name": "Century Batteries Ipswich Super 440",
+      "circuit": "Queensland Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Brisbane",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-23T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4905,
+      "series": "supercars",
+      "name": "AirTouch 500 at The Bend",
+      "circuit": "The Bend Motorsport Park",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Adelaide",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T21:30:00+09:30",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4906,
+      "series": "supercars",
+      "name": "Repco Bathurst 1000",
+      "circuit": "Mount Panorama",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Sydney",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-11T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4907,
+      "series": "supercars",
+      "name": "Boost Mobile Gold Coast 500",
+      "circuit": "Surfers Paradise Street Circuit",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Brisbane",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-25T22:00:00+10:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4908,
+      "series": "supercars",
+      "name": "Penrite Oil Sandown 500",
+      "circuit": "Sandown International Raceway",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Melbourne",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-08T23:00:00+11:00",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
+        }
+      ]
+    },
+    {
+      "id": 4909,
+      "series": "supercars",
+      "name": "bp Adelaide Grand Final",
+      "circuit": "Adelaide Street Circuit",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Adelaide",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-29T22:30:00+10:30",
+          "tbd": true,
+          "broadcastUS": "Supercars+"
         }
       ]
     }

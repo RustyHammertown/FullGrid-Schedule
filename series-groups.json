@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:40:57.314Z",
+  "generatedAt": "2026-05-10T02:25:54.508Z",
   "groups": [
     {
       "id": "bikes",
@@ -125,6 +125,13 @@
             "wec"
           ]
         }
+      ]
+    },
+    {
+      "id": "supercars",
+      "label": "Supercars",
+      "series": [
+        "supercars"
       ]
     }
   ]
