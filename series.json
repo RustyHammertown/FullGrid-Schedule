@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T17:14:47.647Z",
+  "generatedAt": "2026-05-10T18:47:33.728Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -27,6 +27,32 @@
         "AU": "Fox Sports"
       },
       "resultsUrl": "https://www.motogp.com/en/gp-results"
+    },
+    "moto2": {
+      "id": "moto2",
+      "label": "Moto2",
+      "short": "Moto2",
+      "color": "#0EA5E9",
+      "bg": "rgba(14,165,233,0.15)",
+      "broadcast": {
+        "US": "FS1 / FS2 / MotoGP+",
+        "UK": "TNT Sports",
+        "AU": "Fox Sports"
+      },
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship"
+    },
+    "moto3": {
+      "id": "moto3",
+      "label": "Moto3",
+      "short": "Moto3",
+      "color": "#22C55E",
+      "bg": "rgba(34,197,94,0.15)",
+      "broadcast": {
+        "US": "FS1 / FS2 / MotoGP+",
+        "UK": "TNT Sports",
+        "AU": "Fox Sports"
+      },
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship"
     },
     "supercross": {
       "id": "supercross",

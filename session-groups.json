@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T16:49:11.123Z",
+  "generatedAt": "2026-05-10T18:47:35.079Z",
   "groups": {
     "f1": [
       {
@@ -79,6 +79,42 @@
         "label": "Sprint",
         "sessions": [
           "Sprint"
+        ]
+      }
+    ],
+    "moto2": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "moto3": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

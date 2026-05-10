@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T17:22:03.894Z",
+  "generatedAt": "2026-05-10T18:47:33.035Z",
   "events": [
     {
       "id": 101,
@@ -1536,6 +1536,708 @@
           "time": "2026-11-29T13:00:00+01:00",
           "tbd": true,
           "laps": 27,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "series": "moto2",
+      "name": "Thailand Grand Prix",
+      "circuit": "Chang International Circuit, Buriram",
+      "flag": "🇹🇭",
+      "country": "Thailand",
+      "tz": "Asia/Bangkok",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-01T13:15:00+07:00",
+          "laps": 23,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/tha/moto2/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "series": "moto2",
+      "name": "Brazilian Grand Prix",
+      "circuit": "Goiânia",
+      "flag": "🇧🇷",
+      "country": "Brazil",
+      "tz": "America/Sao_Paulo",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-22T13:15:00-03:00",
+          "laps": 22,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/moto2/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "series": "moto2",
+      "name": "Americas Grand Prix",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-29T12:15:00-05:00",
+          "laps": 16,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/moto2/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "series": "moto2",
+      "name": "Spanish Grand Prix",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-26T12:15:00+02:00",
+          "laps": 22,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/spa/moto2/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "series": "moto2",
+      "name": "French Grand Prix",
+      "circuit": "Le Mans",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-10T12:15:00+02:00",
+          "laps": 25,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "series": "moto2",
+      "name": "Catalan Grand Prix",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-17T12:15:00+02:00",
+          "laps": 21,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "series": "moto2",
+      "name": "Italian Grand Prix",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-31T12:15:00+02:00",
+          "laps": 19,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "series": "moto2",
+      "name": "Hungarian Grand Prix",
+      "circuit": "Balaton Park",
+      "flag": "🇭🇺",
+      "country": "Hungary",
+      "tz": "Europe/Budapest",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-07T12:15:00+02:00",
+          "laps": 22,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "series": "moto2",
+      "name": "Czech Grand Prix",
+      "circuit": "Automotodrom Brno",
+      "flag": "🇨🇿",
+      "country": "Czech Republic",
+      "tz": "Europe/Prague",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-21T12:15:00+02:00",
+          "laps": 18,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "series": "moto2",
+      "name": "Dutch TT",
+      "circuit": "TT Circuit Assen",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-28T12:15:00+02:00",
+          "laps": 23,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "series": "moto2",
+      "name": "German Grand Prix",
+      "circuit": "Sachsenring",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 11,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-12T12:15:00+02:00",
+          "laps": 27,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "series": "moto2",
+      "name": "British Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 12,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-09T11:15:00+01:00",
+          "laps": 17,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "series": "moto2",
+      "name": "Aragón Grand Prix",
+      "circuit": "MotorLand Aragón",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 13,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-30T12:15:00+02:00",
+          "laps": 20,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "series": "moto2",
+      "name": "San Marino Grand Prix",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "flag": "🇮🇹",
+      "country": "San Marino",
+      "tz": "Europe/Rome",
+      "round": 14,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T12:15:00+02:00",
+          "laps": 24,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "series": "moto2",
+      "name": "Austrian Grand Prix",
+      "circuit": "Red Bull Ring",
+      "flag": "🇦🇹",
+      "country": "Austria",
+      "tz": "Europe/Vienna",
+      "round": 15,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true,
+          "laps": 25,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "series": "moto2",
+      "name": "Japanese Grand Prix",
+      "circuit": "Mobility Resort Motegi",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 16,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-04T21:00:00+09:00",
+          "tbd": true,
+          "laps": 21,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "series": "moto2",
+      "name": "Malaysian Grand Prix",
+      "circuit": "Sepang International Circuit",
+      "flag": "🇲🇾",
+      "country": "Malaysia",
+      "tz": "Asia/Kuala_Lumpur",
+      "round": 17,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-01T20:00:00+08:00",
+          "tbd": true,
+          "laps": 18,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "series": "moto2",
+      "name": "Qatar Grand Prix",
+      "circuit": "Lusail International Circuit",
+      "flag": "🇶🇦",
+      "country": "Qatar",
+      "tz": "Asia/Qatar",
+      "round": 18,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-08T15:00:00+03:00",
+          "tbd": true,
+          "laps": 19,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "series": "moto2",
+      "name": "Valencia Grand Prix",
+      "circuit": "Circuit Ricardo Tormo",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 19,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-29T13:00:00+01:00",
+          "tbd": true,
+          "laps": 24,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "series": "moto3",
+      "name": "Thailand Grand Prix",
+      "circuit": "Chang International Circuit, Buriram",
+      "flag": "🇹🇭",
+      "country": "Thailand",
+      "tz": "Asia/Bangkok",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-01T12:00:00+07:00",
+          "laps": 21,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/tha/moto3/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "series": "moto3",
+      "name": "Brazilian Grand Prix",
+      "circuit": "Goiânia",
+      "flag": "🇧🇷",
+      "country": "Brazil",
+      "tz": "America/Sao_Paulo",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-22T12:00:00-03:00",
+          "laps": 20,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/moto3/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "series": "moto3",
+      "name": "Americas Grand Prix",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-29T11:00:00-05:00",
+          "laps": 14,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/moto3/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "series": "moto3",
+      "name": "Spanish Grand Prix",
+      "circuit": "Circuito de Jerez - Ángel Nieto",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-26T11:00:00+02:00",
+          "laps": 20,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/spa/moto3/rac/classification",
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "series": "moto3",
+      "name": "French Grand Prix",
+      "circuit": "Le Mans",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-10T11:00:00+02:00",
+          "laps": 23,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "series": "moto3",
+      "name": "Catalan Grand Prix",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-17T11:00:00+02:00",
+          "laps": 18,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "series": "moto3",
+      "name": "Italian Grand Prix",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-31T11:00:00+02:00",
+          "laps": 17,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "series": "moto3",
+      "name": "Hungarian Grand Prix",
+      "circuit": "Balaton Park",
+      "flag": "🇭🇺",
+      "country": "Hungary",
+      "tz": "Europe/Budapest",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-07T11:00:00+02:00",
+          "laps": 20,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "series": "moto3",
+      "name": "Czech Grand Prix",
+      "circuit": "Automotodrom Brno",
+      "flag": "🇨🇿",
+      "country": "Czech Republic",
+      "tz": "Europe/Prague",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-21T11:00:00+02:00",
+          "laps": 16,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "series": "moto3",
+      "name": "Dutch TT",
+      "circuit": "TT Circuit Assen",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-28T11:00:00+02:00",
+          "laps": 21,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "series": "moto3",
+      "name": "German Grand Prix",
+      "circuit": "Sachsenring",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 11,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-12T11:00:00+02:00",
+          "laps": 25,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "series": "moto3",
+      "name": "British Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 12,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-09T10:00:00+01:00",
+          "laps": 15,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "series": "moto3",
+      "name": "Aragón Grand Prix",
+      "circuit": "MotorLand Aragón",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 13,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-30T11:00:00+02:00",
+          "laps": 18,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "series": "moto3",
+      "name": "San Marino Grand Prix",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "flag": "🇮🇹",
+      "country": "San Marino",
+      "tz": "Europe/Rome",
+      "round": 14,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-13T11:00:00+02:00",
+          "laps": 22,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "series": "moto3",
+      "name": "Austrian Grand Prix",
+      "circuit": "Red Bull Ring",
+      "flag": "🇦🇹",
+      "country": "Austria",
+      "tz": "Europe/Vienna",
+      "round": 15,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true,
+          "laps": 22,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "series": "moto3",
+      "name": "Japanese Grand Prix",
+      "circuit": "Mobility Resort Motegi",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 16,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-04T21:00:00+09:00",
+          "tbd": true,
+          "laps": 19,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "series": "moto3",
+      "name": "Malaysian Grand Prix",
+      "circuit": "Sepang International Circuit",
+      "flag": "🇲🇾",
+      "country": "Malaysia",
+      "tz": "Asia/Kuala_Lumpur",
+      "round": 17,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-01T20:00:00+08:00",
+          "tbd": true,
+          "laps": 16,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "series": "moto3",
+      "name": "Qatar Grand Prix",
+      "circuit": "Lusail International Circuit",
+      "flag": "🇶🇦",
+      "country": "Qatar",
+      "tz": "Asia/Qatar",
+      "round": 18,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-08T15:00:00+03:00",
+          "tbd": true,
+          "laps": 17,
+          "broadcastUS": "FS1 / MotoGP+"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "series": "moto3",
+      "name": "Valencia Grand Prix",
+      "circuit": "Circuit Ricardo Tormo",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 19,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-29T13:00:00+01:00",
+          "tbd": true,
+          "laps": 22,
           "broadcastUS": "FS1 / MotoGP+"
         }
       ]
