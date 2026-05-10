@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:34:35.169Z",
+  "generatedAt": "2026-05-10T20:39:45.595Z",
   "events": [
     {
       "id": 101,
@@ -25128,6 +25128,48 @@
         {
           "name": "Race 2",
           "time": "2026-03-22T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TCRTV"
+        }
+      ]
+    },
+    {
+      "id": 5131,
+      "series": "tcreu",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-15T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TCRTV"
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-15T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TCRTV"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-16T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TCRTV"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-16T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TCRTV"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-17T14:00:00+02:00",
           "tbd": true,
           "broadcastUS": "YouTube/TCRTV"
         }
