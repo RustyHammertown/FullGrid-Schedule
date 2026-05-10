@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:16:28.389Z",
+  "generatedAt": "2026-05-10T20:34:35.966Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1117,6 +1117,20 @@
       },
       "streamUrl": "https://classictouringcars.com/",
       "resultsUrl": "https://classictouringcars.com/"
+    },
+    "tcreu": {
+      "id": "tcreu",
+      "label": "TCR Europe",
+      "short": "TCREU",
+      "color": "#BE123C",
+      "bg": "rgba(190,18,60,0.15)",
+      "broadcast": {
+        "UK": "YouTube/TCRTV",
+        "US": "YouTube/TCRTV",
+        "AU": "YouTube/TCRTV"
+      },
+      "streamUrl": "https://www.youtube.com/@TCRTV",
+      "resultsUrl": "https://europe.tcr-series.com/index.php/tcrstandings"
     }
   }
 }

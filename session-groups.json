@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:01:38.366Z",
+  "generatedAt": "2026-05-10T20:34:37.319Z",
   "groups": {
     "f1": [
       {
@@ -1206,6 +1206,23 @@
         "sessions": [
           "Free Practice",
           "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "tcreu": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2",
+          "Practice 1",
+          "Practice 2"
         ]
       },
       {

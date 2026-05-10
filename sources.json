@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:16:29.069Z",
+  "generatedAt": "2026-05-10T20:34:38.115Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1552,6 +1552,24 @@
         {
           "url": "https://classictouringcars.com/",
           "label": "CTCRC — official"
+        }
+      ]
+    },
+    "tcreu": {
+      "schedule": [
+        {
+          "url": "https://europe.tcr-series.com/",
+          "label": "TCR Europe — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_TCR_Europe_Touring_Car_Series",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://europe.tcr-series.com/index.php/tcrstandings",
+          "label": "TCR Europe — standings (race-by-race)"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:01:37.691Z",
+  "generatedAt": "2026-05-10T20:34:36.677Z",
   "groups": [
     {
       "id": "bikes",
@@ -146,7 +146,8 @@
         "minitrophy",
         "scotlegends",
         "supercars",
-        "tcamerica"
+        "tcamerica",
+        "tcreu"
       ]
     }
   ]
