@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T02:25:55.893Z",
+  "generatedAt": "2026-05-10T16:49:11.783Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1264,6 +1264,28 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_Supercars_Championship",
           "label": "Wikipedia (race-by-race results)"
+        }
+      ]
+    },
+    "btcc": {
+      "schedule": [
+        {
+          "url": "https://btcc.net/calendar/",
+          "label": "Official 2026 calendar"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (full session times)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_British_Touring_Car_Championship",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://btcc.net/results/",
+          "label": "BTCC — official results"
         }
       ]
     }

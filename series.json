@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T02:25:53.832Z",
+  "generatedAt": "2026-05-10T16:49:09.136Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -909,6 +909,19 @@
         "UK": "Supercars+"
       },
       "streamUrl": "https://www.supercars.com/"
+    },
+    "btcc": {
+      "id": "btcc",
+      "label": "British Touring Car Championship",
+      "short": "BTCC",
+      "color": "#C8102E",
+      "bg": "rgba(200,16,46,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://btcc.net/"
     }
   }
 }

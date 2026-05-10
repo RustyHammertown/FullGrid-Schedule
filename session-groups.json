@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T02:41:30.612Z",
+  "generatedAt": "2026-05-10T16:49:11.123Z",
   "groups": {
     "f1": [
       {
@@ -969,6 +969,21 @@
           "Qualifying (Race 16)",
           "Top Ten Shootout",
           "Top Ten Shootout (Race 16)"
+        ]
+      }
+    ],
+    "btcc": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying Race"
         ]
       }
     ]

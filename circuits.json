@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T02:25:55.205Z",
+  "generatedAt": "2026-05-10T16:49:09.820Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -2013,6 +2013,69 @@
       "city": "Tarragona",
       "region": "Catalonia",
       "website": "https://www.tarracoarenaplaca.com"
+    },
+    "Donington Park": {
+      "lat": 52.8306,
+      "lon": -1.3756,
+      "city": "Castle Donington",
+      "region": "Leicestershire",
+      "website": "https://www.donington-park.co.uk"
+    },
+    "Donington Park GP": {
+      "lat": 52.8306,
+      "lon": -1.3756,
+      "city": "Castle Donington",
+      "region": "Leicestershire",
+      "website": "https://www.donington-park.co.uk"
+    },
+    "Brands Hatch Indy": {
+      "lat": 51.3575,
+      "lon": 0.26,
+      "city": "Kent",
+      "region": "England",
+      "website": "https://www.brandshatch.co.uk"
+    },
+    "Brands Hatch GP": {
+      "lat": 51.3575,
+      "lon": 0.26,
+      "city": "Kent",
+      "region": "England",
+      "website": "https://www.brandshatch.co.uk"
+    },
+    "Snetterton": {
+      "lat": 52.4694,
+      "lon": 0.9461,
+      "city": "Norwich",
+      "region": "Norfolk",
+      "website": "https://www.snetterton.co.uk"
+    },
+    "Oulton Park": {
+      "lat": 53.1789,
+      "lon": -2.6147,
+      "city": "Tarporley",
+      "region": "Cheshire",
+      "website": "https://www.oultonpark.co.uk"
+    },
+    "Thruxton": {
+      "lat": 51.2103,
+      "lon": -1.6017,
+      "city": "Andover",
+      "region": "Hampshire",
+      "website": "https://www.thruxtonracing.co.uk"
+    },
+    "Knockhill": {
+      "lat": 56.1306,
+      "lon": -3.5097,
+      "city": "Dunfermline",
+      "region": "Fife",
+      "website": "https://www.knockhill.com"
+    },
+    "Croft": {
+      "lat": 54.4544,
+      "lon": -1.5614,
+      "city": "Dalton-on-Tees",
+      "region": "North Yorkshire",
+      "website": "https://www.croftcircuit.co.uk"
     }
   }
 }
