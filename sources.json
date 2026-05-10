@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T18:47:35.744Z",
+  "generatedAt": "2026-05-10T20:01:39.061Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1332,6 +1332,226 @@
         {
           "url": "https://btcc.net/results/",
           "label": "BTCC — official results"
+        }
+      ]
+    },
+    "f4british": {
+      "schedule": [
+        {
+          "url": "https://fiaformula4.com/all-calendar/",
+          "label": "Official 2026 calendar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_F4_British_Championship",
+          "label": "Wikipedia (full season)"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC support events)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_F4_British_Championship",
+          "label": "Wikipedia (race-by-race)"
+        }
+      ]
+    },
+    "pccgb": {
+      "schedule": [
+        {
+          "url": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain",
+          "label": "Official series page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain",
+          "label": "Wikipedia (full season)"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC support events)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain",
+          "label": "Wikipedia (race-by-race)"
+        }
+      ]
+    },
+    "pscgb": {
+      "schedule": [
+        {
+          "url": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain",
+          "label": "Official series page"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC support events)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain",
+          "label": "Official results"
+        }
+      ]
+    },
+    "minichallenge": {
+      "schedule": [
+        {
+          "url": "https://www.minichallenge.co.uk/2026-jcw-jcw-sport-calendar/",
+          "label": "Official JCW / JCW Sport 2026 calendar"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC support events)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.minichallenge.co.uk/",
+          "label": "MINI CHALLENGE — official"
+        }
+      ]
+    },
+    "minitrophy": {
+      "schedule": [
+        {
+          "url": "https://www.minichallenge.co.uk/2026-trophy-calendar/",
+          "label": "Official Trophy 2026 calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.minichallenge.co.uk/",
+          "label": "MINI CHALLENGE — official"
+        }
+      ]
+    },
+    "caterhamuk": {
+      "schedule": [
+        {
+          "url": "https://caterhamcars.com/en/motorsport/championship-calendar",
+          "label": "Caterham championship calendar"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC support events)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.barc.net/championship/caterham-seven-championship-uk/",
+          "label": "BARC — Caterham Seven UK"
+        }
+      ]
+    },
+    "caterham310r": {
+      "schedule": [
+        {
+          "url": "https://caterhamcars.com/en/motorsport/championship-calendar",
+          "label": "Caterham championship calendar"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC support events)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.barc.net/championship/caterham-seven-310r-championship/",
+          "label": "BARC — Caterham Seven 310R"
+        }
+      ]
+    },
+    "minise7en": {
+      "schedule": [
+        {
+          "url": "https://www.mini7.co.uk/",
+          "label": "Mini 7 Racing Club — official"
+        },
+        {
+          "url": "https://btcc.net/circuit/thruxton/",
+          "label": "Per-circuit weekend timetables (BTCC Thruxton)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.mini7.co.uk/",
+          "label": "Mini 7 Racing Club — official"
+        }
+      ]
+    },
+    "minimiglia": {
+      "schedule": [
+        {
+          "url": "https://www.mini7.co.uk/",
+          "label": "Mini 7 Racing Club — official"
+        },
+        {
+          "url": "https://btcc.net/circuit/thruxton/",
+          "label": "Per-circuit weekend timetables (BTCC Thruxton)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.mini7.co.uk/",
+          "label": "Mini 7 Racing Club — official"
+        }
+      ]
+    },
+    "legendselite": {
+      "schedule": [
+        {
+          "url": "https://legendsracingeurope.com/",
+          "label": "Legends Racing Europe — official"
+        },
+        {
+          "url": "https://btcc.net/circuit/donington-park/",
+          "label": "Per-circuit weekend timetables (BTCC Donington)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://legendsracingeurope.com/",
+          "label": "Legends Racing Europe — official"
+        }
+      ]
+    },
+    "scotlegends": {
+      "schedule": [
+        {
+          "url": "https://legendsracingeurope.com/",
+          "label": "Legends Racing Europe — official"
+        },
+        {
+          "url": "https://btcc.net/circuit/oulton-park/",
+          "label": "Per-circuit weekend timetables (BTCC Oulton/Knockhill)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://legendsracingeurope.com/",
+          "label": "Legends Racing Europe — official"
+        }
+      ]
+    },
+    "ctcrc": {
+      "schedule": [
+        {
+          "url": "https://www.ctcrc.co.uk/",
+          "label": "CTCRC — official"
+        },
+        {
+          "url": "https://btcc.net/circuit/oulton-park/",
+          "label": "Per-circuit weekend timetables (BTCC Oulton)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.ctcrc.co.uk/",
+          "label": "CTCRC — official"
         }
       ]
     }

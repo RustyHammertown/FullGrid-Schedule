@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T19:31:00.008Z",
+  "generatedAt": "2026-05-10T20:01:36.253Z",
   "events": [
     {
       "id": 101,
@@ -22902,6 +22902,1529 @@
           "time": "2026-10-11T17:15:00+01:00",
           "laps": 15,
           "duration": 27
+        }
+      ]
+    },
+    {
+      "id": 5010,
+      "series": "f4british",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-04-18T11:40:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-18T17:15:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-19T10:40:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-19T15:55:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5011,
+      "series": "f4british",
+      "name": "Brands Hatch Indy",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T09:45:00+01:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T16:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T12:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-10T16:35:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5012,
+      "series": "f4british",
+      "name": "Snetterton",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-23T10:00:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T16:15:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T10:40:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-24T15:50:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5013,
+      "series": "f4british",
+      "name": "Silverstone GP",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-30T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T13:00:00+01:00",
+          "tbd": true,
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T13:00:00+01:00",
+          "tbd": true,
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-31T13:00:00+01:00",
+          "tbd": true,
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5014,
+      "series": "f4british",
+      "name": "Zandvoort",
+      "circuit": "Circuit Zandvoort",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true,
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true,
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true,
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5015,
+      "series": "f4british",
+      "name": "Thruxton",
+      "circuit": "Thruxton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T11:20:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T16:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T13:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-07-26T16:35:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5016,
+      "series": "f4british",
+      "name": "Donington Park GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T09:40:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T15:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T10:20:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-23T15:25:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5017,
+      "series": "f4british",
+      "name": "Croft",
+      "circuit": "Croft",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T11:55:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T17:05:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T12:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-06T16:20:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5018,
+      "series": "f4british",
+      "name": "Silverstone",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-26T09:35:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-26T15:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-27T09:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-27T15:15:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5019,
+      "series": "f4british",
+      "name": "Brands Hatch GP",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T11:15:00+01:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T16:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T10:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-10-11T15:15:00+01:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5020,
+      "series": "pccgb",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-04-18T12:35:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-19T12:10:00+01:00",
+          "laps": 24,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-19T16:35:00+01:00",
+          "laps": 24,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5021,
+      "series": "pccgb",
+      "name": "Brands Hatch Indy",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-09T11:45:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-09T17:15:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-10T10:00:00+01:00",
+          "laps": 34,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T13:50:00+01:00",
+          "laps": 34,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5022,
+      "series": "pccgb",
+      "name": "Snetterton",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-23T12:00:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-23T17:25:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-24T10:00:00+01:00",
+          "laps": 14,
+          "duration": 25
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T15:10:00+01:00",
+          "laps": 14,
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5023,
+      "series": "pccgb",
+      "name": "Thruxton",
+      "circuit": "Thruxton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T09:30:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-25T13:30:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-26T10:50:00+01:00",
+          "laps": 22,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T15:20:00+01:00",
+          "laps": 22,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5024,
+      "series": "pccgb",
+      "name": "Donington Park GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-22T11:55:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-22T17:20:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-23T09:40:00+01:00",
+          "laps": 19,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T13:50:00+01:00",
+          "laps": 19,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5025,
+      "series": "pccgb",
+      "name": "Croft",
+      "circuit": "Croft",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T15:35:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-06T13:30:00+01:00",
+          "laps": 17,
+          "duration": 25
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T17:50:00+01:00",
+          "laps": 17,
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5026,
+      "series": "pccgb",
+      "name": "Silverstone",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-26T12:30:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-27T09:10:00+01:00",
+          "laps": 30,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-27T13:30:00+01:00",
+          "laps": 30,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5027,
+      "series": "pccgb",
+      "name": "Brands Hatch GP",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T15:20:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-11T12:05:00+01:00",
+          "duration": 17
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T16:20:00+01:00",
+          "duration": 17
+        }
+      ]
+    },
+    {
+      "id": 5030,
+      "series": "pscgb",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-04-18T09:55:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-18T16:40:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-19T10:05:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-19T13:50:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5031,
+      "series": "pscgb",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T09:50:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-06T16:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-07T13:30:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-07T16:30:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5032,
+      "series": "pscgb",
+      "name": "Knockhill",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-08T09:20:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-08T13:20:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-09T09:45:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-09T14:55:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5033,
+      "series": "pscgb",
+      "name": "Croft",
+      "circuit": "Croft",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T09:30:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T12:30:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-05T17:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-06T15:45:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5034,
+      "series": "pscgb",
+      "name": "Silverstone",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-26T11:20:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-26T16:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-27T11:55:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-27T16:30:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5035,
+      "series": "pscgb",
+      "name": "Brands Hatch GP",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T09:00:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T12:20:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-10T17:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-10-11T13:50:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5040,
+      "series": "minichallenge",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-04-18T09:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-18T15:55:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-19T09:30:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-19T15:20:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5041,
+      "series": "minichallenge",
+      "name": "Brands Hatch Indy",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T12:20:00+01:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T16:45:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T13:15:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-10T16:00:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5042,
+      "series": "minichallenge",
+      "name": "Snetterton",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-23T12:30:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T16:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T12:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-24T16:30:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5043,
+      "series": "minichallenge",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T12:05:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-06T16:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-07T14:05:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5044,
+      "series": "minichallenge",
+      "name": "Knockhill",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-08T12:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-08T16:45:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-09T11:55:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-09T15:25:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5045,
+      "series": "minichallenge",
+      "name": "Silverstone",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-26T12:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-26T16:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-27T10:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-27T15:55:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5046,
+      "series": "minichallenge",
+      "name": "Brands Hatch GP",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T11:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T16:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T10:30:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-10-11T15:50:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5050,
+      "series": "minitrophy",
+      "name": "Silverstone",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-05T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5051,
+      "series": "minitrophy",
+      "name": "Snetterton",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-23T09:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T15:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T09:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-24T13:40:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5052,
+      "series": "minitrophy",
+      "name": "Pembrey",
+      "circuit": "Pembrey",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-21T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5053,
+      "series": "minitrophy",
+      "name": "Thruxton",
+      "circuit": "Thruxton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T09:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T12:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-25T17:20:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-07-26T13:50:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5054,
+      "series": "minitrophy",
+      "name": "Donington Park GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T10:15:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T16:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T10:55:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5055,
+      "series": "minitrophy",
+      "name": "Croft",
+      "circuit": "Croft",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T11:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T16:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T15:10:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5056,
+      "series": "minitrophy",
+      "name": "Brands Hatch Indy",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-01T12:00:00+00:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5060,
+      "series": "caterhamuk",
+      "name": "Knockhill",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-08T10:00:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-08T16:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-09T10:20:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-09T16:05:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5061,
+      "series": "caterhamuk",
+      "name": "Donington Park GP",
+      "circuit": "Donington Park GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T12:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T16:50:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T12:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-23T16:40:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5062,
+      "series": "caterhamuk",
+      "name": "Brands Hatch GP",
+      "circuit": "Brands Hatch GP",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T09:40:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T12:55:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-10T17:45:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-10-11T13:15:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "series": "caterham310r",
+      "name": "Brands Hatch Indy",
+      "circuit": "Brands Hatch Indy",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T09:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T15:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T10:40:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-10T15:25:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5080,
+      "series": "minise7en",
+      "name": "Thruxton",
+      "circuit": "Thruxton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T09:55:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T15:35:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T12:25:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5090,
+      "series": "minimiglia",
+      "name": "Thruxton",
+      "circuit": "Thruxton",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T11:55:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T16:45:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T16:00:00+01:00",
+          "duration": 20
+        }
+      ]
+    },
+    {
+      "id": 5100,
+      "series": "legendselite",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-04-18T09:05:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-18T12:15:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-18T15:35:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-18T17:50:00+01:00",
+          "duration": 12
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-04-19T09:10:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-04-19T12:55:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 6",
+          "time": "2026-04-19T18:10:00+01:00",
+          "duration": 12
+        }
+      ]
+    },
+    {
+      "id": 5110,
+      "series": "scotlegends",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-06-06T09:00:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-06T11:40:00+01:00",
+          "laps": 6,
+          "duration": 12
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-06T15:35:00+01:00",
+          "laps": 6,
+          "duration": 12
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-06T17:50:00+01:00",
+          "laps": 8,
+          "duration": 15
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-06-07T13:10:00+01:00",
+          "laps": 6,
+          "duration": 12
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-06-07T15:35:00+01:00",
+          "laps": 6,
+          "duration": 12
+        },
+        {
+          "name": "Race 6",
+          "time": "2026-06-07T17:55:00+01:00",
+          "laps": 8,
+          "duration": 15
+        }
+      ]
+    },
+    {
+      "id": 5111,
+      "series": "scotlegends",
+      "name": "Knockhill",
+      "circuit": "Knockhill",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-08-08T09:00:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-08T11:35:00+01:00",
+          "laps": 8,
+          "duration": 12
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-08T15:35:00+01:00",
+          "laps": 8,
+          "duration": 12
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-08T17:25:00+01:00",
+          "laps": 10,
+          "duration": 15
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-08-09T09:15:00+01:00",
+          "laps": 8,
+          "duration": 12
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-08-09T12:30:00+01:00",
+          "laps": 8,
+          "duration": 12
+        },
+        {
+          "name": "Race 6",
+          "time": "2026-08-09T16:35:00+01:00",
+          "laps": 10,
+          "duration": 15
+        }
+      ]
+    },
+    {
+      "id": 5120,
+      "series": "ctcrc",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T09:20:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-06T13:25:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-06T17:10:00+01:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-07T15:55:00+01:00",
+          "duration": 20
         }
       ]
     }

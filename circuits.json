@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T16:49:09.820Z",
+  "generatedAt": "2026-05-10T20:01:39.746Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -2076,6 +2076,13 @@
       "city": "Dalton-on-Tees",
       "region": "North Yorkshire",
       "website": "https://www.croftcircuit.co.uk"
+    },
+    "Pembrey": {
+      "lat": 51.7068,
+      "lon": -4.2843,
+      "city": "Pembrey",
+      "region": "Carmarthenshire",
+      "website": "https://www.barc.net/pembrey-circuit/"
     }
   }
 }

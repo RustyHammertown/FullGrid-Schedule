@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T18:47:34.411Z",
+  "generatedAt": "2026-05-10T20:01:37.691Z",
   "groups": [
     {
       "id": "bikes",
@@ -59,6 +59,7 @@
         "f1",
         "f2",
         "f3",
+        "f4british",
         "fe",
         "indycar",
         "indynxt"
@@ -113,6 +114,8 @@
           "id": "sc-europe",
           "label": "Europe",
           "series": [
+            "caterham310r",
+            "caterhamuk",
             "elms",
             "ffsagt",
             "ffsatourisme",
@@ -121,6 +124,8 @@
             "gtwce",
             "igtc",
             "mclarene",
+            "pccgb",
+            "pscgb",
             "supercup",
             "trofeoeu",
             "wec"
@@ -133,6 +138,13 @@
       "label": "Touring Car",
       "series": [
         "btcc",
+        "ctcrc",
+        "legendselite",
+        "minichallenge",
+        "minimiglia",
+        "minise7en",
+        "minitrophy",
+        "scotlegends",
         "supercars",
         "tcamerica"
       ]

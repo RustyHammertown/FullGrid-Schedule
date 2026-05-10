@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T19:31:00.733Z",
+  "generatedAt": "2026-05-10T20:01:38.366Z",
   "groups": {
     "f1": [
       {
@@ -1042,6 +1042,176 @@
         "sessions": [
           "Qualifying",
           "Qualifying Race"
+        ]
+      }
+    ],
+    "f4british": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "pccgb": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pscgb": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "minichallenge": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "minitrophy": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "caterhamuk": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "caterham310r": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "minise7en": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "minimiglia": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "legendselite": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      }
+    ],
+    "scotlegends": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      }
+    ],
+    "ctcrc": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
         ]
       }
     ]

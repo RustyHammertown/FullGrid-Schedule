@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T18:47:33.728Z",
+  "generatedAt": "2026-05-10T20:01:36.978Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -949,6 +949,174 @@
       },
       "streamUrl": "https://btcc.net/",
       "resultsUrl": "https://btcc.net/race-results/"
+    },
+    "f4british": {
+      "id": "f4british",
+      "label": "F4 British Championship",
+      "short": "F4UK",
+      "color": "#F59E0B",
+      "bg": "rgba(245,158,11,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV / YouTube",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://fiaformula4.com/",
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_F4_British_Championship"
+    },
+    "pccgb": {
+      "id": "pccgb",
+      "label": "Porsche Carrera Cup GB",
+      "short": "PCCGB",
+      "color": "#B91C1C",
+      "bg": "rgba(185,28,28,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain",
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain"
+    },
+    "pscgb": {
+      "id": "pscgb",
+      "label": "Porsche Sprint Challenge GB",
+      "short": "PSCGB",
+      "color": "#7C3AED",
+      "bg": "rgba(124,58,237,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain",
+      "resultsUrl": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain"
+    },
+    "minichallenge": {
+      "id": "minichallenge",
+      "label": "MINI CHALLENGE",
+      "short": "MINI",
+      "color": "#1F2937",
+      "bg": "rgba(31,41,55,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://www.minichallenge.co.uk/",
+      "resultsUrl": "https://www.minichallenge.co.uk/"
+    },
+    "minitrophy": {
+      "id": "minitrophy",
+      "label": "MINI CHALLENGE Trophy",
+      "short": "MINIT",
+      "color": "#4B5563",
+      "bg": "rgba(75,85,99,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://www.minichallenge.co.uk/",
+      "resultsUrl": "https://www.minichallenge.co.uk/"
+    },
+    "caterhamuk": {
+      "id": "caterhamuk",
+      "label": "Caterham Seven Championship UK",
+      "short": "C7UK",
+      "color": "#16A34A",
+      "bg": "rgba(22,163,74,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://caterhamcars.com/en/motorsport/",
+      "resultsUrl": "https://www.barc.net/championship/caterham-seven-championship-uk/"
+    },
+    "caterham310r": {
+      "id": "caterham310r",
+      "label": "Caterham Seven 310R",
+      "short": "C310",
+      "color": "#22C55E",
+      "bg": "rgba(34,197,94,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://caterhamcars.com/en/motorsport/",
+      "resultsUrl": "https://www.barc.net/championship/caterham-seven-310r-championship/"
+    },
+    "minise7en": {
+      "id": "minise7en",
+      "label": "Mini Se7en Challenge",
+      "short": "MS7",
+      "color": "#0EA5E9",
+      "bg": "rgba(14,165,233,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://www.mini7.co.uk/",
+      "resultsUrl": "https://www.mini7.co.uk/"
+    },
+    "minimiglia": {
+      "id": "minimiglia",
+      "label": "Mini Miglia Challenge",
+      "short": "MMG",
+      "color": "#06B6D4",
+      "bg": "rgba(6,182,212,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://www.mini7.co.uk/",
+      "resultsUrl": "https://www.mini7.co.uk/"
+    },
+    "legendselite": {
+      "id": "legendselite",
+      "label": "Legends Cars Elite Cup",
+      "short": "LEG",
+      "color": "#A855F7",
+      "bg": "rgba(168,85,247,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://legendsracingeurope.com/",
+      "resultsUrl": "https://legendsracingeurope.com/"
+    },
+    "scotlegends": {
+      "id": "scotlegends",
+      "label": "Scottish Legends Championship",
+      "short": "SLEG",
+      "color": "#9333EA",
+      "bg": "rgba(147,51,234,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://legendsracingeurope.com/",
+      "resultsUrl": "https://legendsracingeurope.com/"
+    },
+    "ctcrc": {
+      "id": "ctcrc",
+      "label": "CTCRC Group 1 Touring Cars",
+      "short": "CTCRC",
+      "color": "#0891B2",
+      "bg": "rgba(8,145,178,0.15)",
+      "broadcast": {
+        "UK": "ITV4 / ITVX",
+        "US": "BTCC TV",
+        "AU": "BTCC TV"
+      },
+      "streamUrl": "https://www.ctcrc.co.uk/",
+      "resultsUrl": "https://www.ctcrc.co.uk/"
     }
   }
 }
