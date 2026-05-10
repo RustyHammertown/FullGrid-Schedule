@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-09T19:03:59.944Z",
+  "generatedAt": "2026-05-10T00:51:13.890Z",
   "flat": {
     "f1": [
       {
@@ -2608,5 +2608,11 @@
         ]
       }
     ]
+  },
+  "labels": {
+    "imsa": "Team Standings",
+    "gtwce": "Team Standings",
+    "gtwca": "Team Standings",
+    "elms": "Team Standings"
   }
 }
