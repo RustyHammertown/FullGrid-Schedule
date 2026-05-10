@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T02:25:53.124Z",
+  "generatedAt": "2026-05-10T02:41:29.902Z",
   "events": [
     {
       "id": 101,
@@ -20182,9 +20182,57 @@
       "round": 1,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-05-24T22:00:00+10:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-05-22T14:05:00+10:00",
+          "duration": 25,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-22T14:45:00+10:00",
+          "duration": 25,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Qualifying (Race 14)",
+          "time": "2026-05-23T09:45:00+10:00",
+          "duration": 30,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Qualifying (Race 15)",
+          "time": "2026-05-23T10:40:00+10:00",
+          "duration": 30,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Race 14",
+          "time": "2026-05-23T12:55:00+10:00",
+          "laps": 50,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Race 15",
+          "time": "2026-05-23T15:55:00+10:00",
+          "laps": 50,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Qualifying (Race 16)",
+          "time": "2026-05-24T11:35:00+10:00",
+          "duration": 30,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Top Ten Shootout (Race 16)",
+          "time": "2026-05-24T12:30:00+10:00",
+          "duration": 20,
+          "broadcastUS": "Supercars+"
+        },
+        {
+          "name": "Race 16",
+          "time": "2026-05-24T14:45:00+10:00",
+          "laps": 78,
           "broadcastUS": "Supercars+"
         }
       ]

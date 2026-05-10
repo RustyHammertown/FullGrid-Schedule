@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:08:33.821Z",
+  "generatedAt": "2026-05-10T02:41:30.612Z",
   "groups": {
     "f1": [
       {
@@ -944,6 +944,31 @@
           "Qualifying Day 2",
           "Qualifying Day 1 (TBD)",
           "Qualifying Day 2 (TBD)"
+        ]
+      }
+    ],
+    "supercars": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice 3"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying 3",
+          "Qualifying (Race 14)",
+          "Qualifying (Race 15)",
+          "Qualifying (Race 16)",
+          "Top Ten Shootout",
+          "Top Ten Shootout (Race 16)"
         ]
       }
     ]
