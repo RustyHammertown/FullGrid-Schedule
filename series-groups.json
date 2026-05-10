@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T16:49:10.478Z",
+  "generatedAt": "2026-05-10T17:16:32.072Z",
   "groups": [
     {
       "id": "bikes",
@@ -91,7 +91,6 @@
             "pilot",
             "pscna",
             "pscw",
-            "tcamerica",
             "trofeo",
             "vpscc"
           ]
@@ -128,17 +127,12 @@
       ]
     },
     {
-      "id": "supercars",
-      "label": "Supercar",
+      "id": "touring",
+      "label": "Touring Cars",
       "series": [
-        "supercars"
-      ]
-    },
-    {
-      "id": "btcc",
-      "label": "BTCC",
-      "series": [
-        "btcc"
+        "btcc",
+        "supercars",
+        "tcamerica"
       ]
     }
   ]
