@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T02:25:54.508Z",
+  "generatedAt": "2026-05-10T16:15:50.090Z",
   "groups": [
     {
       "id": "bikes",
@@ -129,7 +129,7 @@
     },
     {
       "id": "supercars",
-      "label": "Supercars",
+      "label": "Supercar",
       "series": [
         "supercars"
       ]
