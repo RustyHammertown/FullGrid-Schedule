@@ -1,0 +1,1253 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-10T00:40:57.995Z",
+  "sources": {
+    "f1": {
+      "schedule": [
+        {
+          "url": "https://www.formula1.com/en/racing/2026.html",
+          "label": "Official 2026 calendar"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee74bda9ab1c00023c37e9/Formula%201.ics",
+          "label": "ECAL .ics feed"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.formula1.com/en/results/2026/races"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.formula1.com/en/results/2026/drivers"
+        }
+      ]
+    },
+    "motogp": {
+      "schedule": [
+        {
+          "url": "https://www.motogp.com/en/calendar",
+          "label": "Official calendar"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee71df133def00024b6af1/MotoGP.ics",
+          "label": "ECAL .ics feed"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.motogp.com/en/gp-results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.motogp.com/en/world-standing/2026/motogp/championship-standings"
+        }
+      ]
+    },
+    "indycar": {
+      "schedule": [
+        {
+          "url": "https://www.indycar.com/Schedule",
+          "label": "Official schedule (per-event timetables)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.indycar.com/Stats/Race-Results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.indycar.com/Standings"
+        }
+      ]
+    },
+    "nascar": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series",
+          "label": "Wikipedia (primary — season calendar)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
+          "label": "NASCAR.com (fallback — Cloudflare-protected)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
+          "label": "ECAL .ics feed (combined NASCAR)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
+          "label": "Per-race links via /live-results/<series>/<race>/"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.nascar.com/standings/nascar-cup-series/"
+        }
+      ]
+    },
+    "oreilly": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_O%27Reilly_Auto_Parts_Series",
+          "label": "Wikipedia (primary — season calendar)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule",
+          "label": "NASCAR.com (fallback — Cloudflare-protected)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
+          "label": "ECAL .ics feed (combined NASCAR)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.nascar.com/standings/nascar-oreilly-auto-parts-series/"
+        }
+      ]
+    },
+    "truck": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Craftsman_Truck_Series",
+          "label": "Wikipedia (primary — season calendar)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule",
+          "label": "NASCAR.com (fallback — Cloudflare-protected)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
+          "label": "ECAL .ics feed (combined NASCAR)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.nascar.com/standings/nascar-craftsman-truck-series/"
+        }
+      ]
+    },
+    "arca": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
+          "label": "Wikipedia (primary — national tour season calendar)"
+        },
+        {
+          "url": "https://www.arcaracing.com/2026-broadcast-schedule/",
+          "label": "arcaracing.com (Cloudflare-protected, fallback only)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
+          "label": "ECAL .ics feed (combined NASCAR)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.racing-reference.info/standings/2026/A",
+          "label": "Racing Reference (preferred)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
+          "label": "Wikipedia (Cloudflare fallback)"
+        }
+      ]
+    },
+    "arcaeast": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East",
+          "label": "Wikipedia (primary — East season calendar)"
+        },
+        {
+          "url": "https://www.arcaracing.com/2026-broadcast-schedule/",
+          "label": "arcaracing.com (Cloudflare-protected, fallback only)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East"
+        }
+      ]
+    },
+    "arcawest": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West",
+          "label": "Wikipedia (primary — West season calendar)"
+        },
+        {
+          "url": "https://www.arcaracing.com/2026-broadcast-schedule/",
+          "label": "arcaracing.com (Cloudflare-protected, fallback only)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West"
+        }
+      ]
+    },
+    "nascarcanada": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
+          "label": "Wikipedia (primary — season calendar)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
+          "label": "ECAL .ics feed (combined NASCAR)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series"
+        }
+      ]
+    },
+    "whelen": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
+          "label": "Wikipedia (primary — season calendar)"
+        },
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://www.nascar.com/nascar-whelen-modified-tour-schedule/",
+          "label": "NASCAR.com (Cloudflare-protected — uses web.archive.org)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee87ea3b49670002817ca1/NASCAR.ics",
+          "label": "ECAL .ics feed"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour"
+        }
+      ]
+    },
+    "enascar": {
+      "schedule": [
+        {
+          "url": "https://sports.yahoo.com/nascar/",
+          "label": "Yahoo Sports (weekend timetable, primary — best-effort coverage of eNASCAR)"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/",
+          "label": "Heavy.com (weekend timetable, fallback)"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee88c33b49670002817cae/NASCAR.ics",
+          "label": "ECAL .ics feed"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.enascar.com/",
+          "label": "Official site"
+        }
+      ]
+    },
+    "f2": {
+      "schedule": [
+        {
+          "url": "https://www.fiaformula2.com/Calendar",
+          "label": "Official calendar"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee8e68ab2f080002c1714c/Formula%202.ics",
+          "label": "ECAL .ics feed"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiaformula2.com/Results",
+          "label": "Per-round results (raceid query param)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiaformula2.com/Standings/Driver"
+        }
+      ]
+    },
+    "f3": {
+      "schedule": [
+        {
+          "url": "https://www.fiaformula3.com/Calendar",
+          "label": "Official calendar"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee8f673b49670002817cfa/Formula%203.ics",
+          "label": "ECAL .ics feed"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiaformula3.com/Standings/Driver"
+        }
+      ]
+    },
+    "fe": {
+      "schedule": [
+        {
+          "url": "https://www.fiaformulae.com/en/calendar",
+          "label": "Official calendar (JSON-LD)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiaformulae.com/en/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiaformulae.com/en/championship/drivers"
+        }
+      ]
+    },
+    "wec": {
+      "schedule": [
+        {
+          "url": "https://www.fiawec.com/",
+          "label": "Official site (per-race JSON-LD)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiawec.com/en/page/resultats-1"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiawec.com/en/page/championship"
+        }
+      ]
+    },
+    "imsa": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.imsa.com/weathertech/results/"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_IMSA_SportsCar_Championship",
+          "label": "Wikipedia (imsa.com is JS-rendered)"
+        }
+      ]
+    },
+    "pilot": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Michelin_Pilot_Challenge",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.imsa.com/michelinpilotchallenge/standings/",
+          "label": "Official (Cloudflare-blocked)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Michelin_Pilot_Challenge",
+          "label": "Wikipedia (fallback)"
+        }
+      ]
+    },
+    "vpscc": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_IMSA_VP_Racing_SportsCar_Challenge",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_IMSA_VP_Racing_SportsCar_Challenge"
+        }
+      ]
+    },
+    "trofeo": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
+          "label": "Official series page"
+        }
+      ]
+    },
+    "mx5": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup",
+          "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup"
+        }
+      ]
+    },
+    "carrera": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://porschecarreracup.us/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://porschecarreracup.us/standings/"
+        }
+      ]
+    },
+    "mustang": {
+      "schedule": [
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
+          "label": "ECAL .ics feed (IMSA multi-series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.imsa.com/mustangchallenge/",
+          "label": "Official series page"
+        }
+      ]
+    },
+    "gtwca": {
+      "schedule": [
+        {
+          "url": "https://www.gt-world-challenge-america.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt-world-challenge-america.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gt-world-challenge-america.com/standings?filter_season_id=11&filter_standing_type=16_31_teams"
+        }
+      ]
+    },
+    "gtwau": {
+      "schedule": [
+        {
+          "url": "https://www.gt-world-challenge-australia.com/calendar",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt-world-challenge-australia.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_GT_World_Challenge_Australia",
+          "label": "Wikipedia (Drivers' Championship)"
+        }
+      ]
+    },
+    "gtwce": {
+      "schedule": [
+        {
+          "url": "https://www.gt-world-challenge-europe.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt-world-challenge-europe.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gt-world-challenge-europe.com/standings"
+        }
+      ]
+    },
+    "elms": {
+      "schedule": [
+        {
+          "url": "https://www.europeanlemansseries.com/",
+          "label": "Official site (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.europeanlemansseries.com/en/page/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.europeanlemansseries.com/en/page/classification-2"
+        }
+      ]
+    },
+    "igtc": {
+      "schedule": [
+        {
+          "url": "https://www.intercontinentalgtchallenge.com/feed/get_events_calendar?season_id=16",
+          "label": "Official .ics feed"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.intercontinentalgtchallenge.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.intercontinentalgtchallenge.com/standings?filter_season_id=16&filter_igtcstandingtype_id=2"
+        }
+      ]
+    },
+    "wrc": {
+      "schedule": [
+        {
+          "url": "https://www.wrc.com/en/calendar",
+          "label": "Official calendar (Akamai-protected — uses WebSearch + Wikipedia)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.wrc.com/en/results-and-standings"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.wrc.com/en/results-and-standings",
+          "label": "Official"
+        },
+        {
+          "url": "https://toyotagazooracing.com/wrc/standings/2026/",
+          "label": "Toyota mirror"
+        }
+      ]
+    },
+    "nhra": {
+      "schedule": [
+        {
+          "url": "https://www.nhra.com/2026-tv-schedule",
+          "label": "Official TV schedule"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.nhra.com/results",
+          "label": "Per-event via /results/2026/..."
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.nhra.com/standings/2026/nhra-mission-foods-drag-racing-series/nhra-mission-foods-drag-racing-series"
+        }
+      ]
+    },
+    "highlimit": {
+      "schedule": [
+        {
+          "url": "https://www.highlimitracing.com/calendar/",
+          "label": "Official calendar (Google .ics feed)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.highlimitracing.com/standings/2026/31205/1000",
+          "label": "Official standings (carries per-race finish positions)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.highlimitracing.com/standings/2026/31205/1000"
+        }
+      ]
+    },
+    "woosc": {
+      "schedule": [
+        {
+          "url": "https://www.addevent.com/feed/eaomsadiw.ics",
+          "label": "AddEvent .ics calendar (canonical schedule feed)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://worldofoutlaws.com/sprintcars/results/",
+          "label": "Official series results landing"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://worldofoutlaws.com/sprintcars/series-points/"
+        }
+      ]
+    },
+    "woolm": {
+      "schedule": [
+        {
+          "url": "https://www.addevent.com/feed/eaomsasgw.ics",
+          "label": "AddEvent .ics calendar (canonical schedule feed)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://worldofoutlaws.com/latemodels/results/",
+          "label": "Official series results landing"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://worldofoutlaws.com/latemodels/series-points/"
+        }
+      ]
+    },
+    "supercross": {
+      "schedule": [
+        {
+          "url": "https://www.supercrosslive.com/tickets/",
+          "label": "Official calendar (supercrosslive.com)"
+        },
+        {
+          "url": "https://racerxonline.com/sx/schedule",
+          "label": "Racer X (full schedule, easier scrape)"
+        },
+        {
+          "url": "https://www.btosports.com/blogs/news/2026-supercross-schedule-dates-cities-venues-smx-playoffs",
+          "label": "BTO Sports (per-round date/venue/Showdown table)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.supercrosslive.com/results/"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://racerxonline.com/sx/2026/points/450sx",
+          "label": "Racer X — 450SX"
+        },
+        {
+          "url": "https://racerxonline.com/sx/2026/points/250sx-east",
+          "label": "Racer X — 250SX East"
+        },
+        {
+          "url": "https://racerxonline.com/sx/2026/points/250sx-west",
+          "label": "Racer X — 250SX West"
+        }
+      ]
+    },
+    "promotocross": {
+      "schedule": [
+        {
+          "url": "https://promotocross.com/schedule",
+          "label": "Official Pro Motocross schedule"
+        },
+        {
+          "url": "https://racerxonline.com/mx/schedule",
+          "label": "Racer X (full schedule, easier scrape)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://promotocross.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://promotocross.com/standings"
+        }
+      ]
+    },
+    "smx": {
+      "schedule": [
+        {
+          "url": "https://www.supermotocross.com/schedule/",
+          "label": "Official SMX playoff schedule"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_SuperMotocross_World_Championship",
+          "label": "Wikipedia (verified May 2026)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.supermotocross.com/results/"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.supermotocross.com/points-championship/"
+        }
+      ]
+    },
+    "xtrial": {
+      "schedule": [
+        {
+          "url": "https://www.x-trial.com/en/calendar.html",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.x-trial.com/en/results.html",
+          "label": "Per-event results landing"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.x-trial.com/en/standings.html",
+          "label": "Official championship standings"
+        }
+      ]
+    },
+    "indynxt": {
+      "schedule": [
+        {
+          "url": "https://www.indynxt.com/schedule",
+          "label": "Official Indy NXT schedule"
+        },
+        {
+          "url": "https://ics.ecal.com/ecal-sub/69fe49ad18faaf0002460074/INDYCAR.ics",
+          "label": "ECAL .ics feed (race-only)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.indynxt.com/results",
+          "label": "Per-event results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Indy_NXT",
+          "label": "Wikipedia (verified May 2026)"
+        }
+      ]
+    },
+    "gtwasia": {
+      "schedule": [
+        {
+          "url": "https://www.gt-world-challenge-asia.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt-world-challenge-asia.com/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gt-world-challenge-asia.com/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "japancup": {
+      "schedule": [
+        {
+          "url": "https://japancup.co/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://japancup.co/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://japancup.co/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "ffsagt": {
+      "schedule": [
+        {
+          "url": "https://ffsagt.gt4series.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://ffsagt.gt4series.com/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://ffsagt.gt4series.com/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "gt4america": {
+      "schedule": [
+        {
+          "url": "https://www.gt4-america.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt4-america.com/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gt4-america.com/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "gt4australia": {
+      "schedule": [
+        {
+          "url": "https://gt4australia.com.au/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://gt4australia.com.au/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://gt4australia.com.au/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "tcamerica": {
+      "schedule": [
+        {
+          "url": "https://www.tcamerica.us/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.tcamerica.us/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.tcamerica.us/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "ffsatourisme": {
+      "schedule": [
+        {
+          "url": "https://www.ffsatourisme.fr/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.ffsatourisme.fr/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.ffsatourisme.fr/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "gtamerica": {
+      "schedule": [
+        {
+          "url": "https://www.gtamerica.us/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gtamerica.us/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gtamerica.us/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "grcup": {
+      "schedule": [
+        {
+          "url": "https://www.grcupseries.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.grcupseries.com/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.grcupseries.com/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "gt3revival": {
+      "schedule": [
+        {
+          "url": "https://gt3revivalseries.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://gt3revivalseries.com/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://gt3revivalseries.com/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "gt4european": {
+      "schedule": [
+        {
+          "url": "https://www.gt4europeanseries.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt4europeanseries.com/results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gt4europeanseries.com/standings",
+          "label": "Official standings"
+        }
+      ]
+    },
+    "mclarena": {
+      "schedule": [
+        {
+          "url": "https://cars.mclaren.com/us_en/customer-racing/mclaren-trophy",
+          "label": "Official championship site (American calendar + per-event timetables)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://mclarentrophyamerica.com/results",
+          "label": "Official results"
+        }
+      ]
+    },
+    "mclarene": {
+      "schedule": [
+        {
+          "url": "https://cars.mclaren.com/us_en/customer-racing/mclaren-trophy",
+          "label": "Official championship site (European calendar + per-event timetables)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://mclarentrophyeurope.com/results",
+          "label": "Official results"
+        }
+      ]
+    },
+    "trofeoeu": {
+      "schedule": [
+        {
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/calendar-&-results",
+          "label": "Official championship calendar (all three Trofeo series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
+          "label": "Squadra Corse — Super Trofeo"
+        }
+      ]
+    },
+    "trofeoasia": {
+      "schedule": [
+        {
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/calendar-&-results",
+          "label": "Official championship calendar (all three Trofeo series)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
+          "label": "Squadra Corse — Super Trofeo"
+        }
+      ]
+    },
+    "mustangcup": {
+      "schedule": [
+        {
+          "url": "https://www.fordracing.com/motorsport/mustang-cup",
+          "label": "Ford Racing — Mustang Cup"
+        },
+        {
+          "url": "https://mustangcup.com/",
+          "label": "Official series site"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fordracing.com/motorsport/mustang-cup",
+          "label": "Ford Racing — Mustang Cup"
+        }
+      ]
+    },
+    "mustangcupau": {
+      "schedule": [
+        {
+          "url": "https://www.fordracing.com/motorsport/mustang-cup-australia",
+          "label": "Ford Racing — Mustang Cup Australia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Mustang_Cup_Australia",
+          "label": "Wikipedia — full season"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fordracing.com/motorsport/mustang-cup-australia",
+          "label": "Ford Racing — Mustang Cup Australia"
+        }
+      ]
+    },
+    "supercup": {
+      "schedule": [
+        {
+          "url": "https://racing.porsche.com/en-US/series/mobil-1-supercup",
+          "label": "Porsche Motorsport — Supercup"
+        },
+        {
+          "url": "https://racing.porsche.com/mobil-1-supercup/race-calendar-2026",
+          "label": "Official 2026 calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://racing.porsche.com/en-US/series/mobil-1-supercup",
+          "label": "Porsche Motorsport — Supercup"
+        }
+      ]
+    },
+    "pscna": {
+      "schedule": [
+        {
+          "url": "https://www.porschesprint.com/",
+          "label": "Porsche Sprint Challenge — official"
+        },
+        {
+          "url": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america",
+          "label": "Porsche Motorsport — PSCNA"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america",
+          "label": "Porsche Motorsport — PSCNA"
+        }
+      ]
+    },
+    "pscw": {
+      "schedule": [
+        {
+          "url": "https://www.porschesprint.com/",
+          "label": "Porsche Sprint Challenge — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.porschesprint.com/",
+          "label": "Porsche Sprint Challenge — official"
+        }
+      ]
+    },
+    "pec": {
+      "schedule": [
+        {
+          "url": "https://www.porschesprint.com/",
+          "label": "Porsche Sprint Challenge — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.porschesprint.com/",
+          "label": "Porsche Sprint Challenge — official"
+        }
+      ]
+    }
+  }
+}

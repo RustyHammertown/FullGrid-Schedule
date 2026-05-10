@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-10T00:40:57.314Z",
+  "groups": [
+    {
+      "id": "bikes",
+      "label": "Bikes",
+      "series": [
+        "promotocross",
+        "supercross",
+        "motogp",
+        "smx",
+        "xtrial"
+      ]
+    },
+    {
+      "id": "dirt",
+      "label": "Dirt",
+      "series": [
+        "highlimit",
+        "woolm",
+        "woosc"
+      ]
+    },
+    {
+      "id": "drag",
+      "label": "Drag Racing",
+      "series": [
+        "nhra"
+      ]
+    },
+    {
+      "id": "esports",
+      "label": "eSports",
+      "series": [
+        "enascar"
+      ]
+    },
+    {
+      "id": "nascar",
+      "label": "NASCAR",
+      "series": [
+        "arcaeast",
+        "arca",
+        "arcawest",
+        "truck",
+        "nascarcanada",
+        "nascar",
+        "whelen",
+        "oreilly"
+      ]
+    },
+    {
+      "id": "openwheel",
+      "label": "Formula / Open-wheel",
+      "series": [
+        "f1",
+        "f2",
+        "f3",
+        "fe",
+        "indycar",
+        "indynxt"
+      ]
+    },
+    {
+      "id": "rally",
+      "label": "Rally",
+      "series": [
+        "wrc"
+      ]
+    },
+    {
+      "id": "sportscar",
+      "label": "Sports Car",
+      "subgroups": [
+        {
+          "id": "sc-americas",
+          "label": "Americas",
+          "series": [
+            "carrera",
+            "gt4america",
+            "gtamerica",
+            "grcup",
+            "gtwca",
+            "imsa",
+            "mclarena",
+            "mustang",
+            "mustangcup",
+            "mx5",
+            "pec",
+            "pilot",
+            "pscna",
+            "pscw",
+            "tcamerica",
+            "trofeo",
+            "vpscc"
+          ]
+        },
+        {
+          "id": "sc-asia",
+          "label": "Asia",
+          "series": [
+            "gt4australia",
+            "gtwasia",
+            "gtwau",
+            "japancup",
+            "mustangcupau",
+            "trofeoasia"
+          ]
+        },
+        {
+          "id": "sc-europe",
+          "label": "Europe",
+          "series": [
+            "elms",
+            "ffsagt",
+            "ffsatourisme",
+            "gt3revival",
+            "gt4european",
+            "gtwce",
+            "igtc",
+            "mclarene",
+            "supercup",
+            "trofeoeu",
+            "wec"
+          ]
+        }
+      ]
+    }
+  ]
+}
