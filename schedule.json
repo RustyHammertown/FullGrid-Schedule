@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T19:23:27.970Z",
+  "generatedAt": "2026-05-10T19:31:00.008Z",
   "events": [
     {
       "id": 101,
@@ -1205,9 +1205,45 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-15T10:45:00+02:00",
+          "duration": 45,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-05-15T15:00:00+02:00",
+          "duration": 60,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-16T10:10:00+02:00",
+          "duration": 30,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-16T10:50:00+02:00",
+          "duration": 15,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-16T11:15:00+02:00",
+          "duration": 15,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-05-16T15:00:00+02:00",
           "laps": 12,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-17T09:40:00+02:00",
+          "duration": 10,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1229,9 +1265,45 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-05-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-05-30T15:00:00+02:00",
           "laps": 11,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-31T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1253,9 +1325,45 @@
       "round": 8,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-05T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-05T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-06-06T15:00:00+02:00",
           "laps": 12,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-06-07T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1277,9 +1385,45 @@
       "round": 9,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-06-20T15:00:00+02:00",
           "laps": 10,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1301,9 +1445,45 @@
       "round": 10,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-06-27T15:00:00+02:00",
           "laps": 13,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-06-28T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1325,9 +1505,45 @@
       "round": 11,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-10T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-07-10T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-07-11T15:00:00+02:00",
           "laps": 15,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1349,9 +1565,45 @@
       "round": 12,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-07T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-07T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-08T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-08T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-08T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-08-08T16:00:00+01:00",
           "laps": 10,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-08-09T13:00:00+01:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1373,9 +1625,45 @@
       "round": 13,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-08-29T15:00:00+02:00",
           "laps": 11,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1397,9 +1685,45 @@
       "round": 14,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-09-12T15:00:00+02:00",
           "laps": 13,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-09-13T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1421,10 +1745,46 @@
       "round": 15,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true,
           "laps": 14,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1447,10 +1807,46 @@
       "round": 16,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-02T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-02T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-03T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-03T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-03T21:00:00+09:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
           "laps": 12,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-10-04T21:00:00+09:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1473,10 +1869,46 @@
       "round": 17,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-31T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-31T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-31T20:00:00+08:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-10-31T20:00:00+08:00",
           "tbd": true,
           "laps": 10,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-01T20:00:00+08:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1499,10 +1931,46 @@
       "round": 18,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-11-06T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-06T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
           "laps": 11,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-08T15:00:00+03:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {
@@ -1525,10 +1993,46 @@
       "round": 19,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-11-27T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-27T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-28T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-11-28T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-11-28T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
           "name": "Sprint",
           "time": "2026-11-28T13:00:00+01:00",
           "tbd": true,
           "laps": 13,
+          "broadcastUS": "FS1 / MotoGP+"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-29T13:00:00+01:00",
+          "tbd": true,
           "broadcastUS": "FS1 / MotoGP+"
         },
         {

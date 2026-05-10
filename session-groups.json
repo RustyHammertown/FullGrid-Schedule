@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T18:47:35.079Z",
+  "generatedAt": "2026-05-10T19:31:00.733Z",
   "groups": {
     "f1": [
       {
@@ -70,15 +70,37 @@
     ],
     "motogp": [
       {
-        "label": "Race",
+        "label": "Practice",
         "sessions": [
-          "Race"
+          "Practice 1",
+          "Practice",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warmup"
         ]
       },
       {
         "label": "Sprint",
         "sessions": [
           "Sprint"
+        ]
+      },
+      {
+        "label": "Race",
+        "sessions": [
+          "Race"
         ]
       }
     ],
