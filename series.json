@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:01:36.978Z",
+  "generatedAt": "2026-05-10T20:16:28.389Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -957,11 +957,11 @@
       "color": "#F59E0B",
       "bg": "rgba(245,158,11,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV / YouTube",
-        "AU": "BTCC TV"
+        "UK": "ITV4 / ITVX (YouTube at Silverstone GP + Zandvoort)",
+        "US": "YouTube/BritishF4",
+        "AU": "YouTube/BritishF4"
       },
-      "streamUrl": "https://fiaformula4.com/",
+      "streamUrl": "https://www.youtube.com/@BritishF4",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_F4_British_Championship"
     },
     "pccgb": {
@@ -1013,9 +1013,9 @@
       "color": "#4B5563",
       "bg": "rgba(75,85,99,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "ITV4 / ITVX (BTCC weekends) / YouTube",
+        "US": "YouTube/MINICHALLENGE",
+        "AU": "YouTube/MINICHALLENGE"
       },
       "streamUrl": "https://www.minichallenge.co.uk/",
       "resultsUrl": "https://www.minichallenge.co.uk/"
@@ -1027,11 +1027,11 @@
       "color": "#16A34A",
       "bg": "rgba(22,163,74,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/CaterhamMotorsport (ITV4 at BTCC rounds)",
+        "US": "YouTube/CaterhamMotorsport",
+        "AU": "YouTube/CaterhamMotorsport"
       },
-      "streamUrl": "https://caterhamcars.com/en/motorsport/",
+      "streamUrl": "https://www.youtube.com/@CaterhamMotorsport",
       "resultsUrl": "https://www.barc.net/championship/caterham-seven-championship-uk/"
     },
     "caterham310r": {
@@ -1041,11 +1041,11 @@
       "color": "#22C55E",
       "bg": "rgba(34,197,94,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/CaterhamMotorsport (ITV4 at Brands Indy)",
+        "US": "YouTube/CaterhamMotorsport",
+        "AU": "YouTube/CaterhamMotorsport"
       },
-      "streamUrl": "https://caterhamcars.com/en/motorsport/",
+      "streamUrl": "https://www.youtube.com/@CaterhamMotorsport",
       "resultsUrl": "https://www.barc.net/championship/caterham-seven-310r-championship/"
     },
     "minise7en": {
@@ -1055,9 +1055,9 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/Mini7RacingClub (ITV4 at Thruxton)",
+        "US": "YouTube/Mini7RacingClub",
+        "AU": "YouTube/Mini7RacingClub"
       },
       "streamUrl": "https://www.mini7.co.uk/",
       "resultsUrl": "https://www.mini7.co.uk/"
@@ -1069,9 +1069,9 @@
       "color": "#06B6D4",
       "bg": "rgba(6,182,212,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/Mini7RacingClub (ITV4 at Thruxton)",
+        "US": "YouTube/Mini7RacingClub",
+        "AU": "YouTube/Mini7RacingClub"
       },
       "streamUrl": "https://www.mini7.co.uk/",
       "resultsUrl": "https://www.mini7.co.uk/"
@@ -1083,9 +1083,9 @@
       "color": "#A855F7",
       "bg": "rgba(168,85,247,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/LegendsRacingUK (ITV4 at Donington)",
+        "US": "YouTube/LegendsRacingUK",
+        "AU": "YouTube/LegendsRacingUK"
       },
       "streamUrl": "https://legendsracingeurope.com/",
       "resultsUrl": "https://legendsracingeurope.com/"
@@ -1097,11 +1097,11 @@
       "color": "#9333EA",
       "bg": "rgba(147,51,234,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/SMRC (ITV4 at Oulton + Knockhill BTCC rounds)",
+        "US": "YouTube/SMRC",
+        "AU": "YouTube/SMRC"
       },
-      "streamUrl": "https://legendsracingeurope.com/",
+      "streamUrl": "https://www.smrc.co.uk/",
       "resultsUrl": "https://legendsracingeurope.com/"
     },
     "ctcrc": {
@@ -1111,12 +1111,12 @@
       "color": "#0891B2",
       "bg": "rgba(8,145,178,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "UK": "YouTube/BARC (ITV4 at Oulton BTCC)",
+        "US": "YouTube/BARC",
+        "AU": "YouTube/BARC"
       },
-      "streamUrl": "https://www.ctcrc.co.uk/",
-      "resultsUrl": "https://www.ctcrc.co.uk/"
+      "streamUrl": "https://classictouringcars.com/",
+      "resultsUrl": "https://classictouringcars.com/"
     }
   }
 }

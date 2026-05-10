@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T20:01:39.061Z",
+  "generatedAt": "2026-05-10T20:16:29.069Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1540,7 +1540,7 @@
     "ctcrc": {
       "schedule": [
         {
-          "url": "https://www.ctcrc.co.uk/",
+          "url": "https://classictouringcars.com/",
           "label": "CTCRC — official"
         },
         {
@@ -1550,7 +1550,7 @@
       ],
       "results": [
         {
-          "url": "https://www.ctcrc.co.uk/",
+          "url": "https://classictouringcars.com/",
           "label": "CTCRC — official"
         }
       ]
