@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T03:07:37.736Z",
+  "generatedAt": "2026-05-11T03:11:06.008Z",
   "events": [
     {
       "id": 101,
@@ -3870,19 +3870,19 @@
           "name": "Practice 1",
           "time": "2026-05-12T12:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS2"
         },
         {
           "name": "Veterans Practice",
           "time": "2026-05-12T14:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS2"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-12T16:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 3",
@@ -3906,31 +3906,31 @@
           "name": "Practice 5",
           "time": "2026-05-18T13:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Full-Field Qualifying",
           "time": "2026-05-16T11:00:00-04:00",
           "duration": 350,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1 / FS2 / FOX"
         },
         {
           "name": "Top 12 Qualifying",
           "time": "2026-05-17T16:05:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FOX"
         },
         {
           "name": "Last Chance Qualifying",
           "time": "2026-05-17T17:15:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FOX"
         },
         {
           "name": "Firestone Fast Six",
           "time": "2026-05-17T18:25:00-04:00",
           "duration": 30,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FOX"
         },
         {
           "name": "Warmup",
