@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generatedAt": "2026-05-10T21:27:35.226Z",
+  "version": 2,
+  "generatedAt": "2026-05-11T03:44:02.262Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -13,7 +13,10 @@
         "UK": "Sky Sports F1",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.formula1.com/en/results/2026/races"
+      "resultsUrl": "https://www.formula1.com/en/results/2026/races",
+      "fallbackMinutes": 110,
+      "typicalLapSeconds": 95,
+      "lapBased": true
     },
     "motogp": {
       "id": "motogp",
@@ -26,7 +29,13 @@
         "UK": "TNT Sports",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.motogp.com/en/gp-results"
+      "resultsUrl": "https://www.motogp.com/en/gp-results",
+      "fallbackMinutes": {
+        "sprint": 25,
+        "race": 50
+      },
+      "typicalLapSeconds": 100,
+      "lapBased": true
     },
     "moto2": {
       "id": "moto2",
@@ -131,7 +140,10 @@
         "UK": "Sky Sports",
         "AU": "Stan Sport"
       },
-      "resultsUrl": "https://www.indycar.com/Stats/Race-Results"
+      "resultsUrl": "https://www.indycar.com/Stats/Race-Results",
+      "fallbackMinutes": 130,
+      "typicalLapSeconds": 90,
+      "lapBased": true
     },
     "nascar": {
       "id": "nascar",
@@ -144,7 +156,10 @@
         "UK": "Premier Sports",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.nascar.com/nascar-cup-series/2026/schedule/"
+      "resultsUrl": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
+      "fallbackMinutes": 200,
+      "typicalLapSeconds": 60,
+      "lapBased": true
     },
     "oreilly": {
       "id": "oreilly",
@@ -157,7 +172,10 @@
         "UK": "Premier Sports",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule"
+      "resultsUrl": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule",
+      "fallbackMinutes": 150,
+      "typicalLapSeconds": 55,
+      "lapBased": true
     },
     "truck": {
       "id": "truck",
@@ -170,7 +188,10 @@
         "UK": "Premier Sports",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule"
+      "resultsUrl": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule",
+      "fallbackMinutes": 120,
+      "typicalLapSeconds": 55,
+      "lapBased": true
     },
     "arca": {
       "id": "arca",
@@ -183,7 +204,10 @@
         "UK": "FloRacing",
         "AU": "FloRacing"
       },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
+      "fallbackMinutes": 90,
+      "typicalLapSeconds": 45,
+      "lapBased": true
     },
     "arcaeast": {
       "id": "arcaeast",
@@ -196,7 +220,8 @@
         "UK": "FloRacing",
         "AU": "FloRacing"
       },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East",
+      "typicalLapSeconds": 35
     },
     "arcawest": {
       "id": "arcawest",
@@ -209,7 +234,8 @@
         "UK": "FloRacing",
         "AU": "FloRacing"
       },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West",
+      "typicalLapSeconds": 35
     },
     "nascarcanada": {
       "id": "nascarcanada",
@@ -222,7 +248,10 @@
         "UK": "YouTube/NASCARCanadaSeries",
         "AU": "YouTube/NASCARCanadaSeries"
       },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
+      "fallbackMinutes": 90,
+      "typicalLapSeconds": 35,
+      "lapBased": true
     },
     "whelen": {
       "id": "whelen",
@@ -235,7 +264,10 @@
         "UK": "FloRacing",
         "AU": "FloRacing"
       },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
+      "fallbackMinutes": 75,
+      "typicalLapSeconds": 25,
+      "lapBased": true
     },
     "wrc": {
       "id": "wrc",
@@ -261,7 +293,8 @@
         "UK": "Sky Sports",
         "AU": "Stan Sport"
       },
-      "resultsUrl": "https://www.imsa.com/weathertech/results/"
+      "resultsUrl": "https://www.imsa.com/weathertech/results/",
+      "fallbackMinutes": 360
     },
     "pilot": {
       "id": "pilot",
@@ -278,7 +311,8 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Michelin_Pilot_Challenge"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Michelin_Pilot_Challenge",
+      "fallbackMinutes": 120
     },
     "vpscc": {
       "id": "vpscc",
@@ -295,7 +329,8 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_IMSA_VP_Racing_SportsCar_Challenge"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_IMSA_VP_Racing_SportsCar_Challenge",
+      "fallbackMinutes": 60
     },
     "trofeo": {
       "id": "trofeo",
@@ -312,7 +347,8 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://squadracorse.lamborghini.com/en/super-trofeo"
+      "resultsUrl": "https://squadracorse.lamborghini.com/en/super-trofeo",
+      "fallbackMinutes": 50
     },
     "trofeoeu": {
       "id": "trofeoeu",
@@ -365,7 +401,8 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup"
+      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup",
+      "fallbackMinutes": 35
     },
     "supercup": {
       "id": "supercup",
@@ -449,7 +486,8 @@
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
-      ]
+      ],
+      "fallbackMinutes": 45
     },
     "mustang": {
       "id": "mustang",
@@ -466,7 +504,8 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://www.imsa.com/mustangchallenge/"
+      "resultsUrl": "https://www.imsa.com/mustangchallenge/",
+      "fallbackMinutes": 45
     },
     "mustangcup": {
       "id": "mustangcup",
@@ -519,7 +558,8 @@
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
-      "resultsUrl": "https://www.gt-world-challenge-america.com/results"
+      "resultsUrl": "https://www.gt-world-challenge-america.com/results",
+      "fallbackMinutes": 90
     },
     "gtwau": {
       "id": "gtwau",
@@ -549,7 +589,13 @@
         "UK": "Sky Sports F1",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.fiaformula2.com/Calendar"
+      "resultsUrl": "https://www.fiaformula2.com/Calendar",
+      "fallbackMinutes": {
+        "sprint": 50,
+        "race": 65
+      },
+      "typicalLapSeconds": 100,
+      "lapBased": true
     },
     "f3": {
       "id": "f3",
@@ -562,7 +608,13 @@
         "UK": "Sky Sports F1",
         "AU": "Fox Sports"
       },
-      "resultsUrl": "https://www.fiaformula3.com/Calendar"
+      "resultsUrl": "https://www.fiaformula3.com/Calendar",
+      "fallbackMinutes": {
+        "sprint": 40,
+        "race": 50
+      },
+      "typicalLapSeconds": 105,
+      "lapBased": true
     },
     "fe": {
       "id": "fe",
@@ -575,7 +627,8 @@
         "UK": "Channel 4",
         "AU": "beIN Sports"
       },
-      "resultsUrl": "https://www.fiaformulae.com/en/results"
+      "resultsUrl": "https://www.fiaformulae.com/en/results",
+      "fallbackMinutes": 50
     },
     "wec": {
       "id": "wec",
@@ -588,7 +641,8 @@
         "UK": "Eurosport",
         "AU": "Stan Sport"
       },
-      "resultsUrl": "https://www.fiawec.com/en/page/resultats-1"
+      "resultsUrl": "https://www.fiawec.com/en/page/resultats-1",
+      "fallbackMinutes": 360
     },
     "highlimit": {
       "id": "highlimit",
@@ -601,7 +655,8 @@
         "UK": "FloRacing",
         "AU": "FloRacing"
       },
-      "resultsUrl": "https://www.highlimitracing.com/standings/2026/31205/1000"
+      "resultsUrl": "https://www.highlimitracing.com/standings/2026/31205/1000",
+      "fallbackMinutes": 180
     },
     "woosc": {
       "id": "woosc",
@@ -643,7 +698,10 @@
         "AU": "YouTube/eNASCAR"
       },
       "streamUrl": "https://www.youtube.com/@iRacingOfficial/streams",
-      "resultsUrl": "https://www.enascar.com/"
+      "resultsUrl": "https://www.enascar.com/",
+      "fallbackMinutes": 90,
+      "typicalLapSeconds": 40,
+      "lapBased": true
     },
     "nhra": {
       "id": "nhra",
@@ -948,7 +1006,9 @@
         "AU": "BTCC TV"
       },
       "streamUrl": "https://btcc.net/",
-      "resultsUrl": "https://btcc.net/race-results/"
+      "resultsUrl": "https://btcc.net/race-results/",
+      "fallbackMinutes": 25,
+      "typicalLapSeconds": 75
     },
     "f4british": {
       "id": "f4british",
@@ -1188,5 +1248,36 @@
       "streamUrl": "https://www.youtube.com/@PorscheCarreraCupDeutschland",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany"
     }
-  }
+  },
+  "categoryOverrides": {},
+  "racePatterns": {
+    "race": [
+      "race",
+      "sprint",
+      "feature",
+      "^heat",
+      "main event",
+      "a-main",
+      "a main"
+    ],
+    "practice": [
+      "\\bpractice\\b",
+      "^fp\\d"
+    ],
+    "qualifying": [
+      "qualif"
+    ],
+    "sprint": [
+      "sprint"
+    ],
+    "warmup": [
+      "warm[-\\s]?up"
+    ]
+  },
+  "defaultFollowed": [
+    "f1",
+    "motogp",
+    "indycar",
+    "nascar"
+  ]
 }
