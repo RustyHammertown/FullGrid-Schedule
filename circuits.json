@@ -1,274 +1,314 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T21:27:37.497Z",
+  "generatedAt": "2026-05-11T20:43:24.395Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
       "lon": 144.968,
       "city": "Melbourne",
       "region": "Victoria",
-      "website": "https://www.grandprix.com.au"
+      "website": "https://www.grandprix.com.au",
+      "length_m": 5278
     },
     "Algarve International Circuit": {
       "lat": 37.2319,
       "lon": -8.6319,
       "city": "Portimão",
       "region": "Algarve",
-      "website": "https://www.autodromodoalgarve.com"
+      "website": "https://www.autodromodoalgarve.com",
+      "length_m": 4684
     },
     "Autodromo Enzo e Dino Ferrari": {
       "lat": 44.3411,
       "lon": 11.7133,
       "city": "Imola",
       "region": "Emilia-Romagna",
-      "website": "https://www.autodromoimola.it"
+      "website": "https://www.autodromoimola.it",
+      "length_m": 4909
     },
     "Autódromo Hermanos Rodríguez": {
       "lat": 19.4061,
       "lon": -99.0925,
       "city": "Mexico City",
-      "website": "https://autodromohermanosrodriguez.mx"
+      "website": "https://autodromohermanosrodriguez.mx",
+      "length_m": 4304
     },
     "Autodromo Internazionale del Mugello": {
       "lat": 43.9975,
       "lon": 11.3719,
       "city": "Scarperia",
       "region": "Tuscany",
-      "website": "https://www.mugellocircuit.com"
+      "website": "https://www.mugellocircuit.com",
+      "length_m": 5245
     },
     "Autódromo José Carlos Pace (Interlagos)": {
       "lat": -23.7011,
       "lon": -46.6972,
       "city": "São Paulo",
-      "website": "https://www.autodromointerlagos.com.br"
+      "website": "https://www.autodromointerlagos.com.br",
+      "length_m": 4309
     },
     "Autodromo Nazionale Monza": {
       "lat": 45.6206,
       "lon": 9.2894,
       "city": "Monza",
       "region": "Lombardy",
-      "website": "https://www.monzanet.it"
+      "website": "https://www.monzanet.it",
+      "length_m": 5793
     },
     "Automotodrom Brno": {
       "lat": 49.205,
       "lon": 16.4517,
       "city": "Brno",
-      "website": "https://www.automotodrombrno.cz"
+      "website": "https://www.automotodrombrno.cz",
+      "length_m": 5403
     },
     "Bahrain International Circuit": {
       "lat": 26.0325,
       "lon": 50.5106,
       "city": "Sakhir",
-      "website": "https://www.bahraingp.com"
+      "website": "https://www.bahraingp.com",
+      "length_m": 5412
     },
     "Baku City Circuit": {
       "lat": 40.3725,
       "lon": 49.8533,
       "city": "Baku",
-      "website": "https://www.bakucitycircuit.com"
+      "website": "https://www.bakucitycircuit.com",
+      "length_m": 6003
     },
     "Balaton Park": {
       "lat": 47.0081,
       "lon": 18.1989,
       "city": "Balatonfőkajár",
-      "website": "https://balatonpark.com"
+      "website": "https://balatonpark.com",
+      "length_m": 4115
     },
     "Brands Hatch": {
       "lat": 51.3575,
       "lon": 0.26,
       "city": "Kent",
       "region": "England",
-      "website": "https://www.brandshatch.co.uk"
+      "website": "https://www.brandshatch.co.uk",
+      "length_m": 3916
     },
     "Chang International Circuit, Buriram": {
       "lat": 14.9628,
       "lon": 103.085,
       "city": "Buriram",
-      "website": "https://www.chang-circuit.com"
+      "website": "https://www.chang-circuit.com",
+      "length_m": 4554
     },
     "Circuit de Barcelona-Catalunya": {
       "lat": 41.57,
       "lon": 2.2611,
       "city": "Montmeló",
       "region": "Catalonia",
-      "website": "https://www.circuitcat.com"
+      "website": "https://www.circuitcat.com",
+      "length_m": 4657
     },
     "Circuit de la Sarthe": {
       "lat": 47.933,
       "lon": 0.233,
       "city": "Le Mans",
       "region": "Pays de la Loire",
-      "website": "https://www.lemans.org"
+      "website": "https://www.lemans.org",
+      "length_m": 13626
     },
     "Circuit de Monaco": {
       "lat": 43.7347,
       "lon": 7.4206,
       "city": "Monte Carlo",
-      "website": "https://www.acm.mc"
+      "website": "https://www.acm.mc",
+      "length_m": 3337
     },
     "Circuit de Nevers Magny-Cours": {
       "lat": 46.8633,
       "lon": 3.1633,
       "city": "Magny-Cours",
       "region": "Burgundy",
-      "website": "https://www.circuitmagnycours.com"
+      "website": "https://www.circuitmagnycours.com",
+      "length_m": 4411
     },
     "Circuit de Spa-Francorchamps": {
       "lat": 50.4372,
       "lon": 5.9714,
       "city": "Stavelot",
       "region": "Wallonia",
-      "website": "https://www.spa-francorchamps.be"
+      "website": "https://www.spa-francorchamps.be",
+      "length_m": 7004
     },
     "Circuit Gilles Villeneuve": {
       "lat": 45.5006,
       "lon": -73.5225,
       "city": "Montreal",
       "region": "Quebec",
-      "website": "https://www.circuitgillesvilleneuve.ca"
+      "website": "https://www.circuitgillesvilleneuve.ca",
+      "length_m": 4361
     },
     "Circuit of the Americas": {
       "lat": 30.1328,
       "lon": -97.6411,
       "city": "Austin",
       "region": "Texas",
-      "website": "https://circuitoftheamericas.com"
+      "website": "https://circuitoftheamericas.com",
+      "length_m": 5513
     },
     "Circuit Paul Ricard": {
       "lat": 43.2506,
       "lon": 5.7917,
       "city": "Le Castellet",
       "region": "Provence",
-      "website": "https://www.circuitpaulricard.com"
+      "website": "https://www.circuitpaulricard.com",
+      "length_m": 5842
     },
     "Circuit Ricardo Tormo": {
       "lat": 39.4858,
       "lon": -0.6281,
       "city": "Cheste",
       "region": "Valencia",
-      "website": "https://www.circuitvalencia.com"
+      "website": "https://www.circuitvalencia.com",
+      "length_m": 4005
     },
     "Circuit Zandvoort": {
       "lat": 52.3889,
       "lon": 4.5408,
       "city": "Zandvoort",
       "region": "North Holland",
-      "website": "https://www.circuitzandvoort.nl"
+      "website": "https://www.circuitzandvoort.nl",
+      "length_m": 4259
     },
     "Circuito de Jerez - Ángel Nieto": {
       "lat": 36.7083,
       "lon": -6.0344,
       "city": "Jerez de la Frontera",
       "region": "Andalusia",
-      "website": "https://www.circuitodejerez.com"
+      "website": "https://www.circuitodejerez.com",
+      "length_m": 4423
     },
     "Circuito del Jarama": {
       "lat": 40.6172,
       "lon": -3.5856,
       "city": "San Sebastián de los Reyes",
       "region": "Madrid",
-      "website": "https://www.jarama.org"
+      "website": "https://www.jarama.org",
+      "length_m": 3850
     },
     "Fuji International Speedway": {
       "lat": 35.3717,
       "lon": 138.9258,
       "city": "Oyama",
       "region": "Shizuoka",
-      "website": "https://www.fsw.tv"
+      "website": "https://www.fsw.tv",
+      "length_m": 4563
     },
     "Hockenheimring": {
       "lat": 49.3278,
       "lon": 8.5658,
       "city": "Hockenheim",
       "region": "Baden-Württemberg",
-      "website": "https://www.hockenheimring.de"
+      "website": "https://www.hockenheimring.de",
+      "length_m": 4574
     },
     "Hungaroring": {
       "lat": 47.5828,
       "lon": 19.2511,
       "city": "Mogyoród",
-      "website": "https://www.hungaroring.hu"
+      "website": "https://www.hungaroring.hu",
+      "length_m": 4381
     },
     "Jeddah Corniche Circuit": {
       "lat": 21.6322,
       "lon": 39.1047,
       "city": "Jeddah",
-      "website": "https://saudiarabiangp.com"
+      "website": "https://saudiarabiangp.com",
+      "length_m": 6174
     },
     "Lausitzring": {
       "lat": 51.535,
       "lon": 13.9244,
       "city": "Klettwitz",
       "region": "Brandenburg",
-      "website": "https://www.eurospeedway.de"
+      "website": "https://www.eurospeedway.de",
+      "length_m": 3478
     },
     "Le Mans": {
       "lat": 47.933,
       "lon": 0.233,
       "city": "Le Mans",
       "region": "Pays de la Loire",
-      "website": "https://www.lemans.org"
+      "website": "https://www.lemans.org",
+      "length_m": 4185
     },
     "Lusail International Circuit": {
       "lat": 25.49,
       "lon": 51.4536,
       "city": "Lusail",
-      "website": "https://lusailcircuit.com"
+      "website": "https://lusailcircuit.com",
+      "length_m": 5380
     },
     "Marina Bay Street Circuit": {
       "lat": 1.2913,
       "lon": 103.8643,
       "city": "Marina Bay",
-      "website": "https://www.singaporegp.sg"
+      "website": "https://www.singaporegp.sg",
+      "length_m": 4940
     },
     "Miami International Autodrome": {
       "lat": 25.958,
       "lon": -80.2389,
       "city": "Miami Gardens",
       "region": "Florida",
-      "website": "https://f1miamigp.com"
+      "website": "https://f1miamigp.com",
+      "length_m": 5412
     },
     "Misano World Circuit Marco Simoncelli": {
       "lat": 43.9617,
       "lon": 12.6839,
       "city": "Misano Adriatico",
       "region": "Emilia-Romagna",
-      "website": "https://www.misanocircuit.com"
+      "website": "https://www.misanocircuit.com",
+      "length_m": 4226
     },
     "Misano World Circuit": {
       "lat": 43.9617,
       "lon": 12.6839,
       "city": "Misano Adriatico",
       "region": "Emilia-Romagna",
-      "website": "https://www.misanocircuit.com"
+      "website": "https://www.misanocircuit.com",
+      "length_m": 4226
     },
     "Mobility Resort Motegi": {
       "lat": 36.5331,
       "lon": 140.2289,
       "city": "Motegi",
       "region": "Tochigi",
-      "website": "https://www.mr-motegi.jp"
+      "website": "https://www.mr-motegi.jp",
+      "length_m": 4801
     },
     "Monza": {
       "lat": 45.6206,
       "lon": 9.2894,
       "city": "Monza",
       "region": "Lombardy",
-      "website": "https://www.monzanet.it"
+      "website": "https://www.monzanet.it",
+      "length_m": 5793
     },
     "MotorLand Aragón": {
       "lat": 41.0783,
       "lon": -0.2075,
       "city": "Alcañiz",
       "region": "Aragon",
-      "website": "https://www.motorlandaragon.com"
+      "website": "https://www.motorlandaragon.com",
+      "length_m": 5077
     },
     "Mount Panorama": {
       "lat": -33.449,
       "lon": 149.5547,
       "city": "Bathurst",
       "region": "New South Wales",
-      "website": "https://www.mount-panorama.com.au"
+      "website": "https://www.mount-panorama.com.au",
+      "length_m": 6213
     },
     "Apex Motor Club": {
       "lat": 33.084011,
@@ -295,76 +335,87 @@
       "lon": 11.1183,
       "city": "Nuremberg",
       "region": "Bavaria",
-      "website": "https://www.norisring.de"
+      "website": "https://www.norisring.de",
+      "length_m": 2300
     },
     "Nürburgring GP": {
       "lat": 50.3344,
       "lon": 6.9472,
       "city": "Nürburg",
       "region": "Rhineland-Palatinate",
-      "website": "https://www.nuerburgring.de"
+      "website": "https://www.nuerburgring.de",
+      "length_m": 5148
     },
     "Nürburgring Nordschleife": {
       "lat": 50.33,
       "lon": 6.945,
       "city": "Nürburg",
       "region": "Rhineland-Palatinate",
-      "website": "https://www.nuerburgring.de"
+      "website": "https://www.nuerburgring.de",
+      "length_m": 20832
     },
     "Red Bull Ring": {
       "lat": 47.2197,
       "lon": 14.7647,
       "city": "Spielberg",
       "region": "Styria",
-      "website": "https://www.projekt-spielberg.com"
+      "website": "https://www.projekt-spielberg.com",
+      "length_m": 4318
     },
     "Sachsenring": {
       "lat": 50.7906,
       "lon": 12.6878,
       "city": "Hohenstein-Ernstthal",
       "region": "Saxony",
-      "website": "https://www.sachsenring.de"
+      "website": "https://www.sachsenring.de",
+      "length_m": 3671
     },
     "Sepang International Circuit": {
       "lat": 2.7603,
       "lon": 101.7378,
       "city": "Sepang",
       "region": "Selangor",
-      "website": "https://www.sepangcircuit.com"
+      "website": "https://www.sepangcircuit.com",
+      "length_m": 5543
     },
     "Shanghai International Circuit": {
       "lat": 31.3389,
       "lon": 121.2197,
       "city": "Jiading",
       "region": "Shanghai",
-      "website": "https://www.f1china.com.cn"
+      "website": "https://www.f1china.com.cn",
+      "length_m": 5451
     },
     "Silverstone Circuit": {
       "lat": 52.0711,
       "lon": -1.0161,
       "city": "Silverstone",
       "region": "Northamptonshire",
-      "website": "https://www.silverstone.co.uk"
+      "website": "https://www.silverstone.co.uk",
+      "length_m": 5891
     },
     "Suzuka International Racing Course": {
       "lat": 34.8431,
       "lon": 136.5408,
       "city": "Suzuka",
       "region": "Mie",
-      "website": "https://www.suzukacircuit.jp"
+      "website": "https://www.suzukacircuit.jp",
+      "length_m": 5807
     },
     "TT Circuit Assen": {
       "lat": 52.9595,
       "lon": 6.5241,
       "city": "Assen",
       "region": "Drenthe",
-      "website": "https://www.ttcircuit.com"
+      "website": "https://www.ttcircuit.com",
+      "length_m": 4555
     },
     "Yas Marina Circuit": {
       "lat": 24.4672,
       "lon": 54.6031,
       "city": "Abu Dhabi",
-      "website": "https://www.yasmarinacircuit.com"
+      "website": "https://www.yasmarinacircuit.com",
+      "length_m": 5281
     },
     "Goiânia": {
       "lat": -16.7181,
@@ -414,42 +465,48 @@
       "lon": -115.1622,
       "city": "Las Vegas",
       "region": "Nevada",
-      "website": "https://f1lasvegasgp.com"
+      "website": "https://f1lasvegasgp.com",
+      "length_m": 6201
     },
     "Streets of St. Petersburg": {
       "lat": 27.7644,
       "lon": -82.6289,
       "city": "St. Petersburg",
       "region": "Florida",
-      "website": "https://www.gpstpete.com"
+      "website": "https://www.gpstpete.com",
+      "length_m": 2899
     },
     "Streets of Long Beach": {
       "lat": 33.7647,
       "lon": -118.1907,
       "city": "Long Beach",
       "region": "California",
-      "website": "https://gplb.com"
+      "website": "https://gplb.com",
+      "length_m": 3167
     },
     "Long Beach Street Circuit": {
       "lat": 33.7647,
       "lon": -118.1907,
       "city": "Long Beach",
       "region": "California",
-      "website": "https://gplb.com"
+      "website": "https://gplb.com",
+      "length_m": 3167
     },
     "Streets of Detroit": {
       "lat": 42.3289,
       "lon": -83.0383,
       "city": "Detroit",
       "region": "Michigan",
-      "website": "https://www.detroitgp.com"
+      "website": "https://www.detroitgp.com",
+      "length_m": 2858
     },
     "Detroit Street Course": {
       "lat": 42.3289,
       "lon": -83.0383,
       "city": "Detroit",
       "region": "Michigan",
-      "website": "https://www.detroitgp.com"
+      "website": "https://www.detroitgp.com",
+      "length_m": 2858
     },
     "Streets of Arlington": {
       "lat": 32.7475,
@@ -480,77 +537,88 @@
       "lon": -82.6364,
       "city": "Lexington",
       "region": "Ohio",
-      "website": "https://www.midohio.com"
+      "website": "https://www.midohio.com",
+      "length_m": 3636
     },
     "Iowa Speedway": {
       "lat": 41.6778,
       "lon": -93.0144,
       "city": "Newton",
       "region": "Iowa",
-      "website": "https://www.iowaspeedway.com"
+      "website": "https://www.iowaspeedway.com",
+      "length_m": 1407
     },
     "Road America": {
       "lat": 43.7992,
       "lon": -87.9923,
       "city": "Elkhart Lake",
       "region": "Wisconsin",
-      "website": "https://www.roadamerica.com"
+      "website": "https://www.roadamerica.com",
+      "length_m": 6515
     },
     "Road America, Elkhart Lake": {
       "lat": 43.7992,
       "lon": -87.9923,
       "city": "Elkhart Lake",
       "region": "Wisconsin",
-      "website": "https://www.roadamerica.com"
+      "website": "https://www.roadamerica.com",
+      "length_m": 6515
     },
     "WeatherTech Raceway Laguna Seca": {
       "lat": 36.5844,
       "lon": -121.7534,
       "city": "Salinas",
       "region": "California",
-      "website": "https://www.weathertechraceway.com"
+      "website": "https://www.weathertechraceway.com",
+      "length_m": 3602
     },
     "Portland International Raceway": {
       "lat": 45.5966,
       "lon": -122.6949,
       "city": "Portland",
       "region": "Oregon",
-      "website": "https://www.portlandraceway.com"
+      "website": "https://www.portlandraceway.com",
+      "length_m": 3198
     },
     "Milwaukee Mile": {
       "lat": 43.02,
       "lon": -88.01,
       "city": "West Allis",
       "region": "Wisconsin",
-      "website": "https://www.milwaukeemile.com"
+      "website": "https://www.milwaukeemile.com",
+      "length_m": 1633
     },
     "Nashville Superspeedway": {
       "lat": 36.0456,
       "lon": -86.4101,
       "city": "Lebanon",
       "region": "Tennessee",
-      "website": "https://www.nashvillesuperspeedway.com"
+      "website": "https://www.nashvillesuperspeedway.com",
+      "length_m": 2125
     },
     "Barber Motorsports Park": {
       "lat": 33.5332,
       "lon": -86.6188,
       "city": "Birmingham",
       "region": "Alabama",
-      "website": "https://www.barbermotorsports.com"
+      "website": "https://www.barbermotorsports.com",
+      "length_m": 3825
     },
     "Indianapolis Motor Speedway": {
       "lat": 39.7962,
       "lon": -86.2348,
       "city": "Indianapolis",
       "region": "Indiana",
-      "website": "https://www.indianapolismotorspeedway.com"
+      "website": "https://www.indianapolismotorspeedway.com",
+      "length_m": 4023
     },
     "Indianapolis Motor Speedway (Road Course)": {
       "lat": 39.7962,
       "lon": -86.2348,
       "city": "Indianapolis",
       "region": "Indiana",
-      "website": "https://www.indianapolismotorspeedway.com"
+      "website": "https://www.indianapolismotorspeedway.com",
+      "length_m": 3925
     },
     "Lucas Oil Indianapolis Raceway Park": {
       "lat": 39.8086,
@@ -564,49 +632,56 @@
       "lon": -81.3531,
       "city": "Sebring",
       "region": "Florida",
-      "website": "https://sebringraceway.com"
+      "website": "https://sebringraceway.com",
+      "length_m": 6019
     },
     "Daytona International Speedway": {
       "lat": 29.185,
       "lon": -81.0697,
       "city": "Daytona Beach",
       "region": "Florida",
-      "website": "https://www.daytonainternationalspeedway.com"
+      "website": "https://www.daytonainternationalspeedway.com",
+      "length_m": 4023
     },
     "Watkins Glen International": {
       "lat": 42.3364,
       "lon": -76.925,
       "city": "Watkins Glen",
       "region": "New York",
-      "website": "https://www.theglen.com"
+      "website": "https://www.theglen.com",
+      "length_m": 5435
     },
     "Lime Rock Park": {
       "lat": 41.9284,
       "lon": -73.3826,
       "city": "Lakeville",
       "region": "Connecticut",
-      "website": "https://www.limerock.com"
+      "website": "https://www.limerock.com",
+      "length_m": 2470
     },
     "Michelin Raceway Road Atlanta": {
       "lat": 34.1459,
       "lon": -83.8149,
       "city": "Braselton",
       "region": "Georgia",
-      "website": "https://www.michelinraceway.com"
+      "website": "https://www.michelinraceway.com",
+      "length_m": 4083
     },
     "Virginia International Raceway": {
       "lat": 36.5624,
       "lon": -79.2063,
       "city": "Alton",
       "region": "Virginia",
-      "website": "https://virnow.com"
+      "website": "https://virnow.com",
+      "length_m": 5263
     },
     "Canadian Tire Motorsport Park": {
       "lat": 44.0491,
       "lon": -78.6745,
       "city": "Bowmanville",
       "region": "Ontario",
-      "website": "https://canadiantiremotorsportpark.com"
+      "website": "https://canadiantiremotorsportpark.com",
+      "length_m": 3957
     },
     "Calabogie Motorsport Park": {
       "lat": 45.3028,
@@ -627,21 +702,24 @@
       "lon": -84.3178,
       "city": "Hampton",
       "region": "Georgia",
-      "website": "https://www.echoparkspeedway.com"
+      "website": "https://www.echoparkspeedway.com",
+      "length_m": 2478
     },
     "EchoPark Speedway (Atlanta)": {
       "lat": 33.3834,
       "lon": -84.3178,
       "city": "Hampton",
       "region": "Georgia",
-      "website": "https://www.echoparkspeedway.com"
+      "website": "https://www.echoparkspeedway.com",
+      "length_m": 2478
     },
     "Bristol Motor Speedway": {
       "lat": 36.5161,
       "lon": -82.2569,
       "city": "Bristol",
       "region": "Tennessee",
-      "website": "https://www.bristolmotorspeedway.com"
+      "website": "https://www.bristolmotorspeedway.com",
+      "length_m": 858
     },
     "Bristol Dragway": {
       "lat": 36.5161,
@@ -655,7 +733,8 @@
       "lon": -80.6831,
       "city": "Concord",
       "region": "North Carolina",
-      "website": "https://www.charlottemotorspeedway.com"
+      "website": "https://www.charlottemotorspeedway.com",
+      "length_m": 2414
     },
     "zMAX Dragway": {
       "lat": 35.361,
@@ -675,35 +754,40 @@
       "lon": -79.9055,
       "city": "Darlington",
       "region": "South Carolina",
-      "website": "https://www.darlingtonraceway.com"
+      "website": "https://www.darlingtonraceway.com",
+      "length_m": 2198
     },
     "Dover Motor Speedway": {
       "lat": 39.1894,
       "lon": -75.53,
       "city": "Dover",
       "region": "Delaware",
-      "website": "https://www.doverspeedway.com"
+      "website": "https://www.doverspeedway.com",
+      "length_m": 1609
     },
     "Homestead-Miami Speedway": {
       "lat": 25.4518,
       "lon": -80.4094,
       "city": "Homestead",
       "region": "Florida",
-      "website": "https://www.homesteadmiamispeedway.com"
+      "website": "https://www.homesteadmiamispeedway.com",
+      "length_m": 2414
     },
     "Kansas Speedway": {
       "lat": 39.1156,
       "lon": -94.8311,
       "city": "Kansas City",
       "region": "Kansas",
-      "website": "https://www.kansasspeedway.com"
+      "website": "https://www.kansasspeedway.com",
+      "length_m": 2414
     },
     "Las Vegas Motor Speedway": {
       "lat": 36.2722,
       "lon": -115.0103,
       "city": "Las Vegas",
       "region": "Nevada",
-      "website": "https://www.lvms.com"
+      "website": "https://www.lvms.com",
+      "length_m": 2414
     },
     "The Bullring at Las Vegas Motor Speedway": {
       "lat": 36.2664,
@@ -731,55 +815,63 @@
       "lon": -79.8506,
       "city": "Ridgeway",
       "region": "Virginia",
-      "website": "https://www.martinsvillespeedway.com"
+      "website": "https://www.martinsvillespeedway.com",
+      "length_m": 845
     },
     "Michigan International Speedway": {
       "lat": 42.0656,
       "lon": -84.2417,
       "city": "Brooklyn",
       "region": "Michigan",
-      "website": "https://www.mispeedway.com"
+      "website": "https://www.mispeedway.com",
+      "length_m": 3219
     },
     "Nashville Fairgrounds Speedway": {
       "lat": 36.1308,
       "lon": -86.7621,
       "city": "Nashville",
-      "region": "Tennessee"
+      "region": "Tennessee",
+      "length_m": 956
     },
     "New Hampshire Motor Speedway": {
       "lat": 43.3625,
       "lon": -71.4622,
       "city": "Loudon",
       "region": "New Hampshire",
-      "website": "https://www.nhms.com"
+      "website": "https://www.nhms.com",
+      "length_m": 1696
     },
     "North Wilkesboro Speedway": {
       "lat": 36.1422,
       "lon": -81.0725,
       "city": "North Wilkesboro",
       "region": "North Carolina",
-      "website": "https://www.northwilkesborospeedway.com"
+      "website": "https://www.northwilkesborospeedway.com",
+      "length_m": 1006
     },
     "Phoenix Raceway": {
       "lat": 33.3748,
       "lon": -112.3112,
       "city": "Avondale",
       "region": "Arizona",
-      "website": "https://www.phoenixraceway.com"
+      "website": "https://www.phoenixraceway.com",
+      "length_m": 1644
     },
     "Pocono Raceway": {
       "lat": 41.055,
       "lon": -75.5114,
       "city": "Long Pond",
       "region": "Pennsylvania",
-      "website": "https://www.poconoraceway.com"
+      "website": "https://www.poconoraceway.com",
+      "length_m": 4023
     },
     "Richmond Raceway": {
       "lat": 37.5919,
       "lon": -77.4197,
       "city": "Richmond",
       "region": "Virginia",
-      "website": "https://www.richmondraceway.com"
+      "website": "https://www.richmondraceway.com",
+      "length_m": 1207
     },
     "Rockingham Speedway": {
       "lat": 34.9742,
@@ -798,21 +890,24 @@
       "lon": -122.4544,
       "city": "Sonoma",
       "region": "California",
-      "website": "https://www.sonomaraceway.com"
+      "website": "https://www.sonomaraceway.com",
+      "length_m": 4017
     },
     "Talladega Superspeedway": {
       "lat": 33.5649,
       "lon": -86.0666,
       "city": "Talladega",
       "region": "Alabama",
-      "website": "https://www.talladegasuperspeedway.com"
+      "website": "https://www.talladegasuperspeedway.com",
+      "length_m": 4280
     },
     "Texas Motor Speedway": {
       "lat": 33.0375,
       "lon": -97.2814,
       "city": "Fort Worth",
       "region": "Texas",
-      "website": "https://www.texasmotorspeedway.com"
+      "website": "https://www.texasmotorspeedway.com",
+      "length_m": 2414
     },
     "Texas Motorplex": {
       "lat": 32.3286,
@@ -826,7 +921,8 @@
       "lon": -90.1359,
       "city": "Madison",
       "region": "Illinois",
-      "website": "https://www.wwtraceway.com"
+      "website": "https://www.wwtraceway.com",
+      "length_m": 2009
     },
     "All American Speedway": {
       "lat": 38.7573,
@@ -1875,35 +1971,40 @@
       "lon": 145.2346,
       "city": "Phillip Island",
       "region": "Victoria",
-      "website": "https://www.phillipislandcircuit.com.au"
+      "website": "https://www.phillipislandcircuit.com.au",
+      "length_m": 4448
     },
     "The Bend Motorsport Park": {
       "lat": -35.3083,
       "lon": 139.5167,
       "city": "Tailem Bend",
       "region": "South Australia",
-      "website": "https://thebend.com.au"
+      "website": "https://thebend.com.au",
+      "length_m": 4948
     },
     "Queensland Raceway": {
       "lat": -27.6903,
       "lon": 152.6541,
       "city": "Ipswich",
       "region": "Queensland",
-      "website": "https://www.queenslandraceway.com.au"
+      "website": "https://www.queenslandraceway.com.au",
+      "length_m": 3120
     },
     "Hidden Valley Raceway": {
       "lat": -12.4492,
       "lon": 130.9069,
       "city": "Darwin",
       "region": "Northern Territory",
-      "website": "https://www.hiddenvalleyraceway.com.au"
+      "website": "https://www.hiddenvalleyraceway.com.au",
+      "length_m": 2870
     },
     "Sydney Motorsport Park": {
       "lat": -33.8064,
       "lon": 150.871,
       "city": "Eastern Creek",
       "region": "New South Wales",
-      "website": "https://www.sydneymotorsportpark.com.au"
+      "website": "https://www.sydneymotorsportpark.com.au",
+      "length_m": 3930
     },
     "Adelaide Street Circuit": {
       "lat": -34.9279,
@@ -1916,14 +2017,16 @@
       "lon": 147.2264,
       "city": "Launceston",
       "region": "Tasmania",
-      "website": "https://symmonsplainsraceway.com.au"
+      "website": "https://symmonsplainsraceway.com.au",
+      "length_m": 2410
     },
     "Barbagallo Raceway": {
       "lat": -31.6361,
       "lon": 115.7575,
       "city": "Wanneroo",
       "region": "Western Australia",
-      "website": "https://www.barbagalloraceway.com.au"
+      "website": "https://www.barbagalloraceway.com.au",
+      "length_m": 2411
     },
     "Townsville Street Circuit": {
       "lat": -19.2614,
@@ -1942,14 +2045,16 @@
       "lon": 116.3052,
       "city": "Lombok",
       "region": "West Nusa Tenggara",
-      "website": "https://mgpa.id"
+      "website": "https://mgpa.id",
+      "length_m": 4310
     },
     "Okayama International Circuit": {
       "lat": 34.9142,
       "lon": 134.2203,
       "city": "Mimasaka",
       "region": "Okayama",
-      "website": "https://www.okayama-international-circuit.jp"
+      "website": "https://www.okayama-international-circuit.jp",
+      "length_m": 3703
     },
     "Beijing Street Circuit": {
       "lat": 39.9905,
@@ -1962,28 +2067,32 @@
       "lon": 140.7817,
       "city": "Murata",
       "region": "Miyagi",
-      "website": "https://www.sportsland-sugo.co.jp"
+      "website": "https://www.sportsland-sugo.co.jp",
+      "length_m": 3704
     },
     "Circuit Paul Armagnac": {
       "lat": 43.7694,
       "lon": -0.0393,
       "city": "Nogaro",
       "region": "Gers",
-      "website": "https://www.circuit-nogaro.com"
+      "website": "https://www.circuit-nogaro.com",
+      "length_m": 3636
     },
     "Circuit Dijon-Prenois": {
       "lat": 47.3631,
       "lon": 4.9002,
       "city": "Prenois",
       "region": "Côte-d'Or",
-      "website": "https://www.dijon-prenois.com"
+      "website": "https://www.dijon-prenois.com",
+      "length_m": 3801
     },
     "Sandown International Raceway": {
       "lat": -37.9504,
       "lon": 145.1666,
       "city": "Springvale",
       "region": "Victoria",
-      "website": "https://www.sandownraceway.com.au"
+      "website": "https://www.sandownraceway.com.au",
+      "length_m": 3104
     },
     "Pavellò Toni Martí": {
       "lat": 42.5049,
@@ -2040,84 +2149,96 @@
       "lon": -1.3756,
       "city": "Castle Donington",
       "region": "Leicestershire",
-      "website": "https://www.donington-park.co.uk"
+      "website": "https://www.donington-park.co.uk",
+      "length_m": 4023
     },
     "Donington Park GP": {
       "lat": 52.8306,
       "lon": -1.3756,
       "city": "Castle Donington",
       "region": "Leicestershire",
-      "website": "https://www.donington-park.co.uk"
+      "website": "https://www.donington-park.co.uk",
+      "length_m": 4002
     },
     "Brands Hatch Indy": {
       "lat": 51.3575,
       "lon": 0.26,
       "city": "Kent",
       "region": "England",
-      "website": "https://www.brandshatch.co.uk"
+      "website": "https://www.brandshatch.co.uk",
+      "length_m": 1929
     },
     "Brands Hatch GP": {
       "lat": 51.3575,
       "lon": 0.26,
       "city": "Kent",
       "region": "England",
-      "website": "https://www.brandshatch.co.uk"
+      "website": "https://www.brandshatch.co.uk",
+      "length_m": 3916
     },
     "Snetterton": {
       "lat": 52.4694,
       "lon": 0.9461,
       "city": "Norwich",
       "region": "Norfolk",
-      "website": "https://www.snetterton.co.uk"
+      "website": "https://www.snetterton.co.uk",
+      "length_m": 3950
     },
     "Oulton Park": {
       "lat": 53.1789,
       "lon": -2.6147,
       "city": "Tarporley",
       "region": "Cheshire",
-      "website": "https://www.oultonpark.co.uk"
+      "website": "https://www.oultonpark.co.uk",
+      "length_m": 4318
     },
     "Thruxton": {
       "lat": 51.2103,
       "lon": -1.6017,
       "city": "Andover",
       "region": "Hampshire",
-      "website": "https://www.thruxtonracing.co.uk"
+      "website": "https://www.thruxtonracing.co.uk",
+      "length_m": 3792
     },
     "Knockhill": {
       "lat": 56.1306,
       "lon": -3.5097,
       "city": "Dunfermline",
       "region": "Fife",
-      "website": "https://www.knockhill.com"
+      "website": "https://www.knockhill.com",
+      "length_m": 2074
     },
     "Croft": {
       "lat": 54.4544,
       "lon": -1.5614,
       "city": "Dalton-on-Tees",
       "region": "North Yorkshire",
-      "website": "https://www.croftcircuit.co.uk"
+      "website": "https://www.croftcircuit.co.uk",
+      "length_m": 3411
     },
     "Pembrey": {
       "lat": 51.7068,
       "lon": -4.2843,
       "city": "Pembrey",
       "region": "Carmarthenshire",
-      "website": "https://www.barc.net/pembrey-circuit/"
+      "website": "https://www.barc.net/pembrey-circuit/",
+      "length_m": 2310
     },
     "Cadwell Park": {
       "lat": 53.3119,
       "lon": 0.0608,
       "city": "Louth",
       "region": "Lincolnshire",
-      "website": "https://www.cadwellpark.co.uk"
+      "website": "https://www.cadwellpark.co.uk",
+      "length_m": 3540
     },
     "Castle Combe": {
       "lat": 51.492,
       "lon": -2.2275,
       "city": "Castle Combe",
       "region": "Wiltshire",
-      "website": "https://www.castlecombecircuit.co.uk"
+      "website": "https://www.castlecombecircuit.co.uk",
+      "length_m": 2974
     }
   }
 }
