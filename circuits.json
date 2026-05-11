@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T23:46:12.350Z",
+  "generatedAt": "2026-05-11T23:55:05.676Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -90,7 +90,9 @@
       "city": "Kent",
       "region": "England",
       "website": "https://www.brandshatch.co.uk",
-      "length_m": 3916
+      "length_m": 3916,
+      "base": "Brands Hatch",
+      "layout": "GP"
     },
     "Chang International Circuit, Buriram": {
       "lat": 14.9628,
@@ -624,7 +626,9 @@
       "city": "Indianapolis",
       "region": "Indiana",
       "website": "https://www.indianapolismotorspeedway.com",
-      "length_m": 4023
+      "length_m": 4023,
+      "base": "Indianapolis Motor Speedway",
+      "layout": "Oval"
     },
     "Indianapolis Motor Speedway (Road Course)": {
       "lat": 39.7962,
@@ -632,7 +636,9 @@
       "city": "Indianapolis",
       "region": "Indiana",
       "website": "https://www.indianapolismotorspeedway.com",
-      "length_m": 3925
+      "length_m": 3925,
+      "base": "Indianapolis Motor Speedway",
+      "layout": "Road Course"
     },
     "Lucas Oil Indianapolis Raceway Park": {
       "lat": 39.8086,
@@ -2327,7 +2333,9 @@
       "city": "Kent",
       "region": "England",
       "website": "https://www.brandshatch.co.uk",
-      "length_m": 1929
+      "length_m": 1929,
+      "base": "Brands Hatch",
+      "layout": "Indy"
     },
     "Brands Hatch GP": {
       "lat": 51.3575,
@@ -2335,7 +2343,9 @@
       "city": "Kent",
       "region": "England",
       "website": "https://www.brandshatch.co.uk",
-      "length_m": 3916
+      "length_m": 3916,
+      "base": "Brands Hatch",
+      "layout": "GP"
     },
     "Snetterton": {
       "lat": 52.4694,
