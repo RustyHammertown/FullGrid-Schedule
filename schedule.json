@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T21:27:34.478Z",
+  "generatedAt": "2026-05-11T02:25:15.858Z",
   "events": [
     {
       "id": 101,
@@ -3881,13 +3881,13 @@
         {
           "name": "Qualifying",
           "time": "2026-05-16T11:00:00-04:00",
-          "duration": 60,
+          "duration": 360,
           "broadcastUS": "FS1 / FS2"
         },
         {
           "name": "Pole Day Qualifying",
           "time": "2026-05-17T16:00:00-04:00",
-          "duration": 360,
+          "duration": 180,
           "broadcastUS": "FS1 / FS2"
         },
         {
