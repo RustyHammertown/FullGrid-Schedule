@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T02:25:15.858Z",
+  "generatedAt": "2026-05-11T03:02:13.721Z",
   "events": [
     {
       "id": 101,
@@ -3879,15 +3879,27 @@
           "broadcastUS": "FS1 / FS2"
         },
         {
-          "name": "Qualifying",
+          "name": "Full-Field Qualifying",
           "time": "2026-05-16T11:00:00-04:00",
-          "duration": 360,
+          "duration": 350,
           "broadcastUS": "FS1 / FS2"
         },
         {
-          "name": "Pole Day Qualifying",
-          "time": "2026-05-17T16:00:00-04:00",
-          "duration": 180,
+          "name": "Top 12 Qualifying",
+          "time": "2026-05-17T16:05:00-04:00",
+          "duration": 60,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Last Chance Qualifying",
+          "time": "2026-05-17T17:15:00-04:00",
+          "duration": 60,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Firestone Fast Six",
+          "time": "2026-05-17T18:25:00-04:00",
+          "duration": 30,
           "broadcastUS": "FS1 / FS2"
         },
         {

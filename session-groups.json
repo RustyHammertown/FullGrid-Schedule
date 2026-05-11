@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T21:27:38.218Z",
+  "generatedAt": "2026-05-11T03:02:14.422Z",
   "groups": {
     "f1": [
       {
@@ -297,6 +297,10 @@
         "sessions": [
           "Qualifying",
           "Pole Day Qualifying",
+          "Full-Field Qualifying",
+          "Top 12 Qualifying",
+          "Last Chance Qualifying",
+          "Firestone Fast Six",
           "Qualifying (TBD)"
         ]
       },
