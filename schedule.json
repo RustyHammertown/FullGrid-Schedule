@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T03:02:13.721Z",
+  "generatedAt": "2026-05-11T03:07:37.736Z",
   "events": [
     {
       "id": 101,
@@ -3869,13 +3869,43 @@
         {
           "name": "Practice 1",
           "time": "2026-05-12T12:00:00-04:00",
-          "duration": 75,
+          "duration": 120,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Veterans Practice",
+          "time": "2026-05-12T14:00:00-04:00",
+          "duration": 120,
           "broadcastUS": "FS1 / FS2"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-12T16:00:00-04:00",
-          "duration": 60,
+          "duration": 120,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-05-13T12:00:00-04:00",
+          "duration": 360,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Practice 4",
+          "time": "2026-05-14T12:00:00-04:00",
+          "duration": 360,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Fast Friday Practice",
+          "time": "2026-05-15T12:00:00-04:00",
+          "duration": 360,
+          "broadcastUS": "FS1 / FS2"
+        },
+        {
+          "name": "Practice 5",
+          "time": "2026-05-18T13:00:00-04:00",
+          "duration": 120,
           "broadcastUS": "FS1 / FS2"
         },
         {

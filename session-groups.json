@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T03:02:14.422Z",
+  "generatedAt": "2026-05-11T03:07:38.444Z",
   "groups": {
     "f1": [
       {
@@ -287,6 +287,11 @@
         "sessions": [
           "Practice 1",
           "Practice 2",
+          "Practice 3",
+          "Practice 4",
+          "Practice 5",
+          "Veterans Practice",
+          "Fast Friday Practice",
           "Final Practice",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)"
