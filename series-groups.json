@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T01:15:51.572Z",
+  "generatedAt": "2026-05-12T01:24:11.548Z",
   "groups": [
     {
       "id": "bikes",
@@ -17,7 +17,7 @@
         },
         {
           "id": "bk-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": []
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "id": "di-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": []
         },
         {
@@ -70,7 +70,7 @@
         },
         {
           "id": "dr-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": []
         },
         {
@@ -107,7 +107,7 @@
         },
         {
           "id": "na-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": []
         },
         {
@@ -131,7 +131,7 @@
         },
         {
           "id": "ow-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": []
         },
         {
@@ -159,7 +159,7 @@
         },
         {
           "id": "ra-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": []
         },
         {
@@ -199,7 +199,7 @@
         },
         {
           "id": "sc-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": [
             "gt4australia",
             "gtwasia",
@@ -248,7 +248,7 @@
         },
         {
           "id": "to-asia",
-          "label": "Asia",
+          "label": "Asia Pacific",
           "series": [
             "supercars"
           ]
