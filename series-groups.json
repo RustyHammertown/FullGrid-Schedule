@@ -1,18 +1,35 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T21:27:36.672Z",
+  "generatedAt": "2026-05-12T01:13:01.821Z",
   "groups": [
     {
       "id": "bikes",
       "label": "Bikes",
-      "series": [
-        "promotocross",
-        "supercross",
-        "motogp",
-        "moto2",
-        "moto3",
-        "smx",
-        "xtrial"
+      "subgroups": [
+        {
+          "id": "bk-americas",
+          "label": "Americas",
+          "series": [
+            "promotocross",
+            "smx",
+            "supercross"
+          ]
+        },
+        {
+          "id": "bk-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "bk-europe",
+          "label": "Europe",
+          "series": [
+            "moto2",
+            "moto3",
+            "motogp",
+            "xtrial"
+          ]
+        }
       ]
     },
     {
@@ -27,15 +44,47 @@
     {
       "id": "drag",
       "label": "Drag Racing",
-      "series": [
-        "nhra"
+      "subgroups": [
+        {
+          "id": "dr-americas",
+          "label": "Americas",
+          "series": [
+            "nhra"
+          ]
+        },
+        {
+          "id": "dr-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "dr-europe",
+          "label": "Europe",
+          "series": []
+        }
       ]
     },
     {
       "id": "esports",
       "label": "eSports",
-      "series": [
-        "enascar"
+      "subgroups": [
+        {
+          "id": "es-americas",
+          "label": "Americas",
+          "series": [
+            "enascar"
+          ]
+        },
+        {
+          "id": "es-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "es-europe",
+          "label": "Europe",
+          "series": []
+        }
       ]
     },
     {
@@ -55,22 +104,55 @@
     {
       "id": "openwheel",
       "label": "Formula / Open-wheel",
-      "series": [
-        "efo",
-        "f1",
-        "f2",
-        "f3",
-        "f4british",
-        "fe",
-        "indycar",
-        "indynxt"
+      "subgroups": [
+        {
+          "id": "ow-americas",
+          "label": "Americas",
+          "series": [
+            "indycar",
+            "indynxt"
+          ]
+        },
+        {
+          "id": "ow-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "ow-europe",
+          "label": "Europe",
+          "series": [
+            "efo",
+            "f1",
+            "f2",
+            "f3",
+            "f4british",
+            "fe"
+          ]
+        }
       ]
     },
     {
       "id": "rally",
       "label": "Rally",
-      "series": [
-        "wrc"
+      "subgroups": [
+        {
+          "id": "ra-americas",
+          "label": "Americas",
+          "series": []
+        },
+        {
+          "id": "ra-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "ra-europe",
+          "label": "Europe",
+          "series": [
+            "wrc"
+          ]
+        }
       ]
     },
     {
@@ -140,18 +222,36 @@
     {
       "id": "touring",
       "label": "Touring Car",
-      "series": [
-        "btcc",
-        "ctcrc",
-        "legendselite",
-        "minichallenge",
-        "minimiglia",
-        "minise7en",
-        "minitrophy",
-        "scotlegends",
-        "supercars",
-        "tcamerica",
-        "tcreu"
+      "subgroups": [
+        {
+          "id": "to-americas",
+          "label": "Americas",
+          "series": [
+            "tcamerica"
+          ]
+        },
+        {
+          "id": "to-asia",
+          "label": "Asia",
+          "series": [
+            "supercars"
+          ]
+        },
+        {
+          "id": "to-europe",
+          "label": "Europe",
+          "series": [
+            "btcc",
+            "ctcrc",
+            "legendselite",
+            "minichallenge",
+            "minimiglia",
+            "minise7en",
+            "minitrophy",
+            "scotlegends",
+            "tcreu"
+          ]
+        }
       ]
     }
   ]
