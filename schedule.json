@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T03:44:03.828Z",
+  "generatedAt": "2026-05-12T01:01:50.289Z",
   "events": [
     {
       "id": 101,
@@ -15490,8 +15490,43 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Qualifying 1",
+          "time": "2026-05-14T13:15:00+02:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-14T20:00:00+02:00",
+          "duration": 210
+        },
+        {
+          "name": "Top Qualifying 1",
+          "time": "2026-05-15T10:15:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Top Qualifying 2",
+          "time": "2026-05-15T11:05:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying 3",
+          "time": "2026-05-15T12:00:00+02:00",
+          "duration": 65
+        },
+        {
+          "name": "Top Qualifying 3",
+          "time": "2026-05-15T13:35:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Warm-up",
+          "time": "2026-05-16T10:00:00+02:00",
+          "duration": 60
+        },
+        {
           "name": "Race",
-          "time": "2026-05-16T16:00:00+02:00",
+          "time": "2026-05-16T15:00:00+02:00",
           "duration": 1440,
           "broadcastUS": "YouTube/GTWorld"
         }
