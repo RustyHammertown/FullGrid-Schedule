@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T00:51:13.890Z",
+  "generatedAt": "2026-05-12T03:13:31.007Z",
   "flat": {
     "f1": [
       {
@@ -1406,6 +1406,62 @@
         "name": "Sebastian Murray",
         "points": 86,
         "team": "Andretti Global"
+      }
+    ],
+    "f4us": [
+      {
+        "pos": 1,
+        "name": "Caleb Campbell",
+        "points": 75,
+        "team": "Kiwi Motorsport"
+      },
+      {
+        "pos": 2,
+        "name": "Zach Fourie (R)",
+        "points": 54,
+        "team": "Kiwi Motorsport"
+      },
+      {
+        "pos": 3,
+        "name": "Cole Medeiros (R)",
+        "points": 39,
+        "team": "MLT Motorsports"
+      },
+      {
+        "pos": 4,
+        "name": "Gastón Irazú (R)",
+        "points": 30,
+        "team": "Champagne Racing"
+      },
+      {
+        "pos": 5,
+        "name": "Robert Soroka",
+        "points": 28,
+        "team": "Vmax Motorsport"
+      },
+      {
+        "pos": 6,
+        "name": "Fernando Rivera (R)",
+        "points": 16,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 7,
+        "name": "Clemente Huerta",
+        "points": 16,
+        "team": "Speed Factory"
+      },
+      {
+        "pos": 8,
+        "name": "Ayden Kohut (R)",
+        "points": 10,
+        "team": "Kiwi Motorsport"
+      },
+      {
+        "pos": 9,
+        "name": "Luca Day (R)",
+        "points": 8,
+        "team": "Momentum Motorsports"
       }
     ],
     "xtrial": [
