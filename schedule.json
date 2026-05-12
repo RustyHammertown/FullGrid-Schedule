@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T22:57:08.228Z",
+  "generatedAt": "2026-05-12T22:58:20.064Z",
   "events": [
     {
       "id": 101,
@@ -12636,7 +12636,7 @@
     {
       "id": 1280,
       "series": "floracing",
-      "name": "$30,000-to-Win at Senoia",
+      "name": "Senoia",
       "circuit": "Senoia Raceway",
       "flag": "🇺🇸",
       "country": "USA",
