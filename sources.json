@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-10T21:27:35.947Z",
+  "generatedAt": "2026-05-12T03:07:29.169Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1354,6 +1354,30 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_F4_British_Championship",
           "label": "Wikipedia (race-by-race)"
+        }
+      ]
+    },
+    "f4us": {
+      "schedule": [
+        {
+          "url": "https://www.f4uschampionship.com/events?group_by=year&year=2026",
+          "label": "Official 2026 calendar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Formula_4_United_States_Championship",
+          "label": "Wikipedia (full season)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.f4uschampionship.com/pages/2026-results",
+          "label": "F4 US — official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.f4uschampionship.com/event_scoring_points?season=2026&point_type=driver",
+          "label": "F4 US — official driver standings"
         }
       ]
     },

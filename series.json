@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-12T01:37:08.826Z",
+  "generatedAt": "2026-05-12T03:07:27.806Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1150,6 +1150,27 @@
       },
       "streamUrl": "https://www.youtube.com/@BritishF4",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_F4_British_Championship"
+    },
+    "f4us": {
+      "id": "f4us",
+      "group": "openwheel",
+      "region": "americas",
+      "label": "F4 U.S. Championship",
+      "short": "F4US",
+      "color": "#6366F1",
+      "bg": "rgba(99,102,241,0.15)",
+      "broadcast": {
+        "US": "YouTube/F4USChampionship",
+        "UK": "YouTube/F4USChampionship",
+        "AU": "YouTube/F4USChampionship"
+      },
+      "streamUrl": "https://www.youtube.com/@F4USChampionship",
+      "resultsUrl": "https://www.f4uschampionship.com/pages/2026-results",
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 30
     },
     "pccgb": {
       "id": "pccgb",

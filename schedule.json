@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T01:05:15.793Z",
+  "generatedAt": "2026-05-12T03:07:27.109Z",
   "events": [
     {
       "id": 101,
@@ -26258,6 +26258,217 @@
           "time": "2026-10-11T14:00:00+02:00",
           "tbd": true,
           "broadcastUS": "YouTube/PorscheCarreraCupDeutschland"
+        }
+      ]
+    },
+    {
+      "id": 5180,
+      "series": "f4us",
+      "name": "NOLA SpeedTour",
+      "circuit": "NOLA Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-04-10T09:00:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-04-10T11:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-04-10T15:10:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-11T09:20:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-11T14:10:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-12T10:30:00-05:00",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5181,
+      "series": "f4us",
+      "name": "Road America SpeedTour",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-15T10:35:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-15T16:00:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-16T13:05:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-17T09:20:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-17T14:10:00-05:00",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5182,
+      "series": "f4us",
+      "name": "Mid-Ohio SpeedTour",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-14T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5183,
+      "series": "f4us",
+      "name": "New Jersey Lottery SpeedTour",
+      "circuit": "New Jersey Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-02T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5184,
+      "series": "f4us",
+      "name": "CTMP Labour Day Sprints",
+      "circuit": "Canadian Tire Motorsport Park",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5185,
+      "series": "f4us",
+      "name": "VIR SpeedTour",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T08:00:00-04:00",
+          "tbd": true,
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5186,
+      "series": "f4us",
+      "name": "Barber SpeedTour",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true,
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-18T07:00:00-05:00",
+          "tbd": true,
+          "duration": 30
         }
       ]
     }

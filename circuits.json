@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T23:55:05.676Z",
+  "generatedAt": "2026-05-12T03:07:28.486Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -619,6 +619,22 @@
       "region": "Alabama",
       "website": "https://www.barbermotorsports.com",
       "length_m": 3825
+    },
+    "NOLA Motorsports Park": {
+      "lat": 29.8836,
+      "lon": -90.1978,
+      "city": "Avondale",
+      "region": "Louisiana",
+      "website": "https://nolamotor.com",
+      "length_m": 4423
+    },
+    "New Jersey Motorsports Park": {
+      "lat": 39.359,
+      "lon": -75.0616,
+      "city": "Millville",
+      "region": "New Jersey",
+      "website": "https://www.njmp.com",
+      "length_m": 3621
     },
     "Indianapolis Motor Speedway": {
       "lat": 39.7962,
