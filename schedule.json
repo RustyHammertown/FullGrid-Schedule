@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T21:48:58.405Z",
+  "generatedAt": "2026-05-12T22:02:09.520Z",
   "events": [
     {
       "id": 101,
@@ -12439,6 +12439,25 @@
       ]
     },
     {
+      "id": 1281,
+      "series": "floracing",
+      "name": "$20,000-to-Win at LaSalle",
+      "circuit": "LaSalle Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "postponed": true,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-05T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
       "id": 1270,
       "series": "floracing",
       "name": "$20,000-to-Win at Spoon River",
@@ -12451,6 +12470,7 @@
           "name": "Race",
           "time": "2026-05-06T19:00:00-05:00",
           "duration": 240,
+          "resultsUrl": "https://www.floseries.com/schedules/event/634917",
           "broadcastUS": "FloRacing"
         }
       ]
@@ -12468,6 +12488,7 @@
           "name": "Race",
           "time": "2026-05-07T19:00:00-05:00",
           "duration": 240,
+          "resultsUrl": "https://www.floseries.com/schedules/event/615459",
           "broadcastUS": "FloRacing"
         }
       ]
