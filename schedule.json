@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T22:02:09.520Z",
+  "generatedAt": "2026-05-12T22:57:08.228Z",
   "events": [
     {
       "id": 101,
@@ -12441,7 +12441,7 @@
     {
       "id": 1281,
       "series": "floracing",
-      "name": "$20,000-to-Win at LaSalle",
+      "name": "LaSalle",
       "circuit": "LaSalle Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12460,7 +12460,7 @@
     {
       "id": 1270,
       "series": "floracing",
-      "name": "$20,000-to-Win at Spoon River",
+      "name": "Spoon River",
       "circuit": "Spoon River Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12478,7 +12478,7 @@
     {
       "id": 1271,
       "series": "floracing",
-      "name": "$20,000-to-Win at Lincoln",
+      "name": "Lincoln",
       "circuit": "Lincoln Speedway (IL)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12496,7 +12496,7 @@
     {
       "id": 1272,
       "series": "floracing",
-      "name": "$20,000-to-Win at Eldora",
+      "name": "Eldora",
       "circuit": "Eldora Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12513,7 +12513,7 @@
     {
       "id": 1273,
       "series": "floracing",
-      "name": "$20,000-to-Win at Fairbury",
+      "name": "Fairbury",
       "circuit": "Fairbury Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12530,7 +12530,7 @@
     {
       "id": 1274,
       "series": "floracing",
-      "name": "$20,000-to-Win at Marshalltown",
+      "name": "Marshalltown",
       "circuit": "Marshalltown Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12548,7 +12548,7 @@
     {
       "id": 1275,
       "series": "floracing",
-      "name": "$20,000-to-Win at Mason City",
+      "name": "Mason City",
       "circuit": "Mason City Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12565,7 +12565,7 @@
     {
       "id": 1276,
       "series": "floracing",
-      "name": "$20,000-to-Win at LaSalle",
+      "name": "LaSalle",
       "circuit": "LaSalle Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12582,7 +12582,7 @@
     {
       "id": 1277,
       "series": "floracing",
-      "name": "$20,000-to-Win at Lincoln Park",
+      "name": "Lincoln Park",
       "circuit": "Lincoln Park Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12600,7 +12600,7 @@
     {
       "id": 1278,
       "series": "floracing",
-      "name": "$20,000-to-Win at Volunteer",
+      "name": "Volunteer",
       "circuit": "Volunteer Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -12618,7 +12618,7 @@
     {
       "id": 1279,
       "series": "floracing",
-      "name": "$20,000-to-Win at Senoia",
+      "name": "Senoia",
       "circuit": "Senoia Raceway",
       "flag": "🇺🇸",
       "country": "USA",
