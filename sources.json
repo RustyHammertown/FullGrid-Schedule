@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T03:07:29.169Z",
+  "generatedAt": "2026-05-12T21:49:00.514Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -793,6 +793,25 @@
       "standings": [
         {
           "url": "https://worldofoutlaws.com/latemodels/series-points/"
+        }
+      ]
+    },
+    "floracing": {
+      "schedule": [
+        {
+          "url": "https://www.floseries.com/schedules/",
+          "label": "Official schedule (per-event detail pages carry hot laps + green-flag times)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.floseries.com/standings/",
+          "label": "Official standings + per-event results links"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.floseries.com/standings/"
         }
       ]
     },

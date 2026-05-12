@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T03:07:28.486Z",
+  "generatedAt": "2026-05-12T21:48:59.815Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1929,6 +1929,62 @@
       "city": "Fairbury",
       "region": "Illinois",
       "length_m": 402
+    },
+    "LaSalle Speedway": {
+      "lat": 41.3345,
+      "lon": -89.0752,
+      "city": "LaSalle",
+      "region": "Illinois",
+      "website": "https://www.lasallespeedway.com",
+      "length_m": 402
+    },
+    "Spoon River Speedway": {
+      "lat": 40.4308,
+      "lon": -89.9871,
+      "city": "Lewistown",
+      "region": "Illinois",
+      "website": "https://www.spoonriverspeedway.com",
+      "length_m": 603
+    },
+    "Lincoln Speedway (IL)": {
+      "lat": 40.1542,
+      "lon": -89.3842,
+      "city": "Lincoln",
+      "region": "Illinois",
+      "website": "https://lincolnspeedwayil.com",
+      "length_m": 402
+    },
+    "Marshalltown Speedway": {
+      "lat": 42.0333,
+      "lon": -92.8891,
+      "city": "Marshalltown",
+      "region": "Iowa",
+      "website": "https://www.marshalltownspeedway.com",
+      "length_m": 402
+    },
+    "Mason City Motor Speedway": {
+      "lat": 43.1531,
+      "lon": -93.2568,
+      "city": "Mason City",
+      "region": "Iowa",
+      "website": "https://masoncitymotorspeedway.com",
+      "length_m": 536
+    },
+    "Volunteer Speedway": {
+      "lat": 36.2232,
+      "lon": -83.0528,
+      "city": "Bulls Gap",
+      "region": "Tennessee",
+      "website": "http://volunteerspeedway.com",
+      "length_m": 644
+    },
+    "Senoia Raceway": {
+      "lat": 33.3066,
+      "lon": -84.5914,
+      "city": "Senoia",
+      "region": "Georgia",
+      "website": "https://www.senoiaraceway1969.com",
+      "length_m": 603
     },
     "Grandview Speedway": {
       "lat": 40.373,

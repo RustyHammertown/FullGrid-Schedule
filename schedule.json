@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T03:07:27.109Z",
+  "generatedAt": "2026-05-12T21:48:58.405Z",
   "events": [
     {
       "id": 101,
@@ -12433,6 +12433,198 @@
         {
           "name": "Race",
           "time": "2026-12-30T19:30:00+08:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1270,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Spoon River",
+      "circuit": "Spoon River Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-06T19:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1271,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Lincoln",
+      "circuit": "Lincoln Speedway (IL)",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-07T19:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1272,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Eldora",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-03T19:30:00-04:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1273,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Fairbury",
+      "circuit": "Fairbury Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-22T19:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1274,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Marshalltown",
+      "circuit": "Marshalltown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-18T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1275,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Mason City",
+      "circuit": "Mason City Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-19T19:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1276,
+      "series": "floracing",
+      "name": "$20,000-to-Win at LaSalle",
+      "circuit": "LaSalle Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-15T19:00:00-05:00",
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1277,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Lincoln Park",
+      "circuit": "Lincoln Park Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-23T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1278,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Volunteer",
+      "circuit": "Volunteer Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-22T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1279,
+      "series": "floracing",
+      "name": "$20,000-to-Win at Senoia",
+      "circuit": "Senoia Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-13T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcastUS": "FloRacing"
+        }
+      ]
+    },
+    {
+      "id": 1280,
+      "series": "floracing",
+      "name": "$30,000-to-Win at Senoia",
+      "circuit": "Senoia Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-14T07:00:00-05:00",
+          "tbd": true,
           "duration": 240,
           "broadcastUS": "FloRacing"
         }

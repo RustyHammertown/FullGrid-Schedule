@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-12T03:07:27.806Z",
+  "generatedAt": "2026-05-12T21:48:59.121Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -771,6 +771,23 @@
       },
       "streamUrl": "https://www.dirtvision.com/",
       "resultsUrl": "https://worldofoutlaws.com/latemodels/results/"
+    },
+    "floracing": {
+      "id": "floracing",
+      "group": "dirt",
+      "region": "americas",
+      "label": "FloRacing Night in America",
+      "short": "FRNA",
+      "color": "#E32128",
+      "bg": "rgba(227,33,40,0.15)",
+      "broadcast": {
+        "US": "FloRacing",
+        "UK": "FloRacing",
+        "AU": "FloRacing"
+      },
+      "streamUrl": "https://www.floracing.com/",
+      "resultsUrl": "https://www.floseries.com/standings/",
+      "fallbackMinutes": 240
     },
     "enascar": {
       "id": "enascar",
