@@ -1,9 +1,11 @@
 {
-  "version": 2,
-  "generatedAt": "2026-05-11T03:44:02.262Z",
+  "version": 3,
+  "generatedAt": "2026-05-12T01:37:08.826Z",
   "series": {
     "f1": {
       "id": "f1",
+      "group": "openwheel",
+      "region": "europe",
       "label": "Formula 1",
       "short": "F1",
       "color": "#e8302a",
@@ -20,6 +22,8 @@
     },
     "motogp": {
       "id": "motogp",
+      "group": "bikes",
+      "region": "europe",
       "label": "MotoGP",
       "short": "MotoGP",
       "color": "#378ADD",
@@ -39,6 +43,8 @@
     },
     "moto2": {
       "id": "moto2",
+      "group": "bikes",
+      "region": "europe",
       "label": "Moto2",
       "short": "Moto2",
       "color": "#0EA5E9",
@@ -52,6 +58,8 @@
     },
     "moto3": {
       "id": "moto3",
+      "group": "bikes",
+      "region": "europe",
       "label": "Moto3",
       "short": "Moto3",
       "color": "#22C55E",
@@ -65,6 +73,8 @@
     },
     "supercross": {
       "id": "supercross",
+      "group": "bikes",
+      "region": "americas",
       "label": "Monster Energy Supercross",
       "short": "SX",
       "color": "#84CC16",
@@ -78,6 +88,8 @@
     },
     "promotocross": {
       "id": "promotocross",
+      "group": "bikes",
+      "region": "americas",
       "label": "AMA Pro Motocross",
       "short": "MX",
       "color": "#F97316",
@@ -91,6 +103,8 @@
     },
     "smx": {
       "id": "smx",
+      "group": "bikes",
+      "region": "americas",
       "label": "SMX Playoffs",
       "short": "SMX",
       "color": "#DC2626",
@@ -104,6 +118,8 @@
     },
     "xtrial": {
       "id": "xtrial",
+      "group": "bikes",
+      "region": "europe",
       "label": "FIM X-Trial World Championship",
       "short": "XTRIAL",
       "color": "#FACC15",
@@ -118,6 +134,8 @@
     },
     "indynxt": {
       "id": "indynxt",
+      "group": "openwheel",
+      "region": "americas",
       "label": "Indy NXT",
       "short": "NXT",
       "color": "#0891B2",
@@ -131,6 +149,8 @@
     },
     "indycar": {
       "id": "indycar",
+      "group": "openwheel",
+      "region": "americas",
       "label": "IndyCar",
       "short": "INDY",
       "color": "#1D9E75",
@@ -147,6 +167,8 @@
     },
     "nascar": {
       "id": "nascar",
+      "group": "nascar",
+      "region": "americas",
       "label": "NASCAR Cup Series",
       "short": "CUP",
       "color": "#EF9F27",
@@ -163,6 +185,8 @@
     },
     "oreilly": {
       "id": "oreilly",
+      "group": "nascar",
+      "region": "americas",
       "label": "O'Reilly Auto Parts Series",
       "short": "ORLY",
       "color": "#4FB849",
@@ -179,6 +203,8 @@
     },
     "truck": {
       "id": "truck",
+      "group": "nascar",
+      "region": "americas",
       "label": "Craftsman Truck Series",
       "short": "TRUCK",
       "color": "#C99249",
@@ -195,6 +221,8 @@
     },
     "arca": {
       "id": "arca",
+      "group": "nascar",
+      "region": "americas",
       "label": "ARCA Menards Series",
       "short": "ARCA",
       "color": "#1E40AF",
@@ -211,6 +239,8 @@
     },
     "arcaeast": {
       "id": "arcaeast",
+      "group": "nascar",
+      "region": "americas",
       "label": "ARCA Menards East",
       "short": "ARCAE",
       "color": "#2563EB",
@@ -225,6 +255,8 @@
     },
     "arcawest": {
       "id": "arcawest",
+      "group": "nascar",
+      "region": "americas",
       "label": "ARCA Menards West",
       "short": "ARCAW",
       "color": "#0EA5E9",
@@ -239,6 +271,8 @@
     },
     "nascarcanada": {
       "id": "nascarcanada",
+      "group": "nascar",
+      "region": "americas",
       "label": "NASCAR Canada Series",
       "short": "CAN",
       "color": "#C8102E",
@@ -255,6 +289,8 @@
     },
     "whelen": {
       "id": "whelen",
+      "group": "nascar",
+      "region": "americas",
       "label": "NASCAR Whelen Modified Tour",
       "short": "WMT",
       "color": "#7C2D12",
@@ -271,6 +307,8 @@
     },
     "wrc": {
       "id": "wrc",
+      "group": "rally",
+      "region": "europe",
       "label": "WRC",
       "short": "WRC",
       "color": "#7F77DD",
@@ -284,6 +322,8 @@
     },
     "imsa": {
       "id": "imsa",
+      "group": "sportscar",
+      "region": "americas",
       "label": "IMSA WeatherTech SCC",
       "short": "IMSA",
       "color": "#D4537E",
@@ -298,6 +338,8 @@
     },
     "pilot": {
       "id": "pilot",
+      "group": "sportscar",
+      "region": "americas",
       "label": "IMSA Pilot Challenge",
       "short": "PILOT",
       "color": "#B85A8A",
@@ -316,6 +358,8 @@
     },
     "vpscc": {
       "id": "vpscc",
+      "group": "sportscar",
+      "region": "americas",
       "label": "VP SportsCar Challenge",
       "short": "VPSC",
       "color": "#5BC2A0",
@@ -334,6 +378,8 @@
     },
     "trofeo": {
       "id": "trofeo",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Lamborghini Super Trofeo NA",
       "short": "LST",
       "color": "#5C8A3A",
@@ -352,6 +398,8 @@
     },
     "trofeoeu": {
       "id": "trofeoeu",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Lamborghini Super Trofeo Europe",
       "short": "LSTE",
       "color": "#7BAA2D",
@@ -370,6 +418,8 @@
     },
     "trofeoasia": {
       "id": "trofeoasia",
+      "group": "sportscar",
+      "region": "asiapacific",
       "label": "Lamborghini Super Trofeo Asia",
       "short": "LSTA",
       "color": "#385F1E",
@@ -388,6 +438,8 @@
     },
     "mx5": {
       "id": "mx5",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Mazda MX-5 Cup",
       "short": "MX5",
       "color": "#A6363A",
@@ -406,6 +458,8 @@
     },
     "supercup": {
       "id": "supercup",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Porsche Mobil 1 Supercup",
       "short": "PSC",
       "color": "#1F2937",
@@ -419,6 +473,8 @@
     },
     "pscna": {
       "id": "pscna",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Porsche Sprint Challenge NA",
       "short": "PSCNA",
       "color": "#0EA5E9",
@@ -437,6 +493,8 @@
     },
     "pscw": {
       "id": "pscw",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Porsche Sprint Challenge USA West",
       "short": "PSCW",
       "color": "#06B6D4",
@@ -455,6 +513,8 @@
     },
     "pec": {
       "id": "pec",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Porsche Endurance Challenge",
       "short": "PEC",
       "color": "#0891B2",
@@ -473,6 +533,8 @@
     },
     "carrera": {
       "id": "carrera",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Porsche Carrera Cup NA",
       "short": "PCC",
       "color": "#D4A23B",
@@ -491,6 +553,8 @@
     },
     "mustang": {
       "id": "mustang",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Mustang Challenge NA",
       "short": "MUST",
       "color": "#22538C",
@@ -509,6 +573,8 @@
     },
     "mustangcup": {
       "id": "mustangcup",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Mustang Cup USA",
       "short": "MCUP",
       "color": "#7F1D1D",
@@ -527,6 +593,8 @@
     },
     "mustangcupau": {
       "id": "mustangcupau",
+      "group": "sportscar",
+      "region": "asiapacific",
       "label": "Mustang Cup Australia",
       "short": "MCAU",
       "color": "#A16207",
@@ -545,6 +613,8 @@
     },
     "gtwca": {
       "id": "gtwca",
+      "group": "sportscar",
+      "region": "americas",
       "label": "GT World Challenge America",
       "short": "GTWCA",
       "color": "#7C3AED",
@@ -563,6 +633,8 @@
     },
     "gtwau": {
       "id": "gtwau",
+      "group": "sportscar",
+      "region": "asiapacific",
       "label": "GT World Challenge Australia",
       "short": "GTWAU",
       "color": "#16A34A",
@@ -580,6 +652,8 @@
     },
     "f2": {
       "id": "f2",
+      "group": "openwheel",
+      "region": "europe",
       "label": "Formula 2",
       "short": "F2",
       "color": "#5DCAA5",
@@ -599,6 +673,8 @@
     },
     "f3": {
       "id": "f3",
+      "group": "openwheel",
+      "region": "europe",
       "label": "Formula 3",
       "short": "F3",
       "color": "#06B6D4",
@@ -618,6 +694,8 @@
     },
     "fe": {
       "id": "fe",
+      "group": "openwheel",
+      "region": "europe",
       "label": "Formula E",
       "short": "FE",
       "color": "#FAC775",
@@ -632,6 +710,8 @@
     },
     "wec": {
       "id": "wec",
+      "group": "sportscar",
+      "region": "europe",
       "label": "FIA World Endurance Championship",
       "short": "WEC",
       "color": "#AFA9EC",
@@ -646,6 +726,8 @@
     },
     "highlimit": {
       "id": "highlimit",
+      "group": "dirt",
+      "region": "americas",
       "label": "High Limit Sprint Car Series",
       "short": "HLR",
       "color": "#FFD700",
@@ -660,6 +742,8 @@
     },
     "woosc": {
       "id": "woosc",
+      "group": "dirt",
+      "region": "americas",
       "label": "World of Outlaws Sprint Car Series",
       "short": "WoO SC",
       "color": "#F97316",
@@ -674,6 +758,8 @@
     },
     "woolm": {
       "id": "woolm",
+      "group": "dirt",
+      "region": "americas",
       "label": "World of Outlaws Late Model Series",
       "short": "WoO LM",
       "color": "#84CC16",
@@ -688,6 +774,7 @@
     },
     "enascar": {
       "id": "enascar",
+      "group": "esports",
       "label": "eNASCAR iRacing Series",
       "short": "eNASCAR",
       "color": "#9146FF",
@@ -705,6 +792,8 @@
     },
     "nhra": {
       "id": "nhra",
+      "group": "drag",
+      "region": "americas",
       "label": "NHRA",
       "short": "NHRA",
       "color": "#0066B3",
@@ -718,6 +807,8 @@
     },
     "igtc": {
       "id": "igtc",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Intercontinental GT Challenge",
       "short": "IGTC",
       "color": "#00A6A6",
@@ -732,6 +823,8 @@
     },
     "gtwce": {
       "id": "gtwce",
+      "group": "sportscar",
+      "region": "europe",
       "label": "GT World Challenge Europe",
       "short": "GTWCE",
       "color": "#2D9B5A",
@@ -749,6 +842,8 @@
     },
     "gtwasia": {
       "id": "gtwasia",
+      "group": "sportscar",
+      "region": "asiapacific",
       "label": "GT World Challenge Asia",
       "short": "GTWA",
       "color": "#E11D48",
@@ -766,6 +861,8 @@
     },
     "japancup": {
       "id": "japancup",
+      "group": "sportscar",
+      "region": "asiapacific",
       "label": "Japan Cup",
       "short": "JCUP",
       "color": "#BC002D",
@@ -782,6 +879,8 @@
     },
     "ffsagt": {
       "id": "ffsagt",
+      "group": "sportscar",
+      "region": "europe",
       "label": "FFSA GT4 France",
       "short": "FFSA",
       "color": "#3B82F6",
@@ -799,6 +898,8 @@
     },
     "gt4america": {
       "id": "gt4america",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Pirelli GT4 America",
       "short": "GT4A",
       "color": "#0D9488",
@@ -816,6 +917,8 @@
     },
     "gt4australia": {
       "id": "gt4australia",
+      "group": "sportscar",
+      "region": "asiapacific",
       "label": "GT4 Australia",
       "short": "GT4AU",
       "color": "#06B6D4",
@@ -833,6 +936,8 @@
     },
     "tcamerica": {
       "id": "tcamerica",
+      "group": "touring",
+      "region": "americas",
       "label": "TC America",
       "short": "TCAM",
       "color": "#DB2777",
@@ -850,6 +955,8 @@
     },
     "ffsatourisme": {
       "id": "ffsatourisme",
+      "group": "sportscar",
+      "region": "europe",
       "label": "FFSA Tourisme",
       "short": "TCF",
       "color": "#6366F1",
@@ -867,6 +974,8 @@
     },
     "gtamerica": {
       "id": "gtamerica",
+      "group": "sportscar",
+      "region": "americas",
       "label": "GT America",
       "short": "GTA",
       "color": "#047857",
@@ -884,6 +993,8 @@
     },
     "grcup": {
       "id": "grcup",
+      "group": "sportscar",
+      "region": "americas",
       "label": "Toyota GR Cup",
       "short": "GRC",
       "color": "#F87171",
@@ -901,6 +1012,8 @@
     },
     "gt3revival": {
       "id": "gt3revival",
+      "group": "sportscar",
+      "region": "europe",
       "label": "GT3 Revival",
       "short": "GT3R",
       "color": "#B45309",
@@ -918,6 +1031,8 @@
     },
     "gt4european": {
       "id": "gt4european",
+      "group": "sportscar",
+      "region": "europe",
       "label": "GT4 European Series",
       "short": "GT4EU",
       "color": "#4D7C0F",
@@ -935,6 +1050,8 @@
     },
     "mclarena": {
       "id": "mclarena",
+      "group": "sportscar",
+      "region": "americas",
       "label": "McLaren Trophy America",
       "short": "MTA",
       "color": "#FB923C",
@@ -952,6 +1069,8 @@
     },
     "mclarene": {
       "id": "mclarene",
+      "group": "sportscar",
+      "region": "europe",
       "label": "McLaren Trophy Europe",
       "short": "MTE",
       "color": "#C2410C",
@@ -969,6 +1088,8 @@
     },
     "elms": {
       "id": "elms",
+      "group": "sportscar",
+      "region": "europe",
       "label": "European Le Mans Series",
       "short": "ELMS",
       "color": "#1E40AF",
@@ -983,6 +1104,8 @@
     },
     "supercars": {
       "id": "supercars",
+      "group": "touring",
+      "region": "asiapacific",
       "label": "Supercars Championship",
       "short": "SCAR",
       "color": "#FACC15",
@@ -996,6 +1119,8 @@
     },
     "btcc": {
       "id": "btcc",
+      "group": "touring",
+      "region": "europe",
       "label": "British Touring Car Championship",
       "short": "BTCC",
       "color": "#C8102E",
@@ -1012,6 +1137,8 @@
     },
     "f4british": {
       "id": "f4british",
+      "group": "openwheel",
+      "region": "europe",
       "label": "F4 British Championship",
       "short": "F4UK",
       "color": "#F59E0B",
@@ -1026,6 +1153,8 @@
     },
     "pccgb": {
       "id": "pccgb",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Porsche Carrera Cup GB",
       "short": "PCCGB",
       "color": "#B91C1C",
@@ -1040,6 +1169,8 @@
     },
     "pscgb": {
       "id": "pscgb",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Porsche Sprint Challenge GB",
       "short": "PSCGB",
       "color": "#7C3AED",
@@ -1054,6 +1185,8 @@
     },
     "minichallenge": {
       "id": "minichallenge",
+      "group": "touring",
+      "region": "europe",
       "label": "MINI CHALLENGE",
       "short": "MINI",
       "color": "#1F2937",
@@ -1068,6 +1201,8 @@
     },
     "minitrophy": {
       "id": "minitrophy",
+      "group": "touring",
+      "region": "europe",
       "label": "MINI CHALLENGE Trophy",
       "short": "MINIT",
       "color": "#4B5563",
@@ -1082,6 +1217,8 @@
     },
     "caterhamuk": {
       "id": "caterhamuk",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Caterham Seven Championship UK",
       "short": "C7UK",
       "color": "#16A34A",
@@ -1096,6 +1233,8 @@
     },
     "caterham310r": {
       "id": "caterham310r",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Caterham Seven 310R",
       "short": "C310",
       "color": "#22C55E",
@@ -1110,6 +1249,8 @@
     },
     "minise7en": {
       "id": "minise7en",
+      "group": "touring",
+      "region": "europe",
       "label": "Mini Se7en Challenge",
       "short": "MS7",
       "color": "#0EA5E9",
@@ -1124,6 +1265,8 @@
     },
     "minimiglia": {
       "id": "minimiglia",
+      "group": "touring",
+      "region": "europe",
       "label": "Mini Miglia Challenge",
       "short": "MMG",
       "color": "#06B6D4",
@@ -1138,6 +1281,8 @@
     },
     "legendselite": {
       "id": "legendselite",
+      "group": "touring",
+      "region": "europe",
       "label": "Legends Cars Elite Cup",
       "short": "LEG",
       "color": "#A855F7",
@@ -1152,6 +1297,8 @@
     },
     "scotlegends": {
       "id": "scotlegends",
+      "group": "touring",
+      "region": "europe",
       "label": "Scottish Legends Championship",
       "short": "SLEG",
       "color": "#9333EA",
@@ -1166,6 +1313,8 @@
     },
     "ctcrc": {
       "id": "ctcrc",
+      "group": "touring",
+      "region": "europe",
       "label": "CTCRC Group 1 Touring Cars",
       "short": "CTCRC",
       "color": "#0891B2",
@@ -1180,6 +1329,8 @@
     },
     "tcreu": {
       "id": "tcreu",
+      "group": "touring",
+      "region": "europe",
       "label": "TCR Europe",
       "short": "TCREU",
       "color": "#BE123C",
@@ -1194,6 +1345,8 @@
     },
     "igtopen": {
       "id": "igtopen",
+      "group": "sportscar",
+      "region": "europe",
       "label": "International GT Open",
       "short": "GTOPEN",
       "color": "#D97706",
@@ -1208,6 +1361,8 @@
     },
     "efo": {
       "id": "efo",
+      "group": "openwheel",
+      "region": "europe",
       "label": "Euroformula Open",
       "short": "EFO",
       "color": "#4338CA",
@@ -1222,6 +1377,8 @@
     },
     "gtcupeu": {
       "id": "gtcupeu",
+      "group": "sportscar",
+      "region": "europe",
       "label": "GT Cup Europe",
       "short": "GTCUP",
       "color": "#15803D",
@@ -1236,6 +1393,8 @@
     },
     "pccd": {
       "id": "pccd",
+      "group": "sportscar",
+      "region": "europe",
       "label": "Porsche Carrera Cup DE",
       "short": "PCCD",
       "color": "#991B1B",

@@ -1,272 +1,185 @@
 {
-  "version": 1,
-  "generatedAt": "2026-05-12T01:24:11.548Z",
+  "version": 2,
+  "generatedAt": "2026-05-12T01:37:09.518Z",
   "groups": [
     {
       "id": "bikes",
       "label": "Bikes",
+      "regional": true,
       "subgroups": [
         {
           "id": "bk-americas",
           "label": "Americas",
-          "series": [
-            "promotocross",
-            "smx",
-            "supercross"
-          ]
+          "region": "americas"
         },
         {
           "id": "bk-asia",
           "label": "Asia Pacific",
-          "series": []
+          "region": "asiapacific"
         },
         {
           "id": "bk-europe",
           "label": "Europe",
-          "series": [
-            "moto2",
-            "moto3",
-            "motogp",
-            "xtrial"
-          ]
+          "region": "europe"
         }
       ]
     },
     {
       "id": "dirt",
       "label": "Dirt",
+      "regional": true,
       "subgroups": [
         {
           "id": "di-americas",
           "label": "Americas",
-          "series": [
-            "highlimit",
-            "woolm",
-            "woosc"
-          ]
+          "region": "americas"
         },
         {
           "id": "di-asia",
           "label": "Asia Pacific",
-          "series": []
+          "region": "asiapacific"
         },
         {
           "id": "di-europe",
           "label": "Europe",
-          "series": []
+          "region": "europe"
         }
       ]
     },
     {
       "id": "drag",
       "label": "Drag Racing",
+      "regional": true,
       "subgroups": [
         {
           "id": "dr-americas",
           "label": "Americas",
-          "series": [
-            "nhra"
-          ]
+          "region": "americas"
         },
         {
           "id": "dr-asia",
           "label": "Asia Pacific",
-          "series": []
+          "region": "asiapacific"
         },
         {
           "id": "dr-europe",
           "label": "Europe",
-          "series": []
+          "region": "europe"
         }
       ]
     },
     {
       "id": "esports",
       "label": "eSports",
-      "series": [
-        "enascar"
-      ]
+      "regional": false
     },
     {
       "id": "nascar",
       "label": "NASCAR",
+      "regional": true,
       "subgroups": [
         {
           "id": "na-americas",
           "label": "Americas",
-          "series": [
-            "arcaeast",
-            "arca",
-            "arcawest",
-            "truck",
-            "nascarcanada",
-            "nascar",
-            "whelen",
-            "oreilly"
-          ]
+          "region": "americas"
         },
         {
           "id": "na-asia",
           "label": "Asia Pacific",
-          "series": []
+          "region": "asiapacific"
         },
         {
           "id": "na-europe",
           "label": "Europe",
-          "series": []
+          "region": "europe"
         }
       ]
     },
     {
       "id": "openwheel",
       "label": "Formula / Open-wheel",
+      "regional": true,
       "subgroups": [
         {
           "id": "ow-americas",
           "label": "Americas",
-          "series": [
-            "indycar",
-            "indynxt"
-          ]
+          "region": "americas"
         },
         {
           "id": "ow-asia",
           "label": "Asia Pacific",
-          "series": []
+          "region": "asiapacific"
         },
         {
           "id": "ow-europe",
           "label": "Europe",
-          "series": [
-            "efo",
-            "f1",
-            "f2",
-            "f3",
-            "f4british",
-            "fe"
-          ]
+          "region": "europe"
         }
       ]
     },
     {
       "id": "rally",
       "label": "Rally",
+      "regional": true,
       "subgroups": [
         {
           "id": "ra-americas",
           "label": "Americas",
-          "series": []
+          "region": "americas"
         },
         {
           "id": "ra-asia",
           "label": "Asia Pacific",
-          "series": []
+          "region": "asiapacific"
         },
         {
           "id": "ra-europe",
           "label": "Europe",
-          "series": [
-            "wrc"
-          ]
+          "region": "europe"
         }
       ]
     },
     {
       "id": "sportscar",
       "label": "Sports Car",
+      "regional": true,
       "subgroups": [
         {
           "id": "sc-americas",
           "label": "Americas",
-          "series": [
-            "carrera",
-            "gt4america",
-            "gtamerica",
-            "grcup",
-            "gtwca",
-            "imsa",
-            "mclarena",
-            "mustang",
-            "mustangcup",
-            "mx5",
-            "pec",
-            "pilot",
-            "pscna",
-            "pscw",
-            "trofeo",
-            "vpscc"
-          ]
+          "region": "americas"
         },
         {
           "id": "sc-asia",
           "label": "Asia Pacific",
-          "series": [
-            "gt4australia",
-            "gtwasia",
-            "gtwau",
-            "japancup",
-            "mustangcupau",
-            "trofeoasia"
-          ]
+          "region": "asiapacific"
         },
         {
           "id": "sc-europe",
           "label": "Europe",
-          "series": [
-            "caterham310r",
-            "caterhamuk",
-            "elms",
-            "ffsagt",
-            "ffsatourisme",
-            "gt3revival",
-            "gt4european",
-            "gtcupeu",
-            "gtwce",
-            "igtc",
-            "igtopen",
-            "mclarene",
-            "pccd",
-            "pccgb",
-            "pscgb",
-            "supercup",
-            "trofeoeu",
-            "wec"
-          ]
+          "region": "europe"
         }
       ]
     },
     {
       "id": "touring",
       "label": "Touring Car",
+      "regional": true,
       "subgroups": [
         {
           "id": "to-americas",
           "label": "Americas",
-          "series": [
-            "tcamerica"
-          ]
+          "region": "americas"
         },
         {
           "id": "to-asia",
           "label": "Asia Pacific",
-          "series": [
-            "supercars"
-          ]
+          "region": "asiapacific"
         },
         {
           "id": "to-europe",
           "label": "Europe",
-          "series": [
-            "btcc",
-            "ctcrc",
-            "legendselite",
-            "minichallenge",
-            "minimiglia",
-            "minise7en",
-            "minitrophy",
-            "scotlegends",
-            "tcreu"
-          ]
+          "region": "europe"
         }
       ]
     }
