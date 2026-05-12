@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T01:14:43.760Z",
+  "generatedAt": "2026-05-12T01:15:51.572Z",
   "groups": [
     {
       "id": "bikes",
@@ -35,17 +35,49 @@
     {
       "id": "dirt",
       "label": "Dirt",
-      "series": [
-        "highlimit",
-        "woolm",
-        "woosc"
+      "subgroups": [
+        {
+          "id": "di-americas",
+          "label": "Americas",
+          "series": [
+            "highlimit",
+            "woolm",
+            "woosc"
+          ]
+        },
+        {
+          "id": "di-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "di-europe",
+          "label": "Europe",
+          "series": []
+        }
       ]
     },
     {
       "id": "drag",
       "label": "Drag Racing",
-      "series": [
-        "nhra"
+      "subgroups": [
+        {
+          "id": "dr-americas",
+          "label": "Americas",
+          "series": [
+            "nhra"
+          ]
+        },
+        {
+          "id": "dr-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "dr-europe",
+          "label": "Europe",
+          "series": []
+        }
       ]
     },
     {
@@ -58,15 +90,31 @@
     {
       "id": "nascar",
       "label": "NASCAR",
-      "series": [
-        "arcaeast",
-        "arca",
-        "arcawest",
-        "truck",
-        "nascarcanada",
-        "nascar",
-        "whelen",
-        "oreilly"
+      "subgroups": [
+        {
+          "id": "na-americas",
+          "label": "Americas",
+          "series": [
+            "arcaeast",
+            "arca",
+            "arcawest",
+            "truck",
+            "nascarcanada",
+            "nascar",
+            "whelen",
+            "oreilly"
+          ]
+        },
+        {
+          "id": "na-asia",
+          "label": "Asia",
+          "series": []
+        },
+        {
+          "id": "na-europe",
+          "label": "Europe",
+          "series": []
+        }
       ]
     },
     {
