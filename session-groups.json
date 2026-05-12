@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-11T03:07:38.444Z",
+  "generatedAt": "2026-05-12T03:16:15.600Z",
   "groups": {
     "f1": [
       {
@@ -1060,6 +1060,22 @@
         "sessions": [
           "Free Practice",
           "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "f4us": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2"
         ]
       },
       {
