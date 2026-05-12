@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T23:27:43.874Z",
+  "generatedAt": "2026-05-12T23:38:15.937Z",
   "events": [
     {
       "id": 101,
@@ -4600,13 +4600,13 @@
         {
           "name": "Practice",
           "time": "2026-05-23T13:30:00-04:00",
-          "duration": 50,
+          "duration": 60,
           "broadcastUS": "Prime Video"
         },
         {
           "name": "Qualifying",
-          "time": "2026-05-23T14:30:00-04:00",
-          "duration": 60,
+          "time": "2026-05-23T14:40:00-04:00",
+          "duration": 50,
           "broadcastUS": "Prime Video"
         },
         {
@@ -9070,9 +9070,22 @@
       "round": 15,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-05-23T11:00:00-04:00",
+          "duration": 50,
+          "broadcastUS": "CW App"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-23T12:05:00-04:00",
+          "duration": 55,
+          "broadcastUS": "CW App"
+        },
+        {
           "name": "Race",
           "time": "2026-05-23T17:00:00-04:00",
-          "laps": 200
+          "laps": 200,
+          "broadcastUS": "The CW"
         }
       ]
     },
@@ -9672,6 +9685,18 @@
       "round": 10,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-05-22T15:30:00-04:00",
+          "duration": 50,
+          "broadcastUS": "FS2"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-22T16:35:00-04:00",
+          "duration": 55,
+          "broadcastUS": "FS2"
+        },
+        {
           "name": "Race",
           "time": "2026-05-22T19:30:00-04:00",
           "laps": 134
@@ -10071,7 +10096,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-05-16T22:00:00-04:00",
+          "time": "2026-05-16T19:00:00-04:00",
           "laps": 200
         }
       ]
@@ -10425,7 +10450,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-05-16T22:00:00-04:00",
+          "time": "2026-05-16T19:00:00-04:00",
           "laps": 200
         }
       ]
@@ -10632,8 +10657,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-05-24T06:00:00-06:00",
-          "tbd": true,
+          "time": "2026-05-23T20:00:00-06:00",
           "laps": 150
         }
       ]
