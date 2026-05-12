@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T01:13:01.821Z",
+  "generatedAt": "2026-05-12T01:14:43.760Z",
   "groups": [
     {
       "id": "bikes",
@@ -44,47 +44,15 @@
     {
       "id": "drag",
       "label": "Drag Racing",
-      "subgroups": [
-        {
-          "id": "dr-americas",
-          "label": "Americas",
-          "series": [
-            "nhra"
-          ]
-        },
-        {
-          "id": "dr-asia",
-          "label": "Asia",
-          "series": []
-        },
-        {
-          "id": "dr-europe",
-          "label": "Europe",
-          "series": []
-        }
+      "series": [
+        "nhra"
       ]
     },
     {
       "id": "esports",
       "label": "eSports",
-      "subgroups": [
-        {
-          "id": "es-americas",
-          "label": "Americas",
-          "series": [
-            "enascar"
-          ]
-        },
-        {
-          "id": "es-asia",
-          "label": "Asia",
-          "series": []
-        },
-        {
-          "id": "es-europe",
-          "label": "Europe",
-          "series": []
-        }
+      "series": [
+        "enascar"
       ]
     },
     {
