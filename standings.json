@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T03:49:30.496Z",
+  "generatedAt": "2026-05-13T18:49:24.226Z",
   "flat": {
     "f1": [
       {
@@ -1359,68 +1359,6 @@
         "name": "Léo Rossel",
         "points": 18,
         "team": "Citroën"
-      }
-    ],
-    "nhra": [
-      {
-        "pos": 1,
-        "name": "Shawn Langdon",
-        "points": 481,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 2,
-        "name": "Doug Kalitta",
-        "points": 477,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 3,
-        "name": "Leah Pruett",
-        "points": 352,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 4,
-        "name": "Tony Stewart",
-        "points": 332,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 5,
-        "name": "Josh Hart",
-        "points": 298,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 6,
-        "name": "Maddi Gordon",
-        "points": 296,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 7,
-        "name": "Justin Ashley",
-        "points": 280,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 8,
-        "name": "Billy Torrence",
-        "points": 244,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 9,
-        "name": "Clay Millican",
-        "points": 220,
-        "team": "Top Fuel"
-      },
-      {
-        "pos": 10,
-        "name": "Antron Brown",
-        "points": 218,
-        "team": "Top Fuel"
       }
     ],
     "enascar": [
@@ -4935,6 +4873,228 @@
             "pos": 8,
             "name": "Paul Wilson",
             "points": 15
+          }
+        ]
+      }
+    ],
+    "nhra": [
+      {
+        "className": "Top Fuel",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Shawn Langdon",
+            "points": 481
+          },
+          {
+            "pos": 2,
+            "name": "Doug Kalitta",
+            "points": 477
+          },
+          {
+            "pos": 3,
+            "name": "Leah Pruett",
+            "points": 352
+          },
+          {
+            "pos": 4,
+            "name": "Tony Stewart",
+            "points": 332
+          },
+          {
+            "pos": 5,
+            "name": "Josh Hart",
+            "points": 298
+          },
+          {
+            "pos": 6,
+            "name": "Maddi Gordon",
+            "points": 296
+          },
+          {
+            "pos": 7,
+            "name": "Justin Ashley",
+            "points": 280
+          },
+          {
+            "pos": 8,
+            "name": "Billy Torrence",
+            "points": 244
+          },
+          {
+            "pos": 9,
+            "name": "Clay Millican",
+            "points": 220
+          },
+          {
+            "pos": 10,
+            "name": "Antron Brown",
+            "points": 218
+          }
+        ]
+      },
+      {
+        "className": "Funny Car",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "JR Todd",
+            "points": 411
+          },
+          {
+            "pos": 2,
+            "name": "Ron Capps",
+            "points": 408
+          },
+          {
+            "pos": 3,
+            "name": "Matt Hagan",
+            "points": 386
+          },
+          {
+            "pos": 4,
+            "name": "Jordan Vandergriff",
+            "points": 383
+          },
+          {
+            "pos": 5,
+            "name": "Chad Green",
+            "points": 340
+          },
+          {
+            "pos": 6,
+            "name": "Alexis DeJoria",
+            "points": 297
+          },
+          {
+            "pos": 7,
+            "name": "Spencer Hyde",
+            "points": 275
+          },
+          {
+            "pos": 8,
+            "name": "Jack Beckman",
+            "points": 245
+          },
+          {
+            "pos": 9,
+            "name": "Daniel Wilkerson",
+            "points": 201
+          },
+          {
+            "pos": 10,
+            "name": "Dave Richards",
+            "points": 171
+          }
+        ]
+      },
+      {
+        "className": "Pro Stock",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Dallas Glenn",
+            "points": 476
+          },
+          {
+            "pos": 2,
+            "name": "Greg Anderson",
+            "points": 400
+          },
+          {
+            "pos": 3,
+            "name": "Matt Hartford",
+            "points": 343
+          },
+          {
+            "pos": 4,
+            "name": "Greg Stanfield",
+            "points": 326
+          },
+          {
+            "pos": 5,
+            "name": "Matthew Latino",
+            "points": 290
+          },
+          {
+            "pos": 6,
+            "name": "Cody Coughlin",
+            "points": 289
+          },
+          {
+            "pos": 7,
+            "name": "Erica Enders",
+            "points": 283
+          },
+          {
+            "pos": 8,
+            "name": "Aaron Stanfield",
+            "points": 231
+          },
+          {
+            "pos": 9,
+            "name": "Jeg Coughlin Jr.",
+            "points": 224
+          },
+          {
+            "pos": 10,
+            "name": "Troy Coughlin Jr.",
+            "points": 218
+          }
+        ]
+      },
+      {
+        "className": "Pro Stock Motorcycle",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Richard Gadson",
+            "points": 316
+          },
+          {
+            "pos": 2,
+            "name": "Gaige Herrera",
+            "points": 265
+          },
+          {
+            "pos": 3,
+            "name": "Matt Smith",
+            "points": 234
+          },
+          {
+            "pos": 4,
+            "name": "John Hall",
+            "points": 204
+          },
+          {
+            "pos": 5,
+            "name": "Clayton Howey",
+            "points": 201
+          },
+          {
+            "pos": 6,
+            "name": "Angie Smith",
+            "points": 192
+          },
+          {
+            "pos": 7,
+            "name": "Chase Van Sant",
+            "points": 178
+          },
+          {
+            "pos": 8,
+            "name": "Steve Johnson",
+            "points": 136
+          },
+          {
+            "pos": 9,
+            "name": "Jianna Evaristo",
+            "points": 136
+          },
+          {
+            "pos": 10,
+            "name": "Ryan Oehler",
+            "points": 124
           }
         ]
       }
