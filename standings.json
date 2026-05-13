@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T18:49:24.226Z",
+  "generatedAt": "2026-05-13T18:53:19.172Z",
   "flat": {
     "f1": [
       {
@@ -4884,51 +4884,61 @@
           {
             "pos": 1,
             "name": "Shawn Langdon",
+            "vehicle": "Kalitta Air Careers",
             "points": 481
           },
           {
             "pos": 2,
             "name": "Doug Kalitta",
+            "vehicle": "Mac Tools Dragster",
             "points": 477
           },
           {
             "pos": 3,
             "name": "Leah Pruett",
+            "vehicle": "TSR Dodge//SRT Direct Connection Top Fuel Dragster",
             "points": 352
           },
           {
             "pos": 4,
             "name": "Tony Stewart",
+            "vehicle": "R+L Carriers",
             "points": 332
           },
           {
             "pos": 5,
             "name": "Josh Hart",
+            "vehicle": "Speedmaster dragster",
             "points": 298
           },
           {
             "pos": 6,
             "name": "Maddi Gordon",
+            "vehicle": "Carlyle Tools/Ron Capps Motorsports dragster",
             "points": 296
           },
           {
             "pos": 7,
             "name": "Justin Ashley",
+            "vehicle": "SCAG Power Equipment Top Fuel Dragster",
             "points": 280
           },
           {
             "pos": 8,
             "name": "Billy Torrence",
+            "vehicle": "Capco Racing/Torrence Motorsports Dragster",
             "points": 244
           },
           {
             "pos": 9,
             "name": "Clay Millican",
+            "vehicle": "Parts Plus dragster",
             "points": 220
           },
           {
             "pos": 10,
             "name": "Antron Brown",
+            "vehicle": "Matco Tools/Lucas Oil/Toyota Top Fuel dragster",
             "points": 218
           }
         ]
@@ -4939,51 +4949,61 @@
           {
             "pos": 1,
             "name": "JR Todd",
+            "vehicle": "DHL Toyota GR Supra",
             "points": 411
           },
           {
             "pos": 2,
             "name": "Ron Capps",
+            "vehicle": "NAPA Auto Parts Toyota GR Supra Funny Car",
             "points": 408
           },
           {
             "pos": 3,
             "name": "Matt Hagan",
+            "vehicle": "TSR Direct Connection Dodge//SRT Hellcat Funny Car",
             "points": 386
           },
           {
             "pos": 4,
             "name": "Jordan Vandergriff",
+            "vehicle": "Cornwell Tools Chevrolet SS",
             "points": 383
           },
           {
             "pos": 5,
             "name": "Chad Green",
+            "vehicle": "Bond Coat Ford Mustang",
             "points": 340
           },
           {
             "pos": 6,
             "name": "Alexis DeJoria",
+            "vehicle": "Bandero Café Chevrolet SS",
             "points": 297
           },
           {
             "pos": 7,
             "name": "Spencer Hyde",
+            "vehicle": "Head Inc. Ford Mustang",
             "points": 275
           },
           {
             "pos": 8,
             "name": "Jack Beckman",
+            "vehicle": "PEAK Chevrolet SS",
             "points": 245
           },
           {
             "pos": 9,
             "name": "Daniel Wilkerson",
+            "vehicle": "Scag Power Equipment Ford Shelby Mustang",
             "points": 201
           },
           {
             "pos": 10,
             "name": "Dave Richards",
+            "vehicle": "SCAG Racing/BlueBird Turf/Versatran Ford Mustang",
             "points": 171
           }
         ]
@@ -4994,21 +5014,25 @@
           {
             "pos": 1,
             "name": "Dallas Glenn",
+            "vehicle": "RAD Torque Systems",
             "points": 476
           },
           {
             "pos": 2,
             "name": "Greg Anderson",
+            "vehicle": "HendrickCars.com",
             "points": 400
           },
           {
             "pos": 3,
             "name": "Matt Hartford",
+            "vehicle": "Total Seal",
             "points": 343
           },
           {
             "pos": 4,
             "name": "Greg Stanfield",
+            "vehicle": "Janac Brothers/The Rod Shop",
             "points": 326
           },
           {
@@ -5019,26 +5043,31 @@
           {
             "pos": 6,
             "name": "Cody Coughlin",
+            "vehicle": "Cody Coughlin Co.",
             "points": 289
           },
           {
             "pos": 7,
             "name": "Erica Enders",
+            "vehicle": "JHG/Melling/SCAG",
             "points": 283
           },
           {
             "pos": 8,
             "name": "Aaron Stanfield",
+            "vehicle": "JHG/Melling/Janac Brothers",
             "points": 231
           },
           {
             "pos": 9,
             "name": "Jeg Coughlin Jr.",
+            "vehicle": "JEGS.com Chevy Camaro",
             "points": 224
           },
           {
             "pos": 10,
             "name": "Troy Coughlin Jr.",
+            "vehicle": "JEGS.com/White Castle",
             "points": 218
           }
         ]
@@ -5049,51 +5078,61 @@
           {
             "pos": 1,
             "name": "Richard Gadson",
+            "vehicle": "RevZilla/Mission/Vance & Hines Suzuki",
             "points": 316
           },
           {
             "pos": 2,
             "name": "Gaige Herrera",
+            "vehicle": "RevZilla/Mission/Vance & Hines Suzuki",
             "points": 265
           },
           {
             "pos": 3,
             "name": "Matt Smith",
+            "vehicle": "Denso/Outlaw Beer/MSR",
             "points": 234
           },
           {
             "pos": 4,
             "name": "John Hall",
+            "vehicle": "Denso/B.R.A.K.E.S./MSR",
             "points": 204
           },
           {
             "pos": 5,
             "name": "Clayton Howey",
+            "vehicle": "Howey Racing",
             "points": 201
           },
           {
             "pos": 6,
             "name": "Angie Smith",
+            "vehicle": "Denso/Outlaw Beer/MSR",
             "points": 192
           },
           {
             "pos": 7,
             "name": "Chase Van Sant",
+            "vehicle": "Trick Tools/White Alligator Racing Suzuki",
             "points": 178
           },
           {
             "pos": 8,
             "name": "Steve Johnson",
+            "vehicle": "Steve Johnson Racing Suzuki",
             "points": 136
           },
           {
             "pos": 9,
             "name": "Jianna Evaristo",
+            "vehicle": "JHG/Scrappers/Denso/MSR",
             "points": 136
           },
           {
             "pos": 10,
             "name": "Ryan Oehler",
+            "vehicle": "El Bandido Tequila",
             "points": 124
           }
         ]
