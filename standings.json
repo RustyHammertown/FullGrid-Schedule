@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T01:06:29.305Z",
+  "generatedAt": "2026-05-13T01:23:20.053Z",
   "flat": {
     "f1": [
       {
@@ -4337,6 +4337,98 @@
           }
         ]
       }
+    ],
+    "gtamerica": [
+      {
+        "className": "SRO3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Memo Gidley",
+            "points": 100
+          },
+          {
+            "pos": 2,
+            "name": "Kyle Washington",
+            "points": 48
+          },
+          {
+            "pos": 3,
+            "name": "Tony Davis",
+            "points": 42
+          },
+          {
+            "pos": 4,
+            "name": "Ross Chouest",
+            "points": 39
+          },
+          {
+            "pos": 5,
+            "name": "Marc Muzzo",
+            "points": 36
+          },
+          {
+            "pos": 6,
+            "name": "Scott Blind",
+            "points": 34
+          },
+          {
+            "pos": 7,
+            "name": "Jason McCarthy",
+            "points": 25
+          },
+          {
+            "pos": 8,
+            "name": "Dave Musial Sr.",
+            "points": 23
+          },
+          {
+            "pos": 9,
+            "name": "Joel Cortes",
+            "points": 23
+          },
+          {
+            "pos": 10,
+            "name": "Dan Knox",
+            "points": 16
+          }
+        ]
+      },
+      {
+        "className": "Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "David Lecko",
+            "points": 100
+          },
+          {
+            "pos": 2,
+            "name": "Yousuf Nabi",
+            "points": 36
+          },
+          {
+            "pos": 3,
+            "name": "Radu Muntean",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "className": "GT4",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Craig Lumsden",
+            "points": 86
+          },
+          {
+            "pos": 2,
+            "name": "Jozsef Petkes",
+            "points": 50
+          }
+        ]
+      }
     ]
   },
   "labels": {
@@ -4344,5 +4436,70 @@
     "gtwce": "Team Standings",
     "gtwca": "Team Standings",
     "elms": "Team Standings"
+  },
+  "teamFlat": {},
+  "teamClasses": {
+    "gtamerica": [
+      {
+        "className": "SRO3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "SKI Autosports",
+            "points": 100
+          },
+          {
+            "pos": 2,
+            "name": "GMG Racing",
+            "points": 48
+          },
+          {
+            "pos": 3,
+            "name": "HP-TECH Motorsport",
+            "points": 42
+          },
+          {
+            "pos": 4,
+            "name": "Chouest Povoledo Racing",
+            "points": 39
+          },
+          {
+            "pos": 5,
+            "name": "R. Ferri Motorsport",
+            "points": 36
+          }
+        ]
+      },
+      {
+        "className": "Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "RacingSupport",
+            "points": 100
+          },
+          {
+            "pos": 2,
+            "name": "Gotham Motorsports",
+            "points": 36
+          }
+        ]
+      },
+      {
+        "className": "GT4",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Flying Lizard Motorsports",
+            "points": 86
+          },
+          {
+            "pos": 2,
+            "name": "RCX Motorsport",
+            "points": 50
+          }
+        ]
+      }
+    ]
   }
 }
