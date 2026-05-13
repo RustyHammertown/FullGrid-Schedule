@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T20:31:20.932Z",
+  "generatedAt": "2026-05-13T20:36:05.105Z",
   "flat": {
     "f1": [
       {
@@ -700,38 +700,6 @@
         "points": 2,
         "team": "#007 Aston Martin THOR",
         "vehicle": "Aston Martin Valkyrie LMH"
-      }
-    ],
-    "gtwca": [
-      {
-        "pos": 1,
-        "name": "JMF Motorsports",
-        "points": 60,
-        "vehicle": "Mercedes-AMG GT3"
-      },
-      {
-        "pos": 2,
-        "name": "Turner Motorsport",
-        "points": 55,
-        "vehicle": "BMW M4 GT3"
-      },
-      {
-        "pos": 3,
-        "name": "AF Corse USA",
-        "points": 45,
-        "vehicle": "Ferrari 296 GT3"
-      },
-      {
-        "pos": 4,
-        "name": "Dollahite Racing",
-        "points": 43,
-        "vehicle": "Audi R8 LMS GT3 Evo II"
-      },
-      {
-        "pos": 5,
-        "name": "McCann Racing",
-        "points": 37,
-        "vehicle": "Aston Martin Vantage GT3"
       }
     ],
     "mx5": [
@@ -5987,6 +5955,95 @@
             "points": 50,
             "team": "#83 RCX Motorsport",
             "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          }
+        ]
+      }
+    ],
+    "gtwca": [
+      {
+        "className": "Pro",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#34 JMF Motorsports",
+            "points": 60,
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          },
+          {
+            "pos": 2,
+            "name": "#29 Turner Motorsport",
+            "points": 55,
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "#12 AF Corse USA",
+            "points": 45,
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "#6 Dollahite Racing",
+            "points": 43,
+            "vehicle": "Ford Mustang GT3 Evo"
+          },
+          {
+            "pos": 5,
+            "name": "#8 McCann Racing",
+            "points": 37,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
+          }
+        ]
+      },
+      {
+        "className": "Pro-Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#32 GMG Racing",
+            "points": 60,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
+          },
+          {
+            "pos": 2,
+            "name": "#31 Wright Motorsports",
+            "points": 50,
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 3,
+            "name": "#28 RS1",
+            "points": 45,
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 4,
+            "name": "#017 Kellymoss",
+            "points": 40,
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 5,
+            "name": "#27 JMF Motorsports",
+            "points": 35,
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          }
+        ]
+      },
+      {
+        "className": "Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#163 AF Corse USA",
+            "points": 50,
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
+            "pos": 2,
+            "name": "#11 MAD Joker by Lone Star Racing",
+            "points": 40,
+            "vehicle": "Mercedes-AMG GT3 Evo"
           }
         ]
       }
