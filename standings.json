@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T01:40:13.392Z",
+  "generatedAt": "2026-05-13T01:46:09.154Z",
   "flat": {
     "f1": [
       {
@@ -4612,6 +4612,272 @@
         ]
       }
     ],
+    "ffsatourisme": [
+      {
+        "className": "TCR",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Pierre Bredeaux",
+            "points": 43,
+            "team": "Comte Racing Team"
+          },
+          {
+            "pos": 2,
+            "name": "Sébastien Thome",
+            "points": 35,
+            "team": "Team Clairet Sport"
+          },
+          {
+            "pos": 3,
+            "name": "Maxence Passaquet",
+            "points": 34,
+            "team": "Optimum Racing by JP Concept Auto Sport"
+          },
+          {
+            "pos": 4,
+            "name": "Guillaume Savoldelli",
+            "points": 33,
+            "team": "Team Clairet Sport"
+          },
+          {
+            "pos": 5,
+            "name": "Nicolas Roumezy",
+            "points": 23,
+            "team": "Comte Racing Team"
+          },
+          {
+            "pos": 6,
+            "name": "Tom Pussier",
+            "points": 20,
+            "team": "SP Compétition"
+          },
+          {
+            "pos": 7,
+            "name": "Gilles Chauvin",
+            "points": 20,
+            "team": "SP Compétition"
+          },
+          {
+            "pos": 8,
+            "name": "Stéphane Biajoux",
+            "points": 12,
+            "team": "SP Compétition"
+          },
+          {
+            "pos": 9,
+            "name": "Rodolphe Spitz",
+            "points": 7,
+            "team": "JSB Compétition"
+          }
+        ]
+      },
+      {
+        "className": "TC",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Brady Beltramelli",
+            "points": 43,
+            "team": "Team Pilote 69 by JSB"
+          },
+          {
+            "pos": 2,
+            "name": "Kévin Ropars",
+            "points": 37.5,
+            "team": "2RT"
+          },
+          {
+            "pos": 3,
+            "name": "Karel Eyoum",
+            "points": 36,
+            "team": "JSB Compétition"
+          },
+          {
+            "pos": 4,
+            "name": "Théo Vidal",
+            "points": 28,
+            "team": "JSB Compétition"
+          },
+          {
+            "pos": 5,
+            "name": "Mathis Briché",
+            "points": 24.5,
+            "team": "JSB Compétition"
+          },
+          {
+            "pos": 6,
+            "name": "Denis Gibaud",
+            "points": 22.5,
+            "team": "JSB Compétition"
+          },
+          {
+            "pos": 7,
+            "name": "José Beltramelli",
+            "points": 22,
+            "team": "Team Pilote 69 by JSB"
+          }
+        ]
+      },
+      {
+        "className": "GT Light",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Stéphane Codet",
+            "points": 47,
+            "team": "Team CDRS"
+          },
+          {
+            "pos": 2,
+            "name": "Laurent Joubert",
+            "points": 32,
+            "team": "J'Nov Auto Racing by JSB"
+          },
+          {
+            "pos": 3,
+            "name": "David Chiche",
+            "points": 31,
+            "team": "Team CDRS"
+          },
+          {
+            "pos": 4,
+            "name": "Pascal Trieux",
+            "points": 25,
+            "team": "Team CDRS"
+          },
+          {
+            "pos": 5,
+            "name": "Vincent Duqueine",
+            "points": 20,
+            "team": "Duc Racing"
+          },
+          {
+            "pos": 6,
+            "name": "Romain Duqueine",
+            "points": 12,
+            "team": "Duc Racing"
+          },
+          {
+            "pos": 7,
+            "name": "Christophe Veses",
+            "points": 10,
+            "team": "Team CDRS"
+          }
+        ]
+      },
+      {
+        "className": "TCA",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Bastien Girard",
+            "points": 50,
+            "team": "Fox Racing Team"
+          },
+          {
+            "pos": 2,
+            "name": "Claude Carlos",
+            "points": 31,
+            "team": "Team Leal Competition"
+          },
+          {
+            "pos": 3,
+            "name": "Patrick Pujol",
+            "points": 28,
+            "team": "Team Leal Competition"
+          },
+          {
+            "pos": 4,
+            "name": "Thomas Leal",
+            "points": 22.5,
+            "team": "Team Leal Competition"
+          },
+          {
+            "pos": 5,
+            "name": "Julien Morance",
+            "points": 22,
+            "team": "Sport Cup 88"
+          },
+          {
+            "pos": 6,
+            "name": "Yannis Lafon",
+            "points": 19,
+            "team": "AL Motorsports by JSB"
+          },
+          {
+            "pos": 7,
+            "name": "Julien Carlos",
+            "points": 18,
+            "team": "Team Leal Competition"
+          },
+          {
+            "pos": 8,
+            "name": "Martial Camurac",
+            "points": 16.5,
+            "team": "JSB Compétition"
+          },
+          {
+            "pos": 9,
+            "name": "François Samy",
+            "points": 16,
+            "team": "Sport Cup 88"
+          }
+        ]
+      },
+      {
+        "className": "TCA Light",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Eric Coppens",
+            "points": 50,
+            "team": "Team Clairet Sport"
+          },
+          {
+            "pos": 2,
+            "name": "Sébastien Bortot",
+            "points": 36,
+            "team": "Beyond Virtual by 2RT"
+          },
+          {
+            "pos": 3,
+            "name": "Jacques Tillos",
+            "points": 15,
+            "team": "Team CDRS"
+          },
+          {
+            "pos": 4,
+            "name": "François Tillos",
+            "points": 0,
+            "team": "Team CDRS"
+          }
+        ]
+      },
+      {
+        "className": "TC Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Mickaël Boisdur",
+            "points": 43,
+            "team": "ADWShop Motorsport"
+          },
+          {
+            "pos": 2,
+            "name": "Gino Richard",
+            "points": 43,
+            "team": "ADWShop Motorsport"
+          },
+          {
+            "pos": 3,
+            "name": "Grégory Linxe",
+            "points": 43,
+            "team": "ADWShop Motorsport"
+          }
+        ]
+      }
+    ],
     "gtamerica": [
       {
         "className": "SRO3",
@@ -4884,6 +5150,138 @@
             "pos": 1,
             "name": "CMR",
             "points": 52
+          }
+        ]
+      }
+    ],
+    "ffsatourisme": [
+      {
+        "className": "TCR",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Team Clairet Sport",
+            "points": 83
+          },
+          {
+            "pos": 2,
+            "name": "Comte Racing Team",
+            "points": 73
+          },
+          {
+            "pos": 3,
+            "name": "Optimum Racing By JP Concept Auto Sport",
+            "points": 73
+          },
+          {
+            "pos": 4,
+            "name": "SP Compétition",
+            "points": 51
+          },
+          {
+            "pos": 5,
+            "name": "JSB Competition",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "className": "TC",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "2RT",
+            "points": 75
+          },
+          {
+            "pos": 2,
+            "name": "Team Pilote 69 by JSB",
+            "points": 73
+          },
+          {
+            "pos": 3,
+            "name": "JSB Competition",
+            "points": 69
+          }
+        ]
+      },
+      {
+        "className": "GT Light",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Team CDRS",
+            "points": 100
+          },
+          {
+            "pos": 2,
+            "name": "J'Nov Auto Racing by JSB",
+            "points": 72
+          },
+          {
+            "pos": 3,
+            "name": "Duc Racing",
+            "points": 45
+          }
+        ]
+      },
+      {
+        "className": "TCA",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Team Leal Compétition",
+            "points": 83
+          },
+          {
+            "pos": 2,
+            "name": "Fox Racing Team",
+            "points": 60
+          },
+          {
+            "pos": 4,
+            "name": "Sport Cup 88",
+            "points": 51
+          },
+          {
+            "pos": 5,
+            "name": "JSB Competition",
+            "points": 36
+          },
+          {
+            "pos": 6,
+            "name": "Optimum Racing By JP Concept Auto Sport",
+            "points": 25
+          }
+        ]
+      },
+      {
+        "className": "TCA Light",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Team Clairet Sport",
+            "points": 100
+          },
+          {
+            "pos": 2,
+            "name": "Beyond Virtual by 2RT",
+            "points": 72
+          },
+          {
+            "pos": 3,
+            "name": "Team CDRS",
+            "points": 15
+          }
+        ]
+      },
+      {
+        "className": "TC Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "ADWShop Motorsport",
+            "points": 100
           }
         ]
       }
