@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T03:16:15.600Z",
+  "generatedAt": "2026-05-13T23:35:19.405Z",
   "groups": {
     "f1": [
       {
@@ -793,6 +793,48 @@
           "Qualifying GTD PRO",
           "Qualifying LMP2",
           "Qualifying (TBD)"
+        ]
+      }
+    ],
+    "igtc": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice 3",
+          "Practice 4",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)",
+          "Practice 3 (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying 3",
+          "Top Qualifying 1",
+          "Top Qualifying 2",
+          "Top Qualifying 3",
+          "Top 10 Shootout",
+          "Qualifying (TBD)",
+          "Qualifying 1 (TBD)",
+          "Qualifying 2 (TBD)",
+          "Qualifying 3 (TBD)"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warm-up",
+          "Warmup",
+          "Warm-up (TBD)",
+          "Warmup (TBD)"
         ]
       }
     ],
