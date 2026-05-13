@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T19:25:26.752Z",
+  "generatedAt": "2026-05-13T20:18:19.502Z",
   "flat": {
     "f1": [
       {
@@ -858,61 +858,61 @@
         "pos": 1,
         "name": "Stephen Kopcik",
         "points": 126,
-        "team": "#21"
+        "team": "#21 Wanick Motorsports"
       },
       {
         "pos": 2,
         "name": "Austin Beers",
         "points": 119,
-        "team": "#64"
+        "team": "#64 KLM Motorsports"
       },
       {
         "pos": 3,
         "name": "Tyler Rypkema",
         "points": 117,
-        "team": "#3"
+        "team": "#3 Boehler Racing Enterprises"
       },
       {
         "pos": 4,
         "name": "Patrick Emerling",
         "points": 111,
-        "team": "#1"
+        "team": "#1 USNEPower Motorsports"
       },
       {
         "pos": 5,
         "name": "Justin Bonsignore",
         "points": 106,
-        "team": "#51"
+        "team": "#51 Kenneth Massa Motorsports"
       },
       {
         "pos": 6,
         "name": "Eric Goodale",
         "points": 106,
-        "team": "#58"
+        "team": "#58 Goodie Racing"
       },
       {
         "pos": 7,
         "name": "Craig Lutz",
         "points": 105,
-        "team": "#46"
+        "team": "#46 Goodie Racing"
       },
       {
         "pos": 8,
         "name": "Matt Hirschman",
         "points": 104,
-        "team": "#60"
+        "team": "#60 PeeDee Motorsports"
       },
       {
         "pos": 9,
         "name": "Ron Silk",
         "points": 97,
-        "team": "#16"
+        "team": "#16 Haydt Yannone Racing"
       },
       {
         "pos": 10,
         "name": "Jon McKennedy",
         "points": 97,
-        "team": "#79"
+        "team": "#79 Jon McKennedy Racing"
       }
     ],
     "arca": [
@@ -2480,52 +2480,72 @@
       {
         "pos": 1,
         "name": "Huang / Ghiretti",
-        "points": 73
+        "points": 73,
+        "team": "#911 Absolute Racing",
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 2,
         "name": "Anthony Liu Xu",
-        "points": 53
+        "points": 53,
+        "team": "#37 Phantom Global Racing",
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 3,
         "name": "Cheng / Yu",
-        "points": 40
+        "points": 40,
+        "team": "#16 FAW Audi Sport Asia Team Phantom",
+        "vehicle": "Audi R8 LMS"
       },
       {
         "pos": 4,
         "name": "Pato / Evans",
-        "points": 39
+        "points": 39,
+        "team": "#15 Audi Sport Asia Team Phantom",
+        "vehicle": "Audi R8 LMS"
       },
       {
         "pos": 5,
         "name": "Akash Nandy",
-        "points": 37
+        "points": 37,
+        "team": "#29 Absolute Racing",
+        "vehicle": "Lamborghini Huracán GT3 Evo 2"
       },
       {
         "pos": 6,
         "name": "Lyu / Picariello",
-        "points": 33
+        "points": 33,
+        "team": "#4 Origine Motorsport",
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 7,
         "name": "Dorian Boccolacci",
-        "points": 28
+        "points": 28,
+        "team": "#37 Phantom Global Racing",
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 8,
         "name": "Loek Hartog",
-        "points": 25
+        "points": 25,
+        "team": "#37 Phantom Global Racing",
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 9,
         "name": "Ruan Cun Fan",
-        "points": 22
+        "points": 22,
+        "team": "#89 Team KRC",
+        "vehicle": "BMW M4 GT3 Evo"
       },
       {
         "pos": 10,
         "name": "Jiatong Liang",
-        "points": 20
+        "points": 20,
+        "team": "#77 Craft-Bamboo Racing",
+        "vehicle": "Mercedes-AMG GT3 Evo"
       }
     ],
     "caterham310r": [
@@ -3043,52 +3063,72 @@
       {
         "pos": 1,
         "name": "Miedecke / Tracey",
-        "points": 52
+        "points": 52,
+        "team": "#35 Miedecke Motorsport",
+        "vehicle": "Ford Mustang GT4"
       },
       {
         "pos": 2,
         "name": "Cameron / Dalton",
-        "points": 46
+        "points": 46,
+        "team": "#27 Multispares Racing",
+        "vehicle": "Ford Mustang GT4"
       },
       {
         "pos": 3,
         "name": "Harvey / McLeod",
-        "points": 43
+        "points": 43,
+        "team": "#227 RM Racing Cars",
+        "vehicle": "Ford Mustang GT4"
       },
       {
         "pos": 4,
         "name": "Hayman / Murray",
-        "points": 38
+        "points": 38,
+        "team": "#25 Method Motorsport",
+        "vehicle": "McLaren Artura GT4"
       },
       {
         "pos": 5,
         "name": "Purdie / Stewart",
-        "points": 37
+        "points": 37,
+        "team": "#48 Purdie Racing",
+        "vehicle": "Audi R8 LMS GT4 Evo"
       },
       {
         "pos": 6,
         "name": "Hughes / Rintoule",
-        "points": 30
+        "points": 30,
+        "team": "#87 Method Motorsport",
+        "vehicle": "McLaren Artura GT4"
       },
       {
         "pos": 7,
         "name": "Jake Camilleri",
-        "points": 28
+        "points": 28,
+        "team": "#36 Gomersall Motorsport",
+        "vehicle": "Ford Mustang GT4"
       },
       {
         "pos": 8,
         "name": "Bryant / Gray",
-        "points": 24
+        "points": 24,
+        "team": "#67 JMG Racing / DNA AutoSport",
+        "vehicle": "Toyota GR Supra GT4 Evo2"
       },
       {
         "pos": 9,
         "name": "Jay Murray",
-        "points": 23
+        "points": 23,
+        "team": "#7 McElrea Racing",
+        "vehicle": "BMW M4 GT4 Evo"
       },
       {
         "pos": 10,
         "name": "Cutts / Dowdall",
-        "points": 20
+        "points": 20,
+        "team": "#95 Miedecke Motorsport",
+        "vehicle": "Ford Mustang GT4"
       }
     ],
     "mustangcupau": [
@@ -3148,37 +3188,43 @@
         "pos": 1,
         "name": "Beaubélique / Pla",
         "points": 52,
-        "team": "Storic and Race Cars"
+        "team": "#87 Storic and Race Cars",
+        "vehicle": "Ferrari 458 Italia GT3"
       },
       {
         "pos": 2,
         "name": "Christoph von Oeynhausen",
         "points": 36,
-        "team": "Classic & Speed"
+        "team": "#888 Classic & Speed",
+        "vehicle": "BMW Z4 GT3"
       },
       {
         "pos": 3,
         "name": "Cole / Parente",
         "points": 27,
-        "team": "Leopard Racing Team Quinntech"
+        "team": "#47 Leopard Racing Team Quinntech",
+        "vehicle": "Audi R8 LMS Ultra"
       },
       {
         "pos": 4,
         "name": "Balon / Keen",
         "points": 25,
-        "team": "Barwell Motorsport"
+        "team": "#78 Barwell Motorsport",
+        "vehicle": "Lamborghini Gallardo LP560 FL2"
       },
       {
         "pos": 5,
         "name": "Joebstl / Nuthall",
         "points": 22,
-        "team": "Michelotto Team DHL"
+        "team": "#52 Michelotto Team DHL",
+        "vehicle": "Ferrari 458 Italia GT3"
       },
       {
         "pos": 6,
         "name": "Brewer / Martin",
         "points": 16,
-        "team": "Klausen Racing"
+        "team": "#40 Klausen Racing",
+        "vehicle": "Ford GT GT3"
       }
     ]
   },
@@ -3190,52 +3236,72 @@
           {
             "pos": 1,
             "name": "Óscar Tunjo",
-            "points": 1650
+            "points": 1650,
+            "team": "#1 Gebhardt Motorsport",
+            "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 2,
             "name": "Brian Thienes",
-            "points": 1380
+            "points": 1380,
+            "team": "#77 Forte Racing",
+            "vehicle": "Ligier JS P320"
           },
           {
             "pos": 3,
             "name": "Danny Soufi",
-            "points": 1370
+            "points": 1370,
+            "team": "#11 Gebhardt Motorsport",
+            "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 4,
             "name": "Travis Hill",
-            "points": 1270
+            "points": 1270,
+            "team": "#2 Shopify Racing powered by TWOth",
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 5,
             "name": "Farhan Siddiqi",
-            "points": 1130
+            "points": 1130,
+            "team": "#87 FastMD with Remstar",
+            "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 6,
             "name": "Mirco Schultis",
-            "points": 1000
+            "points": 1000,
+            "team": "#70 Mishumotors",
+            "vehicle": "Ligier JS P320"
           },
           {
             "pos": 7,
             "name": "Wyatt Brichacek",
-            "points": 950
+            "points": 950,
+            "team": "#30 Toney Driver Development",
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 8,
             "name": "Lincoln Day",
-            "points": 830
+            "points": 830,
+            "team": "#95 Toney Driver Development",
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 9,
             "name": "Jérémy Siffert",
-            "points": 710
+            "points": 710,
+            "team": "#31 Gebhardt Motorsport",
+            "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 10,
             "name": "Jon Hirshberg",
-            "points": 690
+            "points": 690,
+            "team": "#86 Forte Racing",
+            "vehicle": "Ligier JS P320"
           }
         ]
       },
@@ -3245,52 +3311,72 @@
           {
             "pos": 1,
             "name": "Westin Workman",
-            "points": 1400
+            "points": 1400,
+            "team": "#8 RAFA Racing Team",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 2,
             "name": "Courtney Crone",
-            "points": 1160
+            "points": 1160,
+            "team": "#35 CarBahn Motorsports",
+            "vehicle": "BMW M4 GT4 Evo"
           },
           {
             "pos": 3,
             "name": "Rafael Martinez",
-            "points": 1050
+            "points": 1050,
+            "team": "#68 RAFA Racing Team",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 4,
             "name": "Dan Ammann",
-            "points": 1020
+            "points": 1020,
+            "team": "#91 Vintage Racing Company",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           },
           {
             "pos": 5,
             "name": "Jon Brel",
-            "points": 950
+            "points": 950,
+            "team": "#81 Kingpin Racing",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 6,
             "name": "Tiger Tari",
-            "points": 900
+            "points": 900,
+            "team": "#26 Auto Technic Racing",
+            "vehicle": "BMW M4 GT4 Evo"
           },
           {
             "pos": 7,
             "name": "Justin Di Benedetto",
-            "points": 620
+            "points": 620,
+            "team": "#4 Di Benedetto Racing",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           },
           {
             "pos": 8,
             "name": "Marc Austin",
-            "points": 600
+            "points": 600,
+            "team": "#22 Mad Joker Racing by Lone Star Racing",
+            "vehicle": "Mercedes-AMG GT4"
           },
           {
             "pos": 9,
             "name": "Sean Quinlan",
-            "points": 580
+            "points": 580,
+            "team": "#19 Stephen Cameron Racing",
+            "vehicle": "Ford Mustang GT4"
           },
           {
             "pos": 10,
             "name": "Ismaeel Ellahi",
-            "points": 530
+            "points": 530,
+            "team": "#25 Czabok-Simpson Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           }
         ]
       }
@@ -3303,61 +3389,71 @@
             "pos": 1,
             "name": "Broc Feeney / Brad Schumacher",
             "points": 30,
-            "team": "Melbourne Performance Centre"
+            "team": "#1 Melbourne Performance Centre",
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 2,
             "name": "Jaxon Evans / Elliott Schutte",
             "points": 28,
-            "team": "ARGT"
+            "team": "#26 ARGT",
+            "vehicle": "Ferrari 296 GT3"
           },
           {
             "pos": 3,
             "name": "Paul Lucchitti / Jayden Ojeda",
             "points": 26,
-            "team": "Tigani Motorsport"
+            "team": "#66 Tigani Motorsport",
+            "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
             "pos": 4,
             "name": "Steve Brooks / Ryan Wood",
             "points": 23,
-            "team": "Team BRM"
+            "team": "#88 Team BRM",
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 5,
             "name": "Shane Smollen / Oscar Targett",
             "points": 18,
-            "team": "Tigani Motorsport"
+            "team": "#56 Tigani Motorsport",
+            "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
             "pos": 6,
             "name": "Thomas Randle / Mark Rosser",
             "points": 17,
-            "team": "Team BRM"
+            "team": "#268 Team BRM",
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 7,
             "name": "Valentino Astuti / Darren Currie",
             "points": 16,
-            "team": "Melbourne Performance Centre"
+            "team": "#2 Melbourne Performance Centre",
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 8,
             "name": "Brendon Leitch / Sergio Pires",
             "points": 13,
-            "team": "Tigani Motorsport"
+            "team": "#44 Tigani Motorsport",
+            "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
             "pos": 9,
             "name": "Josh Buchan / Cameron Campbell",
             "points": 11,
-            "team": "Zagame Autosport"
+            "team": "#23 Zagame Autosport",
+            "vehicle": "Ferrari 296 GT3"
           },
           {
             "pos": 10,
             "name": "Geoff Emery / Josh Hunt",
             "points": 8,
-            "team": "Volante Rosso Motorsport"
+            "team": "#15 Volante Rosso Motorsport",
+            "vehicle": "McLaren 720S GT3 Evo"
           }
         ]
       },
@@ -3368,19 +3464,22 @@
             "pos": 1,
             "name": "Alex Gardner / Lee Stibbs",
             "points": 44,
-            "team": "Volante Rosso Motorsport"
+            "team": "#14 Volante Rosso Motorsport",
+            "vehicle": "Aston Martin Vantage AMR GT3"
           },
           {
             "pos": 2,
             "name": "Matthew Stoupas / Paul Stokell",
             "points": 34,
-            "team": "Melbourne Performance Centre"
+            "team": "#24 Melbourne Performance Centre",
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 3,
             "name": "Nathan Halstead / Luke Youlden",
             "points": 25,
-            "team": "Tigani Motorsport"
+            "team": "#71 Tigani Motorsport",
+            "vehicle": "Porsche 911 GT3 R (991)"
           }
         ]
       },
@@ -3396,52 +3495,72 @@
           {
             "pos": 1,
             "name": "Dillon Machavern / Luca Mars",
-            "points": 930
+            "points": 930,
+            "team": "#95 Turner Motorsport",
+            "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 2,
             "name": "Daan Arrow / Bryce Ward",
-            "points": 900
+            "points": 900,
+            "team": "#57 Winward Racing",
+            "vehicle": "Mercedes-AMG GT4"
           },
           {
             "pos": 3,
             "name": "Nate Cicero / Robert Noaker",
-            "points": 780
+            "points": 780,
+            "team": "#13 McCumbee McAleer Racing",
+            "vehicle": "Ford Mustang GT4 (2024)"
           },
           {
             "pos": 4,
             "name": "Austin Krainz / Stevan McAleer",
-            "points": 770
+            "points": 770,
+            "team": "#27 Auto Technic Racing",
+            "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 5,
             "name": "Michael Cooper / Moisey Uretsky",
-            "points": 700
+            "points": 700,
+            "team": "#44 Accelerating Performance",
+            "vehicle": "McLaren Artura GT4"
           },
           {
             "pos": 6,
             "name": "Morgan Burkhard / Gordon Scully",
-            "points": 640
+            "points": 640,
+            "team": "#59 KohR Motorsports",
+            "vehicle": "Ford Mustang GT4 (2024)"
           },
           {
             "pos": 7,
             "name": "Greg Liefooghe / Sean Quinlan",
-            "points": 620
+            "points": 620,
+            "team": "#19 Stephen Cameron Racing",
+            "vehicle": "Ford Mustang GT4 (2024)"
           },
           {
             "pos": 8,
             "name": "Hannah Grisham / Hannah Greenemeier",
-            "points": 580
+            "points": 580,
+            "team": "#26 Heart of Racing Team",
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
           },
           {
             "pos": 9,
             "name": "Bill Auberlen / Samantha Tan",
-            "points": 530
+            "points": 530,
+            "team": "#38 ST Racing by Random Vandals",
+            "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 10,
             "name": "Caio Chaves",
-            "points": 360
+            "points": 360,
+            "team": "#54 Panam Motorsport",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           }
         ]
       },
@@ -3451,52 +3570,72 @@
           {
             "pos": 1,
             "name": "Mason Filippi / Bryson Morris",
-            "points": 950
+            "points": 950,
+            "team": "#33 Bryan Herta Autosport w/ PR1/Mathiasen",
+            "vehicle": "Hyundai Elantra N TCR (2024)"
           },
           {
             "pos": 2,
             "name": "Preston Brown / Denis Dupont",
-            "points": 840
+            "points": 840,
+            "team": "#76 Bryan Herta Autosport w/ PR1/Mathiasen",
+            "vehicle": "Hyundai Elantra N TCR (2024)"
           },
           {
             "pos": 3,
             "name": "Maddie Aust / Mark Wilkins",
-            "points": 810
+            "points": 810,
+            "team": "#98 Bryan Herta Autosport w/ PR1/Mathiasen",
+            "vehicle": "Hyundai Elantra N TCR (2024)"
           },
           {
             "pos": 4,
             "name": "Franco Girolami / Tyler Gonzalez",
-            "points": 800
+            "points": 800,
+            "team": "#99 Victor Gonzalez Racing Team",
+            "vehicle": "Cupra León VZ TCR"
           },
           {
             "pos": 5,
             "name": "Lance Bergstein / Harry Gottsacker",
-            "points": 790
+            "points": 790,
+            "team": "#18 Bryan Herta Autosport w/ PR1/Mathiasen",
+            "vehicle": "Hyundai Elantra N TCR (2024)"
           },
           {
             "pos": 6,
             "name": "Tim Lewis Jr. / Rocco Pasquarella",
-            "points": 770
+            "points": 770,
+            "team": "#5 KMW Motorsports w/ TMR Engineering",
+            "vehicle": "Honda Civic Type R TCR (FL5)"
           },
           {
             "pos": 7,
             "name": "Louis-Philippe Montour / Karl Wittmer",
-            "points": 730
+            "points": 730,
+            "team": "#93 Montreal Motorsport Group",
+            "vehicle": "Honda Civic Type R TCR (FL5)"
           },
           {
             "pos": 8,
             "name": "Sam Baker / James Vance",
-            "points": 720
+            "points": 720,
+            "team": "#52 Baker Racing",
+            "vehicle": "Audi RS 3 LMS TCR (2021)"
           },
           {
             "pos": 9,
             "name": "Eddie Gou / Eduardo Gou",
-            "points": 650
+            "points": 650,
+            "team": "#55 Gou Racing",
+            "vehicle": "Cupra León VZ TCR"
           },
           {
             "pos": 10,
             "name": "Dean Baker",
-            "points": 620
+            "points": 620,
+            "team": "#56 Baker Racing",
+            "vehicle": "Audi RS 3 LMS TCR (2021)"
           }
         ]
       }
@@ -3947,52 +4086,62 @@
           {
             "pos": 1,
             "name": "#22 United Autosports",
-            "points": 40
+            "points": 40,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 2,
             "name": "#34 Inter Europol Competition",
-            "points": 37
+            "points": 37,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 3,
             "name": "#29 Forestier Racing by Panis",
-            "points": 26
+            "points": 26,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 4,
             "name": "#18 IDEC Sport",
-            "points": 24
+            "points": 24,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 5,
             "name": "#10 Vector Sport",
-            "points": 18
+            "points": 18,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 6,
             "name": "#28 IDEC Sport",
-            "points": 16
+            "points": 16,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 7,
             "name": "#43 Inter Europol Competition",
-            "points": 16
+            "points": 16,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 8,
             "name": "#37 CLX Motorsport",
-            "points": 12
+            "points": 12,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 9,
             "name": "#24 Nielsen Racing",
-            "points": 7
+            "points": 7,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 10,
             "name": "#9 Proton Competition",
-            "points": 4
+            "points": 4,
+            "vehicle": "Oreca 07"
           }
         ]
       },
@@ -4002,52 +4151,62 @@
           {
             "pos": 1,
             "name": "#30 Duqueine Team",
-            "points": 31
+            "points": 31,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 2,
             "name": "#83 AF Corse",
-            "points": 26
+            "points": 26,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 3,
             "name": "#20 Algarve Pro Racing",
-            "points": 25
+            "points": 25,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 4,
             "name": "#27 Nielsen Racing",
-            "points": 25
+            "points": 25,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 5,
             "name": "#14 TDS Racing",
-            "points": 24
+            "points": 24,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 6,
             "name": "#99 AO by TF",
-            "points": 20
+            "points": 20,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 7,
             "name": "#7 Vector Sport",
-            "points": 18
+            "points": 18,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 8,
             "name": "#19 Rossa Racing by Virage",
-            "points": 16
+            "points": 16,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 9,
             "name": "#21 United Autosports",
-            "points": 10
+            "points": 10,
+            "vehicle": "Oreca 07"
           },
           {
             "pos": 10,
             "name": "#3 DKR Engineering",
-            "points": 5
+            "points": 5,
+            "vehicle": "Oreca 07"
           }
         ]
       },
@@ -4057,52 +4216,62 @@
           {
             "pos": 1,
             "name": "#13 Inter Europol Competition",
-            "points": 40
+            "points": 40,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 2,
             "name": "#5 Rinaldi Racing",
-            "points": 31
+            "points": 31,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 3,
             "name": "#85 R-Ace GP",
-            "points": 27
+            "points": 27,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 4,
             "name": "#35 Ultimate",
-            "points": 20
+            "points": 20,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 5,
             "name": "#68 M Racing",
-            "points": 18
+            "points": 18,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 6,
             "name": "#4 DKR Engineering",
-            "points": 18
+            "points": 18,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 7,
             "name": "#8 Team Virage",
-            "points": 14
+            "points": 14,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 8,
             "name": "#17 CLX Motorsport",
-            "points": 14
+            "points": 14,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 9,
             "name": "#11 EuroInternational",
-            "points": 12
+            "points": 12,
+            "vehicle": "Ligier JS P325"
           },
           {
             "pos": 10,
             "name": "#31 Racing Spirit of Leman",
-            "points": 8
+            "points": 8,
+            "vehicle": "Ligier JS P325"
           }
         ]
       },
@@ -4112,52 +4281,62 @@
           {
             "pos": 1,
             "name": "#57 Kessel Racing",
-            "points": 40
+            "points": 40,
+            "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 2,
             "name": "#75 Proton Competition",
-            "points": 31
+            "points": 31,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 3,
             "name": "#55 Spirit of Race",
-            "points": 20
+            "points": 20,
+            "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 4,
             "name": "#23 United Autosports",
-            "points": 18
+            "points": 18,
+            "vehicle": "McLaren 720S GT3 Evo"
           },
           {
             "pos": 5,
             "name": "#33 TF Sport",
-            "points": 18
+            "points": 18,
+            "vehicle": "Chevrolet Corvette Z06 GT3.R"
           },
           {
             "pos": 6,
             "name": "#86 GR Racing",
-            "points": 15
+            "points": 15,
+            "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 7,
             "name": "#62 Team Qatar by Iron Lynx",
-            "points": 14
+            "points": 14,
+            "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
             "pos": 8,
             "name": "#77 Proton Competition",
-            "points": 14
+            "points": 14,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 9,
             "name": "#63 Iron Lynx",
-            "points": 14
+            "points": 14,
+            "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
             "pos": 10,
             "name": "#50 Richard Mille AF Corse",
-            "points": 10
+            "points": 10,
+            "vehicle": "Ferrari 296 GT3 Evo"
           }
         ]
       }
@@ -4588,61 +4767,71 @@
             "pos": 1,
             "name": "Lazare Lartigau",
             "points": 40,
-            "team": "Chazel Technologie Course"
+            "team": "#110 Chazel Technologie Course",
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 2,
             "name": "Laurent Hurgon",
             "points": 40,
-            "team": "Chazel Technologie Course"
+            "team": "#110 Chazel Technologie Course",
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 3,
             "name": "Lukas Papin",
             "points": 36,
-            "team": "Schumacher GP"
+            "team": "#88 Schumacher GP",
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 4,
             "name": "Jérémy Corsin",
             "points": 36,
-            "team": "Schumacher GP"
+            "team": "#88 Schumacher GP",
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 5,
             "name": "Léo Jousset",
             "points": 27,
-            "team": "Race Cars Consulting"
+            "team": "#4 Race Cars Consulting",
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 6,
             "name": "Rudy Servol",
             "points": 27,
-            "team": "Race Cars Consulting"
+            "team": "#4 Race Cars Consulting",
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 7,
             "name": "Enzo Richer",
             "points": 20,
-            "team": "Mirage Racing"
+            "team": "#6 Mirage Racing",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 8,
             "name": "Kevin Jimenez",
             "points": 20,
-            "team": "Mirage Racing"
+            "team": "#6 Mirage Racing",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 9,
             "name": "Klaas Kooiker",
             "points": 16,
-            "team": "Circuit Toys"
+            "team": "#900 Circuit Toys",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 10,
             "name": "Thomas Drouet",
             "points": 16,
-            "team": "AKKODIS ASP TEAM"
+            "team": "#87 AKKODIS ASP TEAM",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           }
         ]
       },
@@ -4653,37 +4842,43 @@
             "pos": 1,
             "name": "Stéphane Lémeret",
             "points": 51,
-            "team": "CMR"
+            "team": "#63 CMR",
+            "vehicle": "Alpine A110 GT4 Evo"
           },
           {
             "pos": 2,
             "name": "Stéphane Auriacombe",
             "points": 51,
-            "team": "CMR"
+            "team": "#63 CMR",
+            "vehicle": "Alpine A110 GT4 Evo"
           },
           {
             "pos": 3,
             "name": "Nicco Ferrarin",
             "points": 34,
-            "team": "JSB Competition"
+            "team": "#24 JSB Competition",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           },
           {
             "pos": 4,
             "name": "Julien Briché",
             "points": 34,
-            "team": "JSB Competition"
+            "team": "#24 JSB Competition",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           },
           {
             "pos": 5,
             "name": "Jodie Sloss",
             "points": 33,
-            "team": "Mirage Racing"
+            "team": "#5 Mirage Racing",
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
           },
           {
             "pos": 6,
             "name": "David Levy",
             "points": 33,
-            "team": "Mirage Racing"
+            "team": "#5 Mirage Racing",
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
           }
         ]
       },
@@ -4694,61 +4889,71 @@
             "pos": 1,
             "name": "Romain Monti",
             "points": 51,
-            "team": "Chazel Technologie Course"
+            "team": "#111 Chazel Technologie Course",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 2,
             "name": "Rodolphe Wallgren",
             "points": 51,
-            "team": "Chazel Technologie Course"
+            "team": "#111 Chazel Technologie Course",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 3,
             "name": "Paul Alberto",
             "points": 37,
-            "team": "Chazel Technologie Course"
+            "team": "#3 Chazel Technologie Course",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 4,
             "name": "Gosia Rdest",
             "points": 37,
-            "team": "Chazel Technologie Course"
+            "team": "#3 Chazel Technologie Course",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 5,
             "name": "Matteo Herrero",
             "points": 27,
-            "team": "Herrero Racing"
+            "team": "#25 Herrero Racing",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 6,
             "name": "David Barrere",
             "points": 27,
-            "team": "Herrero Racing"
+            "team": "#25 Herrero Racing",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 7,
             "name": "Paul Roques",
             "points": 21,
-            "team": "Race Cars Consulting"
+            "team": "#33 Race Cars Consulting",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 8,
             "name": "Anthony Fournier",
             "points": 21,
-            "team": "Race Cars Consulting"
+            "team": "#33 Race Cars Consulting",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 9,
             "name": "Alexandre Lopez",
             "points": 20,
-            "team": "Chazel Technologie Course"
+            "team": "#123 Chazel Technologie Course",
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 10,
             "name": "Frédéric de Brabant",
             "points": 20,
-            "team": "Chazel Technologie Course"
+            "team": "#123 Chazel Technologie Course",
+            "vehicle": "Alpine A110 Cup"
           }
         ]
       },
@@ -4759,35 +4964,42 @@
             "pos": 1,
             "name": "Victor Guerin",
             "points": 44,
-            "team": "CMR"
+            "team": "#13 CMR",
+            "vehicle": "Ginetta G56 GTA"
           },
           {
             "pos": 2,
             "name": "Stephan Guerin",
             "points": 44,
-            "team": "CMR"
+            "team": "#13 CMR",
+            "vehicle": "Ginetta G56 GTA"
           },
           {
             "pos": 3,
             "name": "Léo Poncel",
             "points": 44,
-            "team": "CMR"
+            "team": "#73 CMR",
+            "vehicle": "Ginetta G56 GTA"
           },
           {
             "pos": 4,
             "name": "Philippe Marie",
             "points": 44,
-            "team": "CMR"
+            "team": "#73 CMR",
+            "vehicle": "Ginetta G56 GTA"
           },
           {
             "pos": 5,
             "name": "Emmanuel Reviriault",
-            "points": 0
+            "points": 0,
+            "vehicle": "Ginetta G56 GTA"
           },
           {
             "pos": 6,
             "name": "Charly Bourachot",
-            "points": 0
+            "points": 0,
+            "team": "#62 CMR",
+            "vehicle": "Ginetta G56 GTP8"
           }
         ]
       }
@@ -4866,13 +5078,15 @@
             "pos": 1,
             "name": "Braydon Arthur",
             "points": 93,
-            "team": "JMF Motorsports"
+            "team": "#4 JMF Motorsports",
+            "vehicle": "Toyota GR Corolla TC"
           },
           {
             "pos": 2,
             "name": "Andre Castro",
             "points": 73,
-            "team": "Ricca Autosport"
+            "team": "#77 Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 3,
@@ -4884,13 +5098,15 @@
             "pos": 4,
             "name": "Justin Gravett",
             "points": 47,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 5,
             "name": "Eric Kunz",
             "points": 40,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 6,
@@ -4908,19 +5124,22 @@
             "pos": 8,
             "name": "Matan Rosenberg",
             "points": 16,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 9,
             "name": "Shelby Mills",
             "points": 14,
-            "team": "Fawn Group MS by Ricca Autosport"
+            "team": "Fawn Group MS by Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 10,
             "name": "CJ Sepulveda",
             "points": 6,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           }
         ]
       },
@@ -4931,31 +5150,36 @@
             "pos": 1,
             "name": "Andre Castro",
             "points": 50,
-            "team": "Ricca Autosport"
+            "team": "#77 Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 2,
             "name": "Justin Gravett",
             "points": 36,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 3,
             "name": "Eric Kunz",
             "points": 30,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 4,
             "name": "Shelby Mills",
             "points": 22,
-            "team": "Fawn Group MS by Ricca Autosport"
+            "team": "Fawn Group MS by Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 5,
             "name": "PJ Groenke",
             "points": 16,
-            "team": "Ricca Autosport"
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
           }
         ]
       }
@@ -5348,55 +5572,64 @@
             "pos": 1,
             "name": "Pierre Bredeaux",
             "points": 43,
-            "team": "Comte Racing Team"
+            "team": "#107 Comte Racing Team",
+            "vehicle": "Cupra León Compéticion TCR"
           },
           {
             "pos": 2,
             "name": "Sébastien Thome",
             "points": 35,
-            "team": "Team Clairet Sport"
+            "team": "#20 Team Clairet Sport",
+            "vehicle": "Audi RS 3 LMS TCR"
           },
           {
             "pos": 3,
             "name": "Maxence Passaquet",
             "points": 34,
-            "team": "Optimum Racing by JP Concept Auto Sport"
+            "team": "#6 Optimum Racing by JP Concept Auto Sport",
+            "vehicle": "Cupra León Compéticion TCR"
           },
           {
             "pos": 4,
             "name": "Guillaume Savoldelli",
             "points": 33,
-            "team": "Team Clairet Sport"
+            "team": "#117 Team Clairet Sport",
+            "vehicle": "Audi RS 3 LMS TCR"
           },
           {
             "pos": 5,
             "name": "Nicolas Roumezy",
             "points": 23,
-            "team": "Comte Racing Team"
+            "team": "#107 Comte Racing Team",
+            "vehicle": "Cupra León Compéticion TCR"
           },
           {
             "pos": 6,
             "name": "Tom Pussier",
             "points": 20,
-            "team": "SP Compétition"
+            "team": "#38 SP Compétition",
+            "vehicle": "Cupra León VZ TCR"
           },
           {
             "pos": 7,
             "name": "Gilles Chauvin",
             "points": 20,
-            "team": "SP Compétition"
+            "team": "#22 SP Compétition",
+            "vehicle": "Cupra León VZ TCR"
           },
           {
             "pos": 8,
             "name": "Stéphane Biajoux",
             "points": 12,
-            "team": "SP Compétition"
+            "team": "#71 SP Compétition",
+            "vehicle": "Cupra León Compéticion TCR"
           },
           {
             "pos": 9,
             "name": "Rodolphe Spitz",
             "points": 7,
-            "team": "JSB Compétition"
+            "team": "#69 JSB Compétition",
+            "vehicle": "Cupra León Compéticion TCR"
           }
         ]
       },
@@ -5407,43 +5640,50 @@
             "pos": 1,
             "name": "Brady Beltramelli",
             "points": 43,
-            "team": "Team Pilote 69 by JSB"
+            "team": "#3 Team Pilote 69 by JSB",
+            "vehicle": "Peugeot 308 RC"
           },
           {
             "pos": 2,
             "name": "Kévin Ropars",
             "points": 37.5,
-            "team": "2RT"
+            "team": "#49 2RT",
+            "vehicle": "Peugeot 208 TC"
           },
           {
             "pos": 3,
             "name": "Karel Eyoum",
             "points": 36,
-            "team": "JSB Compétition"
+            "team": "#25 JSB Compétition",
+            "vehicle": "Peugeot 308 RC"
           },
           {
             "pos": 4,
             "name": "Théo Vidal",
             "points": 28,
-            "team": "JSB Compétition"
+            "team": "#25 JSB Compétition",
+            "vehicle": "Peugeot 308 RC"
           },
           {
             "pos": 5,
             "name": "Mathis Briché",
             "points": 24.5,
-            "team": "JSB Compétition"
+            "team": "#7 JSB Compétition",
+            "vehicle": "Peugeot 308 RC"
           },
           {
             "pos": 6,
             "name": "Denis Gibaud",
             "points": 22.5,
-            "team": "JSB Compétition"
+            "team": "#78 JSB Compétition",
+            "vehicle": "Peugeot 308 RC"
           },
           {
             "pos": 7,
             "name": "José Beltramelli",
             "points": 22,
-            "team": "Team Pilote 69 by JSB"
+            "team": "#3 Team Pilote 69 by JSB",
+            "vehicle": "Peugeot 308 RC"
           }
         ]
       },
@@ -5454,43 +5694,50 @@
             "pos": 1,
             "name": "Stéphane Codet",
             "points": 47,
-            "team": "Team CDRS"
+            "team": "#5 Team CDRS",
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 2,
             "name": "Laurent Joubert",
             "points": 32,
-            "team": "J'Nov Auto Racing by JSB"
+            "team": "#79 J'Nov Auto Racing by JSB",
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 3,
             "name": "David Chiche",
             "points": 31,
-            "team": "Team CDRS"
+            "team": "#29 Team CDRS",
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 4,
             "name": "Pascal Trieux",
             "points": 25,
-            "team": "Team CDRS"
+            "team": "#8 Team CDRS",
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 5,
             "name": "Vincent Duqueine",
             "points": 20,
-            "team": "Duc Racing"
+            "team": "#27 Duc Racing",
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 6,
             "name": "Romain Duqueine",
             "points": 12,
-            "team": "Duc Racing"
+            "team": "#27 Duc Racing",
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 7,
             "name": "Christophe Veses",
             "points": 10,
-            "team": "Team CDRS"
+            "team": "#23 Team CDRS",
+            "vehicle": "Ligier JS2R"
           }
         ]
       },
@@ -5501,55 +5748,64 @@
             "pos": 1,
             "name": "Bastien Girard",
             "points": 50,
-            "team": "Fox Racing Team"
+            "team": "#26 Fox Racing Team",
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 2,
             "name": "Claude Carlos",
             "points": 31,
-            "team": "Team Leal Competition"
+            "team": "#33 Team Leal Competition",
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 3,
             "name": "Patrick Pujol",
             "points": 28,
-            "team": "Team Leal Competition"
+            "team": "#55 Team Leal Competition",
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 4,
             "name": "Thomas Leal",
             "points": 22.5,
-            "team": "Team Leal Competition"
+            "team": "#17 Team Leal Competition",
+            "vehicle": "Renault Clio V Cup"
           },
           {
             "pos": 5,
             "name": "Julien Morance",
             "points": 22,
-            "team": "Sport Cup 88"
+            "team": "#88 Sport Cup 88",
+            "vehicle": "Renault Clio V Cup"
           },
           {
             "pos": 6,
             "name": "Yannis Lafon",
             "points": 19,
-            "team": "AL Motorsports by JSB"
+            "team": "#24 AL Motorsports by JSB",
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 7,
             "name": "Julien Carlos",
             "points": 18,
-            "team": "Team Leal Competition"
+            "team": "#33 Team Leal Competition",
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 8,
             "name": "Martial Camurac",
             "points": 16.5,
-            "team": "JSB Compétition"
+            "team": "#44 JSB Compétition",
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 9,
             "name": "François Samy",
             "points": 16,
-            "team": "Sport Cup 88"
+            "team": "#88 Sport Cup 88",
+            "vehicle": "Renault Clio V Cup"
           }
         ]
       },
@@ -5560,25 +5816,29 @@
             "pos": 1,
             "name": "Eric Coppens",
             "points": 50,
-            "team": "Team Clairet Sport"
+            "team": "#11 Team Clairet Sport",
+            "vehicle": "Peugeot 208 TC6"
           },
           {
             "pos": 2,
             "name": "Sébastien Bortot",
             "points": 36,
-            "team": "Beyond Virtual by 2RT"
+            "team": "#712 Beyond Virtual by 2RT",
+            "vehicle": "Peugeot 208 TC6"
           },
           {
             "pos": 3,
             "name": "Jacques Tillos",
             "points": 15,
-            "team": "Team CDRS"
+            "team": "#64 Team CDRS",
+            "vehicle": "Mini F56 1.5T"
           },
           {
             "pos": 4,
             "name": "François Tillos",
             "points": 0,
-            "team": "Team CDRS"
+            "team": "#64 Team CDRS",
+            "vehicle": "Mini F56 1.5T"
           }
         ]
       },
@@ -5589,19 +5849,22 @@
             "pos": 1,
             "name": "Mickaël Boisdur",
             "points": 43,
-            "team": "ADWShop Motorsport"
+            "team": "#115 ADWShop Motorsport",
+            "vehicle": "Mini R56 MCS-R"
           },
           {
             "pos": 2,
             "name": "Gino Richard",
             "points": 43,
-            "team": "ADWShop Motorsport"
+            "team": "#129 ADWShop Motorsport",
+            "vehicle": "Mini R56 MCS-R"
           },
           {
             "pos": 3,
             "name": "Grégory Linxe",
             "points": 43,
-            "team": "ADWShop Motorsport"
+            "team": "#129 ADWShop Motorsport",
+            "vehicle": "Mini R56 MCS-R"
           }
         ]
       }
@@ -5614,61 +5877,71 @@
             "pos": 1,
             "name": "Memo Gidley",
             "points": 100,
-            "team": "SKI Autosports"
+            "team": "#56 SKI Autosports",
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 2,
             "name": "Kyle Washington",
             "points": 48,
-            "team": "GMG Racing"
+            "team": "#32 GMG Racing",
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 3,
             "name": "Tony Davis",
             "points": 42,
-            "team": "HP-TECH Motorsport"
+            "team": "#004 HP-TECH Motorsport",
+            "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 4,
             "name": "Ross Chouest",
             "points": 39,
-            "team": "Chouest Povoledo Racing"
+            "team": "#50 Chouest Povoledo Racing",
+            "vehicle": "Chevrolet Corvette Z06 GT3.R"
           },
           {
             "pos": 5,
             "name": "Marc Muzzo",
             "points": 36,
-            "team": "R. Ferri Motorsport"
+            "team": "#013 R. Ferri Motorsport",
+            "vehicle": "Ferrari 296 GT3"
           },
           {
             "pos": 6,
             "name": "Scott Blind",
             "points": 34,
-            "team": "Ruckus Racing"
+            "team": "#45 Ruckus Racing",
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 7,
             "name": "Jason McCarthy",
             "points": 25,
-            "team": "One11 Competition"
+            "team": "#115 One11 Competition",
+            "vehicle": "Ferrari 296 GT3"
           },
           {
             "pos": 8,
             "name": "Dave Musial Sr.",
             "points": 23,
-            "team": "Wright Motorsports"
+            "team": "#72 Wright Motorsports",
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 9,
             "name": "Joel Cortes",
             "points": 23,
-            "team": "RS1"
+            "team": "#19 RS1",
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 10,
             "name": "Dan Knox",
             "points": 16,
-            "team": "Lone Star Racing"
+            "team": "#80 Lone Star Racing",
+            "vehicle": "Mercedes-AMG GT3 Evo"
           }
         ]
       },
@@ -5679,19 +5952,22 @@
             "pos": 1,
             "name": "David Lecko",
             "points": 100,
-            "team": "RacingSupport"
+            "team": "RacingSupport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Yousuf Nabi",
             "points": 36,
-            "team": "Gotham Motorsports"
+            "team": "Gotham Motorsports",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
             "name": "Radu Muntean",
             "points": 0,
-            "team": "Gotham Motorsports"
+            "team": "Gotham Motorsports",
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -5702,13 +5978,15 @@
             "pos": 1,
             "name": "Craig Lumsden",
             "points": 86,
-            "team": "Flying Lizard Motorsports"
+            "team": "#610 Flying Lizard Motorsports",
+            "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 2,
             "name": "Jozsef Petkes",
             "points": 50,
-            "team": "RCX Motorsport"
+            "team": "#83 RCX Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           }
         ]
       }
@@ -5906,48 +6184,57 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Chazel Technologie Course",
-            "points": 40
+            "name": "#110 Chazel Technologie Course",
+            "points": 40,
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 2,
-            "name": "Schumacher GP",
-            "points": 36
+            "name": "#88 Schumacher GP",
+            "points": 36,
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 3,
-            "name": "Race Cars Consulting",
-            "points": 27
+            "name": "#4 Race Cars Consulting",
+            "points": 27,
+            "vehicle": "Alpine A110 GT4+"
           },
           {
             "pos": 4,
-            "name": "Mirage Racing",
-            "points": 20
+            "name": "#6 Mirage Racing",
+            "points": 20,
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 5,
-            "name": "Circuit Toys",
-            "points": 18
+            "name": "#900 Circuit Toys",
+            "points": 18,
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 6,
-            "name": "AKKODIS ASP TEAM",
-            "points": 18
+            "name": "#87 AKKODIS ASP TEAM",
+            "points": 18,
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 7,
             "name": "Code Racing Development",
-            "points": 15
+            "points": 15,
+            "vehicle": "Alpine A110 GT4 Evo"
           },
           {
             "pos": 8,
-            "name": "Saintéloc Racing",
-            "points": 14
+            "name": "#27 Saintéloc Racing",
+            "points": 14,
+            "vehicle": "Audi R8 LMS GT4"
           },
           {
             "pos": 9,
-            "name": "VS Compétition",
-            "points": 10
+            "name": "#20 VS Compétition",
+            "points": 10,
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           }
         ]
       },
@@ -5956,18 +6243,21 @@
         "entries": [
           {
             "pos": 1,
-            "name": "CMR",
-            "points": 51
+            "name": "#63 CMR",
+            "points": 51,
+            "vehicle": "Alpine A110 GT4 Evo"
           },
           {
             "pos": 2,
-            "name": "JSB Competition",
-            "points": 34
+            "name": "#24 JSB Competition",
+            "points": 34,
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           },
           {
             "pos": 3,
-            "name": "Mirage Racing",
-            "points": 33
+            "name": "#5 Mirage Racing",
+            "points": 33,
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
           }
         ]
       },
@@ -5977,22 +6267,26 @@
           {
             "pos": 1,
             "name": "Chazel Technologie Course",
-            "points": 52
+            "points": 52,
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 2,
-            "name": "Herrero Racing",
-            "points": 33
+            "name": "#25 Herrero Racing",
+            "points": 33,
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 3,
-            "name": "Race Cars Consulting",
-            "points": 30
+            "name": "#33 Race Cars Consulting",
+            "points": 30,
+            "vehicle": "Alpine A110 Cup"
           },
           {
             "pos": 4,
             "name": "Schumacher GP",
-            "points": 27
+            "points": 27,
+            "vehicle": "Alpine A110 Cup"
           }
         ]
       },
@@ -6002,7 +6296,8 @@
           {
             "pos": 1,
             "name": "CMR",
-            "points": 52
+            "points": 52,
+            "vehicle": "Ginetta G56 GTA"
           }
         ]
       }
@@ -6276,27 +6571,32 @@
           {
             "pos": 1,
             "name": "Team Clairet Sport",
-            "points": 83
+            "points": 83,
+            "vehicle": "Audi RS 3 LMS TCR"
           },
           {
             "pos": 2,
             "name": "Comte Racing Team",
-            "points": 73
+            "points": 73,
+            "vehicle": "Cupra León Compéticion TCR"
           },
           {
             "pos": 3,
             "name": "Optimum Racing By JP Concept Auto Sport",
-            "points": 73
+            "points": 73,
+            "vehicle": "Cupra León Compéticion TCR"
           },
           {
             "pos": 4,
             "name": "SP Compétition",
-            "points": 51
+            "points": 51,
+            "vehicle": "Cupra León VZ TCR"
           },
           {
             "pos": 5,
             "name": "JSB Competition",
-            "points": 20
+            "points": 20,
+            "vehicle": "Cupra León Compéticion TCR"
           }
         ]
       },
@@ -6306,17 +6606,20 @@
           {
             "pos": 1,
             "name": "2RT",
-            "points": 75
+            "points": 75,
+            "vehicle": "Peugeot 208 TC"
           },
           {
             "pos": 2,
             "name": "Team Pilote 69 by JSB",
-            "points": 73
+            "points": 73,
+            "vehicle": "Peugeot 308 RC"
           },
           {
             "pos": 3,
             "name": "JSB Competition",
-            "points": 69
+            "points": 69,
+            "vehicle": "Peugeot 308 RC"
           }
         ]
       },
@@ -6326,17 +6629,20 @@
           {
             "pos": 1,
             "name": "Team CDRS",
-            "points": 100
+            "points": 100,
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 2,
             "name": "J'Nov Auto Racing by JSB",
-            "points": 72
+            "points": 72,
+            "vehicle": "Ligier JS2R"
           },
           {
             "pos": 3,
             "name": "Duc Racing",
-            "points": 45
+            "points": 45,
+            "vehicle": "Ligier JS2R"
           }
         ]
       },
@@ -6346,27 +6652,32 @@
           {
             "pos": 1,
             "name": "Team Leal Compétition",
-            "points": 83
+            "points": 83,
+            "vehicle": "Renault Clio IV/V Cup"
           },
           {
             "pos": 2,
             "name": "Fox Racing Team",
-            "points": 60
+            "points": 60,
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 4,
             "name": "Sport Cup 88",
-            "points": 51
+            "points": 51,
+            "vehicle": "Renault Clio V Cup"
           },
           {
             "pos": 5,
             "name": "JSB Competition",
-            "points": 36
+            "points": 36,
+            "vehicle": "Renault Clio IV Cup"
           },
           {
             "pos": 6,
             "name": "Optimum Racing By JP Concept Auto Sport",
-            "points": 25
+            "points": 25,
+            "vehicle": "Renault Clio IV Cup"
           }
         ]
       },
@@ -6376,17 +6687,20 @@
           {
             "pos": 1,
             "name": "Team Clairet Sport",
-            "points": 100
+            "points": 100,
+            "vehicle": "Peugeot 208 TC6"
           },
           {
             "pos": 2,
             "name": "Beyond Virtual by 2RT",
-            "points": 72
+            "points": 72,
+            "vehicle": "Peugeot 208 TC6"
           },
           {
             "pos": 3,
             "name": "Team CDRS",
-            "points": 15
+            "points": 15,
+            "vehicle": "Mini F56 1.5T"
           }
         ]
       },
@@ -6396,7 +6710,8 @@
           {
             "pos": 1,
             "name": "ADWShop Motorsport",
-            "points": 100
+            "points": 100,
+            "vehicle": "Mini R56 MCS-R"
           }
         ]
       }
@@ -6407,28 +6722,33 @@
         "entries": [
           {
             "pos": 1,
-            "name": "SKI Autosports",
-            "points": 100
+            "name": "#56 SKI Autosports",
+            "points": 100,
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 2,
-            "name": "GMG Racing",
-            "points": 48
+            "name": "#32 GMG Racing",
+            "points": 48,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 3,
-            "name": "HP-TECH Motorsport",
-            "points": 42
+            "name": "#004 HP-TECH Motorsport",
+            "points": 42,
+            "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 4,
-            "name": "Chouest Povoledo Racing",
-            "points": 39
+            "name": "#50 Chouest Povoledo Racing",
+            "points": 39,
+            "vehicle": "Chevrolet Corvette Z06 GT3.R"
           },
           {
             "pos": 5,
-            "name": "R. Ferri Motorsport",
-            "points": 36
+            "name": "#013 R. Ferri Motorsport",
+            "points": 36,
+            "vehicle": "Ferrari 296 GT3"
           }
         ]
       },
@@ -6438,12 +6758,14 @@
           {
             "pos": 1,
             "name": "RacingSupport",
-            "points": 100
+            "points": 100,
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Gotham Motorsports",
-            "points": 36
+            "points": 36,
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -6452,13 +6774,15 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Flying Lizard Motorsports",
-            "points": 86
+            "name": "#610 Flying Lizard Motorsports",
+            "points": 86,
+            "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 2,
-            "name": "RCX Motorsport",
-            "points": 50
+            "name": "#83 RCX Motorsport",
+            "points": 50,
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           }
         ]
       }
