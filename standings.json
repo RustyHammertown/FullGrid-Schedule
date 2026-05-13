@@ -1,67 +1,77 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T18:53:19.172Z",
+  "generatedAt": "2026-05-13T19:25:26.752Z",
   "flat": {
     "f1": [
       {
         "pos": 1,
         "name": "Kimi Antonelli",
         "points": 100,
-        "team": "Mercedes"
+        "team": "#12 Mercedes",
+        "vehicle": "Mercedes W17"
       },
       {
         "pos": 2,
         "name": "George Russell",
         "points": 80,
-        "team": "Mercedes"
+        "team": "#63 Mercedes",
+        "vehicle": "Mercedes W17"
       },
       {
         "pos": 3,
         "name": "Charles Leclerc",
         "points": 59,
-        "team": "Ferrari"
+        "team": "#16 Ferrari",
+        "vehicle": "Ferrari SF-26"
       },
       {
         "pos": 4,
         "name": "Lando Norris",
         "points": 51,
-        "team": "McLaren-Mercedes"
+        "team": "#1 McLaren-Mercedes",
+        "vehicle": "McLaren MCL40"
       },
       {
         "pos": 5,
         "name": "Lewis Hamilton",
         "points": 51,
-        "team": "Ferrari"
+        "team": "#44 Ferrari",
+        "vehicle": "Ferrari SF-26"
       },
       {
         "pos": 6,
         "name": "Oscar Piastri",
         "points": 43,
-        "team": "McLaren-Mercedes"
+        "team": "#81 McLaren-Mercedes",
+        "vehicle": "McLaren MCL40"
       },
       {
         "pos": 7,
         "name": "Max Verstappen",
         "points": 26,
-        "team": "Red Bull-Ford"
+        "team": "#3 Red Bull-Ford",
+        "vehicle": "Red Bull Racing RB22"
       },
       {
         "pos": 8,
         "name": "Oliver Bearman",
         "points": 17,
-        "team": "Haas-Ferrari"
+        "team": "#87 Haas-Ferrari",
+        "vehicle": "Haas VF-26"
       },
       {
         "pos": 9,
         "name": "Pierre Gasly",
         "points": 16,
-        "team": "Alpine-Mercedes"
+        "team": "#10 Alpine-Mercedes",
+        "vehicle": "Alpine A526"
       },
       {
         "pos": 10,
         "name": "Liam Lawson",
         "points": 10,
-        "team": "Racing Bulls-Red Bull Ford"
+        "team": "#30 Racing Bulls-Red Bull Ford",
+        "vehicle": "Racing Bulls VCARB 03"
       }
     ],
     "nascar": [
@@ -69,61 +79,71 @@
         "pos": 1,
         "name": "Tyler Reddick",
         "points": 567,
-        "team": "23XI Racing"
+        "team": "#45 23XI Racing",
+        "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 2,
         "name": "Denny Hamlin",
         "points": 438,
-        "team": "Joe Gibbs Racing"
+        "team": "#11 Joe Gibbs Racing",
+        "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 3,
         "name": "Chase Elliott",
         "points": 422,
-        "team": "Hendrick Motorsports"
+        "team": "#9 Hendrick Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 4,
         "name": "Ryan Blaney",
         "points": 405,
-        "team": "Team Penske"
+        "team": "#12 Team Penske",
+        "vehicle": "Ford Mustang Dark Horse"
       },
       {
         "pos": 5,
         "name": "Chris Buescher",
         "points": 375,
-        "team": "RFK Racing"
+        "team": "#17 RFK Racing",
+        "vehicle": "Ford Mustang Dark Horse"
       },
       {
         "pos": 6,
         "name": "Ty Gibbs",
         "points": 372,
-        "team": "Joe Gibbs Racing"
+        "team": "#54 Joe Gibbs Racing",
+        "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 7,
         "name": "Carson Hocevar",
         "points": 342,
-        "team": "Spire Motorsports"
+        "team": "#77 Spire Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 8,
         "name": "Kyle Larson",
         "points": 332,
-        "team": "Hendrick Motorsports"
+        "team": "#5 Hendrick Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 9,
         "name": "Brad Keselowski",
         "points": 318,
-        "team": "RFK Racing"
+        "team": "#6 RFK Racing",
+        "vehicle": "Ford Mustang Dark Horse"
       },
       {
         "pos": 10,
         "name": "Bubba Wallace",
         "points": 313,
-        "team": "23XI Racing"
+        "team": "#23 23XI Racing",
+        "vehicle": "Toyota Camry XSE"
       }
     ],
     "oreilly": [
@@ -131,61 +151,71 @@
         "pos": 1,
         "name": "Justin Allgaier",
         "points": 640,
-        "team": "JR Motorsports"
+        "team": "#7 JR Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 2,
         "name": "Sheldon Creed",
         "points": 485,
-        "team": "Haas Factory Team"
+        "team": "#00 Haas Factory Team",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 3,
         "name": "Jesse Love",
         "points": 479,
-        "team": "Richard Childress Racing"
+        "team": "#2 Richard Childress Racing",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 4,
         "name": "Brandon Jones",
         "points": 433,
-        "team": "Joe Gibbs Racing"
+        "team": "#20 Joe Gibbs Racing",
+        "vehicle": "Toyota GR Supra"
       },
       {
         "pos": 5,
         "name": "Corey Day",
         "points": 422,
-        "team": "Hendrick Motorsports"
+        "team": "#17 Hendrick Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 6,
         "name": "Sammy Smith",
         "points": 399,
-        "team": "JR Motorsports"
+        "team": "#8 JR Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 7,
         "name": "Austin Hill",
         "points": 392,
-        "team": "Richard Childress Racing"
+        "team": "#21 Richard Childress Racing",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 8,
         "name": "Carson Kvapil",
         "points": 380,
-        "team": "JR Motorsports"
+        "team": "#1 JR Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 9,
         "name": "Parker Retzlaff",
         "points": 362,
-        "team": "Viking Motorsports"
+        "team": "#99 Viking Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 10,
         "name": "Taylor Gray",
         "points": 345,
-        "team": "Joe Gibbs Racing"
+        "team": "#54 Joe Gibbs Racing",
+        "vehicle": "Toyota GR Supra"
       }
     ],
     "truck": [
@@ -193,61 +223,71 @@
         "pos": 1,
         "name": "Kaden Honeycutt",
         "points": 312,
-        "team": "Tricon Garage"
+        "team": "#11 Tricon Garage",
+        "vehicle": "Toyota Tundra TRD Pro"
       },
       {
         "pos": 2,
         "name": "Chandler Smith",
         "points": 289,
-        "team": "Front Row Motorsports"
+        "team": "#38 Front Row Motorsports",
+        "vehicle": "Ford F-150"
       },
       {
         "pos": 3,
         "name": "Layne Riggs",
         "points": 269,
-        "team": "Front Row Motorsports"
+        "team": "#34 Front Row Motorsports",
+        "vehicle": "Ford F-150"
       },
       {
         "pos": 4,
         "name": "Gio Ruggiero",
         "points": 257,
-        "team": "Tricon Garage"
+        "team": "#17 Tricon Garage",
+        "vehicle": "Toyota Tundra TRD Pro"
       },
       {
         "pos": 5,
         "name": "Christian Eckes",
         "points": 241,
-        "team": "McAnally–Hilgemann Racing"
+        "team": "#91 McAnally–Hilgemann Racing",
+        "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 6,
         "name": "Ben Rhodes",
         "points": 228,
-        "team": "ThorSport Racing"
+        "team": "#99 ThorSport Racing",
+        "vehicle": "Ford F-150"
       },
       {
         "pos": 7,
         "name": "Ty Majeski",
         "points": 225,
-        "team": "ThorSport Racing"
+        "team": "#88 ThorSport Racing",
+        "vehicle": "Ford F-150"
       },
       {
         "pos": 8,
         "name": "Corey Heim",
         "points": 204,
-        "team": "Tricon Garage"
+        "team": "#1 Tricon Garage",
+        "vehicle": "Toyota Tundra TRD Pro"
       },
       {
         "pos": 9,
         "name": "Tyler Ankrum",
         "points": 194,
-        "team": "McAnally–Hilgemann Racing"
+        "team": "#18 McAnally–Hilgemann Racing",
+        "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 10,
         "name": "Daniel Hemric",
         "points": 189,
-        "team": "McAnally–Hilgemann Racing"
+        "team": "#19 McAnally–Hilgemann Racing",
+        "vehicle": "Chevrolet Silverado RST"
       }
     ],
     "indycar": [
@@ -255,61 +295,71 @@
         "pos": 1,
         "name": "Álex Palou",
         "points": 237,
-        "team": "Chip Ganassi Racing"
+        "team": "#10 Chip Ganassi Racing",
+        "vehicle": "Honda"
       },
       {
         "pos": 2,
         "name": "Kyle Kirkwood",
         "points": 210,
-        "team": "Andretti Global"
+        "team": "#27 Andretti Global",
+        "vehicle": "Honda"
       },
       {
         "pos": 3,
         "name": "David Malukas",
         "points": 185,
-        "team": "Team Penske"
+        "team": "#12 Team Penske",
+        "vehicle": "Chevrolet"
       },
       {
         "pos": 4,
         "name": "Christian Lundgaard",
         "points": 182,
-        "team": "Arrow McLaren"
+        "team": "#7 Arrow McLaren",
+        "vehicle": "Chevrolet"
       },
       {
         "pos": 5,
         "name": "Josef Newgarden",
         "points": 162,
-        "team": "Team Penske"
+        "team": "#2 Team Penske",
+        "vehicle": "Chevrolet"
       },
       {
         "pos": 6,
         "name": "Scott Dixon",
         "points": 148,
-        "team": "Chip Ganassi Racing"
+        "team": "#9 Chip Ganassi Racing",
+        "vehicle": "Honda"
       },
       {
         "pos": 7,
         "name": "Pato O'Ward",
         "points": 148,
-        "team": "Arrow McLaren"
+        "team": "#5 Arrow McLaren",
+        "vehicle": "Chevrolet"
       },
       {
         "pos": 8,
         "name": "Scott McLaughlin",
         "points": 141,
-        "team": "Team Penske"
+        "team": "#3 Team Penske",
+        "vehicle": "Chevrolet"
       },
       {
         "pos": 9,
         "name": "Graham Rahal",
         "points": 141,
-        "team": "Rahal Letterman Lanigan Racing"
+        "team": "#15 Rahal Letterman Lanigan Racing",
+        "vehicle": "Honda"
       },
       {
         "pos": 10,
         "name": "Marcus Armstrong",
         "points": 123,
-        "team": "Meyer Shank Racing"
+        "team": "#66 Meyer Shank Racing",
+        "vehicle": "Honda"
       }
     ],
     "motogp": [
@@ -317,61 +367,71 @@
         "pos": 1,
         "name": "Marco Bezzecchi",
         "points": 128,
-        "team": "Aprilia Racing"
+        "team": "#72 Aprilia Racing",
+        "vehicle": "Aprilia RS-GP26"
       },
       {
         "pos": 2,
         "name": "Jorge Martín",
         "points": 127,
-        "team": "Aprilia Racing"
+        "team": "#89 Aprilia Racing",
+        "vehicle": "Aprilia RS-GP26"
       },
       {
         "pos": 3,
         "name": "Fabio Di Giannantonio",
         "points": 84,
-        "team": "Pertamina Enduro VR46"
+        "team": "#49 Pertamina Enduro VR46",
+        "vehicle": "Ducati Desmosedici GP26"
       },
       {
         "pos": 4,
         "name": "Pedro Acosta",
         "points": 83,
-        "team": "Red Bull KTM Factory"
+        "team": "#37 Red Bull KTM Factory",
+        "vehicle": "KTM RC16"
       },
       {
         "pos": 5,
         "name": "Ai Ogura",
         "points": 67,
-        "team": "Trackhouse MotoGP"
+        "team": "#79 Trackhouse MotoGP",
+        "vehicle": "Aprilia RS-GP26"
       },
       {
         "pos": 6,
         "name": "Raúl Fernández",
         "points": 62,
-        "team": "Trackhouse MotoGP"
+        "team": "#25 Trackhouse MotoGP",
+        "vehicle": "Aprilia RS-GP26"
       },
       {
         "pos": 7,
         "name": "Marc Márquez",
         "points": 57,
-        "team": "Ducati Lenovo"
+        "team": "#93 Ducati Lenovo",
+        "vehicle": "Ducati Desmosedici GP26"
       },
       {
         "pos": 8,
         "name": "Álex Márquez",
         "points": 55,
-        "team": "BK8 Gresini Racing"
+        "team": "#73 BK8 Gresini Racing",
+        "vehicle": "Ducati Desmosedici GP25"
       },
       {
         "pos": 9,
         "name": "Francesco Bagnaia",
         "points": 43,
-        "team": "Ducati Lenovo"
+        "team": "#63 Ducati Lenovo",
+        "vehicle": "Ducati Desmosedici GP26"
       },
       {
         "pos": 10,
         "name": "Enea Bastianini",
         "points": 39,
-        "team": "Red Bull KTM Tech3"
+        "team": "#23 Red Bull KTM Tech3",
+        "vehicle": "KTM RC16"
       }
     ],
     "f2": [
@@ -503,61 +563,71 @@
         "pos": 1,
         "name": "Pascal Wehrlein",
         "points": 101,
-        "team": "Porsche Formula E Team"
+        "team": "#94 Porsche Formula E Team",
+        "vehicle": "Porsche 99X Electric"
       },
       {
         "pos": 2,
         "name": "Mitch Evans",
         "points": 98,
-        "team": "Jaguar TCS Racing"
+        "team": "#9 Jaguar TCS Racing",
+        "vehicle": "Jaguar I-Type 7"
       },
       {
         "pos": 3,
         "name": "Edoardo Mortara",
         "points": 93,
-        "team": "Mahindra Racing"
+        "team": "#48 Mahindra Racing",
+        "vehicle": "Mahindra M12Electro"
       },
       {
         "pos": 4,
         "name": "Oliver Rowland",
         "points": 83,
-        "team": "Nissan Formula E Team"
+        "team": "#23 Nissan Formula E Team",
+        "vehicle": "Nissan e-4ORCE 05"
       },
       {
         "pos": 5,
         "name": "Nico Müller",
         "points": 75,
-        "team": "Porsche Formula E Team"
+        "team": "#51 Porsche Formula E Team",
+        "vehicle": "Porsche 99X Electric"
       },
       {
         "pos": 6,
         "name": "Nick Cassidy",
         "points": 69,
-        "team": "Citroën Racing"
+        "team": "#37 Citroën Racing",
+        "vehicle": "Citroën ë-CX"
       },
       {
         "pos": 7,
         "name": "Jake Dennis",
         "points": 66,
-        "team": "Andretti Formula E"
+        "team": "#27 Andretti Formula E",
+        "vehicle": "Porsche 99X Electric"
       },
       {
         "pos": 8,
         "name": "António Félix da Costa",
         "points": 65,
-        "team": "Jaguar TCS Racing"
+        "team": "#13 Jaguar TCS Racing",
+        "vehicle": "Jaguar I-Type 7"
       },
       {
         "pos": 9,
         "name": "Sébastien Buemi",
         "points": 55,
-        "team": "Envision Racing"
+        "team": "#16 Envision Racing",
+        "vehicle": "Jaguar I-Type 7"
       },
       {
         "pos": 10,
         "name": "Pepe Martí",
         "points": 25,
-        "team": "Cupra Kiro"
+        "team": "#3 Cupra Kiro",
+        "vehicle": "Porsche 99X Electric"
       }
     ],
     "wec": [
@@ -565,61 +635,71 @@
         "pos": 1,
         "name": "Frijns / Rast",
         "points": 35,
-        "team": "BMW M Team WRT"
+        "team": "#20 BMW M Team WRT",
+        "vehicle": "BMW M Hybrid V8"
       },
       {
         "pos": 2,
         "name": "Buemi / Hartley / Hirakawa",
         "points": 26,
-        "team": "Toyota Racing"
+        "team": "#8 Toyota Racing",
+        "vehicle": "Toyota GR010 Hybrid"
       },
       {
         "pos": 3,
         "name": "van der Linde",
         "points": 25,
-        "team": "BMW M Team WRT"
+        "team": "#20 BMW M Team WRT",
+        "vehicle": "BMW M Hybrid V8"
       },
       {
         "pos": 4,
         "name": "Conway / Kobayashi",
         "points": 25,
-        "team": "Toyota Racing"
+        "team": "#7 Toyota Racing",
+        "vehicle": "Toyota GR010 Hybrid"
       },
       {
         "pos": 5,
         "name": "Magnussen / Marciello",
         "points": 24,
-        "team": "BMW M Team WRT"
+        "team": "#15 BMW M Team WRT",
+        "vehicle": "BMW M Hybrid V8"
       },
       {
         "pos": 6,
         "name": "Fuoco / Molina / Nielsen",
         "points": 23,
-        "team": "Ferrari AF Corse"
+        "team": "#50 Ferrari AF Corse",
+        "vehicle": "Ferrari 499P"
       },
       {
         "pos": 7,
         "name": "Calado / Giovinazzi / Pier Guidi",
         "points": 19,
-        "team": "Ferrari AF Corse"
+        "team": "#51 Ferrari AF Corse",
+        "vehicle": "Ferrari 499P"
       },
       {
         "pos": 8,
         "name": "Félix da Costa / Habsburg / Milesi",
         "points": 12,
-        "team": "Alpine Endurance"
+        "team": "#35 Alpine Endurance",
+        "vehicle": "Alpine A424"
       },
       {
         "pos": 9,
         "name": "Bamber / Bourdais",
         "points": 4,
-        "team": "Cadillac Hertz Team Jota"
+        "team": "#38 Cadillac Hertz Team Jota",
+        "vehicle": "Cadillac V-Series.R"
       },
       {
         "pos": 10,
         "name": "Gamble / Tincknell",
         "points": 2,
-        "team": "Aston Martin THOR"
+        "team": "#007 Aston Martin THOR",
+        "vehicle": "Aston Martin Valkyrie LMH"
       }
     ],
     "gtwca": [
@@ -627,31 +707,31 @@
         "pos": 1,
         "name": "JMF Motorsports",
         "points": 60,
-        "team": "Grenier / Stephens"
+        "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 2,
         "name": "Turner Motorsport",
         "points": 55,
-        "team": "Foley / Rothberg"
+        "vehicle": "BMW M4 GT3"
       },
       {
         "pos": 3,
         "name": "AF Corse USA",
         "points": 45,
-        "team": "Pérez Companc / Schandorff"
+        "vehicle": "Ferrari 296 GT3"
       },
       {
         "pos": 4,
         "name": "Dollahite Racing",
         "points": 43,
-        "team": "Lawrence / Sedgwick"
+        "vehicle": "Audi R8 LMS GT3 Evo II"
       },
       {
         "pos": 5,
         "name": "McCann Racing",
         "points": 37,
-        "team": "McCann / Vanier"
+        "vehicle": "Aston Martin Vantage GT3"
       }
     ],
     "mx5": [
@@ -721,24 +801,25 @@
         "pos": 1,
         "name": "Winward Racing",
         "points": 40.5,
-        "team": "Mercedes-AMG GT3"
+        "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 2,
         "name": "Comtoyou Racing",
         "points": 36.5,
-        "team": "Aston Martin Vantage GT3"
+        "vehicle": "Aston Martin Vantage GT3"
       },
       {
         "pos": 3,
         "name": "Team WRT",
-        "points": 32
+        "points": 32,
+        "vehicle": "BMW M4 GT3"
       },
       {
         "pos": 4,
         "name": "Garage 59",
         "points": 29.5,
-        "team": "McLaren 720S GT3"
+        "vehicle": "McLaren 720S GT3"
       },
       {
         "pos": 5,
@@ -753,7 +834,8 @@
       {
         "pos": 7,
         "name": "AF Corse",
-        "points": 16.5
+        "points": 16.5,
+        "vehicle": "Ferrari 296 GT3"
       },
       {
         "pos": 8,
@@ -838,61 +920,71 @@
         "pos": 1,
         "name": "Jake Bollman",
         "points": 225,
-        "team": "Nitro Motorsports"
+        "team": "#20 Nitro Motorsports",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 2,
         "name": "Ryan Vargas",
         "points": 213,
-        "team": "Maples Motorsports"
+        "team": "#91 Maples Motorsports",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 3,
         "name": "Andy Jankowiak",
         "points": 211,
-        "team": "KLAS Motorsports"
+        "team": "#71 KLAS Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 4,
         "name": "Thomas Annunziata",
         "points": 203,
-        "team": "Nitro Motorsports"
+        "team": "#70 Nitro Motorsports",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 5,
         "name": "Jason Kitzmiller",
         "points": 185,
-        "team": "CR7 Motorsports"
+        "team": "#97 CR7 Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 6,
         "name": "Isabella Robusto",
         "points": 182,
-        "team": "Pinnacle Racing Group"
+        "team": "#55 Pinnacle Racing Group",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 7,
         "name": "Takuma Koga",
         "points": 182,
-        "team": "Fast Track Racing"
+        "team": "#12 Fast Track Racing",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 8,
         "name": "Michael Maples",
         "points": 177,
-        "team": "Maples Motorsports"
+        "team": "#99 Maples Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 9,
         "name": "Bobby Dale Earnhardt",
         "points": 152,
-        "team": "CR7 Motorsports"
+        "team": "#89 CR7 Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 10,
         "name": "Alex Clubb",
         "points": 142,
-        "team": "Fast Track Racing"
+        "team": "#03 Fast Track Racing",
+        "vehicle": "Ford Mustang"
       }
     ],
     "arcaeast": [
@@ -900,61 +992,71 @@
         "pos": 1,
         "name": "Tristan McKee",
         "points": 137,
-        "team": "Pinnacle Racing Group"
+        "team": "#77 Pinnacle Racing Group",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 2,
         "name": "Max Reaves",
         "points": 130,
-        "team": "Joe Gibbs Racing"
+        "team": "#18 Joe Gibbs Racing",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 3,
         "name": "Isaac Kitzmiller",
         "points": 121,
-        "team": "ACR Motorsports"
+        "team": "#79 ACR Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 4,
         "name": "Jackson McLerran",
         "points": 110,
-        "team": "MAN Motorsports"
+        "team": "#95 MAN Motorsports",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 5,
         "name": "Craig Pellegrini Jr.",
         "points": 107,
-        "team": "Fast Track Racing"
+        "team": "#10 Fast Track Racing",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 6,
         "name": "Austin Vaughn",
         "points": 94,
-        "team": "Maples Motorsports"
+        "team": "#19 Maples Motorsports",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 7,
         "name": "Nate Moeller",
         "points": 90,
-        "team": "Wayne Peterson Motorsports"
+        "team": "#06 Wayne Peterson Motorsports",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 8,
         "name": "Landon S. Huffman",
         "points": 81,
-        "team": "CR7 Motorsports"
+        "team": "#9 CR7 Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 9,
         "name": "Toby Blanton",
         "points": 80,
-        "team": "Jet Daddy Racing"
+        "team": "#00 Jet Daddy Racing",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 10,
         "name": "Quinn Davis",
         "points": 79,
-        "team": "City Garage Motorsports"
+        "team": "#85 City Garage Motorsports",
+        "vehicle": "Ford Mustang"
       }
     ],
     "arcawest": [
@@ -962,61 +1064,71 @@
         "pos": 1,
         "name": "Trevor Huddleston",
         "points": 172,
-        "team": "High Point Racing"
+        "team": "#50 High Point Racing",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 2,
         "name": "Mason Massey",
         "points": 160,
-        "team": "Bill McAnally Racing"
+        "team": "#19 Bill McAnally Racing",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 3,
         "name": "Hailie Deegan",
         "points": 145,
-        "team": "Bill McAnally Racing"
+        "team": "#16 Bill McAnally Racing",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 4,
         "name": "Eric Johnson Jr.",
         "points": 143,
-        "team": "Jerry Pitts Racing"
+        "team": "#5 Jerry Pitts Racing",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 5,
         "name": "Cole Denton",
         "points": 139,
-        "team": "Jan's Towing Racing"
+        "team": "#71 Jan's Towing Racing",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 6,
         "name": "Robbie Kennealy",
         "points": 138,
-        "team": "Jan's Towing Racing"
+        "team": "#1 Jan's Towing Racing",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 7,
         "name": "Andrew Chapman",
         "points": 130,
-        "team": "High Point Racing"
+        "team": "#55 High Point Racing",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 8,
         "name": "Gavin Ray",
         "points": 120,
-        "team": "Jerry Pitts Racing"
+        "team": "#7 Jerry Pitts Racing",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 9,
         "name": "Mia Lovell",
         "points": 117,
-        "team": "Nitro Motorsports"
+        "team": "#15 Nitro Motorsports",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 10,
         "name": "David Smith",
         "points": 106,
-        "team": "Shockwave Motorsports"
+        "team": "#05 Shockwave Motorsports",
+        "vehicle": "Toyota Camry"
       }
     ],
     "highlimit": [
@@ -1242,61 +1354,61 @@
         "pos": 1,
         "name": "Engel / Grenier / Martin",
         "points": 25,
-        "team": "Mercedes-AMG"
+        "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 2,
         "name": "Boccolacci / Fjordbach / Li",
         "points": 18,
-        "team": "Porsche"
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 3,
         "name": "Marciello / Farfus / Rossi",
         "points": 15,
-        "team": "BMW"
+        "vehicle": "BMW M4 GT3"
       },
       {
         "pos": 4,
         "name": "Hesse / Oosten / Ruan",
         "points": 12,
-        "team": "BMW"
+        "vehicle": "BMW M4 GT3"
       },
       {
         "pos": 5,
         "name": "Picariello / Buus / Campbell",
         "points": 10,
-        "team": "Porsche"
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 6,
         "name": "Stolz / Habul / Gounon",
         "points": 8,
-        "team": "Mercedes-AMG"
+        "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 7,
         "name": "Heinrich / Bachler / Feller",
         "points": 6,
-        "team": "Porsche"
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 8,
         "name": "Serra / Evans / Rigon",
         "points": 4,
-        "team": "Ferrari"
+        "vehicle": "Ferrari 296 GT3"
       },
       {
         "pos": 9,
         "name": "Hui / Froggatt / Wood / Patrese",
         "points": 2,
-        "team": "Ferrari"
+        "vehicle": "Ferrari 296 GT3"
       },
       {
         "pos": 10,
         "name": "Renauer / Renauer / Bohn",
         "points": 1,
-        "team": "Porsche"
+        "vehicle": "Porsche 911 GT3 R"
       }
     ],
     "wrc": [
@@ -1304,61 +1416,71 @@
         "pos": 1,
         "name": "Elfyn Evans",
         "points": 101,
-        "team": "Toyota"
+        "team": "#33 Toyota",
+        "vehicle": "Toyota GR Yaris Rally1"
       },
       {
         "pos": 2,
         "name": "Takamoto Katsuta",
         "points": 99,
-        "team": "Toyota"
+        "team": "#18 Toyota",
+        "vehicle": "Toyota GR Yaris Rally1"
       },
       {
         "pos": 3,
         "name": "Sami Pajari",
         "points": 72,
-        "team": "Toyota"
+        "team": "#5 Toyota",
+        "vehicle": "Toyota GR Yaris Rally1"
       },
       {
         "pos": 4,
         "name": "Oliver Solberg",
         "points": 68,
-        "team": "Toyota"
+        "team": "#99 Toyota",
+        "vehicle": "Toyota GR Yaris Rally1"
       },
       {
         "pos": 5,
         "name": "Adrien Fourmaux",
         "points": 59,
-        "team": "Hyundai"
+        "team": "#16 Hyundai",
+        "vehicle": "Hyundai i20 N Rally1"
       },
       {
         "pos": 6,
         "name": "Sébastien Ogier",
         "points": 58,
-        "team": "Toyota"
+        "team": "#1 Toyota",
+        "vehicle": "Toyota GR Yaris Rally1"
       },
       {
         "pos": 7,
         "name": "Thierry Neuville",
         "points": 35,
-        "team": "Hyundai"
+        "team": "#11 Hyundai",
+        "vehicle": "Hyundai i20 N Rally1"
       },
       {
         "pos": 8,
         "name": "Esapekka Lappi",
         "points": 21,
-        "team": "Hyundai"
+        "team": "#4 Hyundai",
+        "vehicle": "Hyundai i20 N Rally1"
       },
       {
         "pos": 9,
         "name": "Yohan Rossel",
         "points": 20,
-        "team": "Lancia"
+        "team": "Lancia",
+        "vehicle": "Lancia Ypsilon Rally2"
       },
       {
         "pos": 10,
         "name": "Léo Rossel",
         "points": 18,
-        "team": "Citroën"
+        "team": "Citroën",
+        "vehicle": "Citroën C3 Rally2"
       }
     ],
     "enascar": [
@@ -1608,61 +1730,71 @@
         "pos": 1,
         "name": "Ashley Sutton",
         "points": 129,
-        "team": "NAPA Racing UK (Ford)"
+        "team": "#116 NAPA Racing UK",
+        "vehicle": "Ford Focus Titanium Saloon"
       },
       {
         "pos": 2,
         "name": "Tom Ingram",
         "points": 82,
-        "team": "Team VERTU (Hyundai)"
+        "team": "#80 Team VERTU",
+        "vehicle": "Hyundai i30 Fastback N Performance"
       },
       {
         "pos": 3,
         "name": "Mikey Doble",
         "points": 77,
-        "team": "LKQ Power Maxed (Audi)"
+        "team": "#88 LKQ Power Maxed",
+        "vehicle": "Audi S3 Saloon"
       },
       {
         "pos": 4,
         "name": "Ricky Collard",
         "points": 67,
-        "team": "Team VERTU (Hyundai)"
+        "team": "#28 Team VERTU",
+        "vehicle": "Hyundai i30 Fastback N Performance"
       },
       {
         "pos": 5,
         "name": "Dan Cammish",
         "points": 61,
-        "team": "NAPA Racing UK (Ford)"
+        "team": "#27 NAPA Racing UK",
+        "vehicle": "Ford Focus Titanium Saloon"
       },
       {
         "pos": 6,
         "name": "Aiden Moffat",
         "points": 57,
-        "team": "LKQ Power Maxed (Audi)"
+        "team": "#16 LKQ Power Maxed",
+        "vehicle": "Audi S3 Saloon"
       },
       {
         "pos": 7,
         "name": "Árón Taylor-Smith",
         "points": 55,
-        "team": "Laser Tools / MB (Toyota)"
+        "team": "#50 Laser Tools / MB",
+        "vehicle": "Toyota Corolla GR Sport"
       },
       {
         "pos": 8,
         "name": "Charles Rainford",
         "points": 54,
-        "team": "WSR (BMW)"
+        "team": "#99 WSR",
+        "vehicle": "BMW 330i M Sport LCI"
       },
       {
         "pos": 9,
         "name": "Daryl De Leon",
         "points": 51,
-        "team": "WSR (BMW)"
+        "team": "#2 WSR",
+        "vehicle": "BMW 330i M Sport LCI"
       },
       {
         "pos": 10,
         "name": "Gordon Shedden",
         "points": 48,
-        "team": "Laser Tools / MB (Toyota)"
+        "team": "#52 Laser Tools / MB",
+        "vehicle": "Toyota Corolla GR Sport"
       }
     ],
     "moto2": [
@@ -1670,61 +1802,71 @@
         "pos": 1,
         "name": "Manuel González",
         "points": 79.5,
-        "team": "Liqui Moly Dynavolt Intact GP (Kalex)"
+        "team": "#18 Liqui Moly Dynavolt Intact GP",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 2,
         "name": "Izan Guevara",
         "points": 70,
-        "team": "Blu Cru Pramac Yamaha (Boscoscuro)"
+        "team": "#28 Blu Cru Pramac Yamaha",
+        "vehicle": "Boscoscuro Moto2"
       },
       {
         "pos": 3,
         "name": "Senna Agius",
         "points": 59,
-        "team": "Liqui Moly Dynavolt Intact GP (Kalex)"
+        "team": "#81 Liqui Moly Dynavolt Intact GP",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 4,
         "name": "Celestino Vietti",
         "points": 53,
-        "team": "SpeedRS Team (Boscoscuro)"
+        "team": "#13 SpeedRS Team",
+        "vehicle": "Boscoscuro Moto2"
       },
       {
         "pos": 5,
         "name": "David Alonso",
         "points": 48,
-        "team": "CFMoto Aspar Team (Kalex)"
+        "team": "#80 CFMoto Aspar Team",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 6,
         "name": "Iván Ortolá",
         "points": 39.5,
-        "team": "QJMotor – MSi (Kalex)"
+        "team": "#4 QJMotor – MSi",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 7,
         "name": "Daniel Holgado",
         "points": 38,
-        "team": "CFMoto Aspar Team (Kalex)"
+        "team": "#96 CFMoto Aspar Team",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 8,
         "name": "Daniel Muñoz",
         "points": 36,
-        "team": "Italtrans Racing Team (Kalex)"
+        "team": "#17 Italtrans Racing Team",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 9,
         "name": "Alonso López",
         "points": 31.5,
-        "team": "Italjet Gresini Moto2 (Kalex)"
+        "team": "#21 Italjet Gresini Moto2",
+        "vehicle": "Kalex Moto2"
       },
       {
         "pos": 10,
         "name": "Álex Escrig",
         "points": 30,
-        "team": "Klint Racing Team (Forward)"
+        "team": "#11 Klint Racing Team",
+        "vehicle": "Forward Moto2"
       }
     ],
     "moto3": [
@@ -1732,61 +1874,71 @@
         "pos": 1,
         "name": "Máximo Quiles",
         "points": 115,
-        "team": "CFMoto Aspar Team (KTM)"
+        "team": "#28 CFMoto Aspar Team",
+        "vehicle": "KTM RC250GP"
       },
       {
         "pos": 2,
         "name": "Adrián Fernández",
         "points": 69,
-        "team": "Leopard Racing (Honda)"
+        "team": "#31 Leopard Racing",
+        "vehicle": "Honda NSF250RW"
       },
       {
         "pos": 3,
         "name": "Álvaro Carpe",
         "points": 53,
-        "team": "Red Bull KTM Ajo (KTM)"
+        "team": "#83 Red Bull KTM Ajo",
+        "vehicle": "KTM RC250GP"
       },
       {
         "pos": 4,
         "name": "Valentín Perrone",
         "points": 52,
-        "team": "Red Bull KTM Tech3 (KTM)"
+        "team": "#73 Red Bull KTM Tech3",
+        "vehicle": "KTM RC250GP"
       },
       {
         "pos": 5,
         "name": "Veda Pratama",
         "points": 50,
-        "team": "Honda Team Asia (Honda)"
+        "team": "#9 Honda Team Asia",
+        "vehicle": "Honda NSF250RW"
       },
       {
         "pos": 6,
         "name": "Marco Morelli",
         "points": 48,
-        "team": "CFMoto Aspar Team (KTM)"
+        "team": "#97 CFMoto Aspar Team",
+        "vehicle": "KTM RC250GP"
       },
       {
         "pos": 7,
         "name": "Guido Pini",
         "points": 46,
-        "team": "Leopard Racing (Honda)"
+        "team": "#94 Leopard Racing",
+        "vehicle": "Honda NSF250RW"
       },
       {
         "pos": 8,
         "name": "David Almansa",
         "points": 41,
-        "team": "Liqui Moly Dynavolt Intact GP (KTM)"
+        "team": "#22 Liqui Moly Dynavolt Intact GP",
+        "vehicle": "KTM RC250GP"
       },
       {
         "pos": 9,
         "name": "Brian Uriarte",
         "points": 29,
-        "team": "Red Bull KTM Ajo (KTM)"
+        "team": "#51 Red Bull KTM Ajo",
+        "vehicle": "KTM RC250GP"
       },
       {
         "pos": 10,
         "name": "Joel Esteban",
         "points": 24,
-        "team": "LevelUp – MTA (KTM)"
+        "team": "#78 LevelUp – MTA",
+        "vehicle": "KTM RC250GP"
       }
     ],
     "supercars": [
@@ -1794,61 +1946,71 @@
         "pos": 1,
         "name": "Broc Feeney",
         "points": 925,
-        "team": "Triple Eight Race Engineering"
+        "team": "#88 Triple Eight Race Engineering",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 2,
         "name": "Brodie Kostecki",
         "points": 902,
-        "team": "Dick Johnson Racing"
+        "team": "#17 Dick Johnson Racing",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 3,
         "name": "Matt Payne",
         "points": 879,
-        "team": "Grove Racing"
+        "team": "#19 Grove Racing",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 4,
         "name": "Cameron Waters",
         "points": 787,
-        "team": "Tickford Racing"
+        "team": "#6 Tickford Racing",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 5,
         "name": "Kai Allen",
         "points": 728,
-        "team": "Grove Racing"
+        "team": "#26 Grove Racing",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 6,
         "name": "Ryan Wood",
         "points": 726,
-        "team": "Walkinshaw TWG Racing"
+        "team": "#2 Walkinshaw TWG Racing",
+        "vehicle": "Toyota GR Supra"
       },
       {
         "pos": 7,
         "name": "Anton de Pasquale",
         "points": 689,
-        "team": "Team 18"
+        "team": "#18 Team 18",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 8,
         "name": "James Golding",
         "points": 679,
-        "team": "Blanchard Racing Team"
+        "team": "#7 Blanchard Racing Team",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 9,
         "name": "Will Brown",
         "points": 632,
-        "team": "Triple Eight Race Engineering"
+        "team": "#888 Triple Eight Race Engineering",
+        "vehicle": "Ford Mustang GT"
       },
       {
         "pos": 10,
         "name": "Jack Le Brocq",
         "points": 618,
-        "team": "Matt Stone Racing"
+        "team": "#4 Matt Stone Racing",
+        "vehicle": "Chevrolet Camaro ZL1"
       }
     ],
     "mustang": [
@@ -2032,61 +2194,71 @@
         "pos": 1,
         "name": "MacDonald / Meakin",
         "points": 25,
-        "team": "Greystone GT"
+        "team": "#33 Greystone GT",
+        "vehicle": "McLaren 720S GT3 Evo"
       },
       {
         "pos": 2,
         "name": "Götz / Mansell",
         "points": 24,
-        "team": "Team Motopark"
+        "team": "#71 Team Motopark",
+        "vehicle": "Mercedes-AMG GT3 Evo"
       },
       {
         "pos": 3,
         "name": "Armanni / Fontana",
         "points": 23,
-        "team": "ZRS Motorsport"
+        "team": "#911 ZRS Motorsport",
+        "vehicle": "Porsche 911 GT3 R (992.2)"
       },
       {
         "pos": 4,
         "name": "Emson / Lebbon",
         "points": 18,
-        "team": "Elite Motorsport"
+        "team": "#17 Elite Motorsport",
+        "vehicle": "Ferrari 296 GT3 Evo"
       },
       {
         "pos": 5,
         "name": "Neubauer / Veselaho",
         "points": 8,
-        "team": "AF Corse"
+        "team": "#96 AF Corse",
+        "vehicle": "Ferrari 296 GT3 Evo"
       },
       {
         "pos": 6,
         "name": "Baumann / Ramírez",
         "points": 6,
-        "team": "Team Motopark"
+        "team": "#28 Team Motopark",
+        "vehicle": "Mercedes-AMG GT3 Evo"
       },
       {
         "pos": 7,
         "name": "Durán / Mosca",
         "points": 6,
-        "team": "AF Corse"
+        "team": "#51 AF Corse",
+        "vehicle": "Ferrari 296 GT3 Evo"
       },
       {
         "pos": 8,
         "name": "Bateman / Chaves",
         "points": 6,
-        "team": "Blackthorn"
+        "team": "#97 Blackthorn",
+        "vehicle": "Aston Martin Vantage AMR GT3 Evo"
       },
       {
         "pos": 9,
         "name": "Fach Jr. / Schwarzer",
         "points": 5,
-        "team": "Fach Auto Tech"
+        "team": "#11 Fach Auto Tech",
+        "vehicle": "Porsche 911 GT3 R (992.2)"
       },
       {
         "pos": 10,
         "name": "Blanchemain / Pla",
         "points": 5,
-        "team": "Saintéloc Racing"
+        "team": "#26 Saintéloc Racing",
+        "vehicle": "Audi R8 LMS Evo II"
       }
     ],
     "efo": [
@@ -2156,61 +2328,71 @@
         "pos": 1,
         "name": "Förderer / Fuchs",
         "points": 37,
-        "team": "SR Motorsport by Schnitzelalm"
+        "team": "#111 SR Motorsport by Schnitzelalm",
+        "vehicle": "Mercedes-AMG GT4"
       },
       {
         "pos": 2,
         "name": "Ibañez / Papadopulos",
         "points": 31,
-        "team": "NM Racing Team"
+        "team": "#15 NM Racing Team",
+        "vehicle": "Mercedes-AMG GT4"
       },
       {
         "pos": 3,
         "name": "Garcia / Seyler",
         "points": 26,
-        "team": "Racing Spirit of Léman"
+        "team": "#74 Racing Spirit of Léman",
+        "vehicle": "Aston Martin Vantage AMR GT4 Evo"
       },
       {
         "pos": 4,
         "name": "Cartelle / Schwartz",
         "points": 25,
-        "team": "CRT-Sport"
+        "team": "#87 CRT-Sport",
+        "vehicle": "Toyota GR Supra GT4 Evo2"
       },
       {
         "pos": 5,
         "name": "Evennett / Houben",
         "points": 18,
-        "team": "Speedy Motorsport"
+        "team": "#4 Speedy Motorsport",
+        "vehicle": "Toyota GR Supra GT4 Evo2"
       },
       {
         "pos": 6,
         "name": "Evans / Vanspringel",
         "points": 18,
-        "team": "Academy Motorsport"
+        "team": "#61 Academy Motorsport",
+        "vehicle": "Ford Mustang GT4"
       },
       {
         "pos": 7,
         "name": "Guilvert / Petit",
         "points": 18,
-        "team": "Team Speedcar"
+        "team": "#8 Team Speedcar",
+        "vehicle": "Audi R8 LMS GT4 Evo"
       },
       {
         "pos": 8,
         "name": "Piana / Rackl",
         "points": 11,
-        "team": "Borusan Otomotiv Motorsport"
+        "team": "#12 Borusan Otomotiv Motorsport",
+        "vehicle": "BMW M4 GT4 Evo (G82)"
       },
       {
         "pos": 9,
         "name": "Reynolds / Stevenheydens",
         "points": 6,
-        "team": "Elite Motorsport"
+        "team": "#77 Elite Motorsport",
+        "vehicle": "McLaren Artura GT4"
       },
       {
         "pos": 10,
         "name": "Cresswell / Hart",
         "points": 4,
-        "team": "Elite Motorsport"
+        "team": "#78 Elite Motorsport",
+        "vehicle": "McLaren Artura GT4"
       }
     ],
     "tcreu": [
@@ -2218,60 +2400,80 @@
         "pos": 1,
         "name": "Alex Ley",
         "points": 65,
-        "flag": "🇬🇧"
+        "flag": "🇬🇧",
+        "team": "#12 Hyundai N Liqui Moly",
+        "vehicle": "Hyundai Elantra N TCR"
       },
       {
         "pos": 2,
         "name": "Park June-sung",
         "points": 47,
-        "flag": "🇰🇷"
+        "flag": "🇰🇷",
+        "team": "#97 Hyundai N Liqui Moly",
+        "vehicle": "Hyundai Elantra N TCR"
       },
       {
         "pos": 3,
         "name": "Mike Halder",
         "points": 44,
-        "flag": "🇩🇪"
+        "flag": "🇩🇪",
+        "team": "#27 Halder Motorsport",
+        "vehicle": "Honda Civic Type R TCR (FL5)"
       },
       {
         "pos": 4,
         "name": "Nicolas Taylor",
         "points": 42,
-        "flag": "🇨🇦"
+        "flag": "🇨🇦",
+        "team": "#8 Comtoyou Racing",
+        "vehicle": "Audi RS 3 LMS TCR"
       },
       {
         "pos": 5,
         "name": "Nicola Baldan",
         "points": 35,
-        "flag": "🇮🇹"
+        "flag": "🇮🇹",
+        "team": "Comtoyou Racing",
+        "vehicle": "Audi RS 3 LMS TCR"
       },
       {
         "pos": 6,
         "name": "Gabriele Covini",
         "points": 30,
-        "flag": "🇮🇹"
+        "flag": "🇮🇹",
+        "team": "Hyundai N Liqui Moly",
+        "vehicle": "Hyundai Elantra N TCR"
       },
       {
         "pos": 7,
         "name": "Mikhail Simonov",
-        "points": 24
+        "points": 24,
+        "team": "#9 PCR Sport",
+        "vehicle": "Cupra León VZ TCR"
       },
       {
         "pos": 8,
         "name": "Marco Butti",
         "points": 22,
-        "flag": "🇮🇹"
+        "flag": "🇮🇹",
+        "team": "#111 PCR Sport",
+        "vehicle": "Cupra León VZ TCR"
       },
       {
         "pos": 9,
         "name": "Max Hart",
         "points": 20,
-        "flag": "🇮🇪"
+        "flag": "🇮🇪",
+        "team": "#69 Halder Motorsport",
+        "vehicle": "Honda Civic Type R TCR (FL5)"
       },
       {
         "pos": 10,
         "name": "Viktor Andersson",
         "points": 20,
-        "flag": "🇸🇪"
+        "flag": "🇸🇪",
+        "team": "PCR Sport",
+        "vehicle": "Cupra León VZ TCR"
       }
     ],
     "gtwasia": [
@@ -3968,61 +4170,61 @@
             "pos": 1,
             "name": "Ken Roczen",
             "points": 349,
-            "team": "Suzuki"
+            "vehicle": "Suzuki RM-Z450"
           },
           {
             "pos": 2,
             "name": "Hunter Lawrence",
             "points": 346,
-            "team": "Honda"
+            "vehicle": "Honda CRF450R"
           },
           {
             "pos": 3,
             "name": "Cooper Webb",
             "points": 315,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ450F"
           },
           {
             "pos": 4,
             "name": "Eli Tomac",
             "points": 275,
-            "team": "KTM"
+            "vehicle": "KTM 450 SX-F"
           },
           {
             "pos": 5,
             "name": "Justin Cooper",
             "points": 273,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ450F"
           },
           {
             "pos": 6,
             "name": "Chase Sexton",
             "points": 237,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX450"
           },
           {
             "pos": 7,
             "name": "Malcolm Stewart",
             "points": 203,
-            "team": "Husqvarna"
+            "vehicle": "Husqvarna FC 450"
           },
           {
             "pos": 8,
             "name": "Joey Savatgy",
             "points": 194,
-            "team": "Honda"
+            "vehicle": "Honda CRF450R"
           },
           {
             "pos": 9,
             "name": "Jorge Prado",
             "points": 189,
-            "team": "KTM"
+            "vehicle": "KTM 450 SX-F"
           },
           {
             "pos": 10,
             "name": "Justin Hill",
             "points": 188,
-            "team": "KTM"
+            "vehicle": "KTM 450 SX-F"
           }
         ]
       },
@@ -4033,61 +4235,61 @@
             "pos": 1,
             "name": "Cole Davies",
             "points": 231,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 2,
             "name": "Seth Hammaker",
             "points": 180,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           },
           {
             "pos": 3,
             "name": "Daxton Bennick",
             "points": 160,
-            "team": "Husqvarna"
+            "vehicle": "Husqvarna FC 250"
           },
           {
             "pos": 4,
             "name": "Coty Schock",
             "points": 140,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 5,
             "name": "Nate Thrasher",
             "points": 137,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 6,
             "name": "Devin Simonson",
             "points": 124,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 7,
             "name": "Henry Miller",
             "points": 104,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           },
           {
             "pos": 8,
             "name": "Jo Shimoda",
             "points": 100,
-            "team": "Honda"
+            "vehicle": "Honda CRF250R"
           },
           {
             "pos": 9,
             "name": "Derek Kelley",
             "points": 94,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           },
           {
             "pos": 10,
             "name": "Nick Romano",
             "points": 72,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           }
         ]
       },
@@ -4098,61 +4300,61 @@
             "pos": 1,
             "name": "Haiden Deegan",
             "points": 233,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 2,
             "name": "Levi Kitchen",
             "points": 177,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           },
           {
             "pos": 3,
             "name": "Max Anstie",
             "points": 168,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 4,
             "name": "Ryder DiFrancesco",
             "points": 164,
-            "team": "Husqvarna"
+            "vehicle": "Husqvarna FC 250"
           },
           {
             "pos": 5,
             "name": "Max Vohland",
             "points": 146,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 6,
             "name": "Hunter Yoder",
             "points": 121,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 7,
             "name": "Cameron McAdoo",
             "points": 107,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           },
           {
             "pos": 8,
             "name": "Michael Mosiman",
             "points": 107,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 9,
             "name": "Parker Ross",
             "points": 90,
-            "team": "Yamaha"
+            "vehicle": "Yamaha YZ250F"
           },
           {
             "pos": 10,
             "name": "Lux Turner",
             "points": 86,
-            "team": "Kawasaki"
+            "vehicle": "Kawasaki KX250"
           }
         ]
       }
