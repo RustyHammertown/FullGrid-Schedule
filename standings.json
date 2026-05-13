@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T20:36:05.105Z",
+  "generatedAt": "2026-05-13T20:40:33.334Z",
   "flat": {
     "f1": [
       {
@@ -5965,32 +5965,37 @@
         "entries": [
           {
             "pos": 1,
-            "name": "#34 JMF Motorsports",
+            "name": "Mikaël Grenier / Michai Stephens",
             "points": 60,
+            "team": "#34 JMF Motorsports",
             "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
             "pos": 2,
-            "name": "#29 Turner Motorsport",
+            "name": "Robby Foley / Justin Rothberg",
             "points": 55,
+            "team": "#29 Turner Motorsport",
             "vehicle": "BMW M4 GT3 Evo"
           },
           {
             "pos": 3,
-            "name": "#12 AF Corse USA",
+            "name": "Matías Pérez Companc / Frederik Schandorff",
             "points": 45,
+            "team": "#12 AF Corse USA",
             "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 4,
-            "name": "#6 Dollahite Racing",
+            "name": "Cameron Lawrence / Alex Sedgwick",
             "points": 43,
+            "team": "#6 Dollahite Racing",
             "vehicle": "Ford Mustang GT3 Evo"
           },
           {
             "pos": 5,
-            "name": "#8 McCann Racing",
+            "name": "Michael McCann Jr. / Zachary Vanier",
             "points": 37,
+            "team": "#8 McCann Racing",
             "vehicle": "Porsche 911 GT3 R (992.2)"
           }
         ]
@@ -6000,32 +6005,72 @@
         "entries": [
           {
             "pos": 1,
-            "name": "#32 GMG Racing",
-            "points": 60,
+            "name": "Tom Sargent / Kyle Washington",
+            "points": 62,
+            "team": "#32 GMG Racing",
             "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 2,
-            "name": "#31 Wright Motorsports",
-            "points": 50,
+            "name": "Dave Musial Jr. / Ryan Yardley",
+            "points": 55,
+            "team": "#31 Wright Motorsports",
             "vehicle": "Porsche 911 GT3 R (992)"
           },
           {
             "pos": 3,
-            "name": "#28 RS1",
-            "points": 45,
+            "name": "Jan Heylen / Juan Martinez",
+            "points": 48,
+            "team": "#28 RS1",
             "vehicle": "Porsche 911 GT3 R (992)"
           },
           {
             "pos": 4,
-            "name": "#017 Kellymoss",
-            "points": 40,
+            "name": "Therese Lahlouh / Thomas Merrill",
+            "points": 32,
+            "team": "#242 Wright Motorsports",
             "vehicle": "Porsche 911 GT3 R (992)"
           },
           {
             "pos": 5,
-            "name": "#27 JMF Motorsports",
-            "points": 35,
+            "name": "Riccardo Agostini / Sebastian Mascaro",
+            "points": 18,
+            "team": "#18 Triarsi Competizione",
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 6,
+            "name": "Jason Daskalos / Lorcan Hanafin",
+            "points": 17,
+            "team": "#27 JMF Motorsports",
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          },
+          {
+            "pos": 7,
+            "name": "Andy Lee / Slade Stewart",
+            "points": 16,
+            "team": "#14 Riley Technologies",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "Colin Braun / Michael Clark",
+            "points": 14,
+            "team": "#17 Kellymoss",
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 9,
+            "name": "Riley Dickinson / Todd Parriott",
+            "points": 12,
+            "team": "#13 Kellymoss",
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 10,
+            "name": "Brayton Williams",
+            "points": 9,
+            "team": "#9 TR3 Racing",
             "vehicle": "Mercedes-AMG GT3 Evo"
           }
         ]
@@ -6035,14 +6080,16 @@
         "entries": [
           {
             "pos": 1,
-            "name": "#163 AF Corse USA",
-            "points": 50,
+            "name": "Oswaldo Negri Jr. / Jay Schreibman",
+            "points": 75,
+            "team": "#163 AF Corse USA",
             "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 2,
-            "name": "#11 MAD Joker by Lone Star Racing",
-            "points": 40,
+            "name": "Marc Austin / Jason Golan",
+            "points": 18,
+            "team": "#11 MAD Joker by Lone Star Racing",
             "vehicle": "Mercedes-AMG GT3 Evo"
           }
         ]
@@ -6051,7 +6098,6 @@
   },
   "labels": {
     "gtwce": "Team Standings",
-    "gtwca": "Team Standings",
     "elms": "Team Standings"
   },
   "teamFlat": {
@@ -6843,6 +6889,125 @@
             "name": "#83 RCX Motorsport",
             "points": 50,
             "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          }
+        ]
+      }
+    ],
+    "gtwca": [
+      {
+        "className": "Pro",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#34 JMF Motorsports",
+            "points": 60,
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          },
+          {
+            "pos": 2,
+            "name": "#29 Turner Motorsport",
+            "points": 55,
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "#12 AF Corse USA",
+            "points": 45,
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "#6 Dollahite Racing",
+            "points": 43,
+            "vehicle": "Ford Mustang GT3 Evo"
+          },
+          {
+            "pos": 5,
+            "name": "#8 McCann Racing",
+            "points": 37,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
+          }
+        ]
+      },
+      {
+        "className": "Pro-Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#32 GMG Racing",
+            "points": 65,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
+          },
+          {
+            "pos": 2,
+            "name": "#31/#242 Wright Motorsports",
+            "points": 55,
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 3,
+            "name": "#28 RS1",
+            "points": 51,
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 4,
+            "name": "#17/#13 Kellymoss",
+            "points": 24,
+            "vehicle": "Porsche 911 GT3 R (992)"
+          },
+          {
+            "pos": 5,
+            "name": "#27 JMF Motorsports",
+            "points": 21,
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          },
+          {
+            "pos": 6,
+            "name": "#18 Triarsi Competizione",
+            "points": 20,
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 7,
+            "name": "#14 Riley Technologies",
+            "points": 19,
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "#99 Random Vandals Racing",
+            "points": 17,
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 9,
+            "name": "#9 TR3 Racing",
+            "points": 14,
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          },
+          {
+            "pos": 10,
+            "name": "#64 Chicago Performance and Tuning Co",
+            "points": 8,
+            "vehicle": "Lamborghini Huracán GT3 Evo 2"
+          }
+        ]
+      },
+      {
+        "className": "Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#163 AF Corse USA",
+            "points": 75,
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
+            "pos": 2,
+            "name": "#11 MAD Joker by Lone Star Racing",
+            "points": 18,
+            "vehicle": "Mercedes-AMG GT3 Evo"
           }
         ]
       }
