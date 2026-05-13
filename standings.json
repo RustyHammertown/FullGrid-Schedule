@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T01:23:20.053Z",
+  "generatedAt": "2026-05-13T01:28:03.353Z",
   "flat": {
     "f1": [
       {
@@ -1421,6 +1421,68 @@
         "name": "Antron Brown",
         "points": 218,
         "team": "Top Fuel"
+      }
+    ],
+    "enascar": [
+      {
+        "pos": 1,
+        "name": "Steven Wilson",
+        "points": 3040,
+        "team": "Spire Motorsports"
+      },
+      {
+        "pos": 2,
+        "name": "Casey Kirwan",
+        "points": 3031,
+        "team": "Kansas City Pioneers"
+      },
+      {
+        "pos": 3,
+        "name": "Vicente Salas",
+        "points": 3029,
+        "team": "Kanaan eSports"
+      },
+      {
+        "pos": 4,
+        "name": "Zack Novak",
+        "points": 3025,
+        "team": "Channel 199 Sim Racing"
+      },
+      {
+        "pos": 5,
+        "name": "Parker White",
+        "points": 2120,
+        "team": "Atlassian Williams Sim Racing"
+      },
+      {
+        "pos": 6,
+        "name": "Tucker Minter",
+        "points": 2110,
+        "team": "William Byron eSports"
+      },
+      {
+        "pos": 7,
+        "name": "Bobby Zalenski",
+        "points": 2102,
+        "team": "ERA eSports"
+      },
+      {
+        "pos": 8,
+        "name": "Jordy Lopez",
+        "points": 2083,
+        "team": "BS+Competition"
+      },
+      {
+        "pos": 9,
+        "name": "Dylan Duval",
+        "points": 2074,
+        "team": "Channel 199 Sim Racing"
+      },
+      {
+        "pos": 10,
+        "name": "Kollin Keister",
+        "points": 2049,
+        "team": "Jim Beaver Esports"
       }
     ],
     "indynxt": [
@@ -4437,7 +4499,60 @@
     "gtwca": "Team Standings",
     "elms": "Team Standings"
   },
-  "teamFlat": {},
+  "teamFlat": {
+    "enascar": [
+      {
+        "pos": 1,
+        "name": "Spire Motorsports",
+        "points": 929
+      },
+      {
+        "pos": 2,
+        "name": "Channel 199 Sim Racing",
+        "points": 889
+      },
+      {
+        "pos": 3,
+        "name": "Atlassian Williams Sim Racing",
+        "points": 841
+      },
+      {
+        "pos": 4,
+        "name": "Kansas City Pioneers",
+        "points": 782
+      },
+      {
+        "pos": 5,
+        "name": "ERA eSports",
+        "points": 769
+      },
+      {
+        "pos": 6,
+        "name": "William Byron eSports",
+        "points": 729
+      },
+      {
+        "pos": 7,
+        "name": "BS+Competition",
+        "points": 692
+      },
+      {
+        "pos": 8,
+        "name": "fgrAccel",
+        "points": 684
+      },
+      {
+        "pos": 9,
+        "name": "Vegas Inferno",
+        "points": 658
+      },
+      {
+        "pos": 10,
+        "name": "Hyak Motorsports",
+        "points": 641
+      }
+    ]
+  },
   "teamClasses": {
     "gtamerica": [
       {
