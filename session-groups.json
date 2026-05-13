@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T23:35:19.405Z",
+  "generatedAt": "2026-05-13T23:51:41.576Z",
   "groups": {
     "f1": [
       {
@@ -630,7 +630,11 @@
         "label": "Practice",
         "sessions": [
           "Practice",
-          "Practice (TBD)"
+          "Practice 1",
+          "Practice 2",
+          "Practice (TBD)",
+          "Practice 1 (TBD)",
+          "Practice 2 (TBD)"
         ]
       },
       {
@@ -727,11 +731,13 @@
           "Practice",
           "Practice 1",
           "Practice 2",
+          "Practice 3",
           "Free Practice 1",
           "Free Practice 2",
           "Practice (TBD)",
           "Practice 1 (TBD)",
-          "Practice 2 (TBD)"
+          "Practice 2 (TBD)",
+          "Practice 3 (TBD)"
         ]
       },
       {
@@ -844,8 +850,10 @@
         "sessions": [
           "Practice 1",
           "Practice 2",
+          "Practice 3",
           "Practice 1 (TBD)",
-          "Practice 2 (TBD)"
+          "Practice 2 (TBD)",
+          "Practice 3 (TBD)"
         ]
       },
       {
@@ -958,8 +966,10 @@
       {
         "label": "Practice",
         "sessions": [
+          "Practice",
           "Practice 1",
           "Practice 2",
+          "Practice (TBD)",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)"
         ]
