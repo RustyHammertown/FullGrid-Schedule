@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T20:40:33.334Z",
+  "generatedAt": "2026-05-13T20:48:03.462Z",
   "flat": {
     "f1": [
       {
@@ -1259,62 +1259,52 @@
       {
         "pos": 1,
         "name": "Nick Hoffman",
-        "points": 2779,
-        "team": "#9"
+        "points": 2779
       },
       {
         "pos": 2,
         "name": "Bobby Pierce",
-        "points": 2776,
-        "team": "#32"
+        "points": 2776
       },
       {
         "pos": 3,
         "name": "Tim McCreadie",
-        "points": 2584,
-        "team": "#39"
+        "points": 2584
       },
       {
         "pos": 4,
         "name": "Tyler Erb",
-        "points": 2584,
-        "team": "#1"
+        "points": 2584
       },
       {
         "pos": 5,
         "name": "Ryan Gustin",
-        "points": 2573,
-        "team": "#19R"
+        "points": 2573
       },
       {
         "pos": 6,
         "name": "Drake Troutman",
-        "points": 2563,
-        "team": ""
+        "points": 2563
       },
       {
         "pos": 7,
         "name": "Ethan Dotson",
-        "points": 2535,
-        "team": ""
+        "points": 2535
       },
       {
         "pos": 8,
         "name": "Daulton Wilson",
-        "points": 2528,
-        "team": ""
+        "points": 2528
       },
       {
         "pos": 9,
         "name": "Dustin Sorensen",
-        "points": 2453,
-        "team": ""
+        "points": 2453
       },
       {
         "pos": 10,
         "name": "Dennis Erb Jr.",
-        "points": 2409,
-        "team": ""
+        "points": 2409
       }
     ],
     "igtc": [
