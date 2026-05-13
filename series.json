@@ -1,9 +1,25 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-13T01:53:11.473Z",
+  "generatedAt": "2026-05-13T22:08:07.849Z",
   "series": {
     "f1": {
       "id": "f1",
+      "tags": [
+        "open-wheel",
+        "f1-car",
+        "world-championship",
+        "global",
+        "ferrari",
+        "mercedes-amg",
+        "red-bull",
+        "mclaren",
+        "aston-martin",
+        "audi",
+        "alpine",
+        "williams",
+        "haas",
+        "cadillac"
+      ],
       "group": "openwheel",
       "region": "europe",
       "label": "Formula 1",
@@ -22,6 +38,12 @@
     },
     "motogp": {
       "id": "motogp",
+      "tags": [
+        "motorcycle",
+        "gp-motorcycle",
+        "world-championship",
+        "global"
+      ],
       "group": "bikes",
       "region": "europe",
       "label": "MotoGP",
@@ -43,6 +65,12 @@
     },
     "moto2": {
       "id": "moto2",
+      "tags": [
+        "motorcycle",
+        "moto2",
+        "feeder-series",
+        "global"
+      ],
       "group": "bikes",
       "region": "europe",
       "label": "Moto2",
@@ -58,6 +86,12 @@
     },
     "moto3": {
       "id": "moto3",
+      "tags": [
+        "motorcycle",
+        "moto3",
+        "feeder-series",
+        "global"
+      ],
       "group": "bikes",
       "region": "europe",
       "label": "Moto3",
@@ -73,6 +107,13 @@
     },
     "supercross": {
       "id": "supercross",
+      "tags": [
+        "motorcycle",
+        "450cc",
+        "250cc",
+        "national-series",
+        "north-america"
+      ],
       "group": "bikes",
       "region": "americas",
       "label": "Monster Energy Supercross",
@@ -88,6 +129,13 @@
     },
     "promotocross": {
       "id": "promotocross",
+      "tags": [
+        "motorcycle",
+        "450cc",
+        "250cc",
+        "national-series",
+        "north-america"
+      ],
       "group": "bikes",
       "region": "americas",
       "label": "AMA Pro Motocross",
@@ -103,6 +151,13 @@
     },
     "smx": {
       "id": "smx",
+      "tags": [
+        "motorcycle",
+        "450cc",
+        "250cc",
+        "national-series",
+        "north-america"
+      ],
       "group": "bikes",
       "region": "americas",
       "label": "SMX Playoffs",
@@ -118,6 +173,12 @@
     },
     "xtrial": {
       "id": "xtrial",
+      "tags": [
+        "motorcycle",
+        "trials",
+        "world-championship",
+        "global"
+      ],
       "group": "bikes",
       "region": "europe",
       "label": "FIM X-Trial World Championship",
@@ -134,6 +195,12 @@
     },
     "indynxt": {
       "id": "indynxt",
+      "tags": [
+        "open-wheel",
+        "indy-nxt-chassis",
+        "feeder-series",
+        "north-america"
+      ],
       "group": "openwheel",
       "region": "americas",
       "label": "Indy NXT",
@@ -149,6 +216,14 @@
     },
     "indycar": {
       "id": "indycar",
+      "tags": [
+        "open-wheel",
+        "indycar-chassis",
+        "national-series",
+        "north-america",
+        "chevrolet",
+        "honda"
+      ],
       "group": "openwheel",
       "region": "americas",
       "label": "IndyCar",
@@ -167,6 +242,15 @@
     },
     "nascar": {
       "id": "nascar",
+      "tags": [
+        "stock-car",
+        "next-gen",
+        "national-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "NASCAR Cup Series",
@@ -185,6 +269,14 @@
     },
     "oreilly": {
       "id": "oreilly",
+      "tags": [
+        "stock-car",
+        "national-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "O'Reilly Auto Parts Series",
@@ -203,6 +295,14 @@
     },
     "truck": {
       "id": "truck",
+      "tags": [
+        "stock-car",
+        "national-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "Craftsman Truck Series",
@@ -221,6 +321,14 @@
     },
     "arca": {
       "id": "arca",
+      "tags": [
+        "stock-car",
+        "feeder-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "ARCA Menards Series",
@@ -239,6 +347,14 @@
     },
     "arcaeast": {
       "id": "arcaeast",
+      "tags": [
+        "stock-car",
+        "regional-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "ARCA Menards East",
@@ -255,6 +371,14 @@
     },
     "arcawest": {
       "id": "arcawest",
+      "tags": [
+        "stock-car",
+        "regional-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "ARCA Menards West",
@@ -271,6 +395,14 @@
     },
     "nascarcanada": {
       "id": "nascarcanada",
+      "tags": [
+        "stock-car",
+        "national-series",
+        "north-america",
+        "chevrolet",
+        "ford",
+        "toyota"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "NASCAR Canada Series",
@@ -289,6 +421,12 @@
     },
     "whelen": {
       "id": "whelen",
+      "tags": [
+        "stock-car",
+        "modified-stock-car",
+        "regional-series",
+        "north-america"
+      ],
       "group": "nascar",
       "region": "americas",
       "label": "NASCAR Whelen Modified Tour",
@@ -307,6 +445,14 @@
     },
     "wrc": {
       "id": "wrc",
+      "tags": [
+        "rally",
+        "world-championship",
+        "global",
+        "toyota",
+        "hyundai",
+        "ford"
+      ],
       "group": "rally",
       "region": "europe",
       "label": "WRC",
@@ -322,6 +468,23 @@
     },
     "imsa": {
       "id": "imsa",
+      "tags": [
+        "sports-car",
+        "prototype",
+        "gt3",
+        "national-series",
+        "north-america",
+        "porsche",
+        "bmw",
+        "cadillac",
+        "acura",
+        "ferrari",
+        "aston-martin",
+        "lamborghini",
+        "mercedes-amg",
+        "lexus",
+        "ford"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "IMSA WeatherTech SCC",
@@ -338,6 +501,24 @@
     },
     "pilot": {
       "id": "pilot",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "tcr",
+        "support-series",
+        "north-america",
+        "bmw",
+        "ford",
+        "porsche",
+        "aston-martin",
+        "toyota",
+        "mercedes-amg",
+        "mclaren",
+        "hyundai",
+        "honda",
+        "audi",
+        "cupra"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "IMSA Pilot Challenge",
@@ -358,6 +539,15 @@
     },
     "vpscc": {
       "id": "vpscc",
+      "tags": [
+        "sports-car",
+        "prototype",
+        "gt3",
+        "gt4",
+        "support-series",
+        "feeder-series",
+        "north-america"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "VP SportsCar Challenge",
@@ -378,6 +568,13 @@
     },
     "trofeo": {
       "id": "trofeo",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "lamborghini"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Lamborghini Super Trofeo NA",
@@ -398,6 +595,13 @@
     },
     "trofeoeu": {
       "id": "trofeoeu",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "lamborghini"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Lamborghini Super Trofeo Europe",
@@ -418,6 +622,13 @@
     },
     "trofeoasia": {
       "id": "trofeoasia",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "asia-pacific",
+        "lamborghini"
+      ],
       "group": "sportscar",
       "region": "asiapacific",
       "label": "Lamborghini Super Trofeo Asia",
@@ -438,6 +649,13 @@
     },
     "mx5": {
       "id": "mx5",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "mazda"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Mazda MX-5 Cup",
@@ -458,6 +676,13 @@
     },
     "supercup": {
       "id": "supercup",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "support-series",
+        "global",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Porsche Mobil 1 Supercup",
@@ -473,6 +698,13 @@
     },
     "pscna": {
       "id": "pscna",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Porsche Sprint Challenge NA",
@@ -493,6 +725,13 @@
     },
     "pscw": {
       "id": "pscw",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Porsche Sprint Challenge USA West",
@@ -513,6 +752,13 @@
     },
     "pec": {
       "id": "pec",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Porsche Endurance Challenge",
@@ -533,6 +779,13 @@
     },
     "carrera": {
       "id": "carrera",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Porsche Carrera Cup NA",
@@ -553,6 +806,13 @@
     },
     "mustang": {
       "id": "mustang",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "ford"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Mustang Challenge NA",
@@ -573,6 +833,13 @@
     },
     "mustangcup": {
       "id": "mustangcup",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "ford"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Mustang Cup USA",
@@ -593,6 +860,13 @@
     },
     "mustangcupau": {
       "id": "mustangcupau",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "australia",
+        "ford"
+      ],
       "group": "sportscar",
       "region": "asiapacific",
       "label": "Mustang Cup Australia",
@@ -613,6 +887,20 @@
     },
     "gtwca": {
       "id": "gtwca",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "north-america",
+        "porsche",
+        "ferrari",
+        "bmw",
+        "mercedes-amg",
+        "aston-martin",
+        "lamborghini",
+        "mclaren",
+        "audi"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "GT World Challenge America",
@@ -633,6 +921,19 @@
     },
     "gtwau": {
       "id": "gtwau",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "australia",
+        "porsche",
+        "ferrari",
+        "mercedes-amg",
+        "lamborghini",
+        "bmw",
+        "audi",
+        "aston-martin"
+      ],
       "group": "sportscar",
       "region": "asiapacific",
       "label": "GT World Challenge Australia",
@@ -652,6 +953,12 @@
     },
     "f2": {
       "id": "f2",
+      "tags": [
+        "open-wheel",
+        "f2-car",
+        "feeder-series",
+        "global"
+      ],
       "group": "openwheel",
       "region": "europe",
       "label": "Formula 2",
@@ -673,6 +980,12 @@
     },
     "f3": {
       "id": "f3",
+      "tags": [
+        "open-wheel",
+        "f3-car",
+        "feeder-series",
+        "global"
+      ],
       "group": "openwheel",
       "region": "europe",
       "label": "Formula 3",
@@ -694,6 +1007,18 @@
     },
     "fe": {
       "id": "fe",
+      "tags": [
+        "open-wheel",
+        "formula-e-chassis",
+        "world-championship",
+        "global",
+        "porsche",
+        "nissan",
+        "jaguar",
+        "mclaren",
+        "maserati",
+        "ds"
+      ],
       "group": "openwheel",
       "region": "europe",
       "label": "Formula E",
@@ -710,6 +1035,23 @@
     },
     "wec": {
       "id": "wec",
+      "tags": [
+        "sports-car",
+        "prototype",
+        "gt3",
+        "world-championship",
+        "global",
+        "ferrari",
+        "porsche",
+        "toyota",
+        "cadillac",
+        "bmw",
+        "peugeot",
+        "alpine",
+        "aston-martin",
+        "lamborghini",
+        "mclaren"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "FIA World Endurance Championship",
@@ -726,6 +1068,12 @@
     },
     "highlimit": {
       "id": "highlimit",
+      "tags": [
+        "dirt",
+        "410-sprint-car",
+        "national-series",
+        "north-america"
+      ],
       "group": "dirt",
       "region": "americas",
       "label": "High Limit Sprint Car Series",
@@ -742,6 +1090,12 @@
     },
     "woosc": {
       "id": "woosc",
+      "tags": [
+        "dirt",
+        "410-sprint-car",
+        "national-series",
+        "north-america"
+      ],
       "group": "dirt",
       "region": "americas",
       "label": "World of Outlaws Sprint Car Series",
@@ -758,6 +1112,12 @@
     },
     "woolm": {
       "id": "woolm",
+      "tags": [
+        "dirt",
+        "super-late-model",
+        "national-series",
+        "north-america"
+      ],
       "group": "dirt",
       "region": "americas",
       "label": "World of Outlaws Late Model Series",
@@ -774,6 +1134,12 @@
     },
     "floracing": {
       "id": "floracing",
+      "tags": [
+        "dirt",
+        "super-late-model",
+        "national-series",
+        "north-america"
+      ],
       "group": "dirt",
       "region": "americas",
       "label": "FloRacing Night in America",
@@ -791,6 +1157,12 @@
     },
     "enascar": {
       "id": "enascar",
+      "tags": [
+        "esports",
+        "stock-car",
+        "national-series",
+        "north-america"
+      ],
       "group": "esports",
       "label": "eNASCAR iRacing Series",
       "short": "eNASCAR",
@@ -809,6 +1181,15 @@
     },
     "nhra": {
       "id": "nhra",
+      "tags": [
+        "drag",
+        "top-fuel",
+        "funny-car",
+        "pro-stock",
+        "pro-stock-motorcycle",
+        "national-series",
+        "north-america"
+      ],
       "group": "drag",
       "region": "americas",
       "label": "NHRA",
@@ -824,6 +1205,20 @@
     },
     "igtc": {
       "id": "igtc",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "world-championship",
+        "global",
+        "porsche",
+        "ferrari",
+        "mercedes-amg",
+        "bmw",
+        "lamborghini",
+        "audi",
+        "aston-martin",
+        "mclaren"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Intercontinental GT Challenge",
@@ -840,6 +1235,21 @@
     },
     "gtwce": {
       "id": "gtwce",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "europe",
+        "porsche",
+        "ferrari",
+        "bmw",
+        "mercedes-amg",
+        "lamborghini",
+        "aston-martin",
+        "mclaren",
+        "audi",
+        "ford"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "GT World Challenge Europe",
@@ -859,6 +1269,21 @@
     },
     "gtwasia": {
       "id": "gtwasia",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "asia-pacific",
+        "porsche",
+        "ferrari",
+        "mercedes-amg",
+        "lamborghini",
+        "bmw",
+        "audi",
+        "honda",
+        "aston-martin",
+        "mclaren"
+      ],
       "group": "sportscar",
       "region": "asiapacific",
       "label": "GT World Challenge Asia",
@@ -878,6 +1303,11 @@
     },
     "japancup": {
       "id": "japancup",
+      "tags": [
+        "sports-car",
+        "regional-series",
+        "asia-pacific"
+      ],
       "group": "sportscar",
       "region": "asiapacific",
       "label": "Japan Cup",
@@ -896,6 +1326,12 @@
     },
     "ffsagt": {
       "id": "ffsagt",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "regional-series",
+        "europe"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "FFSA GT4 France",
@@ -915,6 +1351,19 @@
     },
     "gt4america": {
       "id": "gt4america",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "regional-series",
+        "north-america",
+        "bmw",
+        "porsche",
+        "ford",
+        "mclaren",
+        "mercedes-amg",
+        "aston-martin",
+        "toyota"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Pirelli GT4 America",
@@ -934,6 +1383,12 @@
     },
     "gt4australia": {
       "id": "gt4australia",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "regional-series",
+        "australia"
+      ],
       "group": "sportscar",
       "region": "asiapacific",
       "label": "GT4 Australia",
@@ -953,6 +1408,16 @@
     },
     "tcamerica": {
       "id": "tcamerica",
+      "tags": [
+        "touring-car",
+        "tcr",
+        "regional-series",
+        "north-america",
+        "audi",
+        "hyundai",
+        "honda",
+        "cupra"
+      ],
       "group": "touring",
       "region": "americas",
       "label": "TC America",
@@ -972,6 +1437,11 @@
     },
     "ffsatourisme": {
       "id": "ffsatourisme",
+      "tags": [
+        "touring-car",
+        "regional-series",
+        "europe"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "FFSA Tourisme",
@@ -991,6 +1461,20 @@
     },
     "gtamerica": {
       "id": "gtamerica",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "gt4",
+        "regional-series",
+        "north-america",
+        "porsche",
+        "bmw",
+        "mercedes-amg",
+        "aston-martin",
+        "ford",
+        "toyota",
+        "mclaren"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "GT America",
@@ -1010,6 +1494,13 @@
     },
     "grcup": {
       "id": "grcup",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "toyota"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "Toyota GR Cup NA",
@@ -1029,6 +1520,12 @@
     },
     "gt3revival": {
       "id": "gt3revival",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "europe"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "GT3 Revival",
@@ -1048,6 +1545,12 @@
     },
     "gt4european": {
       "id": "gt4european",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "regional-series",
+        "europe"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "GT4 European Series",
@@ -1067,6 +1570,13 @@
     },
     "mclarena": {
       "id": "mclarena",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "north-america",
+        "mclaren"
+      ],
       "group": "sportscar",
       "region": "americas",
       "label": "McLaren Trophy America",
@@ -1086,6 +1596,13 @@
     },
     "mclarene": {
       "id": "mclarene",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "mclaren"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "McLaren Trophy Europe",
@@ -1105,6 +1622,21 @@
     },
     "elms": {
       "id": "elms",
+      "tags": [
+        "sports-car",
+        "prototype",
+        "gt3",
+        "regional-series",
+        "europe",
+        "porsche",
+        "ferrari",
+        "bmw",
+        "aston-martin",
+        "mclaren",
+        "lamborghini",
+        "mercedes-amg",
+        "ford"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "European Le Mans Series",
@@ -1121,6 +1653,14 @@
     },
     "supercars": {
       "id": "supercars",
+      "tags": [
+        "touring-car",
+        "national-series",
+        "australia",
+        "ford",
+        "chevrolet",
+        "toyota"
+      ],
       "group": "touring",
       "region": "asiapacific",
       "label": "Supercars Championship",
@@ -1137,6 +1677,17 @@
     },
     "btcc": {
       "id": "btcc",
+      "tags": [
+        "touring-car",
+        "national-series",
+        "europe",
+        "bmw",
+        "ford",
+        "hyundai",
+        "toyota",
+        "honda",
+        "cupra"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "British Touring Car Championship",
@@ -1155,6 +1706,12 @@
     },
     "f4british": {
       "id": "f4british",
+      "tags": [
+        "open-wheel",
+        "f4-car",
+        "feeder-series",
+        "europe"
+      ],
       "group": "openwheel",
       "region": "europe",
       "label": "F4 British Championship",
@@ -1171,6 +1728,12 @@
     },
     "f4us": {
       "id": "f4us",
+      "tags": [
+        "open-wheel",
+        "f4-car",
+        "feeder-series",
+        "north-america"
+      ],
       "group": "openwheel",
       "region": "americas",
       "label": "F4 U.S. Championship",
@@ -1192,6 +1755,13 @@
     },
     "pccgb": {
       "id": "pccgb",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Porsche Carrera Cup GB",
@@ -1208,6 +1778,13 @@
     },
     "pscgb": {
       "id": "pscgb",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Porsche Sprint Challenge GB",
@@ -1224,6 +1801,13 @@
     },
     "minichallenge": {
       "id": "minichallenge",
+      "tags": [
+        "touring-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "mini"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "MINI CHALLENGE",
@@ -1240,6 +1824,13 @@
     },
     "minitrophy": {
       "id": "minitrophy",
+      "tags": [
+        "touring-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "mini"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "MINI CHALLENGE Trophy",
@@ -1256,6 +1847,13 @@
     },
     "caterhamuk": {
       "id": "caterhamuk",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "caterham"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Caterham Seven Championship UK",
@@ -1272,6 +1870,13 @@
     },
     "caterham310r": {
       "id": "caterham310r",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "caterham"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Caterham Seven 310R",
@@ -1288,6 +1893,13 @@
     },
     "minise7en": {
       "id": "minise7en",
+      "tags": [
+        "touring-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "mini"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "Mini Se7en Challenge",
@@ -1304,6 +1916,13 @@
     },
     "minimiglia": {
       "id": "minimiglia",
+      "tags": [
+        "touring-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "mini"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "Mini Miglia Challenge",
@@ -1320,6 +1939,11 @@
     },
     "legendselite": {
       "id": "legendselite",
+      "tags": [
+        "stock-car",
+        "regional-series",
+        "europe"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "Legends Cars Elite Cup",
@@ -1336,6 +1960,11 @@
     },
     "scotlegends": {
       "id": "scotlegends",
+      "tags": [
+        "stock-car",
+        "regional-series",
+        "europe"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "Scottish Legends Championship",
@@ -1352,6 +1981,11 @@
     },
     "ctcrc": {
       "id": "ctcrc",
+      "tags": [
+        "touring-car",
+        "regional-series",
+        "europe"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "CTCRC Group 1 Touring Cars",
@@ -1368,6 +2002,16 @@
     },
     "tcreu": {
       "id": "tcreu",
+      "tags": [
+        "touring-car",
+        "tcr",
+        "regional-series",
+        "europe",
+        "audi",
+        "hyundai",
+        "honda",
+        "cupra"
+      ],
       "group": "touring",
       "region": "europe",
       "label": "TCR Europe",
@@ -1384,6 +2028,12 @@
     },
     "igtopen": {
       "id": "igtopen",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "europe"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "International GT Open",
@@ -1400,6 +2050,12 @@
     },
     "efo": {
       "id": "efo",
+      "tags": [
+        "open-wheel",
+        "f3-car",
+        "feeder-series",
+        "europe"
+      ],
       "group": "openwheel",
       "region": "europe",
       "label": "Euroformula Open",
@@ -1416,6 +2072,11 @@
     },
     "gtcupeu": {
       "id": "gtcupeu",
+      "tags": [
+        "sports-car",
+        "regional-series",
+        "europe"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "GT Cup Europe",
@@ -1432,6 +2093,13 @@
     },
     "pccd": {
       "id": "pccd",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche"
+      ],
       "group": "sportscar",
       "region": "europe",
       "label": "Porsche Carrera Cup DE",
