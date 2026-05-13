@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T21:03:26.663Z",
+  "generatedAt": "2026-05-13T21:17:02.721Z",
   "flat": {
     "f1": [
       {
@@ -1228,61 +1228,61 @@
         "pos": 1,
         "name": "Brandon Sheppard",
         "points": 87,
-        "team": "#1 Super Late Model"
+        "team": "New Berlin, IL"
       },
       {
         "pos": 2,
         "name": "Hudson O'Neal",
         "points": 81,
-        "team": "#71 Super Late Model"
+        "team": "Martinsville, IN"
       },
       {
         "pos": 3,
         "name": "Bobby Pierce",
         "points": 78,
-        "team": "#32 Super Late Model"
+        "team": "Oakwood, IL"
       },
       {
         "pos": 4,
         "name": "Tyler Erb",
         "points": 75,
-        "team": "#1T Super Late Model"
+        "team": "New Waverly, TX"
       },
       {
         "pos": 5,
         "name": "Devin Moran",
         "points": 72,
-        "team": "#99 Super Late Model"
+        "team": "Dresden, OH"
       },
       {
         "pos": 6,
         "name": "Nick Hoffman",
         "points": 69,
-        "team": "#9 Super Late Model"
+        "team": "Mooresville, NC"
       },
       {
         "pos": 7,
         "name": "Brandon Overton",
         "points": 66,
-        "team": "#76 Super Late Model"
+        "team": "Evans, GA"
       },
       {
         "pos": 8,
         "name": "Tanner English",
         "points": 63,
-        "team": "#96 Super Late Model"
+        "team": "Benton, KY"
       },
       {
         "pos": 9,
         "name": "Shannon Babb",
         "points": 60,
-        "team": "#18 Super Late Model"
+        "team": "Moweaqua, IL"
       },
       {
         "pos": 10,
         "name": "Kyle Bronson",
         "points": 57,
-        "team": "#40B Super Late Model"
+        "team": "Brandon, FL"
       }
     ],
     "woolm": [
