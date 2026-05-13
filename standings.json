@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T20:59:30.763Z",
+  "generatedAt": "2026-05-13T21:03:26.663Z",
   "flat": {
     "f1": [
       {
@@ -1104,61 +1104,61 @@
         "pos": 1,
         "name": "Aaron Reutzel",
         "points": 829,
-        "team": "#87"
+        "team": "Clute, TX"
       },
       {
         "pos": 2,
         "name": "Tanner Thorson",
         "points": 820,
-        "team": "#88"
+        "team": "Broken Arrow, OK"
       },
       {
         "pos": 3,
         "name": "Rico Abreu",
         "points": 801,
-        "team": "#24"
+        "team": "St. Helena, CA"
       },
       {
         "pos": 4,
         "name": "Giovanni Scelzi",
         "points": 787,
-        "team": "#77"
+        "team": "Fresno, CA"
       },
       {
         "pos": 5,
         "name": "Kerry Madsen",
         "points": 724,
-        "team": "#55"
+        "team": "Knoxville, IA"
       },
       {
         "pos": 6,
         "name": "Tyler Courtney",
         "points": 702,
-        "team": "#7BC"
+        "team": "Indianapolis, IN"
       },
       {
         "pos": 7,
         "name": "Justin Peck",
         "points": 701,
-        "team": "#26"
+        "team": "Monrovia, IN"
       },
       {
         "pos": 8,
         "name": "Daison Pursley",
         "points": 628,
-        "team": "#9"
+        "team": "Locust Grove, OK"
       },
       {
         "pos": 9,
         "name": "Brent Marks",
         "points": 615,
-        "team": "#19"
+        "team": "Myerstown, PA"
       },
       {
         "pos": 10,
         "name": "Hank Davis",
         "points": 607,
-        "team": "#17GP"
+        "team": "Sand Springs, OK"
       }
     ],
     "woosc": [
