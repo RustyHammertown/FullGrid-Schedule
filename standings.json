@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T02:01:34.977Z",
+  "generatedAt": "2026-05-13T02:21:14.930Z",
   "flat": {
     "f1": [
       {
@@ -4678,6 +4678,108 @@
         ]
       }
     ],
+    "tcamerica": [
+      {
+        "className": "TC",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Braydon Arthur",
+            "points": 93,
+            "team": "JMF Motorsports"
+          },
+          {
+            "pos": 2,
+            "name": "Andre Castro",
+            "points": 73,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 3,
+            "name": "Dean Lambros",
+            "points": 59,
+            "team": "Skip Barber Racing School"
+          },
+          {
+            "pos": 4,
+            "name": "Justin Gravett",
+            "points": 47,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 5,
+            "name": "Eric Kunz",
+            "points": 40,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 6,
+            "name": "Mike Lamarra",
+            "points": 30,
+            "team": "Precision Racing LA"
+          },
+          {
+            "pos": 7,
+            "name": "Logan Anderson",
+            "points": 21,
+            "team": "Skip Barber Racing School"
+          },
+          {
+            "pos": 8,
+            "name": "Matan Rosenberg",
+            "points": 16,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 9,
+            "name": "Shelby Mills",
+            "points": 14,
+            "team": "Fawn Group MS by Ricca Autosport"
+          },
+          {
+            "pos": 10,
+            "name": "CJ Sepulveda",
+            "points": 6,
+            "team": "Ricca Autosport"
+          }
+        ]
+      },
+      {
+        "className": "Hyundai Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Andre Castro",
+            "points": 50,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 2,
+            "name": "Justin Gravett",
+            "points": 36,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 3,
+            "name": "Eric Kunz",
+            "points": 30,
+            "team": "Ricca Autosport"
+          },
+          {
+            "pos": 4,
+            "name": "Shelby Mills",
+            "points": 22,
+            "team": "Fawn Group MS by Ricca Autosport"
+          },
+          {
+            "pos": 5,
+            "name": "PJ Groenke",
+            "points": 16,
+            "team": "Ricca Autosport"
+          }
+        ]
+      }
+    ],
     "grcup": [
       {
         "className": "AM",
@@ -5178,6 +5280,38 @@
     "elms": "Team Standings"
   },
   "teamFlat": {
+    "tcamerica": [
+      {
+        "pos": 1,
+        "name": "JMF Motorsports",
+        "points": 93
+      },
+      {
+        "pos": 2,
+        "name": "Ricca Autosport",
+        "points": 73
+      },
+      {
+        "pos": 3,
+        "name": "Skip Barber Racing School",
+        "points": 66
+      },
+      {
+        "pos": 4,
+        "name": "Precision Racing LA",
+        "points": 48
+      },
+      {
+        "pos": 5,
+        "name": "Fawn Group MS by Ricca Autosport",
+        "points": 40
+      },
+      {
+        "pos": 6,
+        "name": "DRS",
+        "points": 32
+      }
+    ],
     "gtcupeu": [
       {
         "pos": 1,
