@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-13T22:08:07.849Z",
+  "generatedAt": "2026-05-13T22:27:16.817Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -8,17 +8,7 @@
         "open-wheel",
         "f1-car",
         "world-championship",
-        "global",
-        "ferrari",
-        "mercedes-amg",
-        "red-bull",
-        "mclaren",
-        "aston-martin",
-        "audi",
-        "alpine",
-        "williams",
-        "haas",
-        "cadillac"
+        "global"
       ],
       "group": "openwheel",
       "region": "europe",
