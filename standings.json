@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T02:55:24.569Z",
+  "generatedAt": "2026-05-13T03:49:30.496Z",
   "flat": {
     "f1": [
       {
@@ -6058,6 +6058,141 @@
             "pos": 2,
             "name": "RCX Motorsport",
             "points": 50
+          }
+        ]
+      }
+    ]
+  },
+  "manufacturerFlat": {},
+  "manufacturerClasses": {
+    "imsa": [
+      {
+        "className": "GTP",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Porsche",
+            "points": 1464
+          },
+          {
+            "pos": 2,
+            "name": "Cadillac",
+            "points": 1412
+          },
+          {
+            "pos": 3,
+            "name": "Acura",
+            "points": 1344
+          },
+          {
+            "pos": 4,
+            "name": "BMW",
+            "points": 1278
+          },
+          {
+            "pos": 5,
+            "name": "Aston Martin",
+            "points": 1146
+          }
+        ]
+      },
+      {
+        "className": "GTD Pro",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Chevrolet",
+            "points": 1027
+          },
+          {
+            "pos": 2,
+            "name": "Porsche",
+            "points": 1011
+          },
+          {
+            "pos": 3,
+            "name": "BMW",
+            "points": 966
+          },
+          {
+            "pos": 4,
+            "name": "Ford",
+            "points": 960
+          },
+          {
+            "pos": 5,
+            "name": "Lamborghini",
+            "points": 833
+          },
+          {
+            "pos": 6,
+            "name": "McLaren",
+            "points": 794
+          },
+          {
+            "pos": 7,
+            "name": "Lexus",
+            "points": 774
+          },
+          {
+            "pos": 8,
+            "name": "Mercedes-AMG",
+            "points": 570
+          },
+          {
+            "pos": 9,
+            "name": "Ferrari",
+            "points": 553
+          }
+        ]
+      },
+      {
+        "className": "GTD",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Ferrari",
+            "points": 1343
+          },
+          {
+            "pos": 2,
+            "name": "Aston Martin",
+            "points": 1340
+          },
+          {
+            "pos": 3,
+            "name": "Mercedes-AMG",
+            "points": 1250
+          },
+          {
+            "pos": 4,
+            "name": "Lexus",
+            "points": 1180
+          },
+          {
+            "pos": 5,
+            "name": "BMW",
+            "points": 1170
+          },
+          {
+            "pos": 6,
+            "name": "Lamborghini",
+            "points": 1161
+          },
+          {
+            "pos": 7,
+            "name": "Porsche",
+            "points": 1136
+          },
+          {
+            "pos": 8,
+            "name": "Chevrolet",
+            "points": 1136
+          },
+          {
+            "pos": 9,
+            "name": "Ford",
+            "points": 1037
           }
         ]
       }
