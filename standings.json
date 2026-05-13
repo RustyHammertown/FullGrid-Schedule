@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T20:18:19.502Z",
+  "generatedAt": "2026-05-13T20:31:20.932Z",
   "flat": {
     "f1": [
       {
@@ -1668,61 +1668,61 @@
         "pos": 1,
         "name": "Toni Bou",
         "points": 175,
-        "team": "Montesa"
+        "vehicle": "Montesa Cota 4RT"
       },
       {
         "pos": 2,
         "name": "Gabriel Marcelli",
         "points": 123,
-        "team": "Montesa"
+        "vehicle": "Montesa Cota 4RT"
       },
       {
         "pos": 3,
         "name": "Jaime Busto",
         "points": 107,
-        "team": "Beta"
+        "vehicle": "Beta EVO Factory"
       },
       {
         "pos": 4,
         "name": "Harry Hemingway",
         "points": 73,
-        "team": "Beta"
+        "vehicle": "Beta EVO Factory"
       },
       {
         "pos": 5,
         "name": "Matteo Grattarola",
         "points": 47,
-        "team": "Beta"
+        "vehicle": "Beta EVO Factory"
       },
       {
         "pos": 6,
         "name": "Arnau Farré",
         "points": 21,
-        "team": "Sherco"
+        "vehicle": "Sherco ST Factory"
       },
       {
         "pos": 7,
         "name": "Jack Peace",
         "points": 19,
-        "team": "Sherco"
+        "vehicle": "Sherco ST Factory"
       },
       {
         "pos": 8,
         "name": "Francesco Titli",
         "points": 18,
-        "team": "Montesa"
+        "vehicle": "Montesa Cota 4RT"
       },
       {
         "pos": 9,
         "name": "Hugo Dufrese",
         "points": 11,
-        "team": "Beta"
+        "vehicle": "Beta EVO Factory"
       },
       {
         "pos": 10,
         "name": "Benoît Bincaz",
         "points": 11,
-        "team": "EMotion"
+        "vehicle": "EMotion Verti GP-S"
       }
     ],
     "btcc": [
@@ -6002,12 +6002,14 @@
       {
         "pos": 1,
         "name": "JMF Motorsports",
-        "points": 93
+        "points": 93,
+        "vehicle": "Toyota GR Corolla TC"
       },
       {
         "pos": 2,
         "name": "Ricca Autosport",
-        "points": 73
+        "points": 73,
+        "vehicle": "Hyundai Elantra N1 TC Evo"
       },
       {
         "pos": 3,
@@ -6022,7 +6024,8 @@
       {
         "pos": 5,
         "name": "Fawn Group MS by Ricca Autosport",
-        "points": 40
+        "points": 40,
+        "vehicle": "Hyundai Elantra N1 TC Evo"
       },
       {
         "pos": 6,
