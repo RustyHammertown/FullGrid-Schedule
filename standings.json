@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T01:46:09.154Z",
+  "generatedAt": "2026-05-13T01:53:10.757Z",
   "flat": {
     "f1": [
       {
@@ -4612,6 +4612,125 @@
         ]
       }
     ],
+    "grcup": [
+      {
+        "className": "AM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Spike Kohlbecker",
+            "points": 136,
+            "team": "TechSport Racing"
+          },
+          {
+            "pos": 2,
+            "name": "Jeremy Fletcher",
+            "points": 83,
+            "team": "Copeland Motorsports"
+          },
+          {
+            "pos": 3,
+            "name": "Max Schweid",
+            "points": 75,
+            "team": "RVA Graphics Motorsports by Speed Syndicate"
+          },
+          {
+            "pos": 4,
+            "name": "Will Robusto",
+            "points": 73,
+            "team": "RVA Graphics Motorsports by Speed Syndicate"
+          },
+          {
+            "pos": 5,
+            "name": "Ethan Goulart",
+            "points": 40,
+            "team": "BSI Racing"
+          },
+          {
+            "pos": 6,
+            "name": "Parker DeLong",
+            "points": 34,
+            "team": "TechSport Racing"
+          },
+          {
+            "pos": 7,
+            "name": "Garrett Manes",
+            "points": 30,
+            "team": "RVA Graphics Motorsports by Speed Syndicate"
+          },
+          {
+            "pos": 8,
+            "name": "Ethan Ayars",
+            "points": 29,
+            "team": "BSI Racing"
+          },
+          {
+            "pos": 9,
+            "name": "Jenson Sofronas",
+            "points": 28,
+            "team": "Copeland Motorsports"
+          },
+          {
+            "pos": 10,
+            "name": "Niko Colby",
+            "points": 16,
+            "team": "Copeland Motorsports"
+          }
+        ]
+      },
+      {
+        "className": "Legends",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Patrick Brunson",
+            "points": 130,
+            "team": "Eagles Canyon w/ Fast Track"
+          },
+          {
+            "pos": 2,
+            "name": "Alcyr Araujo",
+            "points": 94,
+            "team": "BSI Racing"
+          },
+          {
+            "pos": 3,
+            "name": "Livio Galanti",
+            "points": 43,
+            "team": "Dream Machine @ Eagles Canyon"
+          },
+          {
+            "pos": 4,
+            "name": "Andrew Gilleland",
+            "points": 36,
+            "team": "Dream Machine @ Eagles Canyon"
+          },
+          {
+            "pos": 5,
+            "name": "Tom Rudnai",
+            "points": 30,
+            "team": "Dream Machine @ Eagles Canyon"
+          },
+          {
+            "pos": 6,
+            "name": "Jeff Curry",
+            "points": 30,
+            "team": "Dream Machine @ Eagles Canyon"
+          },
+          {
+            "pos": 7,
+            "name": "Jason Kos",
+            "points": 28,
+            "team": "Dream Machine @ Eagles Canyon"
+          },
+          {
+            "pos": 8,
+            "name": "Paul Wilson",
+            "points": 15
+          }
+        ]
+      }
+    ],
     "ffsatourisme": [
       {
         "className": "TCR",
@@ -4993,6 +5112,58 @@
     "elms": "Team Standings"
   },
   "teamFlat": {
+    "grcup": [
+      {
+        "pos": 1,
+        "name": "TechSport Racing",
+        "points": 136
+      },
+      {
+        "pos": 2,
+        "name": "Copeland Motorsports",
+        "points": 108
+      },
+      {
+        "pos": 3,
+        "name": "RVA Graphics Motorsports by Speed Syndicate",
+        "points": 94
+      },
+      {
+        "pos": 4,
+        "name": "BSI Racing",
+        "points": 72
+      },
+      {
+        "pos": 5,
+        "name": "Eagles Canyon w/ Fast Track",
+        "points": 58
+      },
+      {
+        "pos": 6,
+        "name": "Nitro Motorsports",
+        "points": 31
+      },
+      {
+        "pos": 7,
+        "name": "Blackdog Racing",
+        "points": 30
+      },
+      {
+        "pos": 8,
+        "name": "Dream Machine @ Eagles Canyon",
+        "points": 24
+      },
+      {
+        "pos": 9,
+        "name": "Hollingshead Performance",
+        "points": 18
+      },
+      {
+        "pos": 10,
+        "name": "RAFA Racing Team",
+        "points": 18
+      }
+    ],
     "enascar": [
       {
         "pos": 1,

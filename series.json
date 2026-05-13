@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-13T00:38:09.964Z",
+  "generatedAt": "2026-05-13T01:53:11.473Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1012,7 +1012,7 @@
       "id": "grcup",
       "group": "sportscar",
       "region": "americas",
-      "label": "Toyota GR Cup",
+      "label": "Toyota GR Cup NA",
       "short": "GRC",
       "color": "#F87171",
       "bg": "rgba(248,113,113,0.15)",
