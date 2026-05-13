@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T01:53:10.757Z",
+  "generatedAt": "2026-05-13T02:01:34.977Z",
   "flat": {
     "f1": [
       {
@@ -4612,6 +4612,72 @@
         ]
       }
     ],
+    "gtcupeu": [
+      {
+        "className": "Pro-Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Fgani A.Salubre / Larz Zaenen",
+            "points": 11,
+            "team": "Hans Weijs Motorsport"
+          },
+          {
+            "pos": 2,
+            "name": "Alejandro Barambio / Borja García",
+            "points": 11,
+            "team": "GT Corse"
+          },
+          {
+            "pos": 3,
+            "name": "Leonardo Reis / Felipe Massa",
+            "points": 10,
+            "team": "AF Motorsport"
+          },
+          {
+            "pos": 4,
+            "name": "Flávio Sampaio / Bernardo Lucas Pinheiro",
+            "points": 10,
+            "team": "LMR Motorsport"
+          }
+        ]
+      },
+      {
+        "className": "Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Fernando Navarrete / Fernando Pedrera",
+            "points": 12,
+            "team": "Tsunami RT"
+          },
+          {
+            "pos": 2,
+            "name": "Giacomo Giubergia / H. de Mello",
+            "points": 11,
+            "team": "GDL Racing"
+          },
+          {
+            "pos": 3,
+            "name": "Nelson Marcondes / Nelson Monteiro Jr",
+            "points": 8,
+            "team": "GDL Racing"
+          },
+          {
+            "pos": 4,
+            "name": "Rick van Zijverden / Hans Weijs",
+            "points": 7,
+            "team": "Hans Weijs Motorsport"
+          },
+          {
+            "pos": 5,
+            "name": "Leandro Martins / Dieter Svepes",
+            "points": 6,
+            "team": "LMR Motorsport"
+          }
+        ]
+      }
+    ],
     "grcup": [
       {
         "className": "AM",
@@ -5112,6 +5178,48 @@
     "elms": "Team Standings"
   },
   "teamFlat": {
+    "gtcupeu": [
+      {
+        "pos": 1,
+        "name": "Hans Weijs Motorsport",
+        "points": 14
+      },
+      {
+        "pos": 2,
+        "name": "Ebimotors",
+        "points": 11
+      },
+      {
+        "pos": 3,
+        "name": "AF Motorsport",
+        "points": 7
+      },
+      {
+        "pos": 4,
+        "name": "GDL Racing",
+        "points": 6
+      },
+      {
+        "pos": 5,
+        "name": "BiRace Motorsport",
+        "points": 4
+      },
+      {
+        "pos": 6,
+        "name": "LMR Motorsport",
+        "points": 3
+      },
+      {
+        "pos": 7,
+        "name": "GT Corse",
+        "points": 2
+      },
+      {
+        "pos": 8,
+        "name": "Tsunami RT",
+        "points": 1
+      }
+    ],
     "grcup": [
       {
         "pos": 1,
