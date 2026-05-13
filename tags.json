@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T22:08:07.121Z",
+  "generatedAt": "2026-05-13T22:39:45.384Z",
   "categories": [
     {
       "id": "vehicle-type",
@@ -77,13 +77,10 @@
       "tags": [
         "ferrari",
         "mercedes-amg",
-        "red-bull",
         "mclaren",
         "aston-martin",
         "audi",
         "alpine",
-        "williams",
-        "haas",
         "cadillac",
         "porsche",
         "nissan",
@@ -155,13 +152,10 @@
     "australia": "Australia",
     "ferrari": "Ferrari",
     "mercedes-amg": "Mercedes-AMG",
-    "red-bull": "Red Bull",
     "mclaren": "McLaren",
     "aston-martin": "Aston Martin",
     "audi": "Audi",
     "alpine": "Alpine",
-    "williams": "Williams",
-    "haas": "Haas",
     "cadillac": "Cadillac",
     "porsche": "Porsche",
     "nissan": "Nissan",
