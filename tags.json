@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T22:39:45.384Z",
+  "generatedAt": "2026-05-13T22:44:45.945Z",
   "categories": [
+    {
+      "id": "geography",
+      "label": "Geography",
+      "tags": [
+        "global",
+        "north-america",
+        "europe",
+        "asia-pacific",
+        "australia"
+      ]
+    },
     {
       "id": "vehicle-type",
       "label": "Vehicle Type",
@@ -50,28 +61,6 @@
       ]
     },
     {
-      "id": "tier",
-      "label": "Tier",
-      "tags": [
-        "world-championship",
-        "national-series",
-        "regional-series",
-        "feeder-series",
-        "support-series"
-      ]
-    },
-    {
-      "id": "geography",
-      "label": "Geography",
-      "tags": [
-        "global",
-        "north-america",
-        "europe",
-        "asia-pacific",
-        "australia"
-      ]
-    },
-    {
       "id": "manufacturer",
       "label": "Manufacturer",
       "tags": [
@@ -101,6 +90,17 @@
         "mini",
         "cupra",
         "caterham"
+      ]
+    },
+    {
+      "id": "tier",
+      "label": "Tier",
+      "tags": [
+        "world-championship",
+        "national-series",
+        "regional-series",
+        "feeder-series",
+        "support-series"
       ]
     }
   ],
