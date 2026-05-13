@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T00:18:04.672Z",
+  "generatedAt": "2026-05-13T00:28:21.506Z",
   "flat": {
     "f1": [
       {
@@ -1080,32 +1080,32 @@
       {
         "pos": 1,
         "name": "David Gravel",
-        "points": 2380,
+        "points": 2674,
         "team": "#2"
       },
       {
         "pos": 2,
         "name": "Carson Macedo",
-        "points": 2314,
+        "points": 2586,
         "team": "#41"
       },
       {
         "pos": 3,
         "name": "Michael Kofoid",
-        "points": 2284,
+        "points": 2550,
         "team": "#83"
       },
       {
         "pos": 4,
-        "name": "Donny Schatz",
-        "points": 2238,
-        "team": "#15"
+        "name": "Sheldon Haudenschild",
+        "points": 2492,
+        "team": "#17"
       },
       {
         "pos": 5,
-        "name": "Sheldon Haudenschild",
-        "points": 2204,
-        "team": "#17"
+        "name": "Donny Schatz",
+        "points": 2486,
+        "team": "#15"
       }
     ],
     "floracing": [
