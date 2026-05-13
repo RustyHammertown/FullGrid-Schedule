@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T01:28:03.353Z",
+  "generatedAt": "2026-05-13T01:34:57.727Z",
   "flat": {
     "f1": [
       {
@@ -4400,6 +4400,188 @@
         ]
       }
     ],
+    "ffsagt": [
+      {
+        "className": "GT4 Général",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Lazare Lartigau",
+            "points": 40
+          },
+          {
+            "pos": 2,
+            "name": "Laurent Hurgon",
+            "points": 40
+          },
+          {
+            "pos": 3,
+            "name": "Lukas Papin",
+            "points": 36
+          },
+          {
+            "pos": 4,
+            "name": "Jérémy Corsin",
+            "points": 36
+          },
+          {
+            "pos": 5,
+            "name": "Léo Jousset",
+            "points": 27
+          },
+          {
+            "pos": 6,
+            "name": "Rudy Servol",
+            "points": 27
+          },
+          {
+            "pos": 7,
+            "name": "Enzo Richer",
+            "points": 20
+          },
+          {
+            "pos": 8,
+            "name": "Kevin Jimenez",
+            "points": 20
+          },
+          {
+            "pos": 9,
+            "name": "Klaas Kooiker",
+            "points": 16
+          },
+          {
+            "pos": 10,
+            "name": "Thomas Drouet",
+            "points": 16
+          }
+        ]
+      },
+      {
+        "className": "GT4 Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Stéphane Lémeret",
+            "points": 51
+          },
+          {
+            "pos": 2,
+            "name": "Stéphane Auriacombe",
+            "points": 51
+          },
+          {
+            "pos": 3,
+            "name": "Nicco Ferrarin",
+            "points": 34
+          },
+          {
+            "pos": 4,
+            "name": "Julien Briché",
+            "points": 34
+          },
+          {
+            "pos": 5,
+            "name": "Jodie Sloss",
+            "points": 33
+          },
+          {
+            "pos": 6,
+            "name": "David Levy",
+            "points": 33
+          }
+        ]
+      },
+      {
+        "className": "Alpine Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Romain Monti",
+            "points": 51
+          },
+          {
+            "pos": 2,
+            "name": "Rodolphe Wallgren",
+            "points": 51
+          },
+          {
+            "pos": 3,
+            "name": "Paul Alberto",
+            "points": 37
+          },
+          {
+            "pos": 4,
+            "name": "Gosia Rdest",
+            "points": 37
+          },
+          {
+            "pos": 5,
+            "name": "Matteo Herrero",
+            "points": 27
+          },
+          {
+            "pos": 6,
+            "name": "David Barrere",
+            "points": 27
+          },
+          {
+            "pos": 7,
+            "name": "Paul Roques",
+            "points": 21
+          },
+          {
+            "pos": 8,
+            "name": "Anthony Fournier",
+            "points": 21
+          },
+          {
+            "pos": 9,
+            "name": "Alexandre Lopez",
+            "points": 20
+          },
+          {
+            "pos": 10,
+            "name": "Frédéric de Brabant",
+            "points": 20
+          }
+        ]
+      },
+      {
+        "className": "Ginetta Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Victor Guerin",
+            "points": 44
+          },
+          {
+            "pos": 2,
+            "name": "Stephan Guerin",
+            "points": 44
+          },
+          {
+            "pos": 3,
+            "name": "Léo Poncel",
+            "points": 44
+          },
+          {
+            "pos": 4,
+            "name": "Philippe Marie",
+            "points": 44
+          },
+          {
+            "pos": 5,
+            "name": "Emmanuel Reviriault",
+            "points": 0
+          },
+          {
+            "pos": 6,
+            "name": "Charly Bourachot",
+            "points": 0
+          }
+        ]
+      }
+    ],
     "gtamerica": [
       {
         "className": "SRO3",
@@ -4554,6 +4736,113 @@
     ]
   },
   "teamClasses": {
+    "ffsagt": [
+      {
+        "className": "GT4 Général",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Chazel Technologie Course",
+            "points": 40
+          },
+          {
+            "pos": 2,
+            "name": "Schumacher GP",
+            "points": 36
+          },
+          {
+            "pos": 3,
+            "name": "Race Cars Consulting",
+            "points": 27
+          },
+          {
+            "pos": 4,
+            "name": "Mirage Racing",
+            "points": 20
+          },
+          {
+            "pos": 5,
+            "name": "Circuit Toys",
+            "points": 18
+          },
+          {
+            "pos": 6,
+            "name": "AKKODIS ASP TEAM",
+            "points": 18
+          },
+          {
+            "pos": 7,
+            "name": "Code Racing Development",
+            "points": 15
+          },
+          {
+            "pos": 8,
+            "name": "Saintéloc Racing",
+            "points": 14
+          },
+          {
+            "pos": 9,
+            "name": "VS Compétition",
+            "points": 10
+          }
+        ]
+      },
+      {
+        "className": "GT4 Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "CMR",
+            "points": 51
+          },
+          {
+            "pos": 2,
+            "name": "JSB Competition",
+            "points": 34
+          },
+          {
+            "pos": 3,
+            "name": "Mirage Racing",
+            "points": 33
+          }
+        ]
+      },
+      {
+        "className": "Alpine Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Chazel Technologie Course",
+            "points": 52
+          },
+          {
+            "pos": 2,
+            "name": "Herrero Racing",
+            "points": 33
+          },
+          {
+            "pos": 3,
+            "name": "Race Cars Consulting",
+            "points": 30
+          },
+          {
+            "pos": 4,
+            "name": "Schumacher GP",
+            "points": 27
+          }
+        ]
+      },
+      {
+        "className": "Ginetta Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "CMR",
+            "points": 52
+          }
+        ]
+      }
+    ],
     "gtamerica": [
       {
         "className": "SRO3",
