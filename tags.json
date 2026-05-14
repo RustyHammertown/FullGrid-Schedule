@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-14T20:00:42.997Z",
+  "generatedAt": "2026-05-14T21:06:25.545Z",
   "categories": [
     {
       "id": "geography",
@@ -11,6 +11,36 @@
         "europe",
         "asia-pacific",
         "australia"
+      ]
+    },
+    {
+      "id": "sanctioning-body",
+      "label": "Sanctioning Body",
+      "tags": [
+        "aco",
+        "ama",
+        "arca",
+        "ffsa",
+        "fia",
+        "fim",
+        "flo-promotions",
+        "gt-sport",
+        "high-limit",
+        "imsa",
+        "indycar",
+        "inex",
+        "iracing",
+        "jaf",
+        "lamborghini-corse",
+        "mclaren-automotive",
+        "motorsport-australia",
+        "motorsport-uk",
+        "nascar",
+        "nhra",
+        "porsche-motorsport",
+        "sro",
+        "world-of-outlaws",
+        "wsc"
       ]
     },
     {
@@ -102,13 +132,6 @@
         "feeder-series",
         "support-series"
       ]
-    },
-    {
-      "id": "organization",
-      "label": "Organization",
-      "tags": [
-        "sro"
-      ]
     }
   ],
   "labels": {
@@ -152,7 +175,30 @@
     "regional-series": "Regional Series",
     "feeder-series": "Feeder Series",
     "support-series": "Support Series",
+    "aco": "ACO",
+    "ama": "AMA",
+    "arca": "ARCA",
+    "ffsa": "FFSA",
+    "fia": "FIA",
+    "fim": "FIM",
+    "flo-promotions": "Flo Promotions",
+    "gt-sport": "GT Sport",
+    "high-limit": "High Limit",
+    "imsa": "IMSA",
+    "indycar": "IndyCar",
+    "inex": "INEX",
+    "iracing": "iRacing",
+    "jaf": "JAF",
+    "lamborghini-corse": "Lamborghini Squadra Corse",
+    "mclaren-automotive": "McLaren Automotive",
+    "motorsport-australia": "Motorsport Australia",
+    "motorsport-uk": "Motorsport UK",
+    "nascar": "NASCAR",
+    "nhra": "NHRA",
+    "porsche-motorsport": "Porsche Motorsport",
     "sro": "SRO",
+    "world-of-outlaws": "World of Outlaws",
+    "wsc": "WSC",
     "global": "Global",
     "north-america": "North America",
     "europe": "Europe",
