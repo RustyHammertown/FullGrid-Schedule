@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-13T22:27:16.817Z",
+  "generatedAt": "2026-05-14T20:00:43.733Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -889,7 +889,8 @@
         "aston-martin",
         "lamborghini",
         "mclaren",
-        "audi"
+        "audi",
+        "sro"
       ],
       "group": "sportscar",
       "region": "americas",
@@ -922,7 +923,8 @@
         "lamborghini",
         "bmw",
         "audi",
-        "aston-martin"
+        "aston-martin",
+        "sro"
       ],
       "group": "sportscar",
       "region": "asiapacific",
@@ -1207,7 +1209,8 @@
         "lamborghini",
         "audi",
         "aston-martin",
-        "mclaren"
+        "mclaren",
+        "sro"
       ],
       "group": "sportscar",
       "region": "europe",
@@ -1238,7 +1241,8 @@
         "aston-martin",
         "mclaren",
         "audi",
-        "ford"
+        "ford",
+        "sro"
       ],
       "group": "sportscar",
       "region": "europe",
@@ -1272,7 +1276,8 @@
         "audi",
         "honda",
         "aston-martin",
-        "mclaren"
+        "mclaren",
+        "sro"
       ],
       "group": "sportscar",
       "region": "asiapacific",
@@ -1296,7 +1301,8 @@
       "tags": [
         "sports-car",
         "regional-series",
-        "asia-pacific"
+        "asia-pacific",
+        "sro"
       ],
       "group": "sportscar",
       "region": "asiapacific",
@@ -1320,7 +1326,8 @@
         "sports-car",
         "gt4",
         "regional-series",
-        "europe"
+        "europe",
+        "sro"
       ],
       "group": "sportscar",
       "region": "europe",
@@ -1352,7 +1359,8 @@
         "mclaren",
         "mercedes-amg",
         "aston-martin",
-        "toyota"
+        "toyota",
+        "sro"
       ],
       "group": "sportscar",
       "region": "americas",
@@ -1377,7 +1385,8 @@
         "sports-car",
         "gt4",
         "regional-series",
-        "australia"
+        "australia",
+        "sro"
       ],
       "group": "sportscar",
       "region": "asiapacific",
@@ -1406,7 +1415,8 @@
         "audi",
         "hyundai",
         "honda",
-        "cupra"
+        "cupra",
+        "sro"
       ],
       "group": "touring",
       "region": "americas",
@@ -1430,7 +1440,8 @@
       "tags": [
         "touring-car",
         "regional-series",
-        "europe"
+        "europe",
+        "sro"
       ],
       "group": "sportscar",
       "region": "europe",
@@ -1463,7 +1474,8 @@
         "aston-martin",
         "ford",
         "toyota",
-        "mclaren"
+        "mclaren",
+        "sro"
       ],
       "group": "sportscar",
       "region": "americas",
@@ -1489,7 +1501,8 @@
         "one-make",
         "regional-series",
         "north-america",
-        "toyota"
+        "toyota",
+        "sro"
       ],
       "group": "sportscar",
       "region": "americas",
@@ -1514,7 +1527,8 @@
         "sports-car",
         "gt3",
         "regional-series",
-        "europe"
+        "europe",
+        "sro"
       ],
       "group": "sportscar",
       "region": "europe",
@@ -1539,7 +1553,8 @@
         "sports-car",
         "gt4",
         "regional-series",
-        "europe"
+        "europe",
+        "sro"
       ],
       "group": "sportscar",
       "region": "europe",

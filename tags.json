@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T22:44:45.945Z",
+  "generatedAt": "2026-05-14T20:00:42.997Z",
   "categories": [
     {
       "id": "geography",
@@ -102,6 +102,13 @@
         "feeder-series",
         "support-series"
       ]
+    },
+    {
+      "id": "organization",
+      "label": "Organization",
+      "tags": [
+        "sro"
+      ]
     }
   ],
   "labels": {
@@ -145,6 +152,7 @@
     "regional-series": "Regional Series",
     "feeder-series": "Feeder Series",
     "support-series": "Support Series",
+    "sro": "SRO",
     "global": "Global",
     "north-america": "North America",
     "europe": "Europe",
