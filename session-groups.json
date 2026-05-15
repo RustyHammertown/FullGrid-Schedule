@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-13T23:51:41.576Z",
+  "generatedAt": "2026-05-15T20:21:30.183Z",
   "groups": {
     "f1": [
       {
@@ -548,6 +548,7 @@
         "label": "Practice",
         "sessions": [
           "Practice",
+          "Pit Road Practice",
           "Practice (TBD)"
         ]
       },
