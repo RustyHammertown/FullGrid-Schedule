@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T03:16:08.092Z",
+  "generatedAt": "2026-05-15T19:54:40.209Z",
   "events": [
     {
       "id": 101,
@@ -5045,13 +5045,13 @@
           "name": "Practice",
           "time": "2026-05-15T15:00:00-04:00",
           "duration": 50,
-          "broadcastUS": "Prime Video"
+          "broadcastUS": "FS2"
         },
         {
           "name": "Qualifying",
           "time": "2026-05-16T12:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "Prime Video"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
