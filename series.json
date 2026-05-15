@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-14T21:06:26.260Z",
+  "generatedAt": "2026-05-15T00:06:04.992Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -594,7 +594,7 @@
       ],
       "group": "sportscar",
       "region": "americas",
-      "label": "Lamborghini Super Trofeo NA",
+      "label": "Lamborghini ST NA",
       "short": "LST",
       "color": "#5C8A3A",
       "bg": "rgba(92,138,58,0.15)",
@@ -622,7 +622,7 @@
       ],
       "group": "sportscar",
       "region": "europe",
-      "label": "Lamborghini Super Trofeo Europe",
+      "label": "Lamborghini ST Europe",
       "short": "LSTE",
       "color": "#7BAA2D",
       "bg": "rgba(123,170,45,0.15)",
@@ -650,7 +650,7 @@
       ],
       "group": "sportscar",
       "region": "asiapacific",
-      "label": "Lamborghini Super Trofeo Asia",
+      "label": "Lamborghini ST Asia",
       "short": "LSTA",
       "color": "#385F1E",
       "bg": "rgba(56,95,30,0.15)",
