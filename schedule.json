@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-16T14:49:10.689Z",
+  "generatedAt": "2026-05-16T15:01:11.603Z",
   "events": [
     {
       "id": 101,
@@ -15775,48 +15775,49 @@
           "name": "Qualifying 1",
           "time": "2026-05-14T13:15:00+02:00",
           "duration": 120,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Qualifying 2",
           "time": "2026-05-14T20:00:00+02:00",
           "duration": 210,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Top Qualifying 1",
           "time": "2026-05-15T10:15:00+02:00",
           "duration": 30,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Top Qualifying 2",
           "time": "2026-05-15T11:05:00+02:00",
           "duration": 30,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Qualifying 3",
           "time": "2026-05-15T12:00:00+02:00",
           "duration": 65,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Top Qualifying 3",
           "time": "2026-05-15T13:35:00+02:00",
           "duration": 60,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Warm-up",
           "time": "2026-05-16T10:00:00+02:00",
           "duration": 60,
-          "broadcastUS": "YouTube/24hnbr"
+          "broadcast": "YouTube/24hnbr"
         },
         {
           "name": "Race",
           "time": "2026-05-16T15:00:00+02:00",
           "duration": 1440,
+          "broadcast": "YouTube/24hnbr",
           "broadcastUS": "Racer+"
         }
       ]
