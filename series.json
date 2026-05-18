@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-18T22:20:42.504Z",
+  "generatedAt": "2026-05-18T22:33:47.607Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1996,9 +1996,21 @@
       "color": "#1F2937",
       "bg": "rgba(31,41,55,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX",
-        "US": "YouTube/OfficialBTCC",
-        "AU": "YouTube/OfficialBTCC"
+        "UK": {
+          "service": "ITV4 / YouTube/MINIChallengeUK"
+        },
+        "IE": {
+          "service": "ITV4 / YouTube/MINIChallengeUK"
+        },
+        "US": {
+          "service": "RACER+ / YouTube/MINIChallengeUK"
+        },
+        "CA": {
+          "service": "RACER+ / YouTube/MINIChallengeUK"
+        },
+        "Global": {
+          "service": "YouTube/MINIChallengeUK"
+        }
       },
       "streamUrl": "https://www.minichallenge.co.uk/",
       "resultsUrl": "https://www.minichallenge.co.uk/"
@@ -2020,9 +2032,21 @@
       "color": "#4B5563",
       "bg": "rgba(75,85,99,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX (BTCC weekends) / YouTube/MINICHALLENGE",
-        "US": "YouTube/MINICHALLENGE",
-        "AU": "YouTube/MINICHALLENGE"
+        "UK": {
+          "service": "ITV4 / YouTube/MINIChallengeUK"
+        },
+        "IE": {
+          "service": "ITV4 / YouTube/MINIChallengeUK"
+        },
+        "US": {
+          "service": "RACER+ / YouTube/MINIChallengeUK"
+        },
+        "CA": {
+          "service": "RACER+ / YouTube/MINIChallengeUK"
+        },
+        "Global": {
+          "service": "YouTube/MINIChallengeUK"
+        }
       },
       "streamUrl": "https://www.minichallenge.co.uk/",
       "resultsUrl": "https://www.minichallenge.co.uk/"
