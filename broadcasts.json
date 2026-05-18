@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generatedAt": "2026-05-18T22:20:43.168Z",
+  "version": 2,
+  "generatedAt": "2026-05-18T23:00:00.832Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -128,5 +128,53 @@
     "MegaMedia": "https://www.megamedia.gr/",
     "DF1": "https://www.df1.de/",
     "RDS": "https://www.rds.ca/"
+  },
+  "buckets": {
+    "Nordics": [
+      "SE",
+      "NO",
+      "DK",
+      "FI",
+      "IS",
+      "EE",
+      "LV",
+      "LT"
+    ],
+    "MENA": [
+      "SA",
+      "AE",
+      "QA",
+      "KW",
+      "BH",
+      "OM",
+      "JO",
+      "LB",
+      "IQ",
+      "SY",
+      "YE",
+      "IL",
+      "PS",
+      "IR",
+      "EG",
+      "LY",
+      "SD",
+      "TN",
+      "DZ",
+      "MA",
+      "MR"
+    ],
+    "SEA": [
+      "BN",
+      "KH",
+      "ID",
+      "LA",
+      "MY",
+      "MM",
+      "PH",
+      "SG",
+      "TH",
+      "VN",
+      "TL"
+    ]
   }
 }
