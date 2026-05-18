@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-18T22:33:47.607Z",
+  "generatedAt": "2026-05-18T22:37:10.771Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2012,6 +2012,7 @@
           "service": "YouTube/MINIChallengeUK"
         }
       },
+      "broadcastNote": "Multiple sources are listed because BTCC-supporting rounds air on ITV4 (UK/IE) and RACER+ (US/CA), while standalone rounds stream only on YouTube/MINIChallengeUK.",
       "streamUrl": "https://www.minichallenge.co.uk/",
       "resultsUrl": "https://www.minichallenge.co.uk/"
     },
@@ -2048,6 +2049,7 @@
           "service": "YouTube/MINIChallengeUK"
         }
       },
+      "broadcastNote": "Multiple sources are listed because BTCC-supporting rounds air on ITV4 (UK/IE) and RACER+ (US/CA), while standalone rounds stream only on YouTube/MINIChallengeUK.",
       "streamUrl": "https://www.minichallenge.co.uk/",
       "resultsUrl": "https://www.minichallenge.co.uk/"
     },
