@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-18T22:03:17.804Z",
+  "generatedAt": "2026-05-18T22:20:42.504Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1948,8 +1948,8 @@
       "bg": "rgba(185,28,28,0.15)",
       "broadcast": {
         "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "US": "YouTube/OfficialBTCC",
+        "AU": "YouTube/OfficialBTCC"
       },
       "streamUrl": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain"
@@ -1973,8 +1973,8 @@
       "bg": "rgba(124,58,237,0.15)",
       "broadcast": {
         "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "US": "YouTube/OfficialBTCC",
+        "AU": "YouTube/OfficialBTCC"
       },
       "streamUrl": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain",
       "resultsUrl": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain"
@@ -1997,8 +1997,8 @@
       "bg": "rgba(31,41,55,0.15)",
       "broadcast": {
         "UK": "ITV4 / ITVX",
-        "US": "BTCC TV",
-        "AU": "BTCC TV"
+        "US": "YouTube/OfficialBTCC",
+        "AU": "YouTube/OfficialBTCC"
       },
       "streamUrl": "https://www.minichallenge.co.uk/",
       "resultsUrl": "https://www.minichallenge.co.uk/"
