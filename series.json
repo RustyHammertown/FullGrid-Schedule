@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-18T22:37:10.771Z",
+  "generatedAt": "2026-05-18T23:23:07.818Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2337,7 +2337,9 @@
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany"
     }
   },
-  "categoryOverrides": {},
+  "categoryOverrides": {
+    "Pit Stop Challenge": "Practice"
+  },
   "racePatterns": {
     "race": [
       "race",
