@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-18T21:22:23.980Z",
+  "generatedAt": "2026-05-18T21:39:46.174Z",
   "events": [
     {
       "id": 101,
@@ -45151,20 +45151,20 @@
           "laps": 18,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45174,20 +45174,20 @@
           "laps": 18,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45197,20 +45197,20 @@
           "laps": 18,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45250,20 +45250,20 @@
           "laps": 24,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45273,20 +45273,20 @@
           "laps": 24,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45296,20 +45296,20 @@
           "laps": 24,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45349,20 +45349,20 @@
           "laps": 12,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45372,20 +45372,20 @@
           "laps": 12,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45395,20 +45395,20 @@
           "laps": 12,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45448,20 +45448,20 @@
           "laps": 15,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45471,20 +45471,20 @@
           "laps": 15,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45494,20 +45494,20 @@
           "laps": 15,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45547,20 +45547,20 @@
           "laps": 16,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45570,20 +45570,20 @@
           "laps": 16,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45593,20 +45593,20 @@
           "laps": 16,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45646,20 +45646,20 @@
           "laps": 24,
           "duration": 28,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45669,20 +45669,20 @@
           "laps": 24,
           "duration": 28,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45692,20 +45692,20 @@
           "laps": 24,
           "duration": 28,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45745,20 +45745,20 @@
           "laps": 14,
           "duration": 27,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45768,20 +45768,20 @@
           "laps": 14,
           "duration": 27,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45791,20 +45791,20 @@
           "laps": 14,
           "duration": 27,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45844,20 +45844,20 @@
           "laps": 15,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45867,20 +45867,20 @@
           "laps": 15,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45890,20 +45890,20 @@
           "laps": 15,
           "duration": 25,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -45943,20 +45943,20 @@
           "laps": 22,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45966,20 +45966,20 @@
           "laps": 22,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -45989,20 +45989,20 @@
           "laps": 22,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }
@@ -46042,20 +46042,20 @@
           "laps": 15,
           "duration": 27,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -46065,20 +46065,20 @@
           "laps": 15,
           "duration": 27,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         },
@@ -46088,20 +46088,20 @@
           "laps": 15,
           "duration": 27,
           "broadcasts": {
-            "US": {
-              "service": "RACER Network"
-            },
-            "CA": {
-              "service": "RACER Network"
-            },
             "UK": {
               "service": "ITV4 / ITVX"
             },
-            "AU": {
-              "service": "YouTube/BTCC"
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
             },
             "Global": {
-              "service": "YouTube/BTCC"
+              "service": "YouTube/OfficialBTCC"
             }
           }
         }

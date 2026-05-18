@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-18T21:16:44.597Z",
+  "generatedAt": "2026-05-18T21:39:45.252Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1846,9 +1846,21 @@
       "color": "#C8102E",
       "bg": "rgba(200,16,46,0.15)",
       "broadcast": {
-        "UK": "ITV4",
-        "US": "Racer+",
-        "RoW": "YouTube/OfficialBTCC"
+        "UK": {
+          "service": "ITV4 / ITVX"
+        },
+        "IE": {
+          "service": "ITV4 / ITVX"
+        },
+        "US": {
+          "service": "RACER+"
+        },
+        "CA": {
+          "service": "RACER+"
+        },
+        "Global": {
+          "service": "YouTube/OfficialBTCC"
+        }
       },
       "streamUrl": "https://btcc.net/",
       "resultsUrl": "https://btcc.net/race-results/",
