@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generatedAt": "2026-05-17T13:32:51.486Z",
+  "version": 4,
+  "generatedAt": "2026-05-18T21:16:44.597Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -18,9 +18,84 @@
       "color": "#e8302a",
       "bg": "rgba(232,48,42,0.15)",
       "broadcast": {
-        "US": "Apple TV",
-        "UK": "Sky Sports F1",
-        "AU": "Fox Sports"
+        "US": {
+          "service": "Apple TV"
+        },
+        "UK": {
+          "service": "Sky Sports F1"
+        },
+        "IE": {
+          "service": "Sky Sports F1"
+        },
+        "CA": {
+          "service": "TSN"
+        },
+        "AU": {
+          "service": "Kayo Sports"
+        },
+        "NZ": {
+          "service": "Sky Sport NZ"
+        },
+        "DE": {
+          "service": "Sky Deutschland"
+        },
+        "FR": {
+          "service": "Canal+"
+        },
+        "IT": {
+          "service": "Sky Sport F1"
+        },
+        "ES": {
+          "service": "DAZN"
+        },
+        "NL": {
+          "service": "Viaplay"
+        },
+        "Nordics": {
+          "service": "Viaplay"
+        },
+        "BE": {
+          "service": "Play Sports"
+        },
+        "PT": {
+          "service": "Sport TV"
+        },
+        "CH": {
+          "service": "Blue Sport"
+        },
+        "AT": {
+          "service": "ServusTV"
+        },
+        "BR": {
+          "service": "Band"
+        },
+        "MX": {
+          "service": "F1 TV"
+        },
+        "JP": {
+          "service": "DAZN"
+        },
+        "KR": {
+          "service": "F1 TV"
+        },
+        "CN": {
+          "service": "CCTV-5"
+        },
+        "IN": {
+          "service": "F1 TV"
+        },
+        "SEA": {
+          "service": "beIN Sports"
+        },
+        "MENA": {
+          "service": "beIN Sports"
+        },
+        "ZA": {
+          "service": "SuperSport"
+        },
+        "Global": {
+          "service": "F1 TV"
+        }
       },
       "resultsUrl": "https://www.formula1.com/en/results/2026/races",
       "fallbackMinutes": 110,
@@ -1924,7 +1999,7 @@
       "color": "#4B5563",
       "bg": "rgba(75,85,99,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX (BTCC weekends) / YouTube",
+        "UK": "ITV4 / ITVX (BTCC weekends) / YouTube/MINICHALLENGE",
         "US": "YouTube/MINICHALLENGE",
         "AU": "YouTube/MINICHALLENGE"
       },
