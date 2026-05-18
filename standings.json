@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-18T02:00:26.109Z",
+  "generatedAt": "2026-05-18T02:07:55.086Z",
   "flat": {
     "f1": [
       {
@@ -1165,61 +1165,61 @@
       {
         "pos": 1,
         "name": "David Gravel",
-        "points": 2674,
+        "points": 2940,
         "team": "Watertown, CT"
       },
       {
         "pos": 2,
         "name": "Carson Macedo",
-        "points": 2586,
+        "points": 2836,
         "team": "Lemoore, CA"
       },
       {
         "pos": 3,
         "name": "Michael Kofoid",
-        "points": 2550,
+        "points": 2824,
         "team": "Penngrove, CA"
       },
       {
         "pos": 4,
-        "name": "Sheldon Haudenschild",
-        "points": 2492,
-        "team": "Wooster, OH"
+        "name": "Donny Schatz",
+        "points": 2754,
+        "team": "Fargo, ND"
       },
       {
         "pos": 5,
-        "name": "Donny Schatz",
-        "points": 2486,
-        "team": "Fargo, ND"
+        "name": "Sheldon Haudenschild",
+        "points": 2752,
+        "team": "Wooster, OH"
       },
       {
         "pos": 6,
         "name": "Logan Schuchart",
-        "points": 2440,
+        "points": 2730,
         "team": "Hanover, PA"
       },
       {
         "pos": 7,
         "name": "Garet Williamson",
-        "points": 2316,
+        "points": 2566,
         "team": "Columbia, MO"
       },
       {
         "pos": 8,
         "name": "Cole Macedo",
-        "points": 2288,
+        "points": 2530,
         "team": "Lemoore, CA"
       },
       {
         "pos": 9,
         "name": "Chris Windom",
-        "points": 2274,
+        "points": 2492,
         "team": "Canton, IL"
       },
       {
         "pos": 10,
         "name": "Spencer Bayston",
-        "points": 2248,
+        "points": 2470,
         "team": "Lebanon, IN"
       }
     ],
@@ -1289,124 +1289,124 @@
       {
         "pos": 1,
         "name": "Nick Hoffman",
-        "points": 2779,
+        "points": 3063,
         "team": "Mooresville, NC"
       },
       {
         "pos": 2,
         "name": "Bobby Pierce",
-        "points": 2776,
+        "points": 3057,
         "team": "Oakwood, IL"
       },
       {
         "pos": 3,
         "name": "Tim McCreadie",
-        "points": 2584,
+        "points": 2871,
         "team": "Watertown, NY"
       },
       {
         "pos": 4,
-        "name": "Tyler Erb",
-        "points": 2584,
-        "team": "New Waverly, TX"
-      },
-      {
-        "pos": 5,
         "name": "Ryan Gustin",
-        "points": 2573,
+        "points": 2857,
         "team": "Marshalltown, IA"
       },
       {
-        "pos": 6,
+        "pos": 5,
         "name": "Drake Troutman",
-        "points": 2563,
+        "points": 2850,
         "team": "Hyndman, PA"
+      },
+      {
+        "pos": 6,
+        "name": "Tyler Erb",
+        "points": 2847,
+        "team": "New Waverly, TX"
       },
       {
         "pos": 7,
         "name": "Ethan Dotson",
-        "points": 2535,
+        "points": 2797,
         "team": "Bakersfield, CA"
       },
       {
         "pos": 8,
         "name": "Daulton Wilson",
-        "points": 2528,
+        "points": 2784,
         "team": "Fayetteville, NC"
       },
       {
         "pos": 9,
         "name": "Dustin Sorensen",
-        "points": 2453,
+        "points": 2705,
         "team": "Rochester, MN"
       },
       {
         "pos": 10,
-        "name": "Dennis Erb",
-        "points": 2409,
+        "name": "Dennis Erb Jr",
+        "points": 2649,
         "team": "Carpentersville, IL"
       }
     ],
     "igtc": [
       {
         "pos": 1,
-        "name": "Engel / Grenier / Martin",
-        "points": 25,
+        "name": "Engel / Martin",
+        "points": 50,
         "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 2,
-        "name": "Boccolacci / Fjordbach / Li",
-        "points": 18,
-        "vehicle": "Porsche 911 GT3 R"
+        "name": "Stolz",
+        "points": 33,
+        "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 3,
+        "name": "Hesse",
+        "points": 30,
+        "vehicle": "BMW M4 GT3"
+      },
+      {
+        "pos": 4,
+        "name": "Grenier / Schiller",
+        "points": 25,
+        "vehicle": "Mercedes-AMG GT3"
+      },
+      {
+        "pos": 5,
+        "name": "Buus",
+        "points": 22,
+        "vehicle": "Porsche 911 GT3 R"
+      },
+      {
+        "pos": 6,
+        "name": "Heinrich / Feller",
+        "points": 21,
+        "vehicle": "Porsche 911 GT3 R"
+      },
+      {
+        "pos": 7,
+        "name": "Boccolacci / Fjordbach / Li / van der Linde / D. Vanthoor",
+        "points": 18,
+        "vehicle": "Porsche / BMW"
+      },
+      {
+        "pos": 8,
         "name": "Marciello / Farfus / Rossi",
         "points": 15,
         "vehicle": "BMW M4 GT3"
       },
       {
-        "pos": 4,
-        "name": "Hesse / Oosten / Ruan",
-        "points": 12,
-        "vehicle": "BMW M4 GT3"
-      },
-      {
-        "pos": 5,
-        "name": "Picariello / Buus / Campbell",
-        "points": 10,
-        "vehicle": "Porsche 911 GT3 R"
-      },
-      {
-        "pos": 6,
-        "name": "Stolz / Habul / Gounon",
-        "points": 8,
-        "vehicle": "Mercedes-AMG GT3"
-      },
-      {
-        "pos": 7,
-        "name": "Heinrich / Bachler / Feller",
-        "points": 6,
-        "vehicle": "Porsche 911 GT3 R"
-      },
-      {
-        "pos": 8,
-        "name": "Serra / Evans / Rigon",
-        "points": 4,
-        "vehicle": "Ferrari 296 GT3"
-      },
-      {
         "pos": 9,
-        "name": "Hui / Froggatt / Wood / Patrese",
-        "points": 2,
-        "vehicle": "Ferrari 296 GT3"
+        "name": "Oosten / Ruan / Christensen / Sturm",
+        "points": 12,
+        "vehicle": "BMW / Porsche"
       },
       {
         "pos": 10,
-        "name": "Renauer / Renauer / Bohn",
-        "points": 1,
-        "vehicle": "Porsche 911 GT3 R"
+        "name": "Picariello / Campbell / Olsen / Mies / Vervisch / Stippler",
+        "points": 10,
+        "vehicle": "Porsche / Ford"
       }
     ],
     "wrc": [
@@ -1609,56 +1609,62 @@
       {
         "pos": 1,
         "name": "Caleb Campbell",
-        "points": 75,
+        "points": 108,
         "team": "Kiwi Motorsport"
       },
       {
         "pos": 2,
         "name": "Zach Fourie (R)",
-        "points": 54,
+        "points": 87,
         "team": "Kiwi Motorsport"
       },
       {
         "pos": 3,
+        "name": "Gastón Irazú",
+        "points": 80,
+        "team": "Champagne Racing"
+      },
+      {
+        "pos": 4,
         "name": "Cole Medeiros (R)",
         "points": 39,
         "team": "MLT Motorsports"
       },
       {
-        "pos": 4,
-        "name": "Gastón Irazú (R)",
-        "points": 30,
-        "team": "Champagne Racing"
-      },
-      {
         "pos": 5,
-        "name": "Robert Soroka",
-        "points": 28,
-        "team": "Vmax Motorsport"
-      },
-      {
-        "pos": 6,
-        "name": "Fernando Rivera (R)",
-        "points": 16,
-        "team": "Crosslink Motorsports"
-      },
-      {
-        "pos": 7,
         "name": "Clemente Huerta",
-        "points": 16,
+        "points": 36,
         "team": "Speed Factory"
       },
       {
+        "pos": 6,
+        "name": "Luca Day (R)",
+        "points": 32,
+        "team": "Momentum Motorsports"
+      },
+      {
+        "pos": 7,
+        "name": "Robert Soroka (R)",
+        "points": 28,
+        "team": "VMax Motorsport"
+      },
+      {
         "pos": 8,
-        "name": "Ayden Kohut (R)",
-        "points": 10,
-        "team": "Kiwi Motorsport"
+        "name": "Fernando Rivera",
+        "points": 26,
+        "team": "Crosslink Motorsports"
       },
       {
         "pos": 9,
-        "name": "Luca Day (R)",
-        "points": 8,
-        "team": "Momentum Motorsports"
+        "name": "Ayden Kohut (R)",
+        "points": 22,
+        "team": "Kiwi Motorsport"
+      },
+      {
+        "pos": 10,
+        "name": "Ben Ramirez (R)",
+        "points": 14,
+        "team": "RASE Motorsports"
       }
     ],
     "xtrial": [
@@ -2545,6 +2551,43 @@
         "points": 20,
         "team": "#77 Craft-Bamboo Racing",
         "vehicle": "Mercedes-AMG GT3 Evo"
+      }
+    ],
+    "japancup": [
+      {
+        "pos": 1,
+        "name": "Sasahara / Takei",
+        "points": 37,
+        "team": "#9 Bingo Racing with LM corsa",
+        "vehicle": "Porsche 911 GT3 R"
+      },
+      {
+        "pos": 2,
+        "name": "Motojima / Shibata",
+        "points": 36,
+        "team": "#24 Max Racing",
+        "vehicle": "Mercedes-AMG GT3 Evo"
+      },
+      {
+        "pos": 3,
+        "name": "Kawabata / Tsuzuki",
+        "points": 35,
+        "team": "#1 Hitotsuyama with Cornes Racing",
+        "vehicle": "Ferrari 296 GT3"
+      },
+      {
+        "pos": 4,
+        "name": "Uematsu / Yamashita",
+        "points": 30,
+        "team": "#88 Team Uematsu",
+        "vehicle": "McLaren 720S GT3"
+      },
+      {
+        "pos": 5,
+        "name": "Maezawa / Yokomizo",
+        "points": 20,
+        "team": "#555 Maezawa Racing",
+        "vehicle": "Ferrari 296 GT3"
       }
     ],
     "caterham310r": [
