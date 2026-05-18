@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-18T02:07:54.287Z",
+  "generatedAt": "2026-05-18T02:15:47.298Z",
   "events": [
     {
       "id": 101,
@@ -42557,9 +42557,24 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-05-22T10:40:00+08:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-22T16:10:00+08:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-23T10:20:00+08:00",
+          "duration": 40
+        },
+        {
           "name": "Race 1",
-          "time": "2026-05-23T20:00:00+08:00",
-          "tbd": true,
+          "time": "2026-05-23T14:55:00+08:00",
+          "duration": 60,
           "broadcastUS": "YouTube/LamborghiniSquadraCorse",
           "broadcasts": {
             "Global": {
@@ -42569,8 +42584,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-05-24T20:00:00+08:00",
-          "tbd": true,
+          "time": "2026-05-24T12:55:00+08:00",
+          "duration": 60,
           "broadcastUS": "YouTube/LamborghiniSquadraCorse",
           "broadcasts": {
             "Global": {
