@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T20:47:44.114Z",
+  "generatedAt": "2026-05-19T21:44:20.656Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1115,6 +1115,30 @@
         {
           "url": "https://www.grcupseries.com/standings",
           "label": "Official standings"
+        }
+      ]
+    },
+    "internationalgt": {
+      "schedule": [
+        {
+          "url": "https://igt.motorsportreg.com/",
+          "label": "IGT registration calendar (MotorsportReg)"
+        },
+        {
+          "url": "https://internationalgt.net/",
+          "label": "International GT — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://internationalgt.net/race-results/",
+          "label": "Official race results (per-event PDFs)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://internationalgt.net/stuttgart-cup-points-standing/",
+          "label": "Stuttgart Cup + Mission Foods GT3 Cup points"
         }
       ]
     },

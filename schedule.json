@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T20:39:57.702Z",
+  "generatedAt": "2026-05-19T21:44:18.240Z",
   "events": [
     {
       "id": 101,
@@ -40823,6 +40823,214 @@
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
           "broadcastUS": "YouTube/peterautoracing"
+        }
+      ]
+    },
+    {
+      "id": 3770,
+      "series": "internationalgt",
+      "name": "Sebring SpeedTour",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-02-28T09:00:00-05:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3771,
+      "series": "internationalgt",
+      "name": "Road Atlanta SpeedTour",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-03-14T09:00:00-04:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3772,
+      "series": "internationalgt",
+      "name": "Lime Rock SpeedTour",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-21T09:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-21T14:15:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-05-21T17:10:00-04:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/racingamericatv"
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-05-22T09:35:00-04:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/racingamericatv"
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-05-22T14:00:00-04:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/racingamericatv"
+        },
+        {
+          "name": "Enduro",
+          "time": "2026-05-23T09:05:00-04:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3773,
+      "series": "internationalgt",
+      "name": "Mid-Ohio SpeedTour",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3774,
+      "series": "internationalgt",
+      "name": "Road America SpeedTour",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3775,
+      "series": "internationalgt",
+      "name": "Watkins Glen SpeedTour",
+      "circuit": "Watkins Glen International",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3776,
+      "series": "internationalgt",
+      "name": "VIR SpeedTour",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3777,
+      "series": "internationalgt",
+      "name": "Laguna Seca SpeedTour",
+      "circuit": "WeatherTech Raceway Laguna Seca",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3778,
+      "series": "internationalgt",
+      "name": "Barber SpeedTour",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3779,
+      "series": "internationalgt",
+      "name": "COTA SpeedTour",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Enduro",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/racingamericatv"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-19T20:47:43.428Z",
+  "generatedAt": "2026-05-19T21:44:19.199Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1708,6 +1708,33 @@
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.grcupseries.com/results"
+    },
+    "internationalgt": {
+      "id": "internationalgt",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "gt4",
+        "porsche",
+        "ferrari",
+        "north-america",
+        "regional-series"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "International GT",
+      "short": "IGT",
+      "color": "#CA8A04",
+      "bg": "rgba(202,138,4,0.15)",
+      "broadcast": {
+        "US": "YouTube/racingamericatv"
+      },
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
+      "resultsUrl": "https://internationalgt.net/race-results/"
     },
     "gt3revival": {
       "id": "gt3revival",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T20:25:39.553Z",
+  "generatedAt": "2026-05-19T21:44:19.936Z",
   "groups": {
     "f1": [
       {
@@ -474,6 +474,20 @@
         "sessions": [
           "Qualifying 1",
           "Qualifying 2"
+        ]
+      }
+    ],
+    "internationalgt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
         ]
       }
     ],
