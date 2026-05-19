@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-18T23:31:59.181Z",
+  "generatedAt": "2026-05-19T00:05:40.879Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -491,7 +491,7 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "US": "FloRacing / FS1",
+        "US": "FloRacing",
         "UK": "FloRacing",
         "AU": "FloRacing"
       },
@@ -568,9 +568,14 @@
       "color": "#7F77DD",
       "bg": "rgba(127,119,221,0.15)",
       "broadcast": {
-        "US": "Rally.tv",
-        "UK": "Rally.tv",
-        "AU": "Rally.tv"
+        "US": "Rally.TV",
+        "UK": "Rally.TV",
+        "IE": "Rally.TV",
+        "CA": "Rally.TV",
+        "AU": "Rally.TV",
+        "DE": "ServusTV",
+        "AT": "ServusTV",
+        "Global": "Rally.TV"
       },
       "resultsUrl": "https://www.wrc.com/en/results-and-standings"
     },
