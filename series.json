@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-19T16:59:32.374Z",
+  "generatedAt": "2026-05-19T20:25:38.856Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1752,6 +1752,26 @@
       "bg": "rgba(30,58,138,0.15)",
       "broadcast": {
         "US": "MotorTrend",
+        "Global": "YouTube/peterautoofficial"
+      },
+      "streamUrl": "https://www.youtube.com/@peterautoofficial",
+      "resultsUrl": "http://peterautoracing.alkamelsystems.com/"
+    },
+    "legendsoflemans": {
+      "id": "legendsoflemans",
+      "tags": [
+        "sports-car",
+        "historic",
+        "regional-series",
+        "europe"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Legends of Le Mans",
+      "short": "LoL",
+      "color": "#581C87",
+      "bg": "rgba(88,28,135,0.15)",
+      "broadcast": {
         "Global": "YouTube/peterautoofficial"
       },
       "streamUrl": "https://www.youtube.com/@peterautoofficial",

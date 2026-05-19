@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T16:59:33.105Z",
+  "generatedAt": "2026-05-19T20:25:39.553Z",
   "groups": {
     "f1": [
       {
@@ -520,6 +520,22 @@
           "Endurance Racing Legends 1 Qualifying 2",
           "Endurance Racing Legends 2 Qualifying 1",
           "Endurance Racing Legends 2 Qualifying 2"
+        ]
+      }
+    ],
+    "legendsoflemans": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

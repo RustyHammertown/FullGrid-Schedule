@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T16:59:31.623Z",
+  "generatedAt": "2026-05-19T20:25:38.123Z",
   "events": [
     {
       "id": 101,
@@ -40691,6 +40691,138 @@
           "time": "2026-11-14T07:00:00-05:00",
           "tbd": true,
           "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3760,
+      "series": "legendsoflemans",
+      "name": "6 Hours of Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-04-17T09:30:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-04-17T13:15:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-17T17:30:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-18T09:45:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-18T16:30:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-19T08:40:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3761,
+      "series": "legendsoflemans",
+      "name": "6 Hours of Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-07T09:20:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-07T14:00:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-07T17:25:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-08T09:25:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-08T16:50:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-09T09:30:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3762,
+      "series": "legendsoflemans",
+      "name": "24 Hours of Le Mans",
+      "circuit": "Circuit de la Sarthe",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3763,
+      "series": "legendsoflemans",
+      "name": "8 Hours of Bahrain",
+      "circuit": "Bahrain International Circuit",
+      "flag": "🇧🇭",
+      "country": "Bahrain",
+      "tz": "Asia/Bahrain",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
         }
       ]
     },

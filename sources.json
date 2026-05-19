@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T16:59:33.781Z",
+  "generatedAt": "2026-05-19T20:25:40.244Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1157,6 +1157,24 @@
         {
           "url": "http://peterautoracing.alkamelsystems.com/",
           "label": "Le Mans Classic Series timing & results (Al Kamel Systems)"
+        }
+      ]
+    },
+    "legendsoflemans": {
+      "schedule": [
+        {
+          "url": "https://legends.peterauto.fr/",
+          "label": "Legends of Le Mans — official (calendar)"
+        },
+        {
+          "url": "https://www.fiawec.com/en/race/all",
+          "label": "FIA WEC race pages (Timetable V2 PDFs per round)"
+        }
+      ],
+      "results": [
+        {
+          "url": "http://peterautoracing.alkamelsystems.com/",
+          "label": "Peter Auto timing & results (Al Kamel Systems)"
         }
       ]
     },
