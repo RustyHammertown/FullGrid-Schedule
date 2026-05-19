@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-19T21:44:19.199Z",
+  "generatedAt": "2026-05-19T22:09:13.333Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1735,6 +1735,56 @@
       ],
       "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://internationalgt.net/race-results/"
+    },
+    "transamnational": {
+      "id": "transamnational",
+      "tags": [
+        "sports-car",
+        "touring-car",
+        "gt3",
+        "north-america",
+        "regional-series"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "Trans Am National",
+      "short": "TA-N",
+      "color": "#B91C1C",
+      "bg": "rgba(185,28,28,0.15)",
+      "broadcast": {
+        "US": "YouTube/TheTransAmSeries"
+      },
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@TheTransAmSeries/streams",
+      "resultsUrl": "https://www.gotransam.com/standings/"
+    },
+    "transamwestern": {
+      "id": "transamwestern",
+      "tags": [
+        "sports-car",
+        "touring-car",
+        "gt3",
+        "north-america",
+        "regional-series"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "Trans Am Western",
+      "short": "TA-W",
+      "color": "#2563EB",
+      "bg": "rgba(37,99,235,0.15)",
+      "broadcast": {
+        "US": "YouTube/TheTransAmSeries"
+      },
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@TheTransAmSeries/streams",
+      "resultsUrl": "https://www.gotransam.com/standings/"
     },
     "gt3revival": {
       "id": "gt3revival",

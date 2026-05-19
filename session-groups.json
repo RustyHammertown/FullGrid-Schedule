@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T21:44:19.936Z",
+  "generatedAt": "2026-05-19T22:09:14.013Z",
   "groups": {
     "f1": [
       {
@@ -488,6 +488,42 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying"
+        ]
+      }
+    ],
+    "transamnational": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "TA/GT Practice",
+          "TA2 Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "TA/GT Qualifying",
+          "TA2 Qualifying"
+        ]
+      }
+    ],
+    "transamwestern": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "TA/GT Practice",
+          "TA2 Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "TA/GT Qualifying",
+          "TA2 Qualifying"
         ]
       }
     ],

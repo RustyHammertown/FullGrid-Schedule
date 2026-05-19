@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T21:44:18.240Z",
+  "generatedAt": "2026-05-19T22:09:12.532Z",
   "events": [
     {
       "id": 101,
@@ -41031,6 +41031,266 @@
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true,
           "broadcastUS": "YouTube/racingamericatv"
+        }
+      ]
+    },
+    {
+      "id": 3780,
+      "series": "transamnational",
+      "name": "Sebring",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-28T12:00:00-05:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3781,
+      "series": "transamnational",
+      "name": "Road Atlanta",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-14T12:00:00-04:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3782,
+      "series": "transamnational",
+      "name": "Sonoma",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-25T12:00:00-07:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3783,
+      "series": "transamnational",
+      "name": "Lime Rock",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "TA/GT Practice",
+          "time": "2026-05-22T10:45:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "TA2 Practice",
+          "time": "2026-05-22T11:20:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "TA/GT Qualifying",
+          "time": "2026-05-22T15:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "TA2 Qualifying",
+          "time": "2026-05-22T16:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "TA/GT Race",
+          "time": "2026-05-23T11:40:00-04:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        },
+        {
+          "name": "TA2 Race",
+          "time": "2026-05-23T14:30:00-04:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3784,
+      "series": "transamnational",
+      "name": "Indianapolis",
+      "circuit": "Indianapolis Motor Speedway (Road Course)",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3785,
+      "series": "transamnational",
+      "name": "Road America",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3786,
+      "series": "transamnational",
+      "name": "Watkins Glen",
+      "circuit": "Watkins Glen International",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3787,
+      "series": "transamnational",
+      "name": "Canadian Tire Motorsport Park",
+      "circuit": "Canadian Tire Motorsport Park",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3788,
+      "series": "transamnational",
+      "name": "VIR",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3789,
+      "series": "transamnational",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3790,
+      "series": "transamwestern",
+      "name": "Sonoma",
+      "circuit": "Sonoma Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-25T12:00:00-07:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3791,
+      "series": "transamwestern",
+      "name": "Laguna Seca",
+      "circuit": "WeatherTech Raceway Laguna Seca",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
+        }
+      ]
+    },
+    {
+      "id": 3792,
+      "series": "transamwestern",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/TheTransAmSeries"
         }
       ]
     },

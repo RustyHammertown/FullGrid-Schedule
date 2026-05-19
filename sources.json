@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T21:44:20.656Z",
+  "generatedAt": "2026-05-19T22:09:14.682Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -21,6 +21,16 @@
       "standings": [
         {
           "url": "https://www.formula1.com/en/results/2026/drivers"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.formula1.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.formula1.com/en/timing/f1-live"
         }
       ]
     },
@@ -43,6 +53,11 @@
       "standings": [
         {
           "url": "https://www.motogp.com/en/world-standing/2026/motogp/championship-standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.motogp.com/"
         }
       ]
     },
@@ -67,6 +82,11 @@
         {
           "url": "https://www.motogp.com/en/world-standing/2026/moto2/championship-standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.motogp.com/"
+        }
       ]
     },
     "moto3": {
@@ -90,6 +110,11 @@
         {
           "url": "https://www.motogp.com/en/world-standing/2026/moto3/championship-standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.motogp.com/"
+        }
       ]
     },
     "indycar": {
@@ -107,6 +132,16 @@
       "standings": [
         {
           "url": "https://www.indycar.com/Standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.indycar.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://racecontrol.indycar.com/"
         }
       ]
     },
@@ -142,6 +177,16 @@
       "standings": [
         {
           "url": "https://www.nascar.com/standings/nascar-cup-series/"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.nascar.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.nascar.com/followlive/"
         }
       ]
     },
@@ -251,6 +296,11 @@
           "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
           "label": "Wikipedia (Cloudflare fallback)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.arcaracing.com/"
+        }
       ]
     },
     "arcaeast": {
@@ -282,6 +332,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.arcaracing.com/"
+        }
       ]
     },
     "arcawest": {
@@ -312,6 +367,11 @@
       "standings": [
         {
           "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.arcaracing.com/"
         }
       ]
     },
@@ -401,6 +461,11 @@
           "url": "https://www.enascar.com/",
           "label": "Official site"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.enascar.com/"
+        }
       ]
     },
     "f2": {
@@ -424,6 +489,16 @@
         {
           "url": "https://www.fiaformula2.com/Standings/Driver"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiaformula2.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.fiaformula2.com/livetiming/index.html"
+        }
       ]
     },
     "f3": {
@@ -440,6 +515,16 @@
       "standings": [
         {
           "url": "https://www.fiaformula3.com/Standings/Driver"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiaformula3.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.fiaformula3.com/livetiming/index.html"
         }
       ]
     },
@@ -459,6 +544,16 @@
         {
           "url": "https://www.fiaformulae.com/en/championship/drivers"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiaformulae.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming-formula-e.alkamelsystems.com/fiaformulae"
+        }
       ]
     },
     "wec": {
@@ -476,6 +571,16 @@
       "standings": [
         {
           "url": "https://www.fiawec.com/en/page/championship"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiawec.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://fiawec.alkamelsystems.com/"
         }
       ]
     },
@@ -495,6 +600,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_IMSA_SportsCar_Championship",
           "label": "Wikipedia (imsa.com is JS-rendered)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.imsa.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.alkamelsystems.com/IMSA"
         }
       ]
     },
@@ -520,6 +635,16 @@
           "url": "https://en.wikipedia.org/wiki/2026_Michelin_Pilot_Challenge",
           "label": "Wikipedia (fallback)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.imsa.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.alkamelsystems.com/IMSA"
+        }
       ]
     },
     "vpscc": {
@@ -539,6 +664,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_IMSA_VP_Racing_SportsCar_Challenge"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.imsa.com/vpracingsportscarchallenge/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://imsa.results.alkamelcloud.com/"
+        }
       ]
     },
     "trofeo": {
@@ -552,6 +687,16 @@
         {
           "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
           "label": "Official series page"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/north-america"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "http://lamborghinisupertrofeo.alkamelsystems.com/"
         }
       ]
     },
@@ -572,6 +717,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.mx-5cup.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.mx-5cup.com/results/live-timing"
+        }
       ]
     },
     "carrera": {
@@ -590,6 +745,16 @@
         {
           "url": "https://porschecarreracup.us/standings/"
         }
+      ],
+      "website": [
+        {
+          "url": "https://porschecarreracup.us/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.net/pccna/"
+        }
       ]
     },
     "mustang": {
@@ -603,6 +768,16 @@
         {
           "url": "https://www.imsa.com/mustangchallenge/",
           "label": "Official series page"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.imsa.com/mustang-challenge/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://imsa.results.alkamelcloud.com/"
         }
       ]
     },
@@ -621,6 +796,16 @@
       "standings": [
         {
           "url": "https://www.gt-world-challenge-america.com/standings?filter_season_id=11&filter_standing_type=16_31_teams"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.gt-world-challenge-america.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gt-world-challenge-america.com/watch-live"
         }
       ]
     },
@@ -641,6 +826,16 @@
           "url": "https://en.wikipedia.org/wiki/2026_GT_World_Challenge_Australia",
           "label": "Wikipedia (Drivers' Championship)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.gt-world-challenge-australia.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gt-world-challenge-australia.com/watch-live"
+        }
       ]
     },
     "gtwce": {
@@ -658,6 +853,16 @@
       "standings": [
         {
           "url": "https://www.gt-world-challenge-europe.com/standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.gt-world-challenge-europe.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gt-world-challenge-europe.com/watch-live#live-timing"
         }
       ]
     },
@@ -677,6 +882,16 @@
         {
           "url": "https://www.europeanlemansseries.com/en/page/classification-2"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.europeanlemansseries.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://elms.alkamelsystems.com/"
+        }
       ]
     },
     "igtc": {
@@ -694,6 +909,16 @@
       "standings": [
         {
           "url": "https://www.intercontinentalgtchallenge.com/standings?filter_season_id=16&filter_igtcstandingtype_id=2"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.intercontinentalgtchallenge.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.intercontinentalgtchallenge.com/watch-live#live-timing"
         }
       ]
     },
@@ -718,6 +943,16 @@
           "url": "https://toyotagazooracing.com/wrc/standings/2026/",
           "label": "Toyota mirror"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.wrc.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.wrc.com/live-timing"
+        }
       ]
     },
     "nhra": {
@@ -736,6 +971,11 @@
       "standings": [
         {
           "url": "https://www.nhra.com/standings/2026/nhra-mission-foods-drag-racing-series/nhra-mission-foods-drag-racing-series"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.nhra.com/"
         }
       ]
     },
@@ -756,6 +996,11 @@
         {
           "url": "https://www.highlimitracing.com/standings/2026/31205/1000"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.highlimitracing.com/"
+        }
       ]
     },
     "woosc": {
@@ -774,6 +1019,11 @@
       "standings": [
         {
           "url": "https://worldofoutlaws.com/sprintcars/series-points/"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://worldofoutlaws.com/"
         }
       ]
     },
@@ -794,6 +1044,11 @@
         {
           "url": "https://worldofoutlaws.com/latemodels/series-points/"
         }
+      ],
+      "website": [
+        {
+          "url": "https://worldofoutlaws.com/"
+        }
       ]
     },
     "floracing": {
@@ -812,6 +1067,11 @@
       "standings": [
         {
           "url": "https://www.floseries.com/standings/"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.floracing.com/"
         }
       ]
     },
@@ -848,6 +1108,11 @@
           "url": "https://racerxonline.com/sx/2026/points/250sx-west",
           "label": "Racer X — 250SX West"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.supercrosslive.com/"
+        }
       ]
     },
     "promotocross": {
@@ -869,6 +1134,11 @@
       "standings": [
         {
           "url": "https://promotocross.com/standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://promotocross.com/"
         }
       ]
     },
@@ -892,6 +1162,11 @@
         {
           "url": "https://www.supermotocross.com/points-championship/"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.supermotocross.com/"
+        }
       ]
     },
     "xtrial": {
@@ -911,6 +1186,11 @@
         {
           "url": "https://www.x-trial.com/en/standings.html",
           "label": "Official championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.x-trial.com/"
         }
       ]
     },
@@ -936,6 +1216,16 @@
           "url": "https://en.wikipedia.org/wiki/2026_Indy_NXT",
           "label": "Wikipedia (verified May 2026)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.indynxt.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://racecontrol.indycar.com/"
+        }
       ]
     },
     "gtwasia": {
@@ -955,6 +1245,16 @@
         {
           "url": "https://www.gt-world-challenge-asia.com/standings",
           "label": "Official standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.gt-world-challenge-asia.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gt-world-challenge-asia.com/watch-live#live-timing"
         }
       ]
     },
@@ -976,6 +1276,11 @@
           "url": "https://japancup.co/standings",
           "label": "Official standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://japancup.co/"
+        }
       ]
     },
     "ffsagt": {
@@ -995,6 +1300,16 @@
         {
           "url": "https://ffsagt.gt4series.com/standings",
           "label": "Official standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://ffsagt.gt4series.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://ffsagt.gt4series.com/watch-live#live-timing"
         }
       ]
     },
@@ -1016,6 +1331,16 @@
           "url": "https://www.gt4-america.com/standings",
           "label": "Official standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.gt4-america.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gt4-america.com/watch-live#live-timing"
+        }
       ]
     },
     "gt4australia": {
@@ -1035,6 +1360,16 @@
         {
           "url": "https://gt4australia.com.au/standings",
           "label": "Official standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://gt4australia.com.au/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://gt4australia.com.au/watch-live#live-timing"
         }
       ]
     },
@@ -1056,6 +1391,16 @@
           "url": "https://www.tcamerica.us/standings",
           "label": "Official standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.tcamerica.us/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.tcamerica.us/watch-live#live-timing"
+        }
       ]
     },
     "ffsatourisme": {
@@ -1075,6 +1420,16 @@
         {
           "url": "https://www.ffsatourisme.fr/standings",
           "label": "Official standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.ffsatourisme.fr/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.ffsatourisme.fr/watch-live#live-timing"
         }
       ]
     },
@@ -1096,6 +1451,16 @@
           "url": "https://www.gtamerica.us/standings",
           "label": "Official standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.gtamerica.us/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gtamerica.us/watch-live#live-timing"
+        }
       ]
     },
     "grcup": {
@@ -1115,6 +1480,16 @@
         {
           "url": "https://www.grcupseries.com/standings",
           "label": "Official standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.grcupseries.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.grcupseries.com/watch-live#live-timing"
         }
       ]
     },
@@ -1140,6 +1515,76 @@
           "url": "https://internationalgt.net/stuttgart-cup-points-standing/",
           "label": "Stuttgart Cup + Mission Foods GT3 Cup points"
         }
+      ],
+      "website": [
+        {
+          "url": "https://internationalgt.net/",
+          "label": "International GT — official"
+        }
+      ]
+    },
+    "transamnational": {
+      "schedule": [
+        {
+          "url": "https://www.gotransam.com/events/2026-Trans-Am-National-Championship/cat/544",
+          "label": "Official calendar + per-event timetable PDFs"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gotransam.com/standings/",
+          "label": "Results + points standings"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gotransam.com/standings/",
+          "label": "Driver championship points (PDF per round)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.gotransam.com/",
+          "label": "Trans Am Series — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gotransam.com/livetiming/",
+          "label": "Official live timing"
+        }
+      ]
+    },
+    "transamwestern": {
+      "schedule": [
+        {
+          "url": "https://www.gotransam.com/events/2026-Trans-Am-Western-Championship/cat/545",
+          "label": "Official calendar + per-event timetable PDFs"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gotransam.com/standings/",
+          "label": "Results + points standings"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gotransam.com/standings/",
+          "label": "Driver championship points (PDF per round)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.gotransam.com/",
+          "label": "Trans Am Series — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gotransam.com/livetiming/",
+          "label": "Official live timing"
+        }
       ]
     },
     "gt3revival": {
@@ -1164,6 +1609,16 @@
           "url": "https://gt3revivalseries.com/standings",
           "label": "Official standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://gt3revivalseries.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://gt3revivalseries.com/watch-live#live-timing"
+        }
       ]
     },
     "lemansclassic": {
@@ -1182,6 +1637,11 @@
           "url": "http://lemansclassicseries.alkamelsystems.com/",
           "label": "Le Mans Classic Series timing & results (Al Kamel Systems)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.lemansclassic.com/"
+        }
       ]
     },
     "legendsoflemans": {
@@ -1199,6 +1659,11 @@
         {
           "url": "http://peterautoracing.alkamelsystems.com/",
           "label": "Peter Auto timing & results (Al Kamel Systems)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://legends.peterauto.fr/"
         }
       ]
     },
@@ -1220,6 +1685,16 @@
           "url": "https://www.gt4europeanseries.com/standings",
           "label": "Official standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://gt4europeanseries.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://gt4europeanseries.com/watch-live#live-timing"
+        }
       ]
     },
     "mclarena": {
@@ -1233,6 +1708,16 @@
         {
           "url": "https://mclarentrophyamerica.com/results",
           "label": "Official results"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.mclarentrophyamerica.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.mclarentrophyamerica.com/watch-live#live-timing"
         }
       ]
     },
@@ -1248,6 +1733,16 @@
           "url": "https://mclarentrophyeurope.com/results",
           "label": "Official results"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.mclarentrophyeurope.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.mclarentrophyeurope.com/watch-live#live-timing"
+        }
       ]
     },
     "trofeoeu": {
@@ -1262,6 +1757,16 @@
           "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
           "label": "Squadra Corse — Super Trofeo"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/europe"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "http://lamborghinisupertrofeo.alkamelsystems.com/"
+        }
       ]
     },
     "trofeoasia": {
@@ -1275,6 +1780,16 @@
         {
           "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
           "label": "Squadra Corse — Super Trofeo"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/asia"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "http://lamborghinisupertrofeo.alkamelsystems.com/"
         }
       ]
     },
@@ -1294,6 +1809,11 @@
           "url": "https://www.fordracing.com/motorsport/mustang-cup",
           "label": "Ford Racing — Mustang Cup"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.fordracing.com/motorsport/mustang-cup"
+        }
       ]
     },
     "mustangcupau": {
@@ -1311,6 +1831,11 @@
         {
           "url": "https://www.fordracing.com/motorsport/mustang-cup-australia",
           "label": "Ford Racing — Mustang Cup Australia"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fordracing.com/motorsport/mustang-cup-australia"
         }
       ]
     },
@@ -1330,6 +1855,16 @@
           "url": "https://racing.porsche.com/en-US/series/mobil-1-supercup",
           "label": "Porsche Motorsport — Supercup"
         }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/series/mobil-1-supercup"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://racing.porsche.com/live-timing/porsche-mobil-1-supercup"
+        }
       ]
     },
     "pscna": {
@@ -1348,6 +1883,11 @@
           "url": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america",
           "label": "Porsche Motorsport — PSCNA"
         }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america"
+        }
       ]
     },
     "pscw": {
@@ -1362,6 +1902,11 @@
           "url": "https://www.porschesprint.com/",
           "label": "Porsche Sprint Challenge — official"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.porschesprint.com/"
+        }
       ]
     },
     "pec": {
@@ -1375,6 +1920,11 @@
         {
           "url": "https://www.porschesprint.com/",
           "label": "Porsche Sprint Challenge — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.porschesprint.com/"
         }
       ]
     },
@@ -1393,6 +1943,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_Supercars_Championship",
           "label": "Wikipedia (race-by-race results)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.supercars.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.supercars.com/live-timing"
         }
       ]
     },
@@ -1416,6 +1976,16 @@
           "url": "https://btcc.net/results/",
           "label": "BTCC — official results"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.btcc.net/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://btcc.net/live/live-timing/"
+        }
       ]
     },
     "f4british": {
@@ -1437,6 +2007,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_F4_British_Championship",
           "label": "Wikipedia (race-by-race)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://fiaformula4.com/"
         }
       ]
     },
@@ -1462,6 +2037,16 @@
           "url": "https://www.f4uschampionship.com/event_scoring_points?season=2026&point_type=driver",
           "label": "F4 US — official driver standings"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.f4uschampionship.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.race-monitor.com/Live"
+        }
       ]
     },
     "pccgb": {
@@ -1484,6 +2069,11 @@
           "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain",
           "label": "Wikipedia (race-by-race)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain"
+        }
       ]
     },
     "pscgb": {
@@ -1501,6 +2091,11 @@
         {
           "url": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain",
           "label": "Official results"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain"
         }
       ]
     },
@@ -1520,6 +2115,11 @@
           "url": "https://www.minichallenge.co.uk/",
           "label": "MINI CHALLENGE — official"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.minichallenge.co.uk/"
+        }
       ]
     },
     "minitrophy": {
@@ -1533,6 +2133,11 @@
         {
           "url": "https://www.minichallenge.co.uk/",
           "label": "MINI CHALLENGE — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.minichallenge.co.uk/"
         }
       ]
     },
@@ -1552,6 +2157,11 @@
           "url": "https://www.barc.net/championship/caterham-seven-championship-uk/",
           "label": "BARC — Caterham Seven UK"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.barc.net/"
+        }
       ]
     },
     "caterham310r": {
@@ -1569,6 +2179,11 @@
         {
           "url": "https://www.barc.net/championship/caterham-seven-310r-championship/",
           "label": "BARC — Caterham Seven 310R"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.barc.net/"
         }
       ]
     },
@@ -1588,6 +2203,11 @@
           "url": "https://www.mini7.co.uk/",
           "label": "Mini 7 Racing Club — official"
         }
+      ],
+      "website": [
+        {
+          "url": "https://www.mini7.co.uk/"
+        }
       ]
     },
     "minimiglia": {
@@ -1605,6 +2225,11 @@
         {
           "url": "https://www.mini7.co.uk/",
           "label": "Mini 7 Racing Club — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.mini7.co.uk/"
         }
       ]
     },
@@ -1624,6 +2249,11 @@
           "url": "https://legendsracingeurope.com/",
           "label": "Legends Racing Europe — official"
         }
+      ],
+      "website": [
+        {
+          "url": "https://legendsracingeurope.com/"
+        }
       ]
     },
     "scotlegends": {
@@ -1641,6 +2271,11 @@
         {
           "url": "https://legendsracingeurope.com/",
           "label": "Legends Racing Europe — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.smrc.co.uk/"
         }
       ]
     },
@@ -1660,6 +2295,11 @@
           "url": "https://classictouringcars.com/",
           "label": "CTCRC — official"
         }
+      ],
+      "website": [
+        {
+          "url": "https://classictouringcars.com/"
+        }
       ]
     },
     "tcreu": {
@@ -1677,6 +2317,11 @@
         {
           "url": "https://europe.tcr-series.com/index.php/tcrstandings",
           "label": "TCR Europe — standings (race-by-race)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://europe.tcr-series.com/"
         }
       ]
     },
@@ -1696,6 +2341,16 @@
           "url": "https://en.wikipedia.org/wiki/2026_International_GT_Open",
           "label": "Wikipedia (race-by-race)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://gtopen.gtsport.es/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://gtsport.cronococa.com/"
+        }
       ]
     },
     "efo": {
@@ -1713,6 +2368,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_Euroformula_Open_Championship",
           "label": "Wikipedia (race-by-race)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://euroformula.gtsport.es/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://gtsport.cronococa.com/"
         }
       ]
     },
@@ -1732,6 +2397,16 @@
           "url": "https://en.wikipedia.org/wiki/2026_GT_Cup_Open_Europe",
           "label": "Wikipedia (race-by-race)"
         }
+      ],
+      "website": [
+        {
+          "url": "https://gtcup.gtsport.es/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://gtsport.cronococa.com/"
+        }
       ]
     },
     "pccd": {
@@ -1749,6 +2424,16 @@
         {
           "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany",
           "label": "Wikipedia (race-by-race)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/de-DE/series/carrera-cup-deutschland"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://racing.porsche.com/de-DE/live-timing/porsche-sixt-carrera-cup-deutschland"
         }
       ]
     }
