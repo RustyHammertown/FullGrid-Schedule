@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-12T21:49:00.514Z",
+  "generatedAt": "2026-05-19T03:21:16.225Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1123,6 +1123,10 @@
         {
           "url": "https://gt3revivalseries.com/calendar",
           "label": "Official calendar (per-event timetable PDFs)"
+        },
+        {
+          "url": "https://files.peterauto.fr/share/xnOWY1VSfNHeCPOGqgNw",
+          "label": "Peter Auto file-share (Spa Classic + Le Mans Classic timetable PDFs)"
         }
       ],
       "results": [
