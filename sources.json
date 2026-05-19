@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T20:25:40.244Z",
+  "generatedAt": "2026-05-19T20:47:44.114Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1155,7 +1155,7 @@
       ],
       "results": [
         {
-          "url": "http://peterautoracing.alkamelsystems.com/",
+          "url": "http://lemansclassicseries.alkamelsystems.com/",
           "label": "Le Mans Classic Series timing & results (Al Kamel Systems)"
         }
       ]
