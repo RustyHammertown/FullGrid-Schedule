@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T03:15:50.572Z",
+  "generatedAt": "2026-05-19T16:28:13.270Z",
   "events": [
     {
       "id": 101,
@@ -40076,31 +40076,31 @@
       "sessions": [
         {
           "name": "Free Practice",
-          "time": "2026-05-22T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-05-22T12:55:00+02:00",
+          "duration": 45
         },
         {
           "name": "Pre-Qualifying",
-          "time": "2026-05-22T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-22T19:05:00+02:00",
+          "duration": 45,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-05-23T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-23T11:55:00+02:00",
+          "duration": 15,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-05-23T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-23T12:20:00+02:00",
+          "duration": 15,
           "broadcastUS": "YouTube/GTWorld"
         },
         {
           "name": "Race 1",
-          "time": "2026-05-23T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-23T21:25:00+02:00",
+          "duration": 50,
           "broadcastUS": "YouTube/GTWorld",
           "broadcasts": {
             "Global": {
@@ -40110,8 +40110,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-05-24T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-05-24T14:35:00+02:00",
+          "duration": 50,
           "broadcastUS": "YouTube/GTWorld",
           "broadcasts": {
             "Global": {
