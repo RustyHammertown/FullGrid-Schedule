@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-19T00:05:40.879Z",
+  "generatedAt": "2026-05-19T00:20:33.939Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -374,8 +374,11 @@
       "bg": "rgba(79,184,73,0.15)",
       "broadcast": {
         "US": "The CW",
-        "UK": "Premier Sports",
-        "AU": "Fox Sports"
+        "CA": "TSN",
+        "UK": "Premier Sports 2",
+        "IE": "Premier Sports 2",
+        "AU": "Fox Sports / Kayo",
+        "NZ": "ThreeNow"
       },
       "resultsUrl": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule",
       "fallbackMinutes": 150,
@@ -1832,9 +1835,13 @@
       "color": "#FACC15",
       "bg": "rgba(250,204,21,0.15)",
       "broadcast": {
-        "AU": "Fox Sports / 7mate",
-        "US": "Supercars+",
-        "UK": "Supercars+"
+        "AU": "Fox Sports / Kayo / Seven Network",
+        "NZ": "Sky Sport NZ",
+        "UK": "TNT Sports / discovery+",
+        "IE": "TNT Sports / discovery+",
+        "US": "SuperView",
+        "CA": "SuperView",
+        "Global": "SuperView"
       },
       "streamUrl": "https://www.supercars.com/",
       "resultsUrl": "https://www.supercars.com/championship/results/"
