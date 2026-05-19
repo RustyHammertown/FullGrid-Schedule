@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T00:20:33.286Z",
+  "generatedAt": "2026-05-19T00:50:24.025Z",
   "events": [
     {
       "id": 101,
@@ -10311,10 +10311,13 @@
           "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10322,31 +10325,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10355,32 +10349,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -10395,10 +10419,13 @@
           "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10406,31 +10433,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10439,32 +10457,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -10478,10 +10526,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-daytona-500/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10489,31 +10540,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10522,32 +10564,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -10581,10 +10653,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-autotrader-400/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10592,31 +10667,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10625,32 +10691,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -10691,10 +10787,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/duramax-grand-prix-powered-by-reladyne/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10702,31 +10801,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10735,32 +10825,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -10801,10 +10921,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-straight-talk-wireless-500/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10812,31 +10935,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10845,32 +10959,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -10911,10 +11055,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-pennzoil-400/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -10922,31 +11069,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -10955,32 +11093,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11021,10 +11189,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-goodyear-400/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11032,31 +11203,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11065,32 +11227,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11131,10 +11323,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-cook-out-400-martinsville/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11142,31 +11337,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11175,32 +11361,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11241,10 +11457,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-food-city-500/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11252,31 +11471,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11285,32 +11495,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11351,10 +11591,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-adventhealth-400/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11362,31 +11605,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11395,32 +11629,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11454,10 +11718,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-jack-links-500/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11465,31 +11732,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11498,32 +11756,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11562,10 +11850,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-wurth-400-presented-by-liqui-moly/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11573,31 +11864,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11606,32 +11888,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11672,10 +11984,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-go-bowling-at-the-glen/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11683,31 +11998,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11716,32 +12022,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11779,10 +12115,13 @@
           "laps": 400,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11790,31 +12129,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11823,32 +12153,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11874,10 +12234,13 @@
           "laps": 300,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11885,31 +12248,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -11918,32 +12272,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -11969,10 +12353,13 @@
           "laps": 200,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -11980,31 +12367,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12013,32 +12391,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12064,10 +12472,13 @@
           "laps": 160,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12075,31 +12486,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12108,32 +12510,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12159,10 +12591,13 @@
           "laps": 75,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12170,31 +12605,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12203,32 +12629,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12254,10 +12710,13 @@
           "laps": 110,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12265,31 +12724,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12298,32 +12748,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12349,10 +12829,13 @@
           "laps": 200,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12360,31 +12843,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12393,32 +12867,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12444,10 +12948,13 @@
           "laps": 260,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12455,31 +12962,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12488,32 +12986,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12539,10 +13067,13 @@
           "laps": 450,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12550,31 +13081,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12583,32 +13105,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12634,10 +13186,13 @@
           "laps": 160,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12645,31 +13200,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12678,32 +13224,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12729,10 +13305,13 @@
           "laps": 350,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12740,31 +13319,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12773,32 +13343,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12824,10 +13424,13 @@
           "laps": 400,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12835,31 +13438,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12868,32 +13462,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -12919,10 +13543,13 @@
           "laps": 301,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -12930,31 +13557,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -12963,32 +13581,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13014,10 +13662,13 @@
           "laps": 160,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13025,31 +13676,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13058,32 +13700,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13109,10 +13781,13 @@
           "laps": 367,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13120,31 +13795,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13153,32 +13819,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13204,10 +13900,13 @@
           "laps": 240,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13215,31 +13914,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13248,32 +13938,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13299,10 +14019,13 @@
           "laps": 500,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13310,31 +14033,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13343,32 +14057,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13394,10 +14138,13 @@
           "laps": 267,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13405,31 +14152,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13438,32 +14176,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13489,10 +14257,13 @@
           "laps": 267,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13500,31 +14271,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13533,32 +14295,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13584,10 +14376,13 @@
           "laps": 109,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13595,31 +14390,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13628,32 +14414,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13680,10 +14496,13 @@
           "laps": 312,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13691,31 +14510,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13724,32 +14534,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13775,10 +14615,13 @@
           "laps": 188,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13786,31 +14629,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13819,32 +14653,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13870,10 +14734,13 @@
           "laps": 500,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13881,31 +14748,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -13914,32 +14772,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -13965,10 +14853,13 @@
           "laps": 267,
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -13976,31 +14867,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -14009,32 +14891,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
@@ -14080,10 +14992,13 @@
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-all-star-race/",
           "broadcasts": {
             "US": {
-              "service": "FOX / Prime Video / TNT / NBC"
+              "service": "Fox / NBC / Amazon / WBD"
             },
             "CA": {
               "service": "TSN"
+            },
+            "MX": {
+              "service": "Fox Sports Mexico"
             },
             "UK": {
               "service": "Premier Sports"
@@ -14091,31 +15006,22 @@
             "IE": {
               "service": "Premier Sports"
             },
-            "AU": {
-              "service": "Fox Sports / Kayo"
-            },
-            "NZ": {
-              "service": "ThreeNow"
-            },
             "DE": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "AT": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "CH": {
-              "service": "Sportdigital1+"
+              "service": "Sportdigital"
             },
             "FR": {
               "service": "Mediawan"
             },
             "IT": {
-              "service": "DAZN"
+              "service": "NASCAR.com"
             },
             "ES": {
-              "service": "DAZN"
-            },
-            "BE": {
               "service": "DAZN"
             },
             "NL": {
@@ -14124,32 +15030,62 @@
             "PT": {
               "service": "Sport TV"
             },
+            "PL": {
+              "service": "Motowizja"
+            },
+            "CZ": {
+              "service": "Saran Media International / Arena Sport"
+            },
+            "HU": {
+              "service": "Network4"
+            },
+            "BG": {
+              "service": "A1"
+            },
+            "GR": {
+              "service": "Antenna Greece"
+            },
+            "TR": {
+              "service": "Saran Media International"
+            },
+            "UA": {
+              "service": "Maincast"
+            },
             "Nordics": {
-              "service": "Viaplay"
+              "service": "SolidSport"
             },
-            "MX": {
-              "service": "Fox Sports"
+            "Balkans": {
+              "service": "SportKlub"
             },
-            "ZA": {
+            "IL": {
+              "service": "Charlton"
+            },
+            "Africa": {
               "service": "SuperSport"
             },
-            "JP": {
-              "service": "Abema"
+            "AU": {
+              "service": "Fox Sports Australia"
             },
-            "KR": {
-              "service": "Coupang Play"
+            "NZ": {
+              "service": "Sky Sports NZ"
             },
             "CN": {
-              "service": "Huya / iQiyi"
+              "service": "Huya / Tencent"
             },
-            "IN": {
-              "service": "Eurosport India"
+            "KR": {
+              "service": "Coupang"
+            },
+            "TW": {
+              "service": "Sportcast"
+            },
+            "TH": {
+              "service": "3BBTV / JKN"
             },
             "SEA": {
               "service": "SPOTV"
             },
-            "MENA": {
-              "service": "Dubai Sports"
+            "BR": {
+              "service": "ESPN / PicPay / X Sports"
             },
             "Global": {
               "service": "NASCAR.com"
