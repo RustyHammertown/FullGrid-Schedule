@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T03:21:16.225Z",
+  "generatedAt": "2026-05-19T16:59:33.781Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1139,6 +1139,24 @@
         {
           "url": "https://gt3revivalseries.com/standings",
           "label": "Official standings"
+        }
+      ]
+    },
+    "lemansclassic": {
+      "schedule": [
+        {
+          "url": "https://www.peterauto.fr/en/events/",
+          "label": "Peter Auto events calendar"
+        },
+        {
+          "url": "https://files.peterauto.fr/share/xnOWY1VSfNHeCPOGqgNw",
+          "label": "Peter Auto file-share (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "http://peterautoracing.alkamelsystems.com/",
+          "label": "Le Mans Classic Series timing & results (Al Kamel Systems)"
         }
       ]
     },

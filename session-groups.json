@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T20:21:30.183Z",
+  "generatedAt": "2026-05-19T16:59:33.105Z",
   "groups": {
     "f1": [
       {
@@ -490,6 +490,36 @@
           "Pre-Qualifying",
           "Qualifying 1",
           "Qualifying 2"
+        ]
+      }
+    ],
+    "lemansclassic": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Sixties' Endurance Practice",
+          "Heritage Touring Cup 1 Practice",
+          "Heritage Touring Cup 2 Practice",
+          "Classic Endurance Racing 1 Practice",
+          "Classic Endurance Racing 2 Practice",
+          "Gentlemen Challenge Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Sixties' Endurance Qualifying",
+          "Heritage Touring Cup 1 Qualifying",
+          "Heritage Touring Cup 2 Qualifying",
+          "Classic Endurance Racing 1 Qualifying",
+          "Classic Endurance Racing 2 Qualifying",
+          "Gentlemen Challenge Qualifying",
+          "Endurance Racing Legends 1 Qualifying 1",
+          "Endurance Racing Legends 1 Qualifying 2",
+          "Endurance Racing Legends 2 Qualifying 1",
+          "Endurance Racing Legends 2 Qualifying 2"
         ]
       }
     ],

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-19T01:02:10.416Z",
+  "generatedAt": "2026-05-19T16:59:32.374Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1734,6 +1734,28 @@
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://gt3revivalseries.com/results"
+    },
+    "lemansclassic": {
+      "id": "lemansclassic",
+      "tags": [
+        "sports-car",
+        "touring-car",
+        "historic",
+        "regional-series",
+        "europe"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Le Mans Classic",
+      "short": "LMC",
+      "color": "#1E3A8A",
+      "bg": "rgba(30,58,138,0.15)",
+      "broadcast": {
+        "US": "MotorTrend",
+        "Global": "YouTube/peterautoofficial"
+      },
+      "streamUrl": "https://www.youtube.com/@peterautoofficial",
+      "resultsUrl": "http://peterautoracing.alkamelsystems.com/"
     },
     "gt4european": {
       "id": "gt4european",

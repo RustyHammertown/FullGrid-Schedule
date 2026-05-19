@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-05-19T01:40:33.593Z",
+  "generatedAt": "2026-05-19T16:59:35.808Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -166,7 +166,8 @@
     "AutoMotoTV": "https://www.automoto-lachaine.fr/",
     "MegaMedia": "https://www.mega.cl/",
     "DF1": "https://www.df1.de/",
-    "RDS": "https://www.rds.ca/"
+    "RDS": "https://www.rds.ca/",
+    "MotorTrend": "https://www.motortrend.com/"
   },
   "buckets": {
     "Nordics": [

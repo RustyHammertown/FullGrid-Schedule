@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-14T21:06:25.545Z",
+  "generatedAt": "2026-05-19T16:59:34.461Z",
   "categories": [
     {
       "id": "geography",
@@ -87,7 +87,8 @@
         "gt3",
         "gt4",
         "tcr",
-        "one-make"
+        "one-make",
+        "historic"
       ]
     },
     {
@@ -170,6 +171,7 @@
     "gt4": "GT4",
     "tcr": "TCR",
     "one-make": "One-Make",
+    "historic": "Historic",
     "world-championship": "World Championship",
     "national-series": "National Series",
     "regional-series": "Regional Series",

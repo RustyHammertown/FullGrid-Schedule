@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T16:28:13.270Z",
+  "generatedAt": "2026-05-19T16:59:31.623Z",
   "events": [
     {
       "id": 101,
@@ -40289,6 +40289,408 @@
               "service": "YouTube/GTWorld"
             }
           }
+        }
+      ]
+    },
+    {
+      "id": 3750,
+      "series": "lemansclassic",
+      "name": "Espíritu de Montjuïc",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-29T14:00:00+02:00",
+          "duration": 60,
+          "broadcastUS": "YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3751,
+      "series": "lemansclassic",
+      "name": "Spa Classic",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Sixties' Endurance Practice",
+          "time": "2026-05-22T10:35:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Sixties' Endurance Qualifying",
+          "time": "2026-05-22T18:15:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Sixties' Endurance Race",
+          "time": "2026-05-23T19:05:00+02:00",
+          "duration": 120,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Heritage Touring Cup 1 Practice",
+          "time": "2026-05-22T13:50:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Heritage Touring Cup 1 Qualifying",
+          "time": "2026-05-23T12:45:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Heritage Touring Cup 1 Race",
+          "time": "2026-05-24T15:35:00+02:00",
+          "duration": 60,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Heritage Touring Cup 2 Practice",
+          "time": "2026-05-22T12:15:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Heritage Touring Cup 2 Qualifying",
+          "time": "2026-05-23T11:05:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Heritage Touring Cup 2 Race",
+          "time": "2026-05-24T13:15:00+02:00",
+          "duration": 60,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Classic Endurance Racing 1 Practice",
+          "time": "2026-05-22T16:30:00+02:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Classic Endurance Racing 1 Qualifying",
+          "time": "2026-05-23T17:30:00+02:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Classic Endurance Racing 1 Race",
+          "time": "2026-05-24T16:45:00+02:00",
+          "duration": 60,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Classic Endurance Racing 2 Practice",
+          "time": "2026-05-22T09:40:00+02:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Classic Endurance Racing 2 Qualifying",
+          "time": "2026-05-23T10:10:00+02:00",
+          "duration": 45,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Classic Endurance Racing 2 Race",
+          "time": "2026-05-24T11:30:00+02:00",
+          "duration": 60,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Gentlemen Challenge Practice",
+          "time": "2026-05-22T15:50:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Gentlemen Challenge Qualifying",
+          "time": "2026-05-23T09:00:00+02:00",
+          "duration": 30,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Gentlemen Challenge Race 1",
+          "time": "2026-05-23T16:35:00+02:00",
+          "duration": 45,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Gentlemen Challenge Race 2",
+          "time": "2026-05-24T09:00:00+02:00",
+          "duration": 45,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 1 Qualifying 1",
+          "time": "2026-05-22T11:25:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 1 Qualifying 2",
+          "time": "2026-05-22T17:25:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 1 Race 1",
+          "time": "2026-05-23T15:40:00+02:00",
+          "duration": 40,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 1 Race 2",
+          "time": "2026-05-24T10:35:00+02:00",
+          "duration": 40,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 2 Qualifying 1",
+          "time": "2026-05-22T14:30:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 2 Qualifying 2",
+          "time": "2026-05-22T20:00:00+02:00",
+          "duration": 40,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 2 Race 1",
+          "time": "2026-05-23T13:45:00+02:00",
+          "duration": 40,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        },
+        {
+          "name": "Endurance Racing Legends 2 Race 2",
+          "time": "2026-05-23T22:35:00+02:00",
+          "duration": 40,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3752,
+      "series": "lemansclassic",
+      "name": "Grand Prix de l'Age d'Or",
+      "circuit": "Circuit Dijon-Prenois",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-05T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-07T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3753,
+      "series": "lemansclassic",
+      "name": "Le Mans Classic Legend",
+      "circuit": "Circuit de la Sarthe",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3754,
+      "series": "lemansclassic",
+      "name": "Dix Mille Tours",
+      "circuit": "Circuit Paul Ricard",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3755,
+      "series": "lemansclassic",
+      "name": "Estoril Classics",
+      "circuit": "Circuito do Estoril",
+      "flag": "🇵🇹",
+      "country": "Portugal",
+      "tz": "Europe/Lisbon",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-18T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-20T13:00:00+01:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3756,
+      "series": "lemansclassic",
+      "name": "Imola Classic",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-10-16T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-17T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-10-18T14:00:00+02:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3757,
+      "series": "lemansclassic",
+      "name": "Qatar 1812Km",
+      "circuit": "Lusail International Circuit",
+      "flag": "🇶🇦",
+      "country": "Qatar",
+      "tz": "Asia/Qatar",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-10-22T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-23T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
+        }
+      ]
+    },
+    {
+      "id": 3758,
+      "series": "lemansclassic",
+      "name": "HSR Daytona Classic",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-11-12T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-13T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "YouTube/peterautoofficial"
+        },
+        {
+          "name": "Race",
+          "time": "2026-11-14T07:00:00-05:00",
+          "tbd": true,
+          "broadcastUS": "MotorTrend / YouTube/peterautoofficial"
         }
       ]
     },

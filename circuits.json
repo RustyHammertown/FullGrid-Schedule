@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-18T01:45:00.450Z",
+  "generatedAt": "2026-05-19T16:59:35.140Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -2316,6 +2316,14 @@
       "region": "Côte-d'Or",
       "website": "https://www.dijon-prenois.com",
       "length_m": 3801
+    },
+    "Circuito do Estoril": {
+      "lat": 38.7505,
+      "lon": -9.3898,
+      "city": "Estoril",
+      "region": "Cascais",
+      "website": "https://circuito-estoril.pt",
+      "length_m": 4182
     },
     "Sandown International Raceway": {
       "lat": -37.9504,
