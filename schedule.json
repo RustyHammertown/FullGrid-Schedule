@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T02:56:54.431Z",
+  "generatedAt": "2026-05-19T03:15:50.572Z",
   "events": [
     {
       "id": 101,
@@ -8562,28 +8562,28 @@
           "time": "2026-02-27T13:30:00-05:00",
           "duration": 75,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/firestone-grand-prix-of-st.-petersburg/practice-1",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 2",
           "time": "2026-02-28T09:30:00-05:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/firestone-grand-prix-of-st.-petersburg/practice-2",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-02-28T16:30:00-05:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/firestone-grand-prix-of-st.-petersburg/qualifications---firestone-fast-6",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Warmup",
           "time": "2026-03-01T09:00:00-05:00",
           "duration": 30,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/firestone-grand-prix-of-st.-petersburg/warmup",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -8671,21 +8671,21 @@
           "time": "2026-03-06T08:00:00-07:00",
           "duration": 75,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/good-ranchers-250/practice-1",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-03-06T12:00:00-07:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/good-ranchers-250/qualifications",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Final Practice",
           "time": "2026-03-06T14:30:00-07:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/good-ranchers-250/final-practice",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -8773,28 +8773,28 @@
           "time": "2026-03-13T15:00:00-05:00",
           "duration": 75,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/java-house-grand-prix-of-arlington/practice-1",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 2",
           "time": "2026-03-14T08:30:00-05:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/java-house-grand-prix-of-arlington/practice-2",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-03-14T13:30:00-05:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/java-house-grand-prix-of-arlington/qualifications---firstone-fast-6",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Warmup",
           "time": "2026-03-15T08:30:00-05:00",
           "duration": 30,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/java-house-grand-prix-of-arlington/warmup",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -8882,28 +8882,28 @@
           "time": "2026-03-27T14:30:00-05:00",
           "duration": 75,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/childrens-of-alabama-indy-grand-prix/practice-1",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 2",
           "time": "2026-03-28T10:00:00-05:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/childrens-of-alabama-indy-grand-prix/practice-2",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-03-28T13:30:00-05:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/childrens-of-alabama-indy-grand-prix/combined-qualifying",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Warmup",
           "time": "2026-03-29T09:00:00-05:00",
           "duration": 30,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/childrens-of-alabama-indy-grand-prix/warmup",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -8991,28 +8991,28 @@
           "time": "2026-04-17T15:00:00-07:00",
           "duration": 75,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/acura-grand-prix-of-long-beach/practice-1",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 2",
           "time": "2026-04-18T10:30:00-07:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/acura-grand-prix-of-long-beach/practice-2",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-04-18T15:30:00-07:00",
           "duration": 60,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/acura-grand-prix-of-long-beach/qualifying---firestone-fast-6",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Warmup",
           "time": "2026-04-19T10:00:00-07:00",
           "duration": 30,
           "resultsUrl": "https://www.indycar.com/results/ntt-indycar-series/2026/acura-grand-prix-of-long-beach/warmup",
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -9221,25 +9221,25 @@
           "name": "Practice 3",
           "time": "2026-05-13T12:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 4",
           "time": "2026-05-14T12:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Fast Friday Practice",
           "time": "2026-05-15T12:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Full-Field Qualifying",
           "time": "2026-05-16T11:00:00-04:00",
           "duration": 350,
-          "broadcastUS": "FS1 / FS2 / FOX"
+          "broadcastUS": "FS2"
         },
         {
           "name": "Top 12 Qualifying",
@@ -9362,25 +9362,25 @@
           "name": "Practice 1",
           "time": "2026-05-29T15:00:00-04:00",
           "duration": 75,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-30T09:00:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-05-30T13:00:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Warmup",
           "time": "2026-05-31T09:30:00-04:00",
           "duration": 30,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -9546,25 +9546,25 @@
           "name": "Practice 1",
           "time": "2026-06-19T15:00:00-05:00",
           "duration": 75,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Practice 2",
           "time": "2026-06-20T10:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Qualifying",
           "time": "2026-06-20T13:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Warmup",
           "time": "2026-06-21T10:00:00-05:00",
           "duration": 30,
-          "broadcastUS": "FS1 / FS2"
+          "broadcastUS": "FS1"
         },
         {
           "name": "Race",
@@ -14502,7 +14502,7 @@
           "name": "Race",
           "time": "2026-01-24T13:40:00-05:00",
           "duration": 1440,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -14591,7 +14591,7 @@
           "name": "Race",
           "time": "2026-03-21T10:10:00-04:00",
           "duration": 720,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -14674,7 +14674,7 @@
           "name": "Race",
           "time": "2026-04-18T13:05:00-07:00",
           "duration": 100,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -14757,7 +14757,7 @@
           "name": "Race",
           "time": "2026-05-03T13:10:00-07:00",
           "duration": 160,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -14822,7 +14822,7 @@
           "name": "Race",
           "time": "2026-05-30T16:00:00-04:00",
           "duration": 100,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -14887,7 +14887,7 @@
           "name": "Race",
           "time": "2026-06-28T12:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -14952,7 +14952,7 @@
           "name": "Race",
           "time": "2026-07-12T14:00:00-04:00",
           "duration": 160,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -15017,7 +15017,7 @@
           "name": "Race",
           "time": "2026-08-02T10:30:00-05:00",
           "duration": 160,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -15082,7 +15082,7 @@
           "name": "Race",
           "time": "2026-08-23T12:00:00-04:00",
           "duration": 160,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -15147,7 +15147,7 @@
           "name": "Race",
           "time": "2026-09-20T15:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -15212,7 +15212,7 @@
           "name": "Race",
           "time": "2026-10-03T12:00:00-04:00",
           "duration": 600,
-          "broadcastUS": "Peacock / USA Network",
+          "broadcastUS": "Peacock",
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
@@ -31248,7 +31248,7 @@
           "time": "2026-03-08T10:00:00-04:00",
           "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73871",
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31329,7 +31329,7 @@
           "time": "2026-03-22T10:00:00-07:00",
           "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73872",
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31410,7 +31410,7 @@
           "time": "2026-04-12T10:00:00-07:00",
           "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73873",
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31491,7 +31491,7 @@
           "time": "2026-04-26T12:00:00-04:00",
           "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73874",
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31572,7 +31572,7 @@
           "time": "2026-05-03T19:00:00-04:00",
           "duration": 180,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73875",
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31653,7 +31653,7 @@
           "time": "2026-05-17T16:00:00-05:00",
           "duration": 180,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73876",
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31733,7 +31733,7 @@
           "name": "Eliminations",
           "time": "2026-05-31T11:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FOX",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31813,7 +31813,7 @@
           "name": "Eliminations",
           "time": "2026-06-07T11:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FOX",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31893,7 +31893,7 @@
           "name": "Eliminations",
           "time": "2026-06-14T12:00:00-04:00",
           "duration": 360,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -31961,7 +31961,7 @@
           "name": "Eliminations",
           "time": "2026-06-28T19:00:00-04:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FOX",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32029,7 +32029,7 @@
           "name": "Eliminations",
           "time": "2026-07-19T19:00:00-07:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32097,7 +32097,7 @@
           "name": "Eliminations",
           "time": "2026-07-26T13:00:00-07:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FOX",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32166,7 +32166,7 @@
           "time": "2026-08-23T07:00:00-05:00",
           "tbd": true,
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32234,7 +32234,7 @@
           "name": "Eliminations",
           "time": "2026-09-07T14:00:00-04:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FOX",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32302,7 +32302,7 @@
           "name": "Eliminations",
           "time": "2026-09-20T14:00:00-04:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32370,7 +32370,7 @@
           "name": "Eliminations",
           "time": "2026-09-27T15:00:00-04:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32439,7 +32439,7 @@
           "time": "2026-10-04T07:00:00-05:00",
           "tbd": true,
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32508,7 +32508,7 @@
           "time": "2026-10-18T07:00:00-05:00",
           "tbd": true,
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32576,7 +32576,7 @@
           "name": "Eliminations",
           "time": "2026-11-01T14:00:00-08:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -32644,7 +32644,7 @@
           "name": "Eliminations",
           "time": "2026-11-15T14:00:00-08:00",
           "duration": 180,
-          "broadcastUS": "FOX / FS1",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FOX / FS1"
@@ -36459,7 +36459,7 @@
           "name": "Race",
           "time": "2026-03-01T10:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36504,7 +36504,7 @@
           "name": "Race",
           "time": "2026-03-15T09:30:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36549,7 +36549,7 @@
           "name": "Race 1",
           "time": "2026-03-28T12:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36577,7 +36577,7 @@
           "name": "Race 2",
           "time": "2026-03-29T10:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36622,7 +36622,7 @@
           "name": "Race 1",
           "time": "2026-05-08T16:00:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS2 / FOX",
+          "broadcastUS": "FS2",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36645,7 +36645,7 @@
           "name": "Race 2",
           "time": "2026-05-09T14:30:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36698,7 +36698,7 @@
           "name": "Race",
           "time": "2026-05-31T10:30:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36743,7 +36743,7 @@
           "name": "Race",
           "time": "2026-06-07T16:30:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36788,7 +36788,7 @@
           "name": "Race 1",
           "time": "2026-06-20T11:30:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36811,7 +36811,7 @@
           "name": "Race 2",
           "time": "2026-06-21T11:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36856,7 +36856,7 @@
           "name": "Race 1",
           "time": "2026-07-04T13:00:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36879,7 +36879,7 @@
           "name": "Race 2",
           "time": "2026-07-05T10:00:00-04:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36924,7 +36924,7 @@
           "name": "Race",
           "time": "2026-07-19T07:00:00-05:00",
           "tbd": true,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -36969,7 +36969,7 @@
           "name": "Race",
           "time": "2026-08-09T11:00:00-07:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -37014,7 +37014,7 @@
           "name": "Race",
           "time": "2026-08-30T10:00:00-05:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -37059,7 +37059,7 @@
           "name": "Race 1",
           "time": "2026-09-05T15:30:00-07:00",
           "duration": 60,
-          "broadcastUS": "FS2 / FOX",
+          "broadcastUS": "FS2",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
@@ -37082,7 +37082,7 @@
           "name": "Race 2",
           "time": "2026-09-06T09:30:00-07:00",
           "duration": 60,
-          "broadcastUS": "FS1 / FOX",
+          "broadcastUS": "FS1",
           "broadcasts": {
             "US": {
               "service": "FS1 / FS2 / USA Network"
