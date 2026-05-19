@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T02:17:51.573Z",
+  "generatedAt": "2026-05-19T02:56:54.431Z",
   "events": [
     {
       "id": 101,
@@ -31718,9 +31718,21 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Qualifying Day 1",
+          "time": "2026-05-29T14:30:00-04:00",
+          "duration": 240,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
+          "name": "Qualifying Day 2",
+          "time": "2026-05-30T15:00:00-04:00",
+          "duration": 90,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
           "name": "Eliminations",
-          "time": "2026-05-31T15:00:00-04:00",
-          "duration": 180,
+          "time": "2026-05-31T11:00:00-04:00",
+          "duration": 360,
           "broadcastUS": "FOX / FS1",
           "broadcasts": {
             "US": {
@@ -31786,9 +31798,21 @@
       "round": 8,
       "sessions": [
         {
+          "name": "Qualifying Day 1",
+          "time": "2026-06-05T20:00:00-04:00",
+          "duration": 90,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
+          "name": "Qualifying Day 2",
+          "time": "2026-06-06T15:00:00-04:00",
+          "duration": 90,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
           "name": "Eliminations",
-          "time": "2026-06-07T15:00:00-04:00",
-          "duration": 180,
+          "time": "2026-06-07T11:00:00-04:00",
+          "duration": 360,
           "broadcastUS": "FOX / FS1",
           "broadcasts": {
             "US": {
@@ -31854,9 +31878,21 @@
       "round": 9,
       "sessions": [
         {
+          "name": "Qualifying Day 1",
+          "time": "2026-06-12T20:30:00-04:00",
+          "duration": 90,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
+          "name": "Qualifying Day 2",
+          "time": "2026-06-13T15:00:00-04:00",
+          "duration": 90,
+          "broadcastUS": "NHRA.tv / FS1"
+        },
+        {
           "name": "Eliminations",
-          "time": "2026-06-14T15:00:00-04:00",
-          "duration": 180,
+          "time": "2026-06-14T12:00:00-04:00",
+          "duration": 360,
           "broadcastUS": "FOX / FS1",
           "broadcasts": {
             "US": {
