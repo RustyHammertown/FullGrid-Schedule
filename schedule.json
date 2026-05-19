@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T01:02:09.720Z",
+  "generatedAt": "2026-05-19T02:17:51.573Z",
   "events": [
     {
       "id": 101,
@@ -1045,7 +1045,7 @@
         {
           "name": "Sprint",
           "time": "2026-07-04T12:00:00+01:00",
-          "duration": 30,
+          "laps": 17,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1289/great-britain/sprint-results",
           "broadcastUS": "Apple TV"
         },
@@ -1426,7 +1426,7 @@
         {
           "name": "Sprint",
           "time": "2026-08-22T12:00:00+02:00",
-          "duration": 30,
+          "laps": 24,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1292/netherlands/sprint-results",
           "broadcastUS": "Apple TV"
         },
