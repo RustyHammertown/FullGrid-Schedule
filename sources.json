@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T02:16:10.953Z",
+  "generatedAt": "2026-05-20T21:45:06.460Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -32,6 +32,21 @@
         {
           "url": "https://www.formula1.com/en/timing/f1-live"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/f1/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/F1"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/Formula1/"
+        }
       ]
     },
     "motogp": {
@@ -58,6 +73,21 @@
       "website": [
         {
           "url": "https://www.motogp.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/motogp/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/MotoGP"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/MotoGP/"
         }
       ]
     },
@@ -151,6 +181,21 @@
         {
           "url": "https://racecontrol.indycar.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/indycar/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/IndyCar"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/indycar/"
+        }
       ]
     },
     "nascar": {
@@ -195,6 +240,21 @@
       "liveTiming": [
         {
           "url": "https://www.nascar.com/followlive/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/nascar/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/NASCAR"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/NASCAR/"
         }
       ]
     },
@@ -264,6 +324,11 @@
         {
           "url": "https://www.nascar.com/standings/nascar-craftsman-truck-series/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/nascar_trucks/"
+        }
       ]
     },
     "arca": {
@@ -316,6 +381,21 @@
       "website": [
         {
           "url": "https://www.arcaracing.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/arca_racing/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/ARCA_Racing"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/ARCARacing/"
         }
       ]
     },
@@ -463,6 +543,16 @@
           "url": "https://www.nascar.ca/race-center/",
           "label": "NASCAR Canada — Race Center"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/nascarcanadaseries/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/nascarcanadaseries/"
+        }
       ]
     },
     "whelen": {
@@ -577,6 +667,21 @@
         {
           "url": "https://www.fiaformula2.com/livetiming/index.html"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/formula2/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/Formula2"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/Formula2/"
+        }
       ]
     },
     "f3": {
@@ -603,6 +708,21 @@
       "liveTiming": [
         {
           "url": "https://www.fiaformula3.com/livetiming/index.html"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fiaf3/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/Formula3"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/formula3/"
         }
       ]
     },
@@ -632,6 +752,21 @@
         {
           "url": "https://livetiming-formula-e.alkamelsystems.com/fiaformulae"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fiaformulae/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/FIAFormulaE"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fiaformulae/"
+        }
       ]
     },
     "wec": {
@@ -659,6 +794,21 @@
       "liveTiming": [
         {
           "url": "https://fiawec.alkamelsystems.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fiawec_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/FIAWEC"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/FIAWEC/"
         }
       ]
     },
@@ -697,6 +847,21 @@
       "liveTiming": [
         {
           "url": "https://livetiming.alkamelsystems.com/IMSA"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/imsa_racing/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/IMSA"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/IMSA/"
         }
       ]
     },
@@ -852,6 +1017,16 @@
         {
           "url": "https://www.mx-5cup.com/results/live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/mazdamx5cup/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/MazdaMX5Cup/"
+        }
       ]
     },
     "carrera": {
@@ -948,6 +1123,21 @@
         {
           "url": "https://www.gt-world-challenge-america.com/watch-live"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gtworldchallengeamerica/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/GTWorldChAm"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gtworldchallengeamerica/"
+        }
       ]
     },
     "gtwau": {
@@ -981,6 +1171,21 @@
         {
           "url": "https://www.gt-world-challenge-australia.com/watch-live"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gtworldchaustralia/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/gtworldchaus"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/GTWorldChallengeAustralia/"
+        }
       ]
     },
     "gtwce": {
@@ -1008,6 +1213,21 @@
       "liveTiming": [
         {
           "url": "https://www.gt-world-challenge-europe.com/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gtworldcheu/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/GTWorldChEu"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/GTWorldChallengeEurope/"
         }
       ]
     },
@@ -1037,6 +1257,21 @@
         {
           "url": "https://elms.alkamelsystems.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/elms_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/EuropeanLMS"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/EuropeanLMS/"
+        }
       ]
     },
     "igtc": {
@@ -1064,6 +1299,21 @@
       "liveTiming": [
         {
           "url": "https://www.intercontinentalgtchallenge.com/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/intercontgtc/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/IntercontGTC"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/IntercontinentalGTChallenge/"
         }
       ]
     },
@@ -1098,6 +1348,21 @@
         {
           "url": "https://www.wrc.com/live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/officialwrc/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/OfficialWRC"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/WorldRally/"
+        }
       ]
     },
     "nhra": {
@@ -1121,6 +1386,21 @@
       "website": [
         {
           "url": "https://www.nhra.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/nhra/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/NHRA"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/NHRA/"
         }
       ]
     },
@@ -1146,6 +1426,21 @@
         {
           "url": "https://www.highlimitracing.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/highlimitracing/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/HighLimitRacing"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/HighLimitRacing/"
+        }
       ]
     },
     "woosc": {
@@ -1169,6 +1464,21 @@
       "website": [
         {
           "url": "https://worldofoutlaws.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/woosprint/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/WorldofOutlaws"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/WorldofOutlaws/"
         }
       ]
     },
@@ -1194,6 +1504,21 @@
         {
           "url": "https://worldofoutlaws.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/woolatemodels/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/woolatemodels"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/worldofoutlawslatemodelseries/"
+        }
       ]
     },
     "floracing": {
@@ -1217,6 +1542,21 @@
       "website": [
         {
           "url": "https://www.floracing.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/floracing/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/FloRacing"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/FloRacing.tv/"
         }
       ]
     },
@@ -1258,6 +1598,16 @@
         {
           "url": "https://www.supercrosslive.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/supercrosslive/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/supercrosslive/"
+        }
       ]
     },
     "promotocross": {
@@ -1284,6 +1634,16 @@
       "website": [
         {
           "url": "https://promotocross.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/promotocross/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/americanmotocross/"
         }
       ]
     },
@@ -1312,6 +1672,21 @@
         {
           "url": "https://www.supermotocross.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/supermotocross/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/supermotocross"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/supermotocross/"
+        }
       ]
     },
     "xtrial": {
@@ -1336,6 +1711,16 @@
       "website": [
         {
           "url": "https://www.x-trial.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/xtriallive/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/XTRIALlive/"
         }
       ]
     },
@@ -1375,6 +1760,21 @@
         {
           "url": "https://racecontrol.indycar.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/indynxt/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/INDYNXT"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/Indynxt/"
+        }
       ]
     },
     "gtwasia": {
@@ -1404,6 +1804,21 @@
       "liveTiming": [
         {
           "url": "https://www.gt-world-challenge-asia.com/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gtworldchallengeasia/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/GTWorldChAsia"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/GTWorldChallengeAsia/"
         }
       ]
     },
@@ -1460,6 +1875,16 @@
         {
           "url": "https://ffsagt.gt4series.com/watch-live#live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/ffsagt_gt4france/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/ffsagt/"
+        }
       ]
     },
     "gt4america": {
@@ -1489,6 +1914,21 @@
       "liveTiming": [
         {
           "url": "https://www.gt4-america.com/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gt4america/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/gt4america"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gt4america/"
         }
       ]
     },
@@ -1520,6 +1960,16 @@
         {
           "url": "https://gt4australia.com.au/watch-live#live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gt4australia/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gt4australia/"
+        }
       ]
     },
     "tcamerica": {
@@ -1549,6 +1999,16 @@
       "liveTiming": [
         {
           "url": "https://www.tcamerica.us/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/touringcaramerica/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/touringcaramerica/"
         }
       ]
     },
@@ -1580,6 +2040,16 @@
         {
           "url": "https://www.ffsatourisme.fr/watch-live#live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/tc_france/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/TCFranceFFSA/"
+        }
       ]
     },
     "gtamerica": {
@@ -1609,6 +2079,16 @@
       "liveTiming": [
         {
           "url": "https://www.gtamerica.us/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gt_america/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gtamerica/"
         }
       ]
     },
@@ -1640,6 +2120,16 @@
         {
           "url": "https://www.grcupseries.com/watch-live#live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/officialgrcup/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/officialgrcup/"
+        }
       ]
     },
     "internationalgt": {
@@ -1669,6 +2159,16 @@
         {
           "url": "https://internationalgt.net/",
           "label": "International GT — official"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/internationalgt/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/InternationalGT/"
         }
       ]
     },
@@ -1701,6 +2201,21 @@
         {
           "url": "https://www.gotransam.com/livetiming/",
           "label": "Official live timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gotransam/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/gotransam"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gotransam/"
         }
       ]
     },
@@ -1768,6 +2283,21 @@
         {
           "url": "https://gt3revivalseries.com/watch-live#live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gt3revivalseries/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/gt3revival"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/GT3RevivalSeries/"
+        }
       ]
     },
     "lemansclassic": {
@@ -1790,6 +2320,16 @@
       "website": [
         {
           "url": "https://www.lemansclassic.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/lemansclassic/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/lemansclassic/"
         }
       ]
     },
@@ -1843,6 +2383,21 @@
       "liveTiming": [
         {
           "url": "https://gt4europeanseries.com/watch-live#live-timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gt4europeanseries/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/gt4series"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gt4series/"
         }
       ]
     },
@@ -1986,6 +2541,16 @@
         {
           "url": "https://www.fordracing.com/motorsport/mustang-cup-australia"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/mustangcupaustralia/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/mustangcupaustralia/"
+        }
       ]
     },
     "supercup": {
@@ -2014,6 +2579,16 @@
         {
           "url": "https://racing.porsche.com/live-timing/porsche-mobil-1-supercup"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/porschesupercup/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/porschesupercup/"
+        }
       ]
     },
     "pscna": {
@@ -2037,6 +2612,16 @@
         {
           "url": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/porschesprintchallengena/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/PorscheSprintChallengeNA/"
+        }
       ]
     },
     "pscw": {
@@ -2055,6 +2640,16 @@
       "website": [
         {
           "url": "https://www.porschesprint.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/porschesprintchallengena/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/PorscheSprintChallengeNA/"
         }
       ]
     },
@@ -2107,6 +2702,21 @@
         {
           "url": "https://www.supercars.com/live-timing"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/supercarschampionship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/supercars"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/supercars/"
+        }
       ]
     },
     "btcc": {
@@ -2139,6 +2749,21 @@
         {
           "url": "https://btcc.net/live/live-timing/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/btcc/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/BTCC"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/OfficialBTCC/"
+        }
       ]
     },
     "f4british": {
@@ -2169,6 +2794,21 @@
       "website": [
         {
           "url": "https://fiaformula4.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/britishf4/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/BritishF4"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/BritishF4/"
         }
       ]
     },
@@ -2204,6 +2844,16 @@
         {
           "url": "https://www.race-monitor.com/Live"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/f4uschampionship/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/f4uschampionship/"
+        }
       ]
     },
     "pccgb": {
@@ -2234,6 +2884,11 @@
       "website": [
         {
           "url": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/PorscheCarreraCupGB/"
         }
       ]
     },
@@ -2280,6 +2935,21 @@
       "website": [
         {
           "url": "https://www.minichallenge.co.uk/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/minichallengeuk/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/MINIChallengeUK"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/MINIChallengeUK/"
         }
       ]
     },
@@ -2415,6 +3085,21 @@
         {
           "url": "https://legendsracingeurope.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/uklegends/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/uklegends"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/legendsracinguk/"
+        }
       ]
     },
     "scotlegends": {
@@ -2461,6 +3146,21 @@
         {
           "url": "https://classictouringcars.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/ctcrc_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/ctcrc"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/ClassicTouringCarRacingClub/"
+        }
       ]
     },
     "tcreu": {
@@ -2483,6 +3183,16 @@
       "website": [
         {
           "url": "https://europe.tcr-series.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/tcr_europe_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/tcr_europe"
         }
       ]
     },
@@ -2516,6 +3226,21 @@
         {
           "url": "https://gtsport.cronococa.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gtopen.official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/gtopen"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/internationalGTOpen/"
+        }
       ]
     },
     "efo": {
@@ -2547,6 +3272,21 @@
       "liveTiming": [
         {
           "url": "https://gtsport.cronococa.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/euroformula.official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/EF_Open"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/efopen/"
         }
       ]
     },
@@ -2580,6 +3320,11 @@
         {
           "url": "https://gtsport.cronococa.com/"
         }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gtcupeurope/"
+        }
       ]
     },
     "pccd": {
@@ -2611,6 +3356,16 @@
       "liveTiming": [
         {
           "url": "https://racing.porsche.com/de-DE/live-timing/porsche-sixt-carrera-cup-deutschland"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/carreracupdeutschland/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/CarreraCupDeutschland/"
         }
       ]
     }
