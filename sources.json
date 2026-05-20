@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T02:15:06.268Z",
+  "generatedAt": "2026-05-20T02:16:10.953Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -2090,7 +2090,7 @@
       ],
       "results": [
         {
-          "url": "https://www.supercars.com/results",
+          "url": "https://www.supercars.com/results/2026/supercars",
           "label": "Official results"
         },
         {
