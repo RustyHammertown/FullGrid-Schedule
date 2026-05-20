@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T01:40:25.114Z",
+  "generatedAt": "2026-05-20T01:41:16.921Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -530,7 +530,7 @@
       ],
       "results": [
         {
-          "url": "https://www.enascar.com/",
+          "url": "https://www.iracing.com/enascar/schedule/#",
           "label": "eNASCAR — official"
         }
       ],
