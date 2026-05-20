@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T01:29:36.081Z",
+  "generatedAt": "2026-05-20T01:30:50.960Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -434,8 +434,8 @@
       ],
       "results": [
         {
-          "url": "https://www.nascar.com/series/nascar-canada-series/",
-          "label": "NASCAR.com — official (Cloudflare-protected)"
+          "url": "https://www.nascar.ca/schedule/",
+          "label": "NASCAR Canada — official"
         },
         {
           "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
