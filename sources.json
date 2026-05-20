@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T21:45:06.460Z",
+  "generatedAt": "2026-05-20T22:05:12.779Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -680,7 +680,7 @@
       ],
       "facebook": [
         {
-          "url": "https://www.facebook.com/Formula2/"
+          "url": "https://www.facebook.com/formula2/"
         }
       ]
     },
@@ -1023,6 +1023,11 @@
           "url": "https://www.instagram.com/mazdamx5cup/"
         }
       ],
+      "x": [
+        {
+          "url": "https://x.com/MazdaMX5Cup"
+        }
+      ],
       "facebook": [
         {
           "url": "https://www.facebook.com/MazdaMX5Cup/"
@@ -1179,7 +1184,7 @@
       ],
       "x": [
         {
-          "url": "https://x.com/gtworldchaus"
+          "url": "https://x.com/GTWorldChAUS"
         }
       ],
       "facebook": [
@@ -1604,6 +1609,11 @@
           "url": "https://www.instagram.com/supercrosslive/"
         }
       ],
+      "x": [
+        {
+          "url": "https://x.com/supercrosslive"
+        }
+      ],
       "facebook": [
         {
           "url": "https://www.facebook.com/supercrosslive/"
@@ -1639,6 +1649,11 @@
       "instagram": [
         {
           "url": "https://www.instagram.com/promotocross/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/promotocross"
         }
       ],
       "facebook": [
@@ -1716,6 +1731,11 @@
       "instagram": [
         {
           "url": "https://www.instagram.com/xtriallive/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/XTRIALlive"
         }
       ],
       "facebook": [
@@ -1813,7 +1833,7 @@
       ],
       "x": [
         {
-          "url": "https://x.com/GTWorldChAsia"
+          "url": "https://x.com/GTWorldAsia"
         }
       ],
       "facebook": [
@@ -1879,6 +1899,11 @@
       "instagram": [
         {
           "url": "https://www.instagram.com/ffsagt_gt4france/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/ffsa_gt"
         }
       ],
       "facebook": [
@@ -2006,6 +2031,11 @@
           "url": "https://www.instagram.com/touringcaramerica/"
         }
       ],
+      "x": [
+        {
+          "url": "https://x.com/tc_america"
+        }
+      ],
       "facebook": [
         {
           "url": "https://www.facebook.com/touringcaramerica/"
@@ -2044,6 +2074,11 @@
       "instagram": [
         {
           "url": "https://www.instagram.com/tc_france/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/tcfrance1"
         }
       ],
       "facebook": [
@@ -2086,9 +2121,14 @@
           "url": "https://www.instagram.com/gt_america/"
         }
       ],
+      "x": [
+        {
+          "url": "https://x.com/gt_america_"
+        }
+      ],
       "facebook": [
         {
-          "url": "https://www.facebook.com/gtamerica/"
+          "url": "https://www.facebook.com/srogtamerica/"
         }
       ]
     },
@@ -2163,7 +2203,12 @@
       ],
       "instagram": [
         {
-          "url": "https://www.instagram.com/internationalgt/"
+          "url": "https://www.instagram.com/igtchampionship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/internationalgt"
         }
       ],
       "facebook": [
@@ -2288,16 +2333,6 @@
         {
           "url": "https://www.instagram.com/gt3revivalseries/"
         }
-      ],
-      "x": [
-        {
-          "url": "https://x.com/gt3revival"
-        }
-      ],
-      "facebook": [
-        {
-          "url": "https://www.facebook.com/GT3RevivalSeries/"
-        }
       ]
     },
     "lemansclassic": {
@@ -2329,7 +2364,7 @@
       ],
       "facebook": [
         {
-          "url": "https://www.facebook.com/lemansclassic/"
+          "url": "https://www.facebook.com/LeMansClassic/"
         }
       ]
     },
@@ -2850,6 +2885,11 @@
           "url": "https://www.instagram.com/f4uschampionship/"
         }
       ],
+      "x": [
+        {
+          "url": "https://x.com/f4championship"
+        }
+      ],
       "facebook": [
         {
           "url": "https://www.facebook.com/f4uschampionship/"
@@ -2884,11 +2924,6 @@
       "website": [
         {
           "url": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain"
-        }
-      ],
-      "facebook": [
-        {
-          "url": "https://www.facebook.com/PorscheCarreraCupGB/"
         }
       ]
     },
@@ -3190,9 +3225,9 @@
           "url": "https://www.instagram.com/tcr_europe_official/"
         }
       ],
-      "x": [
+      "facebook": [
         {
-          "url": "https://x.com/tcr_europe"
+          "url": "https://www.facebook.com/profile.php?id=61575376322117"
         }
       ]
     },
@@ -3231,16 +3266,6 @@
         {
           "url": "https://www.instagram.com/gtopen.official/"
         }
-      ],
-      "x": [
-        {
-          "url": "https://x.com/gtopen"
-        }
-      ],
-      "facebook": [
-        {
-          "url": "https://www.facebook.com/internationalGTOpen/"
-        }
       ]
     },
     "efo": {
@@ -3277,16 +3302,6 @@
       "instagram": [
         {
           "url": "https://www.instagram.com/euroformula.official/"
-        }
-      ],
-      "x": [
-        {
-          "url": "https://x.com/EF_Open"
-        }
-      ],
-      "facebook": [
-        {
-          "url": "https://www.facebook.com/efopen/"
         }
       ]
     },
