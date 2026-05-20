@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T01:44:33.281Z",
+  "generatedAt": "2026-05-20T01:46:15.500Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -681,7 +681,7 @@
       ],
       "standings": [
         {
-          "url": "https://www.imsa.com/weathertech/standings/",
+          "url": "https://www.imsa.com/weathertech/",
           "label": "IMSA WeatherTech — official"
         },
         {
