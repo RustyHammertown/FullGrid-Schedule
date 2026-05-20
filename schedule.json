@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T00:13:14.312Z",
+  "generatedAt": "2026-05-20T00:36:27.745Z",
   "events": [
     {
       "id": 101,
@@ -32738,12 +32738,7 @@
           "name": "Race",
           "time": "2026-02-15T05:45:00+11:00",
           "duration": 720,
-          "broadcastUS": "YouTube/GTWorld",
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "broadcast": "YouTube/GTWorld"
         }
       ]
     },
@@ -32805,7 +32800,7 @@
           "duration": 1440,
           "broadcasts": {
             "US": {
-              "service": "RACER+ / YouTube/24hnbr"
+              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/24hnbr"
@@ -32828,12 +32823,7 @@
           "name": "Race",
           "time": "2026-06-27T16:30:00+02:00",
           "duration": 1440,
-          "broadcastUS": "YouTube/GTWorld",
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "broadcast": "YouTube/GTWorld"
         }
       ]
     },
@@ -32852,12 +32842,7 @@
           "time": "2026-09-13T21:00:00+09:00",
           "tbd": true,
           "duration": 360,
-          "broadcastUS": "YouTube/GTWorld",
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "broadcast": "YouTube/GTWorld"
         }
       ]
     },
@@ -32876,12 +32861,7 @@
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
           "duration": 480,
-          "broadcastUS": "YouTube/GTWorld",
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "broadcast": "YouTube/GTWorld"
         }
       ]
     },
