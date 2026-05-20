@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T23:33:55.156Z",
+  "generatedAt": "2026-05-20T23:46:13.098Z",
   "events": [
     {
       "id": 101,
@@ -23602,7 +23602,6 @@
       "country": "USA",
       "tz": "America/New_York",
       "round": 7,
-      "broadcastUS": "FS2",
       "sessions": [
         {
           "name": "Practice",
@@ -23620,10 +23619,7 @@
           "laps": 100,
           "broadcasts": {
             "US": {
-              "service": "FS1 / FS2 / FloRacing"
-            },
-            "CA": {
-              "service": "TSN"
+              "service": "FS2 / FloRacing"
             },
             "Global": {
               "service": "FloRacing"
