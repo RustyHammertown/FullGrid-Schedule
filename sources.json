@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T02:11:04.317Z",
+  "generatedAt": "2026-05-20T02:13:37.922Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -857,7 +857,7 @@
     "carrera": {
       "schedule": [
         {
-          "url": "https://porschecarreracup.us/schedule",
+          "url": "https://porschecarreracup.us/series-information/#scroll-to-calendar",
           "label": "Porsche Carrera Cup NA — official"
         },
         {
