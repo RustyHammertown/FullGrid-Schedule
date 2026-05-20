@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T01:51:38.623Z",
+  "generatedAt": "2026-05-20T01:59:28.032Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -901,8 +901,8 @@
       ],
       "results": [
         {
-          "url": "https://www.imsa.com/mustangchallenge/",
-          "label": "Ford Mustang Challenge — official"
+          "url": "https://imsa.results.alkamelcloud.com/",
+          "label": "Alkamel — timing & results"
         }
       ],
       "website": [
