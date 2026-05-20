@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T02:00:28.502Z",
+  "generatedAt": "2026-05-20T02:09:04.582Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -903,6 +903,12 @@
         {
           "url": "https://imsa.results.alkamelcloud.com/",
           "label": "Alkamel — timing & results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.imsa.com/weathertech/latestnews/",
+          "label": "IMSA — standings posted in news"
         }
       ],
       "website": [
