@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T01:46:58.012Z",
+  "generatedAt": "2026-05-20T01:51:38.623Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -891,7 +891,7 @@
     "mustang": {
       "schedule": [
         {
-          "url": "https://www.imsa.com/mustangchallenge/",
+          "url": "https://www.fordracing.com/motorsport/mustang-challenge",
           "label": "Ford Mustang Challenge — official"
         },
         {
