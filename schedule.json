@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T20:07:52.281Z",
+  "generatedAt": "2026-05-20T23:33:55.156Z",
   "events": [
     {
       "id": 101,
@@ -23605,8 +23605,18 @@
       "broadcastUS": "FS2",
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-05T14:00:00-04:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-05T15:15:00-04:00",
+          "duration": 20
+        },
+        {
           "name": "Race",
-          "time": "2026-06-05T20:00:00-04:00",
+          "time": "2026-06-05T17:00:00-04:00",
           "laps": 100,
           "broadcasts": {
             "US": {
