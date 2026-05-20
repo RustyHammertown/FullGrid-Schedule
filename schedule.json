@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T22:09:12.532Z",
+  "generatedAt": "2026-05-20T00:13:14.312Z",
   "events": [
     {
       "id": 101,
@@ -15292,10 +15292,15 @@
           "name": "Race",
           "time": "2026-01-23T13:45:00-05:00",
           "duration": 240,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15330,10 +15335,15 @@
           "name": "Race",
           "time": "2026-03-20T14:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15368,10 +15378,15 @@
           "name": "Race",
           "time": "2026-05-02T12:45:00-07:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15391,10 +15406,15 @@
           "name": "Race",
           "time": "2026-06-07T12:10:00-04:00",
           "duration": 240,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15414,10 +15434,15 @@
           "name": "Race",
           "time": "2026-06-27T13:00:00-04:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15437,10 +15462,15 @@
           "name": "Race",
           "time": "2026-07-11T13:20:00-04:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15460,10 +15490,15 @@
           "name": "Race",
           "time": "2026-08-01T12:45:00-05:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15483,10 +15518,15 @@
           "name": "Race",
           "time": "2026-08-22T14:10:00-04:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15506,10 +15546,15 @@
           "name": "Race",
           "time": "2026-09-19T14:25:00-04:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -15529,10 +15574,15 @@
           "name": "Race",
           "time": "2026-10-02T11:35:00-04:00",
           "duration": 120,
-          "broadcastUS": "Peacock",
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
+            "CA": {
+              "service": "REV TV"
+            },
             "Global": {
-              "service": "YouTube/Porsche"
+              "service": "IMSA TV"
             }
           }
         }
@@ -20177,10 +20227,9 @@
           "name": "Race",
           "time": "2026-04-19T13:00:00+02:00",
           "duration": 360,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20266,10 +20315,9 @@
           "name": "Hyperpole LMGT3",
           "time": "2026-05-08T14:55:00+02:00",
           "duration": 12,
-          "broadcastUS": "FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20325,10 +20373,9 @@
           "name": "Hyperpole HYPERCAR",
           "time": "2026-05-08T15:45:00+02:00",
           "duration": 12,
-          "broadcastUS": "FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20378,10 +20425,9 @@
           "name": "Race",
           "time": "2026-05-09T14:00:00+02:00",
           "duration": 360,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20443,10 +20489,9 @@
           "name": "Race",
           "time": "2026-06-13T16:00:00+02:00",
           "duration": 1440,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "truTV / HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20508,10 +20553,9 @@
           "name": "Race",
           "time": "2026-07-12T11:30:00-03:00",
           "duration": 360,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "truTV / HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20573,10 +20617,9 @@
           "name": "Race",
           "time": "2026-09-06T13:00:00-05:00",
           "duration": 360,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "truTV / HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20638,10 +20681,9 @@
           "name": "Race",
           "time": "2026-09-27T11:00:00+09:00",
           "duration": 360,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20703,10 +20745,9 @@
           "name": "Race",
           "time": "2026-10-24T13:00:00+03:00",
           "duration": 600,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -20768,10 +20809,9 @@
           "name": "Race",
           "time": "2026-11-07T14:00:00+03:00",
           "duration": 480,
-          "broadcastUS": "MAX / FIAWEC+",
           "broadcasts": {
             "US": {
-              "service": "TNT Sports / truTV"
+              "service": "HBO Max"
             },
             "CA": {
               "service": "TNT Sports"
@@ -24672,7 +24712,6 @@
           "name": "Race",
           "time": "2026-05-17T14:00:00-04:00",
           "laps": 60,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24702,7 +24741,6 @@
           "time": "2026-06-06T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24720,7 +24758,6 @@
           "time": "2026-06-06T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24750,7 +24787,6 @@
           "time": "2026-06-27T09:00:00-03:00",
           "tbd": true,
           "laps": 250,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24780,7 +24816,6 @@
           "time": "2026-07-04T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24798,7 +24833,6 @@
           "time": "2026-07-04T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24828,7 +24862,6 @@
           "time": "2026-07-19T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24858,7 +24891,6 @@
           "time": "2026-07-25T06:00:00-06:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24876,7 +24908,6 @@
           "time": "2026-07-25T06:00:00-06:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24906,7 +24937,6 @@
           "time": "2026-08-09T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24936,7 +24966,6 @@
           "time": "2026-08-15T08:00:00-04:00",
           "tbd": true,
           "laps": 60,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24966,7 +24995,6 @@
           "time": "2026-08-29T08:00:00-04:00",
           "tbd": true,
           "laps": 50,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -24996,7 +25024,6 @@
           "time": "2026-09-06T08:00:00-04:00",
           "tbd": true,
           "laps": 60,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -25026,7 +25053,6 @@
           "time": "2026-09-12T08:00:00-04:00",
           "tbd": true,
           "laps": 200,
-          "broadcastUS": "REV TV / YouTube/NASCARCanadaSeries",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -32777,11 +32803,12 @@
           "name": "Race",
           "time": "2026-05-16T15:00:00+02:00",
           "duration": 1440,
-          "broadcast": "YouTube/24hnbr",
-          "broadcastUS": "Racer+",
           "broadcasts": {
+            "US": {
+              "service": "RACER+ / YouTube/24hnbr"
+            },
             "Global": {
-              "service": "YouTube/GTWorld"
+              "service": "YouTube/24hnbr"
             }
           }
         }
@@ -43228,14 +43255,12 @@
         {
           "name": "Qualifying",
           "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race",
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43292,14 +43317,12 @@
         {
           "name": "Qualifying",
           "time": "2026-06-13T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race",
           "time": "2026-06-14T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43356,14 +43379,12 @@
         {
           "name": "Qualifying",
           "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race",
           "time": "2026-06-28T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43420,14 +43441,12 @@
         {
           "name": "Qualifying",
           "time": "2026-07-18T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race",
           "time": "2026-07-19T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43484,14 +43503,12 @@
         {
           "name": "Qualifying",
           "time": "2026-07-25T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race",
           "time": "2026-07-26T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43548,14 +43565,12 @@
         {
           "name": "Qualifying",
           "time": "2026-08-22T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race 1",
           "time": "2026-08-22T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43596,7 +43611,6 @@
           "name": "Race 2",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -43653,14 +43667,12 @@
         {
           "name": "Qualifying",
           "time": "2026-09-05T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "F1 TV"
+          "tbd": true
         },
         {
           "name": "Race",
           "time": "2026-09-06T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "F1 TV",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -44246,32 +44258,27 @@
         {
           "name": "Practice 1",
           "time": "2026-05-22T14:05:00+10:00",
-          "duration": 25,
-          "broadcastUS": "Supercars+"
+          "duration": 25
         },
         {
           "name": "Practice 2",
           "time": "2026-05-22T14:45:00+10:00",
-          "duration": 25,
-          "broadcastUS": "Supercars+"
+          "duration": 25
         },
         {
           "name": "Qualifying (Race 14)",
           "time": "2026-05-23T09:45:00+10:00",
-          "duration": 30,
-          "broadcastUS": "Supercars+"
+          "duration": 30
         },
         {
           "name": "Qualifying (Race 15)",
           "time": "2026-05-23T10:40:00+10:00",
-          "duration": 30,
-          "broadcastUS": "Supercars+"
+          "duration": 30
         },
         {
           "name": "Race 14",
           "time": "2026-05-23T12:55:00+10:00",
           "laps": 50,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44300,7 +44307,6 @@
           "name": "Race 15",
           "time": "2026-05-23T15:55:00+10:00",
           "laps": 50,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44328,14 +44334,12 @@
         {
           "name": "Qualifying (Race 16)",
           "time": "2026-05-24T11:35:00+10:00",
-          "duration": 30,
-          "broadcastUS": "Supercars+"
+          "duration": 30
         },
         {
           "name": "Top Ten Shootout (Race 16)",
           "time": "2026-05-24T12:30:00+10:00",
           "duration": 20,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44364,7 +44368,6 @@
           "name": "Race 16",
           "time": "2026-05-24T14:45:00+10:00",
           "laps": 78,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44405,7 +44408,6 @@
           "name": "Race",
           "time": "2026-06-21T21:30:00+09:30",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44446,7 +44448,6 @@
           "name": "Race",
           "time": "2026-07-12T22:00:00+10:00",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44487,7 +44488,6 @@
           "name": "Race",
           "time": "2026-08-02T20:00:00+08:00",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44528,7 +44528,6 @@
           "name": "Race",
           "time": "2026-08-23T22:00:00+10:00",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44569,7 +44568,6 @@
           "name": "Race",
           "time": "2026-09-13T21:30:00+09:30",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44610,7 +44608,6 @@
           "name": "Race",
           "time": "2026-10-11T23:00:00+11:00",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44651,7 +44648,6 @@
           "name": "Race",
           "time": "2026-10-25T22:00:00+10:00",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44692,7 +44688,6 @@
           "name": "Race",
           "time": "2026-11-08T23:00:00+11:00",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -44733,7 +44728,6 @@
           "name": "Race",
           "time": "2026-11-29T22:30:00+10:30",
           "tbd": true,
-          "broadcastUS": "Supercars+",
           "broadcasts": {
             "US": {
               "service": "SuperView"

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-19T22:09:13.333Z",
+  "generatedAt": "2026-05-20T00:13:15.009Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -549,7 +549,7 @@
       "color": "#C8102E",
       "bg": "rgba(200,16,46,0.15)",
       "broadcast": {
-        "US": "REV TV / YouTube/NASCARCanadaSeries",
+        "US": "FloRacing",
         "UK": "YouTube/NASCARCanadaSeries",
         "AU": "YouTube/NASCARCanadaSeries"
       },
@@ -845,7 +845,7 @@
       "color": "#1F2937",
       "bg": "rgba(31,41,55,0.15)",
       "broadcast": {
-        "US": "F1 TV",
+        "US": "Apple TV",
         "UK": "Sky Sports F1",
         "AU": "Fox Sports"
       },
