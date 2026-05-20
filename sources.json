@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T01:32:53.568Z",
+  "generatedAt": "2026-05-20T01:35:46.314Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -456,6 +456,12 @@
         {
           "url": "https://www.nascar.ca/",
           "label": "NASCAR Canada — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.nascar.ca/race-center/",
+          "label": "NASCAR Canada — Race Center"
         }
       ]
     },
