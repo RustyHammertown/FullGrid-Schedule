@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T00:36:27.745Z",
+  "generatedAt": "2026-05-20T20:07:52.281Z",
   "events": [
     {
       "id": 101,
@@ -40313,7 +40313,7 @@
           "name": "Race",
           "time": "2026-03-29T14:00:00+02:00",
           "duration": 60,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40330,164 +40330,158 @@
         {
           "name": "Sixties' Endurance Practice",
           "time": "2026-05-22T10:35:00+02:00",
-          "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "duration": 40
         },
         {
           "name": "Sixties' Endurance Qualifying",
           "time": "2026-05-22T18:15:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Sixties' Endurance Race",
           "time": "2026-05-23T19:05:00+02:00",
           "duration": 120,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Heritage Touring Cup 1 Practice",
           "time": "2026-05-22T13:50:00+02:00",
-          "duration": 30,
-          "broadcastUS": "YouTube/peterautoracing"
+          "duration": 30
         },
         {
           "name": "Heritage Touring Cup 1 Qualifying",
           "time": "2026-05-23T12:45:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Heritage Touring Cup 1 Race",
           "time": "2026-05-24T15:35:00+02:00",
           "duration": 60,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Heritage Touring Cup 2 Practice",
           "time": "2026-05-22T12:15:00+02:00",
-          "duration": 30,
-          "broadcastUS": "YouTube/peterautoracing"
+          "duration": 30
         },
         {
           "name": "Heritage Touring Cup 2 Qualifying",
           "time": "2026-05-23T11:05:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Heritage Touring Cup 2 Race",
           "time": "2026-05-24T13:15:00+02:00",
           "duration": 60,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Classic Endurance Racing 1 Practice",
           "time": "2026-05-22T16:30:00+02:00",
-          "duration": 45,
-          "broadcastUS": "YouTube/peterautoracing"
+          "duration": 45
         },
         {
           "name": "Classic Endurance Racing 1 Qualifying",
           "time": "2026-05-23T17:30:00+02:00",
           "duration": 45,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Classic Endurance Racing 1 Race",
           "time": "2026-05-24T16:45:00+02:00",
           "duration": 60,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Classic Endurance Racing 2 Practice",
           "time": "2026-05-22T09:40:00+02:00",
-          "duration": 45,
-          "broadcastUS": "YouTube/peterautoracing"
+          "duration": 45
         },
         {
           "name": "Classic Endurance Racing 2 Qualifying",
           "time": "2026-05-23T10:10:00+02:00",
           "duration": 45,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Classic Endurance Racing 2 Race",
           "time": "2026-05-24T11:30:00+02:00",
           "duration": 60,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Gentlemen Challenge Practice",
           "time": "2026-05-22T15:50:00+02:00",
-          "duration": 30,
-          "broadcastUS": "YouTube/peterautoracing"
+          "duration": 30
         },
         {
           "name": "Gentlemen Challenge Qualifying",
           "time": "2026-05-23T09:00:00+02:00",
           "duration": 30,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Gentlemen Challenge Race 1",
           "time": "2026-05-23T16:35:00+02:00",
           "duration": 45,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Gentlemen Challenge Race 2",
           "time": "2026-05-24T09:00:00+02:00",
           "duration": 45,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 1 Qualifying 1",
           "time": "2026-05-22T11:25:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 1 Qualifying 2",
           "time": "2026-05-22T17:25:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 1 Race 1",
           "time": "2026-05-23T15:40:00+02:00",
           "duration": 40,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 1 Race 2",
           "time": "2026-05-24T10:35:00+02:00",
           "duration": 40,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 2 Qualifying 1",
           "time": "2026-05-22T14:30:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 2 Qualifying 2",
           "time": "2026-05-22T20:00:00+02:00",
           "duration": 40,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 2 Race 1",
           "time": "2026-05-23T13:45:00+02:00",
           "duration": 40,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Endurance Racing Legends 2 Race 2",
           "time": "2026-05-23T22:35:00+02:00",
           "duration": 40,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40504,20 +40498,19 @@
         {
           "name": "Practice",
           "time": "2026-06-05T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-06-07T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40534,20 +40527,19 @@
         {
           "name": "Practice",
           "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-07-03T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40564,20 +40556,19 @@
         {
           "name": "Practice",
           "time": "2026-08-28T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-08-30T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40594,20 +40585,19 @@
         {
           "name": "Practice",
           "time": "2026-09-18T13:00:00+01:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-09-19T13:00:00+01:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-09-20T13:00:00+01:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40624,20 +40614,19 @@
         {
           "name": "Practice",
           "time": "2026-10-16T14:00:00+02:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-10-17T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-10-18T14:00:00+02:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40654,20 +40643,19 @@
         {
           "name": "Practice",
           "time": "2026-10-22T15:00:00+03:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-10-23T15:00:00+03:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },
@@ -40684,20 +40672,19 @@
         {
           "name": "Practice",
           "time": "2026-11-12T07:00:00-05:00",
-          "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "tbd": true
         },
         {
           "name": "Qualifying",
           "time": "2026-11-13T07:00:00-05:00",
           "tbd": true,
-          "broadcastUS": "YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         },
         {
           "name": "Race",
           "time": "2026-11-14T07:00:00-05:00",
           "tbd": true,
-          "broadcastUS": "MotorTrend / YouTube/peterautoracing"
+          "broadcast": "YouTube/peterautoracing"
         }
       ]
     },

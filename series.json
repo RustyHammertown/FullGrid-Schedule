@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-20T00:13:15.009Z",
+  "generatedAt": "2026-05-20T20:07:52.988Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1828,9 +1828,11 @@
       "color": "#1E3A8A",
       "bg": "rgba(30,58,138,0.15)",
       "broadcast": {
-        "US": "MotorTrend",
         "Global": "YouTube/peterautoracing"
       },
+      "unstreamedCategories": [
+        "Practice"
+      ],
       "streamUrl": "https://www.youtube.com/@peterautoracing/streams",
       "resultsUrl": "http://lemansclassicseries.alkamelsystems.com/"
     },
