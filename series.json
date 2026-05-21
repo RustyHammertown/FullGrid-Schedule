@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-21T01:11:14.672Z",
+  "generatedAt": "2026-05-21T03:39:12.594Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1969,6 +1969,9 @@
       },
       "streamUrl": "https://btcc.net/",
       "resultsUrl": "https://btcc.net/race-results/",
+      "unstreamedCategories": [
+        "Practice"
+      ],
       "fallbackMinutes": 25,
       "typicalLapSeconds": 75
     },

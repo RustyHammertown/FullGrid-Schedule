@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T01:22:38.247Z",
+  "generatedAt": "2026-05-21T03:39:11.922Z",
   "events": [
     {
       "id": 101,
@@ -47478,7 +47478,21 @@
           "time": "2026-04-18T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47487,7 +47501,21 @@
           "laps": 13,
           "duration": 20,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47581,7 +47609,21 @@
           "time": "2026-05-09T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47590,7 +47632,21 @@
           "laps": 18,
           "duration": 20,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47684,7 +47740,21 @@
           "time": "2026-05-23T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47693,7 +47763,21 @@
           "laps": 8,
           "duration": 22,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47787,7 +47871,21 @@
           "time": "2026-06-06T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47796,7 +47894,21 @@
           "laps": 10,
           "duration": 20,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47890,7 +48002,21 @@
           "time": "2026-07-25T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47899,7 +48025,21 @@
           "laps": 12,
           "duration": 20,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -47993,7 +48133,21 @@
           "time": "2026-08-08T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48002,7 +48156,21 @@
           "laps": 17,
           "duration": 22,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48096,7 +48264,21 @@
           "time": "2026-08-22T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48105,7 +48287,21 @@
           "laps": 9,
           "duration": 20,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48199,7 +48395,21 @@
           "time": "2026-09-05T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48208,7 +48418,21 @@
           "laps": 11,
           "duration": 20,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48302,7 +48526,21 @@
           "time": "2026-09-26T14:00:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48311,7 +48549,21 @@
           "laps": 15,
           "duration": 22,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48405,7 +48657,21 @@
           "time": "2026-10-10T13:45:00+01:00",
           "duration": 35,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
@@ -48414,7 +48680,21 @@
           "laps": 10,
           "duration": 22,
           "broadcasts": {
-            "Global": "ITV Sport Extra"
+            "UK": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "IE": {
+              "service": "ITVX / ITV Sport Extra"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
           }
         },
         {
