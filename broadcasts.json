@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "generatedAt": "2026-05-19T20:25:42.311Z",
+  "version": 3,
+  "generatedAt": "2026-05-21T02:07:37.416Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -267,5 +267,37 @@
       "DJ",
       "SO"
     ]
+  },
+  "labels": {
+    "US": "United States",
+    "CA": "Canada",
+    "UK": "United Kingdom",
+    "IE": "Ireland",
+    "AU": "Australia",
+    "NZ": "New Zealand",
+    "DE": "Germany",
+    "AT": "Austria",
+    "CH": "Switzerland",
+    "NL": "Netherlands",
+    "BE": "Belgium",
+    "FR": "France",
+    "ES": "Spain",
+    "PT": "Portugal",
+    "IT": "Italy",
+    "Nordics": "Nordics",
+    "HU": "Hungary",
+    "SK": "Slovakia",
+    "TR": "Turkey",
+    "JP": "Japan",
+    "KR": "South Korea",
+    "CN": "China",
+    "IN": "India",
+    "SEA": "Southeast Asia",
+    "BR": "Brazil",
+    "MX": "Mexico",
+    "CL": "Chile",
+    "ZA": "South Africa",
+    "MENA": "Middle East & North Africa",
+    "Global": "Global"
   }
 }
