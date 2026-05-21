@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-21T03:39:12.594Z",
+  "generatedAt": "2026-05-21T03:46:49.242Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -403,7 +403,7 @@
       "color": "#4FB849",
       "bg": "rgba(79,184,73,0.15)",
       "broadcast": {
-        "US": "The CW",
+        "US": "The CW / CW App",
         "CA": "TSN",
         "UK": "Premier Sports 2",
         "IE": "Premier Sports 2",
