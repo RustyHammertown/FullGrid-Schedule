@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-21T17:57:29.210Z",
+  "generatedAt": "2026-05-21T20:31:46.337Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2438,7 +2438,8 @@
     ],
     "practice": [
       "\\bpractice\\b",
-      "^fp\\d"
+      "^fp\\d",
+      "\\btest"
     ],
     "qualifying": [
       "qualif"

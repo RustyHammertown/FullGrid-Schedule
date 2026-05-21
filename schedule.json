@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T17:57:26.116Z",
+  "generatedAt": "2026-05-21T20:31:43.118Z",
   "events": [
     {
       "id": 101,
@@ -43752,6 +43752,26 @@
       "tz": "America/New_York",
       "round": 4,
       "sessions": [
+        {
+          "name": "TA/GT Testing 1",
+          "time": "2026-05-21T11:25:00-04:00",
+          "duration": 35
+        },
+        {
+          "name": "TA2 Testing 1",
+          "time": "2026-05-21T12:05:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "TA/GT Testing 2",
+          "time": "2026-05-21T15:50:00-04:00",
+          "duration": 35
+        },
+        {
+          "name": "TA2 Testing 2",
+          "time": "2026-05-21T16:30:00-04:00",
+          "duration": 35
+        },
         {
           "name": "TA/GT Practice",
           "time": "2026-05-22T10:45:00-04:00",
