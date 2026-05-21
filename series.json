@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-20T21:01:13.113Z",
+  "generatedAt": "2026-05-21T01:11:14.672Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -118,9 +118,10 @@
       "color": "#378ADD",
       "bg": "rgba(55,138,221,0.15)",
       "broadcast": {
-        "US": "FS1 / FS2 / MotoGP+",
+        "US": "MotoGP+",
         "UK": "TNT Sports",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.motogp.com/en/gp-results",
       "fallbackMinutes": {
@@ -146,9 +147,10 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "US": "FS1 / FS2 / MotoGP+",
+        "US": "MotoGP+",
         "UK": "TNT Sports",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship",
       "fallbackMinutes": {
@@ -174,9 +176,10 @@
       "color": "#22C55E",
       "bg": "rgba(34,197,94,0.15)",
       "broadcast": {
-        "US": "FS1 / FS2 / MotoGP+",
+        "US": "MotoGP+",
         "UK": "TNT Sports",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship",
       "fallbackMinutes": {
@@ -204,8 +207,7 @@
       "bg": "rgba(132,204,22,0.15)",
       "broadcast": {
         "US": "Peacock",
-        "UK": "Peacock",
-        "AU": "Peacock"
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.supercrosslive.com/results/"
     },
@@ -227,8 +229,7 @@
       "bg": "rgba(249,115,22,0.15)",
       "broadcast": {
         "US": "Peacock",
-        "UK": "Peacock",
-        "AU": "Peacock"
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://promotocross.com/results"
     },
@@ -250,8 +251,7 @@
       "bg": "rgba(220,38,38,0.15)",
       "broadcast": {
         "US": "Peacock",
-        "UK": "Peacock",
-        "AU": "Peacock"
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.supermotocross.com/results/"
     },
@@ -271,9 +271,7 @@
       "color": "#FACC15",
       "bg": "rgba(250,204,21,0.15)",
       "broadcast": {
-        "US": "X-Trial Video Pass",
-        "UK": "X-Trial Video Pass",
-        "AU": "X-Trial Video Pass"
+        "Global": "X-Trial Video Pass"
       },
       "streamUrl": "https://fim-moto.tv/x_trial",
       "resultsUrl": "https://www.x-trial.com/en/results.html"
@@ -294,9 +292,10 @@
       "color": "#0891B2",
       "bg": "rgba(8,145,178,0.15)",
       "broadcast": {
-        "US": "FOX / FS1 / FS2",
+        "US": "FOX Sports",
         "UK": "Sky Sports",
-        "AU": "Stan Sport"
+        "AU": "Stan Sport",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.indynxt.com/results"
     },
@@ -318,9 +317,10 @@
       "color": "#1D9E75",
       "bg": "rgba(29,158,117,0.15)",
       "broadcast": {
-        "US": "FOX / FS1 / FS2",
+        "US": "FOX Sports",
         "UK": "Sky Sports",
-        "AU": "Stan Sport"
+        "AU": "Stan Sport",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.indycar.com/Stats/Race-Results",
       "fallbackMinutes": 130,
@@ -408,7 +408,8 @@
         "UK": "Premier Sports 2",
         "IE": "Premier Sports 2",
         "AU": "Fox Sports / Kayo",
-        "NZ": "ThreeNow"
+        "NZ": "ThreeNow",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule",
       "fallbackMinutes": 150,
@@ -444,6 +445,9 @@
         },
         "AU": {
           "service": "Fox Sports / Kayo"
+        },
+        "Global": {
+          "service": "Check local listings"
         }
       },
       "resultsUrl": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule",
@@ -470,9 +474,7 @@
       "color": "#1E40AF",
       "bg": "rgba(30,64,175,0.15)",
       "broadcast": {
-        "US": "FS1 / FS2 / FloRacing",
-        "UK": "FloRacing",
-        "AU": "FloRacing"
+        "Global": "FloRacing"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
       "fallbackMinutes": 90,
@@ -498,9 +500,7 @@
       "color": "#2563EB",
       "bg": "rgba(37,99,235,0.15)",
       "broadcast": {
-        "US": "FloRacing / FS1",
-        "UK": "FloRacing",
-        "AU": "FloRacing"
+        "Global": "FloRacing"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East",
       "typicalLapSeconds": 35
@@ -524,9 +524,7 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "US": "FloRacing",
-        "UK": "FloRacing",
-        "AU": "FloRacing"
+        "Global": "FloRacing"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West",
       "typicalLapSeconds": 35
@@ -550,8 +548,7 @@
       "bg": "rgba(200,16,46,0.15)",
       "broadcast": {
         "US": "FloRacing",
-        "UK": "YouTube/NASCARCanadaSeries",
-        "AU": "YouTube/NASCARCanadaSeries"
+        "Global": "YouTube/NASCARCanadaSeries"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
       "fallbackMinutes": 90,
@@ -574,9 +571,7 @@
       "color": "#7C2D12",
       "bg": "rgba(124,45,18,0.15)",
       "broadcast": {
-        "US": "FloRacing",
-        "UK": "FloRacing",
-        "AU": "FloRacing"
+        "Global": "FloRacing"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
       "fallbackMinutes": 75,
@@ -641,7 +636,8 @@
       "broadcast": {
         "US": "Peacock / USA Network",
         "UK": "Sky Sports",
-        "AU": "Stan Sport"
+        "AU": "Stan Sport",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.imsa.com/weathertech/results/",
       "fallbackMinutes": 360
@@ -675,8 +671,7 @@
       "bg": "rgba(184,90,138,0.15)",
       "broadcast": {
         "US": "Peacock",
-        "UK": "Peacock",
-        "AU": "Peacock"
+        "Global": "Check local listings"
       },
       "unstreamedCategories": [
         "Practice",
@@ -704,9 +699,7 @@
       "color": "#5BC2A0",
       "bg": "rgba(91,194,160,0.15)",
       "broadcast": {
-        "US": "YouTube/imsaofficial",
-        "UK": "YouTube/imsaofficial",
-        "AU": "YouTube/imsaofficial"
+        "Global": "YouTube/imsaofficial"
       },
       "unstreamedCategories": [
         "Practice",
@@ -733,9 +726,7 @@
       "color": "#5C8A3A",
       "bg": "rgba(92,138,58,0.15)",
       "broadcast": {
-        "US": "YouTube/imsaofficial",
-        "UK": "YouTube/imsaofficial",
-        "AU": "YouTube/imsaofficial"
+        "Global": "YouTube/imsaofficial"
       },
       "unstreamedCategories": [
         "Practice",
@@ -761,9 +752,7 @@
       "color": "#7BAA2D",
       "bg": "rgba(123,170,45,0.15)",
       "broadcast": {
-        "US": "YouTube/LamborghiniSquadraCorse",
-        "UK": "YouTube/LamborghiniSquadraCorse",
-        "AU": "YouTube/LamborghiniSquadraCorse"
+        "Global": "YouTube/LamborghiniSquadraCorse"
       },
       "unstreamedCategories": [
         "Practice",
@@ -789,9 +778,7 @@
       "color": "#385F1E",
       "bg": "rgba(56,95,30,0.15)",
       "broadcast": {
-        "US": "YouTube/LamborghiniSquadraCorse",
-        "UK": "YouTube/LamborghiniSquadraCorse",
-        "AU": "YouTube/LamborghiniSquadraCorse"
+        "Global": "YouTube/LamborghiniSquadraCorse"
       },
       "unstreamedCategories": [
         "Practice",
@@ -817,9 +804,7 @@
       "color": "#A6363A",
       "bg": "rgba(166,54,58,0.15)",
       "broadcast": {
-        "US": "YouTube/imsaofficial",
-        "UK": "YouTube/imsaofficial",
-        "AU": "YouTube/imsaofficial"
+        "Global": "YouTube/imsaofficial"
       },
       "unstreamedCategories": [
         "Practice",
@@ -847,7 +832,8 @@
       "broadcast": {
         "US": "Apple TV",
         "UK": "Sky Sports F1",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://racing.porsche.com/en-US/series/mobil-1-supercup"
     },
@@ -869,9 +855,7 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "US": "YouTube/PorscheSprintChallenge",
-        "UK": "YouTube/PorscheSprintChallenge",
-        "AU": "YouTube/PorscheSprintChallenge"
+        "Global": "YouTube/PorscheSprintChallenge"
       },
       "unstreamedCategories": [
         "Practice",
@@ -898,9 +882,7 @@
       "color": "#06B6D4",
       "bg": "rgba(6,182,212,0.15)",
       "broadcast": {
-        "US": "YouTube/PorscheSprintChallenge",
-        "UK": "YouTube/PorscheSprintChallenge",
-        "AU": "YouTube/PorscheSprintChallenge"
+        "Global": "YouTube/PorscheSprintChallenge"
       },
       "unstreamedCategories": [
         "Practice",
@@ -927,9 +909,7 @@
       "color": "#0891B2",
       "bg": "rgba(8,145,178,0.15)",
       "broadcast": {
-        "US": "YouTube/PorscheSprintChallenge",
-        "UK": "YouTube/PorscheSprintChallenge",
-        "AU": "YouTube/PorscheSprintChallenge"
+        "Global": "YouTube/PorscheSprintChallenge"
       },
       "unstreamedCategories": [
         "Practice",
@@ -956,9 +936,7 @@
       "color": "#D4A23B",
       "bg": "rgba(212,162,59,0.15)",
       "broadcast": {
-        "US": "YouTube/imsaofficial",
-        "UK": "YouTube/imsaofficial",
-        "AU": "YouTube/imsaofficial"
+        "Global": "YouTube/imsaofficial"
       },
       "resultsUrl": "https://porschecarreracup.us/results",
       "unstreamedCategories": [
@@ -984,9 +962,7 @@
       "color": "#22538C",
       "bg": "rgba(34,83,140,0.15)",
       "broadcast": {
-        "US": "YouTube/imsaofficial",
-        "UK": "YouTube/imsaofficial",
-        "AU": "YouTube/imsaofficial"
+        "Global": "YouTube/imsaofficial"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1012,9 +988,7 @@
       "color": "#7F1D1D",
       "bg": "rgba(127,29,29,0.15)",
       "broadcast": {
-        "US": "YouTube/FordRacing",
-        "UK": "YouTube/FordRacing",
-        "AU": "YouTube/FordRacing"
+        "Global": "YouTube/FordRacing"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1040,9 +1014,8 @@
       "color": "#A16207",
       "bg": "rgba(161,98,7,0.15)",
       "broadcast": {
-        "US": "YouTube/FordRacing",
-        "UK": "YouTube/FordRacing",
-        "AU": "Fox Sports / Kayo"
+        "AU": "Fox Sports / Kayo",
+        "Global": "YouTube/FordRacing"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1075,9 +1048,7 @@
       "color": "#7C3AED",
       "bg": "rgba(124,58,237,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.gt-world-challenge-america.com/results",
@@ -1106,9 +1077,8 @@
       "color": "#16A34A",
       "bg": "rgba(22,163,74,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "Fox Sports / Kayo"
+        "AU": "Fox Sports / Kayo",
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1134,7 +1104,8 @@
       "broadcast": {
         "US": "F1 TV Pro",
         "UK": "Sky Sports F1",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "F1 TV"
       },
       "resultsUrl": "https://www.fiaformula2.com/Calendar",
       "fallbackMinutes": {
@@ -1162,7 +1133,8 @@
       "broadcast": {
         "US": "F1 TV Pro",
         "UK": "Sky Sports F1",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "F1 TV"
       },
       "resultsUrl": "https://www.fiaformula3.com/Calendar",
       "fallbackMinutes": {
@@ -1196,7 +1168,8 @@
       "broadcast": {
         "US": "CBS Sports Network / Roku Channel",
         "UK": "Channel 4",
-        "AU": "beIN Sports"
+        "AU": "beIN Sports",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.fiaformulae.com/en/results",
       "fallbackMinutes": 50
@@ -1231,7 +1204,8 @@
       "broadcast": {
         "US": "MAX / FIAWEC+",
         "UK": "Eurosport",
-        "AU": "Stan Sport"
+        "AU": "Stan Sport",
+        "Global": "FIAWEC+"
       },
       "resultsUrl": "https://www.fiawec.com/en/page/resultats-1",
       "fallbackMinutes": 360
@@ -1252,9 +1226,7 @@
       "color": "#FFD700",
       "bg": "rgba(255,215,0,0.15)",
       "broadcast": {
-        "US": "FloRacing",
-        "UK": "FloRacing",
-        "AU": "FloRacing"
+        "Global": "FloRacing"
       },
       "resultsUrl": "https://www.highlimitracing.com/standings/2026/31205/1000",
       "fallbackMinutes": 180
@@ -1275,9 +1247,7 @@
       "color": "#F97316",
       "bg": "rgba(249,115,22,0.15)",
       "broadcast": {
-        "US": "DIRTVision",
-        "UK": "DIRTVision",
-        "AU": "DIRTVision"
+        "Global": "DIRTVision"
       },
       "streamUrl": "https://www.dirtvision.com/",
       "resultsUrl": "https://worldofoutlaws.com/sprintcars/results/"
@@ -1298,9 +1268,7 @@
       "color": "#84CC16",
       "bg": "rgba(132,204,22,0.15)",
       "broadcast": {
-        "US": "DIRTVision",
-        "UK": "DIRTVision",
-        "AU": "DIRTVision"
+        "Global": "DIRTVision"
       },
       "streamUrl": "https://www.dirtvision.com/",
       "resultsUrl": "https://worldofoutlaws.com/latemodels/results/"
@@ -1321,9 +1289,7 @@
       "color": "#E32128",
       "bg": "rgba(227,33,40,0.15)",
       "broadcast": {
-        "US": "FloRacing",
-        "UK": "FloRacing",
-        "AU": "FloRacing"
+        "Global": "FloRacing"
       },
       "streamUrl": "https://www.floracing.com/",
       "resultsUrl": "https://www.floseries.com/standings/",
@@ -1345,9 +1311,7 @@
       "color": "#9146FF",
       "bg": "rgba(145,70,255,0.15)",
       "broadcast": {
-        "US": "YouTube/eNASCAR",
-        "UK": "YouTube/eNASCAR",
-        "AU": "YouTube/eNASCAR"
+        "Global": "YouTube/eNASCAR"
       },
       "streamUrl": "https://www.youtube.com/@iRacingOfficial/streams",
       "resultsUrl": "https://www.enascar.com/",
@@ -1374,9 +1338,10 @@
       "color": "#0066B3",
       "bg": "rgba(0,102,179,0.15)",
       "broadcast": {
-        "US": "FOX / FS1",
+        "US": "FOX Sports",
         "UK": "Sky Sports",
-        "AU": "Fox Sports"
+        "AU": "Fox Sports",
+        "Global": "Check local listings"
       },
       "resultsUrl": "https://www.nhra.com/results"
     },
@@ -1404,9 +1369,7 @@
       "color": "#00A6A6",
       "bg": "rgba(0,166,166,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.intercontinentalgtchallenge.com/results"
@@ -1436,9 +1399,7 @@
       "color": "#2D9B5A",
       "bg": "rgba(45,155,90,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.gt-world-challenge-europe.com/results"
@@ -1468,9 +1429,7 @@
       "color": "#E11D48",
       "bg": "rgba(225,29,72,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.gt-world-challenge-asia.com/results"
@@ -1490,9 +1449,8 @@
       "color": "#BC002D",
       "bg": "rgba(188,0,45,0.15)",
       "broadcast": {
-        "US": "J SPORTS",
-        "UK": "J SPORTS",
-        "AU": "J SPORTS"
+        "JP": "J SPORTS",
+        "Global": "Check local listings"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1515,9 +1473,7 @@
       "color": "#3B82F6",
       "bg": "rgba(59,130,246,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1548,9 +1504,7 @@
       "color": "#0D9488",
       "bg": "rgba(13,148,136,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1575,9 +1529,7 @@
       "color": "#06B6D4",
       "bg": "rgba(6,182,212,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1605,9 +1557,7 @@
       "color": "#DB2777",
       "bg": "rgba(219,39,119,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1631,9 +1581,7 @@
       "color": "#6366F1",
       "bg": "rgba(99,102,241,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1665,9 +1613,7 @@
       "color": "#047857",
       "bg": "rgba(4,120,87,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1693,9 +1639,7 @@
       "color": "#F87171",
       "bg": "rgba(248,113,113,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1722,7 +1666,7 @@
       "color": "#CA8A04",
       "bg": "rgba(202,138,4,0.15)",
       "broadcast": {
-        "US": "YouTube/racingamericatv"
+        "Global": "YouTube/racingamericatv"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1747,7 +1691,7 @@
       "color": "#B91C1C",
       "bg": "rgba(185,28,28,0.15)",
       "broadcast": {
-        "US": "YouTube/TheTransAmSeries"
+        "Global": "YouTube/TheTransAmSeries"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1771,7 +1715,7 @@
       "color": "#2563EB",
       "bg": "rgba(37,99,235,0.15)",
       "broadcast": {
-        "US": "YouTube/TheTransAmSeries"
+        "Global": "YouTube/TheTransAmSeries"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1796,9 +1740,7 @@
       "color": "#B45309",
       "bg": "rgba(180,83,9,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1869,9 +1811,7 @@
       "color": "#4D7C0F",
       "bg": "rgba(77,124,15,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice"
@@ -1896,9 +1836,7 @@
       "color": "#FB923C",
       "bg": "rgba(251,146,60,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1924,9 +1862,7 @@
       "color": "#C2410C",
       "bg": "rgba(194,65,12,0.15)",
       "broadcast": {
-        "US": "YouTube/GTWorld",
-        "UK": "YouTube/GTWorld",
-        "AU": "YouTube/GTWorld"
+        "Global": "YouTube/GTWorld"
       },
       "unstreamedCategories": [
         "Practice",
@@ -1960,9 +1896,7 @@
       "color": "#1E40AF",
       "bg": "rgba(30,64,175,0.15)",
       "broadcast": {
-        "US": "FIAWEC+",
-        "UK": "FIAWEC+",
-        "AU": "FIAWEC+"
+        "Global": "FIAWEC+"
       },
       "streamUrl": "https://plus.fiawec.com/",
       "resultsUrl": "https://www.europeanlemansseries.com/en/page/results"
@@ -2055,9 +1989,8 @@
       "color": "#F59E0B",
       "bg": "rgba(245,158,11,0.15)",
       "broadcast": {
-        "UK": "ITV4 / ITVX (YouTube at Silverstone GP + Zandvoort)",
-        "US": "YouTube/BritishF4",
-        "AU": "YouTube/BritishF4"
+        "UK": "ITV4 / ITVX",
+        "Global": "YouTube/BritishF4"
       },
       "streamUrl": "https://www.youtube.com/@BritishF4",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_F4_British_Championship"
@@ -2079,9 +2012,7 @@
       "color": "#6366F1",
       "bg": "rgba(99,102,241,0.15)",
       "broadcast": {
-        "US": "YouTube/F4USChampionship",
-        "UK": "YouTube/F4USChampionship",
-        "AU": "YouTube/F4USChampionship"
+        "Global": "YouTube/F4USChampionship"
       },
       "streamUrl": "https://www.youtube.com/@F4USChampionship",
       "resultsUrl": "https://www.f4uschampionship.com/pages/2026-results",
@@ -2110,8 +2041,7 @@
       "bg": "rgba(185,28,28,0.15)",
       "broadcast": {
         "UK": "ITV4 / ITVX",
-        "US": "YouTube/OfficialBTCC",
-        "AU": "YouTube/OfficialBTCC"
+        "Global": "YouTube/OfficialBTCC"
       },
       "streamUrl": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain"
@@ -2135,8 +2065,7 @@
       "bg": "rgba(124,58,237,0.15)",
       "broadcast": {
         "UK": "ITV4 / ITVX",
-        "US": "YouTube/OfficialBTCC",
-        "AU": "YouTube/OfficialBTCC"
+        "Global": "YouTube/OfficialBTCC"
       },
       "streamUrl": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain",
       "resultsUrl": "https://racing.porsche.com/en-GB/series/sprint-challenge-great-britain"
@@ -2232,9 +2161,7 @@
       "color": "#16A34A",
       "bg": "rgba(22,163,74,0.15)",
       "broadcast": {
-        "UK": "YouTube/CaterhamMotorsport (ITV4 at BTCC rounds)",
-        "US": "YouTube/CaterhamMotorsport",
-        "AU": "YouTube/CaterhamMotorsport"
+        "Global": "YouTube/CaterhamMotorsport"
       },
       "streamUrl": "https://www.youtube.com/@CaterhamMotorsport",
       "resultsUrl": "https://www.barc.net/championship/caterham-seven-championship-uk/"
@@ -2256,9 +2183,7 @@
       "color": "#22C55E",
       "bg": "rgba(34,197,94,0.15)",
       "broadcast": {
-        "UK": "YouTube/CaterhamMotorsport (ITV4 at Brands Indy)",
-        "US": "YouTube/CaterhamMotorsport",
-        "AU": "YouTube/CaterhamMotorsport"
+        "Global": "YouTube/CaterhamMotorsport"
       },
       "streamUrl": "https://www.youtube.com/@CaterhamMotorsport",
       "resultsUrl": "https://www.barc.net/championship/caterham-seven-310r-championship/"
@@ -2280,9 +2205,7 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "UK": "YouTube/Mini7RacingClub (ITV4 at Thruxton)",
-        "US": "YouTube/Mini7RacingClub",
-        "AU": "YouTube/Mini7RacingClub"
+        "Global": "YouTube/Mini7RacingClub"
       },
       "streamUrl": "https://www.mini7.co.uk/",
       "resultsUrl": "https://www.mini7.co.uk/"
@@ -2304,9 +2227,7 @@
       "color": "#06B6D4",
       "bg": "rgba(6,182,212,0.15)",
       "broadcast": {
-        "UK": "YouTube/Mini7RacingClub (ITV4 at Thruxton)",
-        "US": "YouTube/Mini7RacingClub",
-        "AU": "YouTube/Mini7RacingClub"
+        "Global": "YouTube/Mini7RacingClub"
       },
       "streamUrl": "https://www.mini7.co.uk/",
       "resultsUrl": "https://www.mini7.co.uk/"
@@ -2327,9 +2248,7 @@
       "color": "#A855F7",
       "bg": "rgba(168,85,247,0.15)",
       "broadcast": {
-        "UK": "YouTube/LegendsRacingUK (ITV4 at Donington)",
-        "US": "YouTube/LegendsRacingUK",
-        "AU": "YouTube/LegendsRacingUK"
+        "Global": "YouTube/LegendsRacingUK"
       },
       "streamUrl": "https://legendsracingeurope.com/",
       "resultsUrl": "https://legendsracingeurope.com/"
@@ -2350,9 +2269,7 @@
       "color": "#9333EA",
       "bg": "rgba(147,51,234,0.15)",
       "broadcast": {
-        "UK": "YouTube/SMRC (ITV4 at Oulton + Knockhill BTCC rounds)",
-        "US": "YouTube/SMRC",
-        "AU": "YouTube/SMRC"
+        "Global": "YouTube/SMRC"
       },
       "streamUrl": "https://www.smrc.co.uk/",
       "resultsUrl": "https://legendsracingeurope.com/"
@@ -2372,9 +2289,7 @@
       "color": "#0891B2",
       "bg": "rgba(8,145,178,0.15)",
       "broadcast": {
-        "UK": "YouTube/BARC (ITV4 at Oulton BTCC)",
-        "US": "YouTube/BARC",
-        "AU": "YouTube/BARC"
+        "Global": "YouTube/BARC"
       },
       "streamUrl": "https://classictouringcars.com/",
       "resultsUrl": "https://classictouringcars.com/"
@@ -2399,9 +2314,7 @@
       "color": "#BE123C",
       "bg": "rgba(190,18,60,0.15)",
       "broadcast": {
-        "UK": "YouTube/TCRTV",
-        "US": "YouTube/TCRTV",
-        "AU": "YouTube/TCRTV"
+        "Global": "YouTube/TCRTV"
       },
       "unstreamedCategories": [
         "Practice"
@@ -2425,9 +2338,7 @@
       "color": "#D97706",
       "bg": "rgba(217,119,6,0.15)",
       "broadcast": {
-        "UK": "YouTube/GTOPENseries",
-        "US": "YouTube/GTOPENseries",
-        "AU": "YouTube/GTOPENseries"
+        "Global": "YouTube/GTOPENseries"
       },
       "unstreamedCategories": [
         "Practice"
@@ -2451,9 +2362,7 @@
       "color": "#4338CA",
       "bg": "rgba(67,56,202,0.15)",
       "broadcast": {
-        "UK": "YouTube/EuroFormulaOpen",
-        "US": "YouTube/EuroFormulaOpen",
-        "AU": "YouTube/EuroFormulaOpen"
+        "Global": "YouTube/EuroFormulaOpen"
       },
       "unstreamedCategories": [
         "Practice"
@@ -2476,9 +2385,7 @@
       "color": "#15803D",
       "bg": "rgba(21,128,61,0.15)",
       "broadcast": {
-        "UK": "YouTube/GTCupOpenSeries",
-        "US": "YouTube/GTCupOpenSeries",
-        "AU": "YouTube/GTCupOpenSeries"
+        "Global": "YouTube/GTCupOpenSeries"
       },
       "unstreamedCategories": [
         "Practice"
@@ -2503,9 +2410,7 @@
       "color": "#991B1B",
       "bg": "rgba(153,27,27,0.15)",
       "broadcast": {
-        "UK": "YouTube/PorscheCarreraCupDeutschland",
-        "US": "YouTube/PorscheCarreraCupDeutschland",
-        "AU": "YouTube/PorscheCarreraCupDeutschland"
+        "Global": "YouTube/PorscheCarreraCupDeutschland"
       },
       "unstreamedCategories": [
         "Practice"
