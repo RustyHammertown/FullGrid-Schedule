@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-21T22:04:50.247Z",
+  "generatedAt": "2026-05-21T23:05:58.844Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1689,6 +1689,30 @@
       "short": "GCNA",
       "color": "#0D9488",
       "bg": "rgba(13,148,136,0.15)",
+      "broadcast": {
+        "Global": "YouTube/racingamericatv"
+      },
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
+      "resultsUrl": "https://svra.com/race-results/"
+    },
+    "svra": {
+      "id": "svra",
+      "tags": [
+        "sports-car",
+        "historic",
+        "north-america",
+        "regional-series"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "SVRA Group Racing",
+      "short": "SVRA",
+      "color": "#7E22CE",
+      "bg": "rgba(126,34,206,0.15)",
       "broadcast": {
         "Global": "YouTube/racingamericatv"
       },

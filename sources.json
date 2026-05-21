@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T22:04:50.904Z",
+  "generatedAt": "2026-05-21T23:05:59.535Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -2220,6 +2220,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/InternationalGT/"
+        }
+      ]
+    },
+    "svra": {
+      "schedule": [
+        {
+          "url": "https://svra.com/events/",
+          "label": "SVRA SpeedTour event calendar"
+        },
+        {
+          "url": "https://svra.com/gtb/?lib=schedule&event_ID=2006",
+          "label": "Per-event weekend timetable (event_ID per round)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://svra.com/race-results/",
+          "label": "SVRA race results (by event/group/session)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://svra.com/",
+          "label": "SVRA — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://speedhive.mylaps.com/Organizations/36734",
+          "label": "SVRA live timing & results (Speedhive)"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/svralife/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/svralife"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/svralife/"
         }
       ]
     },
