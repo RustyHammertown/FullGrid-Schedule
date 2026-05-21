@@ -43498,32 +43498,17 @@
         {
           "name": "Sprint Race 1",
           "time": "2026-05-21T17:10:00-04:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
-          }
+          "duration": 30
         },
         {
           "name": "Sprint Race 2",
           "time": "2026-05-22T09:35:00-04:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
-          }
+          "duration": 30
         },
         {
           "name": "Sprint Race 3",
           "time": "2026-05-22T14:00:00-04:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
-          }
+          "duration": 30
         },
         {
           "name": "Enduro",
