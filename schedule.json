@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T23:05:58.172Z",
+  "generatedAt": "2026-05-21T23:29:42.859Z",
   "events": [
     {
       "id": 101,
@@ -44018,6 +44018,51 @@
               "service": "YouTube/racingamericatv"
             }
           }
+        },
+        {
+          "name": "Grp 10 Practice 1",
+          "time": "2026-05-21T10:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 10 Practice 2",
+          "time": "2026-05-21T14:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-05-22T10:15:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-05-22T15:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-05-23T11:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-05-23T16:40:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
         }
       ]
     },
@@ -45098,6 +45143,46 @@
               "service": "YouTube/racingamericatv"
             }
           }
+        },
+        {
+          "name": "Grp 10 Practice",
+          "time": "2026-09-18T10:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-09-18T15:45:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-09-19T09:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-09-19T17:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-09-20T13:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
         }
       ]
     },
@@ -45446,6 +45531,51 @@
         {
           "name": "Grp 6/8/12 Sprint 3",
           "time": "2026-10-18T14:50:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Practice 1",
+          "time": "2026-10-16T11:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Practice 2",
+          "time": "2026-10-16T16:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-10-17T11:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-10-17T16:35:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-10-18T13:45:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-10-18T16:25:00-05:00",
           "duration": 25,
           "broadcasts": {
             "Global": {
