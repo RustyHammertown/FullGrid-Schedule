@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T20:31:43.118Z",
+  "generatedAt": "2026-05-21T22:04:49.559Z",
   "events": [
     {
       "id": 101,
@@ -43667,6 +43667,186 @@
         {
           "name": "Enduro",
           "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5190,
+      "series": "ginettana",
+      "name": "Lime Rock",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-21T10:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-22T10:15:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-05-22T15:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-05-23T11:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-05-23T16:40:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5191,
+      "series": "ginettana",
+      "name": "Mid-Ohio",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5192,
+      "series": "ginettana",
+      "name": "Lime Rock",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "series": "ginettana",
+      "name": "VIR",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5194,
+      "series": "ginettana",
+      "name": "Barber",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-10-17T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
             "Global": {

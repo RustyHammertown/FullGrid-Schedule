@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T20:31:48.304Z",
+  "generatedAt": "2026-05-21T22:04:51.554Z",
   "groups": {
     "f1": [
       {
@@ -482,6 +482,21 @@
         "label": "Practice",
         "sessions": [
           "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "ginettana": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1"
         ]
       },
       {
