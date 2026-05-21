@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T01:11:15.555Z",
+  "generatedAt": "2026-05-21T01:22:38.247Z",
   "events": [
     {
       "id": 101,
@@ -17285,9 +17285,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17298,9 +17295,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17338,9 +17332,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17351,9 +17342,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17391,9 +17379,6 @@
           "duration": 120,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17431,9 +17416,6 @@
           "duration": 120,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17456,9 +17438,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17469,9 +17448,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17509,9 +17485,6 @@
           "duration": 120,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17534,9 +17507,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17547,9 +17517,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17572,9 +17539,6 @@
           "duration": 120,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17629,9 +17593,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17642,9 +17603,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17682,9 +17640,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17695,9 +17650,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17735,9 +17687,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17748,9 +17697,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17773,9 +17719,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17786,9 +17729,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17811,9 +17751,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17824,9 +17761,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17849,9 +17783,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17862,9 +17793,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -17925,10 +17853,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -17938,10 +17866,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -17973,10 +17901,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -17986,10 +17914,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18011,10 +17939,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18024,10 +17952,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18049,10 +17977,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18062,10 +17990,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18087,10 +18015,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18100,10 +18028,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18125,10 +18053,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18138,10 +18066,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18163,10 +18091,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18176,10 +18104,10 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MX5Cup"
             },
             "Global": {
-              "service": "YouTube/MX5Cup"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18201,9 +18129,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18214,9 +18139,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18239,9 +18161,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18252,9 +18171,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18292,9 +18208,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18305,9 +18218,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18330,9 +18240,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18343,9 +18250,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18368,9 +18272,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18381,9 +18282,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18406,9 +18304,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18419,9 +18314,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18444,9 +18336,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18457,9 +18346,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18482,9 +18368,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18495,9 +18378,6 @@
           "duration": 40,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/imsaofficial"
             }
           }
@@ -18535,13 +18415,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18551,13 +18431,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18594,13 +18474,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18610,13 +18490,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18638,13 +18518,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18654,13 +18534,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18682,13 +18562,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18698,13 +18578,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18726,13 +18606,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -18742,13 +18622,13 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/imsaofficial"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -18784,7 +18664,7 @@
           "time": "2026-03-29T08:50:00-07:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -18795,7 +18675,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -18834,7 +18714,7 @@
           "time": "2026-04-26T08:45:00-05:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -18845,7 +18725,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -18879,7 +18759,7 @@
           "time": "2026-05-09T14:10:00-04:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -18890,7 +18770,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -18915,7 +18795,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -18940,7 +18820,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -18965,7 +18845,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -18990,7 +18870,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -22269,7 +22149,7 @@
           "time": "2026-05-07T11:00:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -22279,7 +22159,7 @@
           "time": "2026-05-07T15:40:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -22289,7 +22169,7 @@
           "time": "2026-05-08T10:10:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -22299,7 +22179,7 @@
           "time": "2026-05-08T14:30:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -22361,7 +22241,7 @@
           "time": "2026-05-08T15:20:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -27226,7 +27106,7 @@
           "time": "2026-02-07T13:00:00-05:00",
           "duration": 75,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27236,7 +27116,7 @@
           "time": "2026-02-07T15:00:00-05:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27246,7 +27126,7 @@
           "time": "2026-02-07T17:30:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27281,7 +27161,7 @@
           "time": "2026-03-27T12:30:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27291,7 +27171,7 @@
           "time": "2026-03-27T13:10:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27301,7 +27181,7 @@
           "time": "2026-03-27T15:15:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27336,7 +27216,7 @@
           "time": "2026-04-12T12:00:00-04:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27346,7 +27226,7 @@
           "time": "2026-04-12T13:25:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -27356,7 +27236,7 @@
           "time": "2026-04-12T15:30:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -29303,7 +29183,7 @@
           "duration": 240,
           "resultsUrl": "https://www.floseries.com/schedules/event/634917",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -29325,7 +29205,7 @@
           "duration": 240,
           "resultsUrl": "https://www.floseries.com/schedules/event/615459",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FloRacing"
             }
           }
@@ -34913,7 +34793,7 @@
           "duration": 15,
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/qualifying-1",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -34924,7 +34804,7 @@
           "duration": 15,
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/qualifying-2",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -34935,7 +34815,7 @@
           "duration": 15,
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/qualifying-3",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -34947,9 +34827,6 @@
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/circuit-paul-ricard/race",
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -34984,7 +34861,7 @@
           "duration": 10,
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/qualifying-1",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -34995,7 +34872,7 @@
           "duration": 10,
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/qualifying-2",
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35008,9 +34885,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -35021,9 +34895,6 @@
           "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/brands-hatch/race-2",
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35055,7 +34926,7 @@
           "time": "2026-05-31T09:50:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35066,9 +34937,6 @@
           "duration": 180,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35100,7 +34968,7 @@
           "time": "2026-06-25T19:45:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35110,7 +34978,7 @@
           "time": "2026-06-25T20:07:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35120,7 +34988,7 @@
           "time": "2026-06-25T20:29:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35130,7 +34998,7 @@
           "time": "2026-06-25T20:51:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35141,9 +35009,6 @@
           "duration": 1440,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35175,7 +35040,7 @@
           "time": "2026-07-18T11:40:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35187,9 +35052,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -35198,7 +35060,7 @@
           "time": "2026-07-19T10:35:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35209,9 +35071,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35243,7 +35102,7 @@
           "time": "2026-08-01T14:55:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35255,9 +35114,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -35266,7 +35122,7 @@
           "time": "2026-08-02T11:05:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35277,9 +35133,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35311,7 +35164,7 @@
           "time": "2026-08-30T10:20:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35322,9 +35175,6 @@
           "duration": 180,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35356,7 +35206,7 @@
           "time": "2026-09-19T09:50:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35368,9 +35218,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -35379,7 +35226,7 @@
           "time": "2026-09-20T10:50:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35390,9 +35237,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35424,7 +35268,7 @@
           "time": "2026-10-03T09:45:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35436,9 +35280,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -35447,7 +35288,7 @@
           "time": "2026-10-04T11:25:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35458,9 +35299,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35492,7 +35330,7 @@
           "time": "2026-10-18T10:40:00+01:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35503,9 +35341,6 @@
           "duration": 180,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -35527,7 +35362,7 @@
           "time": "2026-04-10T11:50:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35537,7 +35372,7 @@
           "time": "2026-04-11T10:10:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35547,7 +35382,7 @@
           "time": "2026-04-11T15:05:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35557,7 +35392,7 @@
           "time": "2026-04-11T15:30:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35567,7 +35402,7 @@
           "time": "2026-04-11T15:55:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35577,7 +35412,7 @@
           "time": "2026-04-11T16:20:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35588,7 +35423,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "FIA WEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -35612,7 +35447,7 @@
               "service": "Eurosport"
             },
             "Global": {
-              "service": "FIA WEC+"
+              "service": "FIAWEC+"
             }
           }
         }
@@ -35633,7 +35468,7 @@
           "time": "2026-05-01T11:50:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35643,7 +35478,7 @@
           "time": "2026-05-02T10:10:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35653,7 +35488,7 @@
           "time": "2026-05-02T15:10:00+02:00",
           "duration": 22,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35663,7 +35498,7 @@
           "time": "2026-05-02T15:32:00+02:00",
           "duration": 22,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35673,7 +35508,7 @@
           "time": "2026-05-02T15:54:00+02:00",
           "duration": 22,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35683,7 +35518,7 @@
           "time": "2026-05-02T16:16:00+02:00",
           "duration": 22,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35694,7 +35529,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "FIA WEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -35718,7 +35553,7 @@
               "service": "Eurosport"
             },
             "Global": {
-              "service": "FIA WEC+"
+              "service": "FIAWEC+"
             }
           }
         }
@@ -35739,7 +35574,7 @@
           "time": "2026-07-03T10:40:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35749,7 +35584,7 @@
           "time": "2026-07-04T10:40:00+02:00",
           "duration": 90,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35759,7 +35594,7 @@
           "time": "2026-07-04T14:55:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35769,7 +35604,7 @@
           "time": "2026-07-04T15:20:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35779,7 +35614,7 @@
           "time": "2026-07-04T15:45:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35789,7 +35624,7 @@
           "time": "2026-07-04T16:10:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "FIAWEC+"
             }
           }
@@ -35800,7 +35635,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "FIA WEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -35824,7 +35659,7 @@
               "service": "Eurosport"
             },
             "Global": {
-              "service": "FIA WEC+"
+              "service": "FIAWEC+"
             }
           }
         }
@@ -35846,7 +35681,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "FIA WEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -35870,7 +35705,7 @@
               "service": "Eurosport"
             },
             "Global": {
-              "service": "FIA WEC+"
+              "service": "FIAWEC+"
             }
           }
         }
@@ -35892,7 +35727,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "FIA WEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -35916,7 +35751,7 @@
               "service": "Eurosport"
             },
             "Global": {
-              "service": "FIA WEC+"
+              "service": "FIAWEC+"
             }
           }
         }
@@ -35938,7 +35773,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "FIA WEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -35962,7 +35797,7 @@
               "service": "Eurosport"
             },
             "Global": {
-              "service": "FIA WEC+"
+              "service": "FIAWEC+"
             }
           }
         }
@@ -35993,7 +35828,7 @@
           "time": "2026-03-28T11:15:00+11:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36005,9 +35840,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -36017,9 +35849,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36051,7 +35880,7 @@
           "time": "2026-05-09T10:15:00+09:30",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36063,9 +35892,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -36075,9 +35901,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36101,9 +35924,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -36113,9 +35933,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36139,9 +35956,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -36151,9 +35965,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36177,9 +35988,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -36189,9 +35997,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -36215,9 +36020,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -36227,9 +36029,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39355,7 +39154,7 @@
           "time": "2026-04-03T15:40:00+08:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39365,7 +39164,7 @@
           "time": "2026-04-04T10:25:00+08:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39375,7 +39174,7 @@
           "time": "2026-04-04T10:47:00+08:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39387,9 +39186,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -39399,9 +39195,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39428,7 +39221,7 @@
           "time": "2026-05-01T14:55:00+08:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39438,7 +39231,7 @@
           "time": "2026-05-02T09:15:00+08:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39448,7 +39241,7 @@
           "time": "2026-05-02T09:37:00+08:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39460,9 +39253,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -39472,9 +39262,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39501,7 +39288,7 @@
           "time": "2026-06-04T14:55:00+08:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39511,7 +39298,7 @@
           "time": "2026-06-05T08:30:00+08:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39521,7 +39308,7 @@
           "time": "2026-06-05T08:45:00+08:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39533,9 +39320,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -39545,9 +39329,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39574,7 +39355,7 @@
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39584,7 +39365,7 @@
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39596,9 +39377,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -39608,9 +39386,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39637,7 +39412,7 @@
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39647,7 +39422,7 @@
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39659,9 +39434,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -39671,9 +39443,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39700,7 +39469,7 @@
           "time": "2026-10-03T20:00:00+08:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39710,7 +39479,7 @@
           "time": "2026-10-03T20:00:00+08:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -39722,9 +39491,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -39734,9 +39500,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40006,7 +39769,7 @@
           "time": "2026-04-05T09:35:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40016,7 +39779,7 @@
           "time": "2026-04-05T10:05:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40026,7 +39789,7 @@
           "time": "2026-04-05T13:55:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40036,7 +39799,7 @@
           "time": "2026-04-06T15:00:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40068,7 +39831,7 @@
           "time": "2026-05-16T08:30:00+02:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40078,7 +39841,7 @@
           "time": "2026-05-16T13:55:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40088,7 +39851,7 @@
           "time": "2026-05-17T14:25:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40120,7 +39883,7 @@
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40130,7 +39893,7 @@
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40140,7 +39903,7 @@
           "time": "2026-06-21T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40172,7 +39935,7 @@
           "time": "2026-08-01T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40182,7 +39945,7 @@
           "time": "2026-08-01T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40192,7 +39955,7 @@
           "time": "2026-08-02T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40224,7 +39987,7 @@
           "time": "2026-10-10T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40234,7 +39997,7 @@
           "time": "2026-10-10T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40244,7 +40007,7 @@
           "time": "2026-10-11T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40276,7 +40039,7 @@
           "time": "2026-03-27T10:45:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40287,7 +40050,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40300,7 +40063,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40334,7 +40097,7 @@
           "time": "2026-04-25T12:10:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40345,7 +40108,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40379,7 +40142,7 @@
           "time": "2026-05-08T14:10:00-04:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40389,7 +40152,7 @@
           "time": "2026-05-08T14:30:00-04:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40400,7 +40163,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40413,7 +40176,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40447,7 +40210,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40458,7 +40221,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40471,7 +40234,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40505,7 +40268,7 @@
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40516,7 +40279,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40529,7 +40292,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40563,7 +40326,7 @@
           "time": "2026-09-26T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40574,7 +40337,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40587,7 +40350,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40621,7 +40384,7 @@
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40632,7 +40395,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40645,7 +40408,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -40679,7 +40442,7 @@
           "time": "2026-03-28T09:10:00+11:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40689,7 +40452,7 @@
           "time": "2026-03-28T09:30:00+11:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40701,9 +40464,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -40713,9 +40473,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40747,7 +40504,7 @@
           "time": "2026-05-09T08:15:00+09:30",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40757,7 +40514,7 @@
           "time": "2026-05-09T08:40:00+09:30",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40769,9 +40526,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -40781,9 +40535,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40815,7 +40566,7 @@
           "time": "2026-06-13T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40825,7 +40576,7 @@
           "time": "2026-06-13T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40837,9 +40588,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -40849,9 +40597,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40883,7 +40628,7 @@
           "time": "2026-07-25T21:30:00+09:30",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40893,7 +40638,7 @@
           "time": "2026-07-25T21:30:00+09:30",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40905,9 +40650,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -40917,9 +40659,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40951,7 +40690,7 @@
           "time": "2026-09-19T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40961,7 +40700,7 @@
           "time": "2026-09-19T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -40973,9 +40712,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -40985,9 +40721,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41019,7 +40752,7 @@
           "time": "2026-10-31T23:00:00+11:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41029,7 +40762,7 @@
           "time": "2026-10-31T23:00:00+11:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41041,9 +40774,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -41053,9 +40783,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41087,7 +40814,7 @@
           "time": "2026-03-26T15:30:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41098,7 +40825,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41111,7 +40838,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41145,7 +40872,7 @@
           "time": "2026-04-24T12:05:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41156,7 +40883,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41169,7 +40896,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41203,7 +40930,7 @@
           "time": "2026-05-07T15:10:00-04:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41214,7 +40941,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41227,7 +40954,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41261,7 +40988,7 @@
           "time": "2026-06-12T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41272,7 +40999,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41285,7 +41012,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41319,7 +41046,7 @@
           "time": "2026-08-28T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41330,7 +41057,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41343,7 +41070,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41377,7 +41104,7 @@
           "time": "2026-09-25T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41388,7 +41115,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41401,7 +41128,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41435,7 +41162,7 @@
           "time": "2026-10-09T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41446,7 +41173,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41459,7 +41186,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41493,7 +41220,7 @@
           "time": "2026-04-04T17:15:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41503,7 +41230,7 @@
           "time": "2026-04-04T17:40:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41513,7 +41240,7 @@
           "time": "2026-04-05T12:15:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41523,7 +41250,7 @@
           "time": "2026-04-05T18:30:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41533,7 +41260,7 @@
           "time": "2026-04-06T09:15:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41543,7 +41270,7 @@
           "time": "2026-04-06T16:25:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41575,7 +41302,7 @@
           "time": "2026-05-15T18:05:00+02:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41585,7 +41312,7 @@
           "time": "2026-05-16T11:20:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41595,7 +41322,7 @@
           "time": "2026-05-16T17:25:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41605,7 +41332,7 @@
           "time": "2026-05-17T09:30:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41615,7 +41342,7 @@
           "time": "2026-05-17T16:40:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41647,7 +41374,7 @@
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41657,7 +41384,7 @@
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41667,7 +41394,7 @@
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41677,7 +41404,7 @@
           "time": "2026-06-21T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41687,7 +41414,7 @@
           "time": "2026-06-21T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41719,7 +41446,7 @@
           "time": "2026-08-01T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41729,7 +41456,7 @@
           "time": "2026-08-01T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41739,7 +41466,7 @@
           "time": "2026-08-01T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41749,7 +41476,7 @@
           "time": "2026-08-02T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41759,7 +41486,7 @@
           "time": "2026-08-02T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41791,7 +41518,7 @@
           "time": "2026-10-10T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41801,7 +41528,7 @@
           "time": "2026-10-10T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41811,7 +41538,7 @@
           "time": "2026-10-10T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41821,7 +41548,7 @@
           "time": "2026-10-11T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41831,7 +41558,7 @@
           "time": "2026-10-11T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41863,7 +41590,7 @@
           "time": "2026-03-28T09:10:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41874,7 +41601,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41887,7 +41614,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41921,7 +41648,7 @@
           "time": "2026-04-25T11:40:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41932,7 +41659,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41945,7 +41672,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -41979,7 +41706,7 @@
           "time": "2026-05-09T10:55:00-04:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -41990,7 +41717,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42003,7 +41730,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42037,7 +41764,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42048,7 +41775,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42061,7 +41788,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42095,7 +41822,7 @@
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42106,7 +41833,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42119,7 +41846,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42153,7 +41880,7 @@
           "time": "2026-09-26T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42164,7 +41891,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42177,7 +41904,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42211,7 +41938,7 @@
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42222,7 +41949,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42235,7 +41962,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42269,7 +41996,7 @@
           "time": "2026-03-13T16:45:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42280,7 +42007,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42292,7 +42019,7 @@
           "time": "2026-03-14T16:20:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42303,7 +42030,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42337,7 +42064,7 @@
           "time": "2026-03-28T10:30:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42348,7 +42075,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42360,7 +42087,7 @@
           "time": "2026-03-29T08:15:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42371,7 +42098,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42405,7 +42132,7 @@
           "time": "2026-04-25T09:05:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42416,7 +42143,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42428,7 +42155,7 @@
           "time": "2026-04-26T08:15:00-05:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42439,7 +42166,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42473,7 +42200,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42484,7 +42211,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42496,7 +42223,7 @@
           "time": "2026-06-14T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42507,7 +42234,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42541,7 +42268,7 @@
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42552,7 +42279,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42564,7 +42291,7 @@
           "time": "2026-08-30T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42575,7 +42302,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42609,7 +42336,7 @@
           "time": "2026-09-26T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42620,7 +42347,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42632,7 +42359,7 @@
           "time": "2026-09-27T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42643,7 +42370,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42677,7 +42404,7 @@
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42688,7 +42415,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42700,7 +42427,7 @@
           "time": "2026-10-11T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42711,7 +42438,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/GTWorld"
+              "service": "FS1 / YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -42740,7 +42467,7 @@
           "time": "2026-04-11T11:10:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42750,7 +42477,7 @@
           "time": "2026-04-11T16:45:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42760,7 +42487,7 @@
           "time": "2026-04-11T17:05:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42772,9 +42499,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -42784,9 +42508,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42813,7 +42534,7 @@
           "time": "2026-05-22T19:05:00+02:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42823,7 +42544,7 @@
           "time": "2026-05-23T11:55:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42833,7 +42554,7 @@
           "time": "2026-05-23T12:20:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42845,9 +42566,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -42857,9 +42575,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42886,7 +42601,7 @@
           "time": "2026-07-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42896,7 +42611,7 @@
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42906,7 +42621,7 @@
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42918,9 +42633,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -42930,9 +42642,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42959,7 +42668,7 @@
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42969,7 +42678,7 @@
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42979,7 +42688,7 @@
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -42991,9 +42700,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -43003,9 +42709,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -43032,7 +42735,7 @@
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -43042,7 +42745,7 @@
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -43052,7 +42755,7 @@
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -43064,9 +42767,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -43076,9 +42776,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -43561,7 +43258,7 @@
           "time": "2026-04-17T09:30:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43571,7 +43268,7 @@
           "time": "2026-04-17T13:15:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43581,7 +43278,7 @@
           "time": "2026-04-17T17:30:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43591,7 +43288,7 @@
           "time": "2026-04-18T09:45:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43601,7 +43298,7 @@
           "time": "2026-04-18T16:30:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43611,7 +43308,7 @@
           "time": "2026-04-19T08:40:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43633,7 +43330,7 @@
           "time": "2026-05-07T09:20:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43643,7 +43340,7 @@
           "time": "2026-05-07T14:00:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43653,7 +43350,7 @@
           "time": "2026-05-07T17:25:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43663,7 +43360,7 @@
           "time": "2026-05-08T09:25:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43673,7 +43370,7 @@
           "time": "2026-05-08T16:50:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43683,7 +43380,7 @@
           "time": "2026-05-09T09:30:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43705,7 +43402,7 @@
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43727,7 +43424,7 @@
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/peterautoracing"
             }
           }
@@ -43749,7 +43446,7 @@
           "time": "2026-02-28T09:00:00-05:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43771,7 +43468,7 @@
           "time": "2026-03-14T09:00:00-04:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43803,7 +43500,7 @@
           "time": "2026-05-21T17:10:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43813,7 +43510,7 @@
           "time": "2026-05-22T09:35:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43823,7 +43520,7 @@
           "time": "2026-05-22T14:00:00-04:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43833,7 +43530,7 @@
           "time": "2026-05-23T09:05:00-04:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43855,7 +43552,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43877,7 +43574,7 @@
           "time": "2026-06-27T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43899,7 +43596,7 @@
           "time": "2026-07-18T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43921,7 +43618,7 @@
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43943,7 +43640,7 @@
           "time": "2026-10-03T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43965,7 +43662,7 @@
           "time": "2026-10-17T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -43987,7 +43684,7 @@
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/racingamericatv"
             }
           }
@@ -44009,7 +43706,7 @@
           "time": "2026-02-28T12:00:00-05:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44031,7 +43728,7 @@
           "time": "2026-03-14T12:00:00-04:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44053,7 +43750,7 @@
           "time": "2026-04-25T12:00:00-07:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44095,7 +43792,7 @@
           "time": "2026-05-23T11:40:00-04:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44105,7 +43802,7 @@
           "time": "2026-05-23T14:30:00-04:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44127,7 +43824,7 @@
           "time": "2026-06-20T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44149,7 +43846,7 @@
           "time": "2026-06-27T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44171,7 +43868,7 @@
           "time": "2026-07-18T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44193,7 +43890,7 @@
           "time": "2026-09-05T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44215,7 +43912,7 @@
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44237,7 +43934,7 @@
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44259,7 +43956,7 @@
           "time": "2026-04-25T12:00:00-07:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44281,7 +43978,7 @@
           "time": "2026-10-03T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44303,7 +44000,7 @@
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TheTransAmSeries"
             }
           }
@@ -44335,7 +44032,7 @@
           "time": "2026-04-11T15:50:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44345,7 +44042,7 @@
           "time": "2026-04-11T16:15:00+02:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44357,9 +44054,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -44369,9 +44063,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44403,7 +44094,7 @@
           "time": "2026-05-30T12:15:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44413,7 +44104,7 @@
           "time": "2026-05-30T12:40:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44425,9 +44116,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -44437,9 +44125,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44471,7 +44156,7 @@
           "time": "2026-06-27T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44481,7 +44166,7 @@
           "time": "2026-06-27T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44493,9 +44178,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -44505,9 +44187,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44539,7 +44218,7 @@
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44549,7 +44228,7 @@
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44561,9 +44240,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -44573,9 +44249,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44607,7 +44280,7 @@
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44617,7 +44290,7 @@
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44629,9 +44302,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -44641,9 +44311,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44675,7 +44342,7 @@
           "time": "2026-10-17T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44685,7 +44352,7 @@
           "time": "2026-10-17T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44697,9 +44364,6 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
-            },
-            "US": {
-              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -44709,9 +44373,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/GTWorld"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44743,7 +44404,7 @@
           "time": "2026-03-28T08:20:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44753,7 +44414,7 @@
           "time": "2026-03-28T08:40:00-07:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44764,9 +44425,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44777,9 +44435,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44811,7 +44466,7 @@
           "time": "2026-05-02T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44821,7 +44476,7 @@
           "time": "2026-05-02T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44832,9 +44487,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44845,9 +44497,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44879,7 +44528,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44889,7 +44538,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44900,9 +44549,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44913,9 +44559,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44947,7 +44590,7 @@
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44957,7 +44600,7 @@
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44968,9 +44611,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -44981,9 +44621,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45015,7 +44652,7 @@
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45025,7 +44662,7 @@
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45036,9 +44673,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45049,9 +44683,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45088,7 +44719,7 @@
           "time": "2026-05-30T11:45:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45099,9 +44730,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45116,7 +44744,7 @@
           "time": "2026-05-31T09:20:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45127,9 +44755,6 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45161,7 +44786,7 @@
           "time": "2026-06-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45171,7 +44796,7 @@
           "time": "2026-06-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45182,9 +44807,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45195,9 +44817,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45229,7 +44848,7 @@
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45239,7 +44858,7 @@
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45250,9 +44869,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45263,9 +44879,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45297,7 +44910,7 @@
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45307,7 +44920,7 @@
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45318,9 +44931,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45331,9 +44941,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45365,7 +44972,7 @@
           "time": "2026-10-17T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45375,7 +44982,7 @@
           "time": "2026-10-17T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45386,9 +44993,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45399,9 +45003,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/McLaren"
-            },
-            "US": {
               "service": "YouTube/GTWorld"
             }
           }
@@ -45424,9 +45025,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45437,9 +45035,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45477,9 +45072,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45490,9 +45082,6 @@
           "duration": 50,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45515,9 +45104,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45528,9 +45114,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45553,9 +45136,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45566,9 +45146,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45591,9 +45168,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45604,9 +45178,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45629,9 +45200,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45642,9 +45210,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45667,9 +45232,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45680,9 +45242,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45720,9 +45279,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45733,9 +45289,6 @@
           "duration": 60,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45758,9 +45311,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45771,9 +45321,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45796,9 +45343,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45809,9 +45353,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45834,9 +45375,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45847,9 +45385,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45872,9 +45407,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45885,9 +45417,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Lamborghini"
-            },
-            "US": {
               "service": "YouTube/LamborghiniSquadraCorse"
             }
           }
@@ -45910,13 +45439,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -45926,13 +45455,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -45954,13 +45483,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -45970,13 +45499,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -45998,13 +45527,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46014,13 +45543,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46042,13 +45571,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46058,13 +45587,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46086,13 +45615,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46102,13 +45631,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46130,13 +45659,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46146,13 +45675,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46174,13 +45703,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46190,13 +45719,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46233,13 +45762,13 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46254,13 +45783,13 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46282,13 +45811,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46298,13 +45827,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46326,13 +45855,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46342,13 +45871,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46370,13 +45899,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46386,13 +45915,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46414,13 +45943,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         },
@@ -46430,13 +45959,13 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "YouTube/FordRacing"
+              "service": "YouTube/MustangChallenge"
             },
             "AU": {
               "service": "YouTube/MustangChallenge"
             },
             "Global": {
-              "service": "YouTube/MustangChallenge"
+              "service": "YouTube/FordRacing"
             }
           }
         }
@@ -46932,9 +46461,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -46945,9 +46471,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -46970,9 +46493,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -46983,9 +46503,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47008,9 +46525,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47021,9 +46535,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47046,9 +46557,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47059,9 +46567,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47084,9 +46589,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47097,9 +46599,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47122,9 +46621,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47135,9 +46631,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47160,9 +46653,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47173,9 +46663,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47198,9 +46685,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47211,9 +46695,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47236,9 +46717,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47249,9 +46727,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47274,9 +46749,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47287,9 +46759,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47312,9 +46781,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47325,9 +46791,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47350,9 +46813,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47363,9 +46823,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47388,9 +46845,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47401,9 +46855,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47426,9 +46877,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47451,9 +46899,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47476,9 +46921,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -47501,9 +46943,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/Porsche"
-            },
-            "US": {
               "service": "YouTube/PorscheSprintChallenge"
             }
           }
@@ -52420,7 +51859,7 @@
           "time": "2026-03-20T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52430,7 +51869,7 @@
           "time": "2026-03-20T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52440,7 +51879,7 @@
           "time": "2026-03-21T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52451,9 +51890,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52464,9 +51900,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52488,7 +51921,7 @@
           "time": "2026-05-15T12:00:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52498,7 +51931,7 @@
           "time": "2026-05-15T16:50:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52508,7 +51941,7 @@
           "time": "2026-05-16T12:10:00+02:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52519,9 +51952,6 @@
           "duration": 30,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52532,9 +51962,6 @@
           "duration": 30,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52556,7 +51983,7 @@
           "time": "2026-06-05T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52566,7 +51993,7 @@
           "time": "2026-06-05T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52576,7 +52003,7 @@
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52587,9 +52014,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52600,9 +52024,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52624,7 +52045,7 @@
           "time": "2026-07-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52634,7 +52055,7 @@
           "time": "2026-07-03T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52644,7 +52065,7 @@
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52655,9 +52076,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52668,9 +52086,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52692,7 +52107,7 @@
           "time": "2026-09-25T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52702,7 +52117,7 @@
           "time": "2026-09-25T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52712,7 +52127,7 @@
           "time": "2026-09-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52723,9 +52138,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52736,9 +52148,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52760,7 +52169,7 @@
           "time": "2026-10-23T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52770,7 +52179,7 @@
           "time": "2026-10-23T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52780,7 +52189,7 @@
           "time": "2026-10-24T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52791,9 +52200,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52804,9 +52210,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/TCREurope"
-            },
-            "US": {
               "service": "YouTube/TCRTV"
             }
           }
@@ -52829,9 +52232,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52842,9 +52242,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52866,7 +52263,7 @@
           "time": "2026-05-15T10:50:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52876,7 +52273,7 @@
           "time": "2026-05-15T15:40:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52886,7 +52283,7 @@
           "time": "2026-05-16T11:05:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52896,7 +52293,7 @@
           "time": "2026-05-16T15:00:00+02:00",
           "duration": 25,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52907,9 +52304,6 @@
           "duration": 175,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52932,9 +52326,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52945,9 +52336,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52970,9 +52358,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -52983,9 +52368,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53008,9 +52390,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53021,9 +52400,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53046,9 +52422,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53059,9 +52432,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53084,9 +52454,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53109,9 +52476,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53122,9 +52486,6 @@
           "tbd": true,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/InternationalGTOpen"
-            },
-            "US": {
               "service": "YouTube/GTOPENseries"
             }
           }
@@ -53146,7 +52507,7 @@
           "time": "2026-04-18T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53156,7 +52517,7 @@
           "time": "2026-04-19T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53166,7 +52527,7 @@
           "time": "2026-04-19T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53188,7 +52549,7 @@
           "time": "2026-05-15T09:00:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53198,7 +52559,7 @@
           "time": "2026-05-15T13:50:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53208,7 +52569,7 @@
           "time": "2026-05-16T09:50:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53218,7 +52579,7 @@
           "time": "2026-05-16T13:10:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53228,7 +52589,7 @@
           "time": "2026-05-17T09:40:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53238,7 +52599,7 @@
           "time": "2026-05-17T17:15:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53260,7 +52621,7 @@
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53270,7 +52631,7 @@
           "time": "2026-06-07T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53280,7 +52641,7 @@
           "time": "2026-06-07T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53302,7 +52663,7 @@
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53312,7 +52673,7 @@
           "time": "2026-07-05T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53322,7 +52683,7 @@
           "time": "2026-07-05T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53344,7 +52705,7 @@
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53354,7 +52715,7 @@
           "time": "2026-07-19T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53364,7 +52725,7 @@
           "time": "2026-07-19T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53386,7 +52747,7 @@
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53396,7 +52757,7 @@
           "time": "2026-09-13T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53406,7 +52767,7 @@
           "time": "2026-09-13T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53428,7 +52789,7 @@
           "time": "2026-09-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53438,7 +52799,7 @@
           "time": "2026-09-27T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53448,7 +52809,7 @@
           "time": "2026-09-27T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53470,7 +52831,7 @@
           "time": "2026-10-24T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53480,7 +52841,7 @@
           "time": "2026-10-25T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53490,7 +52851,7 @@
           "time": "2026-10-25T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/EuroFormulaOpen"
             }
           }
@@ -53512,7 +52873,7 @@
           "time": "2026-04-18T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53522,7 +52883,7 @@
           "time": "2026-04-19T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53544,7 +52905,7 @@
           "time": "2026-05-15T09:50:00+02:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53554,7 +52915,7 @@
           "time": "2026-05-15T14:40:00+02:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53564,7 +52925,7 @@
           "time": "2026-05-16T11:40:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53574,7 +52935,7 @@
           "time": "2026-05-16T15:50:00+02:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53584,7 +52945,7 @@
           "time": "2026-05-17T09:00:00+02:00",
           "duration": 20,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53594,7 +52955,7 @@
           "time": "2026-05-17T16:00:00+02:00",
           "duration": 50,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53616,7 +52977,7 @@
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53626,7 +52987,7 @@
           "time": "2026-06-07T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53648,7 +53009,7 @@
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53658,7 +53019,7 @@
           "time": "2026-07-19T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53680,7 +53041,7 @@
           "time": "2026-09-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53690,7 +53051,7 @@
           "time": "2026-09-27T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53712,7 +53073,7 @@
           "time": "2026-10-24T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53722,7 +53083,7 @@
           "time": "2026-10-25T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/GTCupOpenSeries"
             }
           }
@@ -53744,7 +53105,7 @@
           "time": "2026-04-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53754,7 +53115,7 @@
           "time": "2026-04-19T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53776,7 +53137,7 @@
           "time": "2026-04-25T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53786,7 +53147,7 @@
           "time": "2026-04-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53808,7 +53169,7 @@
           "time": "2026-05-15T12:40:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53818,7 +53179,7 @@
           "time": "2026-05-16T10:20:00+02:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53828,7 +53189,7 @@
           "time": "2026-05-16T14:10:00+02:00",
           "duration": 32,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53838,7 +53199,7 @@
           "time": "2026-05-17T11:25:00+02:00",
           "duration": 32,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53860,7 +53221,7 @@
           "time": "2026-05-22T10:45:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53870,7 +53231,7 @@
           "time": "2026-05-22T17:20:00+02:00",
           "duration": 35,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53880,7 +53241,7 @@
           "time": "2026-05-23T11:25:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53890,7 +53251,7 @@
           "time": "2026-05-24T11:25:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53912,7 +53273,7 @@
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53922,7 +53283,7 @@
           "time": "2026-06-21T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53944,7 +53305,7 @@
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53954,7 +53315,7 @@
           "time": "2026-07-05T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53976,7 +53337,7 @@
           "time": "2026-08-15T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -53986,7 +53347,7 @@
           "time": "2026-08-16T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -54008,7 +53369,7 @@
           "time": "2026-10-10T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
@@ -54018,7 +53379,7 @@
           "time": "2026-10-11T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
             }
           }
