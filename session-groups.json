@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T23:06:00.193Z",
+  "generatedAt": "2026-05-22T00:46:44.545Z",
   "groups": {
     "f1": [
       {
@@ -1486,6 +1486,210 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying"
+        ]
+      }
+    ],
+    "hsr": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Classic Grp A/B Night Practice",
+          "Classic Grp A/B Practice",
+          "Classic Grp C Night Practice",
+          "Classic Grp C Practice",
+          "Classic Grp D Night Practice",
+          "Classic Grp D Practice",
+          "Practice",
+          "Prototype Challenge Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Classic Grp A/B Qualifying",
+          "Classic Grp A/B Qualifying 1",
+          "Classic Grp A/B Qualifying 2",
+          "Classic Grp C Qualifying",
+          "Classic Grp C Qualifying 1",
+          "Classic Grp C Qualifying 2",
+          "Classic Grp C/D Qualifying",
+          "Classic Grp D Qualifying",
+          "Classic Grp D Qualifying 1",
+          "Classic Grp D Qualifying 2",
+          "Classic Grp E Qualifying",
+          "Classic Grp F Qualifying",
+          "Classic Grp G Qualifying",
+          "Classic Grp P Qualifying",
+          "Grand Prix Classics 4A/B Qualifying 1",
+          "Grand Prix Classics 4A/B Qualifying 2",
+          "Grand Prix Classics 4A/B Qualifying 3",
+          "Grand Prix Classics 4C Qualifying 1",
+          "Grand Prix Classics 4C Qualifying 2",
+          "Grand Prix Classics 4C Qualifying 3",
+          "Grand Prix Classics Qualifying 1",
+          "Grand Prix Classics Qualifying 2",
+          "Grand Prix Classics Qualifying 3",
+          "Historic Trophy Qualifying 1",
+          "Historic Trophy Qualifying 2",
+          "Historic Trophy Qualifying 3",
+          "Legacy Racers Qualifying 1",
+          "Legacy Racers Qualifying 2",
+          "Legacy Racers Qualifying 3",
+          "Mission GT Qualifying 1",
+          "Mission GT Qualifying 2",
+          "Mission GT Qualifying 3",
+          "NASCAR Classic Qualifying 1",
+          "NASCAR Classic Qualifying 2",
+          "NASCAR Classic Qualifying 3",
+          "Prototype Challenge Qualifying",
+          "Qualifying",
+          "Vintage Cup Group 2 Qualifying 1",
+          "Vintage Cup Group 2 Qualifying 2",
+          "Vintage Cup Group 2 Qualifying 3",
+          "Vintage Cup Group 3 Qualifying 1",
+          "Vintage Cup Group 3 Qualifying 2",
+          "Vintage Cup Group 3 Qualifying 3",
+          "Vintage Cup Qualifying 1",
+          "Vintage Cup Qualifying 2",
+          "Vintage Cup Qualifying 3"
+        ]
+      },
+      {
+        "label": "Vintage Cup",
+        "sessions": [
+          "Vintage Cup Group 2 Race 1",
+          "Vintage Cup Group 2 Race 2",
+          "Vintage Cup Group 3 Race 1",
+          "Vintage Cup Group 3 Race 2",
+          "Vintage Cup Race 1",
+          "Vintage Cup Race 2",
+          "Vintage Cup Race 3",
+          "Vintage Cup Sprint Race 1",
+          "Vintage Cup Sprint Race 2"
+        ]
+      },
+      {
+        "label": "Grand Prix Classics",
+        "sessions": [
+          "Grand Prix Classics 4A/B Race 1",
+          "Grand Prix Classics 4A/B Race 2",
+          "Grand Prix Classics 4C Race 1",
+          "Grand Prix Classics 4C Race 2",
+          "Grand Prix Classics Race 1",
+          "Grand Prix Classics Race 2"
+        ]
+      },
+      {
+        "label": "Legacy Racers",
+        "sessions": [
+          "Legacy Racers Race 1",
+          "Legacy Racers Race 2",
+          "Legacy Racers Race 3",
+          "Legacy Racers Sprint Race 1",
+          "Legacy Racers Sprint Race 2"
+        ]
+      },
+      {
+        "label": "Historic Trophy",
+        "sessions": [
+          "Historic Trophy Race 1",
+          "Historic Trophy Race 2",
+          "Historic Trophy Race 3",
+          "Historic Trophy Sprint Race 1",
+          "Historic Trophy Sprint Race 2"
+        ]
+      },
+      {
+        "label": "Mission GT",
+        "sessions": [
+          "Mission GT Enduro",
+          "Mission GT Race 1",
+          "Mission GT Race 2",
+          "Mission GT Race 3",
+          "Mission GT Sprint Race 1",
+          "Mission GT Sprint Race 2"
+        ]
+      },
+      {
+        "label": "Prototype Challenge",
+        "sessions": [
+          "Prototype Challenge Enduro",
+          "Prototype Challenge Race 1",
+          "Prototype Challenge Race 2",
+          "Prototype Challenge Sprint 2",
+          "Prototype Challenge Sprint Race 1",
+          "Prototype Challenge Sprint Race 2"
+        ]
+      },
+      {
+        "label": "NASCAR Classic",
+        "sessions": [
+          "NASCAR Classic Race 1",
+          "NASCAR Classic Race 1 (PM)",
+          "NASCAR Classic Race 2",
+          "NASCAR Classic Race 3",
+          "NASCAR Classic Sprint Race 1",
+          "NASCAR Classic Sprint Race 2"
+        ]
+      },
+      {
+        "label": "Classic Endurance",
+        "sessions": [
+          "Classic Grp A/B Race 1",
+          "Classic Grp A/B Race 2",
+          "Classic Grp A/B Race 3",
+          "Classic Grp A/B Race 4",
+          "Classic Grp C Race 1",
+          "Classic Grp C Race 2",
+          "Classic Grp C Race 3",
+          "Classic Grp C Race 4",
+          "Classic Grp C/D Race 1",
+          "Classic Grp C/D Race 2",
+          "Classic Grp C/D Race 3",
+          "Classic Grp C/D Race 4",
+          "Classic Grp D Race 1",
+          "Classic Grp D Race 2",
+          "Classic Grp D Race 3",
+          "Classic Grp D Race 4",
+          "Classic Grp E Race 1",
+          "Classic Grp E Race 2",
+          "Classic Grp E Race 3",
+          "Classic Grp E Race 4",
+          "Classic Grp F Race 1",
+          "Classic Grp F Race 2",
+          "Classic Grp F Race 3",
+          "Classic Grp F Race 4",
+          "Classic Grp G Race 1",
+          "Classic Grp G Race 2",
+          "Classic Grp G Race 3",
+          "Classic Grp G Race 4",
+          "Classic Grp P Race 1",
+          "Classic Grp P Race 2",
+          "Classic Grp P Race 3",
+          "Classic Grp P Race 4"
+        ]
+      },
+      {
+        "label": "IMSA Classic",
+        "sessions": [
+          "Feature Race",
+          "Qualifying Race"
+        ]
+      },
+      {
+        "label": "B.R.M Enduros",
+        "sessions": [
+          "B.R.M Legacy Enduro",
+          "B.R.M Modern Enduro",
+          "B.R.M Vintage Enduro"
+        ]
+      },
+      {
+        "label": "SascoSports Int'l-American",
+        "sessions": [
+          "Sasco International-American Race",
+          "Sasco International-American Race A",
+          "Sasco International-American Race B"
         ]
       }
     ]
