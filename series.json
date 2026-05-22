@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-22T21:21:32.631Z",
+  "generatedAt": "2026-05-22T21:24:27.299Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1994,7 +1994,7 @@
       "color": "#FACC15",
       "bg": "rgba(250,204,21,0.15)",
       "broadcast": {
-        "AU": "Fox Sports / Kayo",
+        "AU": "Foxtel / Kayo",
         "NZ": "Sky Sport NZ",
         "UK": "TNT Sports / discovery+",
         "IE": "TNT Sports / discovery+",
