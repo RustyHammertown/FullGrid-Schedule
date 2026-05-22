@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-22T12:27:42.788Z",
+  "generatedAt": "2026-05-22T16:29:57.145Z",
   "events": [
     {
       "id": 101,
@@ -42820,10 +42820,7 @@
         {
           "name": "Sixties' Endurance Qualifying",
           "time": "2026-05-22T18:15:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": "YouTube/peterautoracing"
-          }
+          "duration": 40
         },
         {
           "name": "Sixties' Endurance Race",
@@ -42949,18 +42946,12 @@
         {
           "name": "Endurance Racing Legends 1 Qualifying 1",
           "time": "2026-05-22T11:25:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": "YouTube/peterautoracing"
-          }
+          "duration": 40
         },
         {
           "name": "Endurance Racing Legends 1 Qualifying 2",
           "time": "2026-05-22T17:25:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": "YouTube/peterautoracing"
-          }
+          "duration": 40
         },
         {
           "name": "Endurance Racing Legends 1 Race 1",
@@ -42981,18 +42972,12 @@
         {
           "name": "Endurance Racing Legends 2 Qualifying 1",
           "time": "2026-05-22T14:30:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": "YouTube/peterautoracing"
-          }
+          "duration": 40
         },
         {
           "name": "Endurance Racing Legends 2 Qualifying 2",
           "time": "2026-05-22T20:00:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": "YouTube/peterautoracing"
-          }
+          "duration": 40
         },
         {
           "name": "Endurance Racing Legends 2 Race 1",
