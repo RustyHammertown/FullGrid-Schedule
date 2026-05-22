@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-22T21:27:37.149Z",
+  "generatedAt": "2026-05-22T21:32:51.565Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -120,7 +120,7 @@
       "broadcast": {
         "US": "MotoGP+",
         "UK": "TNT Sports",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "Check local listings"
       },
       "resultsUrl": "https://www.motogp.com/en/gp-results",
@@ -149,7 +149,7 @@
       "broadcast": {
         "US": "MotoGP+",
         "UK": "TNT Sports",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "Check local listings"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship",
@@ -178,7 +178,7 @@
       "broadcast": {
         "US": "MotoGP+",
         "UK": "TNT Sports",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "Check local listings"
       },
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship",
@@ -370,7 +370,7 @@
         "Balkans": "SportKlub",
         "IL": "Charlton",
         "Africa": "SuperSport",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "NZ": "Sky Sports NZ",
         "CN": "Huya / Tencent",
         "KR": "Coupang",
@@ -407,7 +407,7 @@
         "CA": "TSN",
         "UK": "Premier Sports 2",
         "IE": "Premier Sports 2",
-        "AU": "Foxtel / Kayo",
+        "AU": "Fox Sports / Kayo",
         "NZ": "ThreeNow",
         "Global": "Check local listings"
       },
@@ -444,7 +444,7 @@
           "service": "Premier Sports"
         },
         "AU": {
-          "service": "Foxtel / Kayo"
+          "service": "Fox Sports / Kayo"
         },
         "Global": {
           "service": "Check local listings"
@@ -832,7 +832,7 @@
       "broadcast": {
         "US": "Apple TV",
         "UK": "Sky Sports F1",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "Check local listings"
       },
       "resultsUrl": "https://racing.porsche.com/en-US/series/mobil-1-supercup"
@@ -1014,7 +1014,7 @@
       "color": "#A16207",
       "bg": "rgba(161,98,7,0.15)",
       "broadcast": {
-        "AU": "Foxtel / Kayo",
+        "AU": "Fox Sports / Kayo",
         "Global": "YouTube/FordRacing"
       },
       "notTelevisedCategories": [
@@ -1077,7 +1077,7 @@
       "color": "#16A34A",
       "bg": "rgba(22,163,74,0.15)",
       "broadcast": {
-        "AU": "Foxtel / Kayo",
+        "AU": "Fox Sports / Kayo",
         "Global": "YouTube/GTWorld"
       },
       "notTelevisedCategories": [
@@ -1104,7 +1104,7 @@
       "broadcast": {
         "US": "F1 TV Pro",
         "UK": "Sky Sports F1",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "F1 TV"
       },
       "resultsUrl": "https://www.fiaformula2.com/Calendar",
@@ -1133,7 +1133,7 @@
       "broadcast": {
         "US": "F1 TV Pro",
         "UK": "Sky Sports F1",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "F1 TV"
       },
       "resultsUrl": "https://www.fiaformula3.com/Calendar",
@@ -1340,7 +1340,7 @@
       "broadcast": {
         "US": "FOX Sports",
         "UK": "Sky Sports",
-        "AU": "Foxtel",
+        "AU": "Fox Sports",
         "Global": "Check local listings"
       },
       "resultsUrl": "https://www.nhra.com/results"
@@ -1994,7 +1994,7 @@
       "color": "#FACC15",
       "bg": "rgba(250,204,21,0.15)",
       "broadcast": {
-        "AU": "Foxtel / Kayo",
+        "AU": "Fox Sports / Kayo",
         "NZ": "Sky Sport NZ",
         "UK": "TNT Sports / discovery+",
         "IE": "TNT Sports / discovery+",
