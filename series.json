@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-22T17:00:15.284Z",
+  "generatedAt": "2026-05-22T20:45:00.097Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1768,7 +1768,8 @@
         "Global": "YouTube/TheTransAmSeries"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@TheTransAmSeries/streams",
       "resultsUrl": "https://www.gotransam.com/standings/"
