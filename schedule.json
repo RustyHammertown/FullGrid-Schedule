@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T23:29:42.859Z",
+  "generatedAt": "2026-05-22T00:13:59.237Z",
   "events": [
     {
       "id": 101,
@@ -45842,6 +45842,1741 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5210,
+      "series": "hsr",
+      "name": "Watkins Glen Classic 6 Hour",
+      "circuit": "Watkins Glen International",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-06-12T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-06-12T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-06-12T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics Qualifying 1",
+          "time": "2026-06-12T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-06-12T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Practice",
+          "time": "2026-06-12T10:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 1",
+          "time": "2026-06-12T10:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 1",
+          "time": "2026-06-12T11:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp D Qualifying 1",
+          "time": "2026-06-12T12:00:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 1",
+          "time": "2026-06-12T13:30:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-06-12T13:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-06-12T14:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-06-12T14:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics Qualifying 2",
+          "time": "2026-06-12T15:15:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-06-12T15:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-06-12T16:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 2",
+          "time": "2026-06-12T16:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 2",
+          "time": "2026-06-12T18:00:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 2",
+          "time": "2026-06-12T18:35:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp D Qualifying 2",
+          "time": "2026-06-12T19:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-06-13T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-06-13T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics Qualifying 3",
+          "time": "2026-06-13T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-06-13T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 3",
+          "time": "2026-06-13T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-06-13T10:10:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-06-13T10:35:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-06-13T11:15:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-06-13T11:55:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-06-13T14:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 1",
+          "time": "2026-06-13T15:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 1",
+          "time": "2026-06-13T16:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-06-13T17:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 2",
+          "time": "2026-06-13T18:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 2",
+          "time": "2026-06-13T19:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-06-14T08:00:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics Race 1",
+          "time": "2026-06-14T08:25:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-06-14T08:50:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4C Race 1",
+          "time": "2026-06-14T09:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-06-14T09:45:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-06-14T10:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Modern Enduro",
+          "time": "2026-06-14T10:40:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Sprint 2",
+          "time": "2026-06-14T11:50:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-06-14T13:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-06-14T13:45:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics Race 2",
+          "time": "2026-06-14T14:55:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-06-14T15:20:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-06-14T16:30:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4C Race 2",
+          "time": "2026-06-14T16:55:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-06-14T17:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-06-14T17:50:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5211,
+      "series": "hsr",
+      "name": "NASCAR Classic to Le Mans Classic",
+      "circuit": "Circuit de la Sarthe",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5212,
+      "series": "hsr",
+      "name": "Road Atlanta Classic 10 Hour",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-09-18T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-09-18T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-09-18T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-09-18T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-09-18T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 1",
+          "time": "2026-09-18T10:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 1",
+          "time": "2026-09-18T10:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp D Qualifying 1",
+          "time": "2026-09-18T11:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-09-18T12:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-09-18T13:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-09-18T13:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-09-18T14:15:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-09-18T14:40:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-09-18T15:05:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-09-18T16:15:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Qualifying 2",
+          "time": "2026-09-18T16:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 2",
+          "time": "2026-09-18T17:30:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 2",
+          "time": "2026-09-18T18:05:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-09-19T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 3",
+          "time": "2026-09-19T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-09-19T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-09-19T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-09-19T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "B.R.M Vintage Enduro",
+          "time": "2026-09-19T10:10:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-09-19T11:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-09-19T13:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 1",
+          "time": "2026-09-19T14:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 1",
+          "time": "2026-09-19T15:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-09-19T16:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 2",
+          "time": "2026-09-19T17:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 2",
+          "time": "2026-09-19T18:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-09-20T08:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-09-20T08:35:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-09-20T09:00:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 1",
+          "time": "2026-09-20T09:30:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-09-20T12:10:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-09-20T13:15:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-09-20T13:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-09-20T14:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-09-20T14:35:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 2",
+          "time": "2026-09-20T15:00:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 3",
+          "time": "2026-09-20T15:30:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 3",
+          "time": "2026-09-20T16:30:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 3",
+          "time": "2026-09-20T17:30:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5213,
+      "series": "hsr",
+      "name": "Daytona Classic 24 Hour",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-11-12T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-11-12T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-11-12T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-11-12T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-11-12T13:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-11-12T14:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-11-12T14:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-11-12T15:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-11-12T15:40:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-11-12T16:15:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-11-13T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-11-13T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-11-13T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-11-13T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-11-13T09:45:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-11-13T10:55:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-11-13T12:55:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-11-13T14:05:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-11-13T14:40:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-11-13T15:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-11-13T15:35:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-11-13T16:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Qualifying",
+          "time": "2026-11-13T16:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp G Qualifying",
+          "time": "2026-11-13T16:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp F Qualifying",
+          "time": "2026-11-13T17:15:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp E Qualifying",
+          "time": "2026-11-13T17:40:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C/D Qualifying",
+          "time": "2026-11-13T18:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying",
+          "time": "2026-11-13T18:35:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-11-14T08:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-11-14T08:25:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-11-14T08:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-11-14T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Vintage Enduro",
+          "time": "2026-11-14T09:45:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 2",
+          "time": "2026-11-14T10:55:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Ford Feature Race",
+          "time": "2026-11-14T11:30:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 1",
+          "time": "2026-11-14T14:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-11-14T15:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 1",
+          "time": "2026-11-14T16:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 1",
+          "time": "2026-11-14T17:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 1",
+          "time": "2026-11-14T18:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 1",
+          "time": "2026-11-14T19:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-11-14T20:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 2",
+          "time": "2026-11-14T21:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 2",
+          "time": "2026-11-14T22:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 2",
+          "time": "2026-11-14T23:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 2",
+          "time": "2026-11-15T00:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 2",
+          "time": "2026-11-15T01:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 3",
+          "time": "2026-11-15T02:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 3",
+          "time": "2026-11-15T03:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 3",
+          "time": "2026-11-15T04:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 3",
+          "time": "2026-11-15T05:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 3",
+          "time": "2026-11-15T06:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 3",
+          "time": "2026-11-15T07:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 4",
+          "time": "2026-11-15T08:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 4",
+          "time": "2026-11-15T09:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 4",
+          "time": "2026-11-15T10:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 4",
+          "time": "2026-11-15T11:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 4",
+          "time": "2026-11-15T12:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 4",
+          "time": "2026-11-15T13:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5214,
+      "series": "hsr",
+      "name": "Sebring Classic 12 Hour",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-12-03T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-12-03T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-12-03T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-12-03T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-12-03T09:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp D Practice",
+          "time": "2026-12-03T10:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C Practice",
+          "time": "2026-12-03T10:40:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Practice",
+          "time": "2026-12-03T11:05:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Practice",
+          "time": "2026-12-03T11:30:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-12-03T13:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-12-03T13:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-12-03T13:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-12-03T14:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-12-03T14:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-12-03T15:10:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "B.R.M Vintage Enduro",
+          "time": "2026-12-03T15:50:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Night Practice",
+          "time": "2026-12-03T18:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C Night Practice",
+          "time": "2026-12-03T18:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp D Night Practice",
+          "time": "2026-12-03T18:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Race 1",
+          "time": "2026-12-04T08:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-12-04T08:25:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-12-04T08:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-12-04T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-12-04T09:45:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-12-04T10:10:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-12-04T11:15:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-12-04T12:45:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-12-04T13:55:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 1 (PM)",
+          "time": "2026-12-04T15:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-12-04T15:30:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Qualifying",
+          "time": "2026-12-04T16:05:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C Qualifying",
+          "time": "2026-12-04T16:30:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying",
+          "time": "2026-12-04T16:55:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-12-05T08:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-12-05T08:25:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-12-05T08:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-12-05T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 2",
+          "time": "2026-12-05T09:45:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 2",
+          "time": "2026-12-05T10:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-12-05T12:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 1",
+          "time": "2026-12-05T13:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 1",
+          "time": "2026-12-05T14:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-12-05T15:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 2",
+          "time": "2026-12-05T16:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 2",
+          "time": "2026-12-05T17:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 3",
+          "time": "2026-12-05T18:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 3",
+          "time": "2026-12-05T19:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 3",
+          "time": "2026-12-05T20:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 4",
+          "time": "2026-12-06T09:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 4",
+          "time": "2026-12-06T10:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 4",
+          "time": "2026-12-06T11:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 3",
+          "time": "2026-12-06T12:45:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 3",
+          "time": "2026-12-06T13:10:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 3",
+          "time": "2026-12-06T13:35:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 3",
+          "time": "2026-12-06T14:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 3",
+          "time": "2026-12-06T14:30:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
             }
           }
         }

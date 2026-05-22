@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T23:05:59.535Z",
+  "generatedAt": "2026-05-22T00:14:00.962Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -2220,6 +2220,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/InternationalGT/"
+        }
+      ]
+    },
+    "hsr": {
+      "schedule": [
+        {
+          "url": "https://www.hsrrace.com/upcoming-events/",
+          "label": "HSR event calendar"
+        },
+        {
+          "url": "https://www.hsrrace.com/classic-6-hours-of-watkins-glen/",
+          "label": "Per-event page → provisional schedule PDF"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.hsrrace.com/results/",
+          "label": "HSR race results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.hsrrace.com/standings/",
+          "label": "Per-championship points standings (PDFs)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.hsrrace.com/",
+          "label": "Historic Sportscar Racing — official"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/historicsportscarracing/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/HSR_race"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/HSRrace"
         }
       ]
     },

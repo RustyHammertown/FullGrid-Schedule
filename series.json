@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-21T23:05:58.844Z",
+  "generatedAt": "2026-05-22T00:14:00.302Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1722,6 +1722,30 @@
       ],
       "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://svra.com/race-results/"
+    },
+    "hsr": {
+      "id": "hsr",
+      "tags": [
+        "sports-car",
+        "historic",
+        "north-america",
+        "regional-series"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "Historic Sportscar Racing",
+      "short": "HSR",
+      "color": "#0891B2",
+      "bg": "rgba(8,145,178,0.15)",
+      "broadcast": {
+        "Global": "YouTube/imsaofficial"
+      },
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@imsaofficial/streams",
+      "resultsUrl": "https://www.hsrrace.com/results/"
     },
     "transamnational": {
       "id": "transamnational",
