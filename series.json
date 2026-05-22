@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-22T00:14:00.302Z",
+  "generatedAt": "2026-05-22T00:25:15.946Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2495,7 +2495,8 @@
     }
   },
   "categoryOverrides": {
-    "Pit Stop Challenge": "Practice"
+    "Pit Stop Challenge": "Practice",
+    "Qualifying Race": "Race"
   },
   "racePatterns": {
     "race": [
