@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-22T20:45:00.097Z",
+  "generatedAt": "2026-05-22T21:05:30.716Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2003,7 +2003,7 @@
         "Global": "SuperView"
       },
       "streamUrl": "https://www.supercars.com/",
-      "resultsUrl": "https://www.supercars.com/championship/results/"
+      "resultsUrl": "https://www.supercars.com/results/2026/supercars"
     },
     "btcc": {
       "id": "btcc",
