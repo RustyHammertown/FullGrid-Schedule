@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-22T21:32:51.565Z",
+  "generatedAt": "2026-05-23T01:13:18.505Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1293,6 +1293,27 @@
       },
       "streamUrl": "https://www.floracing.com/",
       "resultsUrl": "https://www.floseries.com/standings/",
+      "fallbackMinutes": 240
+    },
+    "lucasdirt": {
+      "id": "lucasdirt",
+      "tags": [
+        "dirt",
+        "super-late-model",
+        "national-series",
+        "north-america"
+      ],
+      "group": "dirt",
+      "region": "americas",
+      "label": "Lucas Oil Late Models",
+      "short": "Lucas Oil LM",
+      "color": "#0046AD",
+      "bg": "rgba(0,70,173,0.15)",
+      "broadcast": {
+        "Global": "FloRacing"
+      },
+      "streamUrl": "https://www.floracing.com/",
+      "resultsUrl": "https://www.lucasdirt.com/standings/",
       "fallbackMinutes": 240
     },
     "enascar": {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-22T00:14:00.962Z",
+  "generatedAt": "2026-05-23T01:13:19.872Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1562,6 +1562,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/FloRacing.tv/"
+        }
+      ]
+    },
+    "lucasdirt": {
+      "schedule": [
+        {
+          "url": "https://www.lucasdirt.com/schedules/",
+          "label": "Official schedule"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.lucasdirt.com/standings/",
+          "label": "Points standings + per-event results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.lucasdirt.com/standings/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.myracepass.com/series/1402/schedule",
+          "label": "MyRacePass live timing (open the live event)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.lucasdirt.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/lucasdirt/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/lucasdirt"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/lucasdirt/"
         }
       ]
     },

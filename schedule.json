@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-22T21:32:50.877Z",
+  "generatedAt": "2026-05-23T01:13:17.804Z",
   "events": [
     {
       "id": 101,
@@ -29426,6 +29426,1321 @@
             "US": {
               "service": "FloRacing"
             },
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-02-18T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5301,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 1)",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-19T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5302,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 2)",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-20T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 3)",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-21T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-02-23T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 1)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-24T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 2)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-25T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5307,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 3)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-26T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 4)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-27T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5309,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 5)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-28T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5310,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-03-03T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5311,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 1)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-04T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5312,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 2)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-05T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5313,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 3)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-06T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5314,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 4)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-07T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5315,
+      "series": "lucasdirt",
+      "name": "Buckeye Spring 50",
+      "circuit": "Atomic Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "postponed": true,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-27T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5316,
+      "series": "lucasdirt",
+      "name": "Indiana Icebreaker",
+      "circuit": "Brownstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-28T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5317,
+      "series": "lucasdirt",
+      "name": "Buckeye Spring 50",
+      "circuit": "Atomic Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-29T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5318,
+      "series": "lucasdirt",
+      "name": "The Melvin L. Joseph Memorial",
+      "circuit": "Georgetown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-24T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5319,
+      "series": "lucasdirt",
+      "name": "Superior Homes Late Model York County Nationals",
+      "circuit": "BAPS Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-25T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5320,
+      "series": "lucasdirt",
+      "name": "Conococheague 40",
+      "circuit": "Hagerstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-26T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5321,
+      "series": "lucasdirt",
+      "name": "Circle City",
+      "circuit": "Circle City Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-01T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5322,
+      "series": "lucasdirt",
+      "name": "Ralph Latham Memorial",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-02T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5323,
+      "series": "lucasdirt",
+      "name": "Farmer City 74",
+      "circuit": "Farmer City Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-08T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5324,
+      "series": "lucasdirt",
+      "name": "FALS Spring Shootout",
+      "circuit": "Fairbury Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-09T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5325,
+      "series": "lucasdirt",
+      "name": "High Bank Heist (Night 1)",
+      "circuit": "Eagle Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-14T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5326,
+      "series": "lucasdirt",
+      "name": "Cowboy Classic",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-21T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5327,
+      "series": "lucasdirt",
+      "name": "The Tribute to Don and Billie Gibson",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-22T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5328,
+      "series": "lucasdirt",
+      "name": "Show-Me 100",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-23T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5329,
+      "series": "lucasdirt",
+      "name": "Mountain Moonshine Classic (Night 1)",
+      "circuit": "Smoky Mountain Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-19T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5330,
+      "series": "lucasdirt",
+      "name": "Mountain Moonshine Classic (Night 2)",
+      "circuit": "Smoky Mountain Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5331,
+      "series": "lucasdirt",
+      "name": "Firecracker 100 (Night 1)",
+      "circuit": "Lernerville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-25T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5332,
+      "series": "lucasdirt",
+      "name": "Firecracker 100 (Night 2)",
+      "circuit": "Lernerville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5333,
+      "series": "lucasdirt",
+      "name": "Firecracker 100 (Night 3)",
+      "circuit": "Lernerville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-27T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5334,
+      "series": "lucasdirt",
+      "name": "Independence 50",
+      "circuit": "Atomic Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-03T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5335,
+      "series": "lucasdirt",
+      "name": "Freedom 50",
+      "circuit": "Muskingum County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5336,
+      "series": "lucasdirt",
+      "name": "34",
+      "circuit": "34 Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-09T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5337,
+      "series": "lucasdirt",
+      "name": "Salute to Forrest",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-10T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5338,
+      "series": "lucasdirt",
+      "name": "CMH Diamond Nationals",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-11T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5339,
+      "series": "lucasdirt",
+      "name": "Adams County",
+      "circuit": "Adams County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-14T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5340,
+      "series": "lucasdirt",
+      "name": "Go 50",
+      "circuit": "Shelby County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-16T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5341,
+      "series": "lucasdirt",
+      "name": "Silver Dollar Nationals (Night 1)",
+      "circuit": "Shelby County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-17T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5342,
+      "series": "lucasdirt",
+      "name": "Silver Dollar Nationals (Night 2)",
+      "circuit": "Shelby County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5343,
+      "series": "lucasdirt",
+      "name": "North/South 100 (Night 1)",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5344,
+      "series": "lucasdirt",
+      "name": "North/South 100 (Night 2)",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-07T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5345,
+      "series": "lucasdirt",
+      "name": "North/South 100 (Night 3)",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-08T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5346,
+      "series": "lucasdirt",
+      "name": "Topless 100 (Night 1)",
+      "circuit": "Batesville Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-14T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5347,
+      "series": "lucasdirt",
+      "name": "Topless 100 (Night 2)",
+      "circuit": "Batesville Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5348,
+      "series": "lucasdirt",
+      "name": "The Rumble by the River (Night 1)",
+      "circuit": "Port Royal Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-28T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5349,
+      "series": "lucasdirt",
+      "name": "The Rumble by the River (Night 2)",
+      "circuit": "Port Royal Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5350,
+      "series": "lucasdirt",
+      "name": "Knoxville (Night 1)",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-17T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "series": "lucasdirt",
+      "name": "Knoxville (Night 2)",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-18T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "series": "lucasdirt",
+      "name": "Knoxville (Night 3)",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-19T07:00:00-05:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5353,
+      "series": "lucasdirt",
+      "name": "CJ Rayburn Memorial",
+      "circuit": "Brownstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-25T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5354,
+      "series": "lucasdirt",
+      "name": "Jackson 100",
+      "circuit": "Brownstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-26T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5355,
+      "series": "lucasdirt",
+      "name": "Pittsburgher (Night 1)",
+      "circuit": "Pittsburgh's Pennsylvania Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-02T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5356,
+      "series": "lucasdirt",
+      "name": "Pittsburgher (Night 2)",
+      "circuit": "Pittsburgh's Pennsylvania Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-03T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5357,
+      "series": "lucasdirt",
+      "name": "Eldora",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-09T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5358,
+      "series": "lucasdirt",
+      "name": "Eldora",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-10T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5359,
+      "series": "lucasdirt",
+      "name": "Dirt Track World Championship (Night 1)",
+      "circuit": "West Virginia Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-16T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5360,
+      "series": "lucasdirt",
+      "name": "Dirt Track World Championship (Night 2)",
+      "circuit": "West Virginia Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-17T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
             "Global": {
               "service": "FloRacing"
             }

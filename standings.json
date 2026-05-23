@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T20:31:44.380Z",
+  "generatedAt": "2026-05-23T01:13:19.182Z",
   "flat": {
     "f1": [
       {
@@ -1283,6 +1283,68 @@
         "name": "Kyle Bronson",
         "points": 57,
         "team": "Brandon, FL"
+      }
+    ],
+    "lucasdirt": [
+      {
+        "pos": 1,
+        "name": "Hudson O'Neal",
+        "points": 2945,
+        "team": "Martinsville, IN"
+      },
+      {
+        "pos": 2,
+        "name": "Devin Moran",
+        "points": 2855,
+        "team": "Dresden, OH"
+      },
+      {
+        "pos": 3,
+        "name": "Brandon Sheppard",
+        "points": 2780,
+        "team": "New Berlin, IL"
+      },
+      {
+        "pos": 4,
+        "name": "Ricky Thornton Jr",
+        "points": 2695,
+        "team": "Chandler, AZ"
+      },
+      {
+        "pos": 5,
+        "name": "Brandon Overton",
+        "points": 2650,
+        "team": "Evans, GA"
+      },
+      {
+        "pos": 6,
+        "name": "Max Blair",
+        "points": 2650,
+        "team": "Centerville, PA"
+      },
+      {
+        "pos": 7,
+        "name": "Brian Shirley",
+        "points": 2410,
+        "team": "Chatham, IL"
+      },
+      {
+        "pos": 8,
+        "name": "Garrett Alberson",
+        "points": 2405,
+        "team": "Las Cruces, NM"
+      },
+      {
+        "pos": 9,
+        "name": "Kyle Bronson",
+        "points": 2325,
+        "team": "Brandon, FL"
+      },
+      {
+        "pos": 10,
+        "name": "Josh Rice",
+        "points": 2300,
+        "team": "Crittenden, KY"
       }
     ],
     "woolm": [

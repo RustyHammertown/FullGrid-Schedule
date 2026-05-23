@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T20:31:45.352Z",
+  "generatedAt": "2026-05-23T01:13:20.580Z",
   "circuits": {
     "Albert Park Circuit": {
       "lat": -37.8497,
@@ -1962,6 +1962,10 @@
       "website": "https://masoncitymotorspeedway.com",
       "length_m": 536
     },
+    "Muskingum County Speedway": {
+      "lat": 40.0695,
+      "lon": -82.0635
+    },
     "Volunteer Speedway": {
       "lat": 36.2232,
       "lon": -83.0528,
@@ -1991,6 +1995,10 @@
       "city": "Anaheim",
       "region": "California",
       "website": "https://www.mlb.com/angels/ballpark"
+    },
+    "Smoky Mountain Speedway": {
+      "lat": 35.639,
+      "lon": -84.103
     },
     "Snapdragon Stadium": {
       "lat": 32.7831,
