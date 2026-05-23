@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-23T01:13:17.804Z",
+  "generatedAt": "2026-05-23T01:36:04.410Z",
   "events": [
     {
       "id": 101,
@@ -30055,8 +30055,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-19T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-19T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30077,8 +30076,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-20T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30099,8 +30097,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-25T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-25T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30121,8 +30118,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-26T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-26T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30143,8 +30139,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-27T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-27T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30165,8 +30160,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-03T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-07-03T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30187,8 +30181,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-04T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-07-04T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30209,8 +30202,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-09T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-09T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30231,8 +30223,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-10T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-10T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30253,8 +30244,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-11T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-11T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30275,8 +30265,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-14T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-14T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30297,8 +30286,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-16T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-16T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30319,8 +30307,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-17T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-17T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30341,8 +30328,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-18T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-18T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30363,8 +30349,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-06T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-08-06T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30385,8 +30370,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-07T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-08-07T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30407,8 +30391,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-08T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-08-08T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30429,8 +30412,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-14T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-08-14T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30451,8 +30433,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-15T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-08-15T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30473,8 +30454,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-28T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-08-28T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30495,8 +30475,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-29T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-08-29T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30517,8 +30496,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-09-17T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-09-17T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30539,8 +30517,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-09-18T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-09-18T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30561,8 +30538,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-09-19T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-09-19T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30583,8 +30559,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-09-25T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-09-25T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30605,8 +30580,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-09-26T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-09-26T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30627,8 +30601,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-10-02T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-10-02T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30649,8 +30622,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-10-03T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-10-03T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30671,8 +30643,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-10-09T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-10-09T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30693,8 +30664,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-10-10T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-10-10T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30715,8 +30685,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-10-16T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-10-16T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -30737,8 +30706,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-10-17T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-10-17T18:30:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
