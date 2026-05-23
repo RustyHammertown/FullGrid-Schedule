@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-23T02:39:35.936Z",
+  "generatedAt": "2026-05-23T02:53:02.164Z",
   "events": [
     {
       "id": 101,
@@ -30778,22 +30778,24 @@
       "tz": "America/New_York",
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-12T17:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T11:00:00-04:00",
+          "duration": 25
+        },
+        {
           "name": "Race 1",
-          "time": "2026-06-13T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-06-13T16:50:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-06-14T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
-        },
-        {
-          "name": "Race 3",
-          "time": "2026-06-14T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-06-14T11:55:00-04:00",
+          "duration": 30
         }
       ]
     },
@@ -30807,16 +30809,29 @@
       "tz": "America/Indiana/Indianapolis",
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-19T09:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-19T15:10:00-04:00",
+          "duration": 25
+        },
+        {
           "name": "Race 1",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-06-20T13:05:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
           "time": "2026-06-21T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-21T11:50:00-04:00",
+          "duration": 30
         }
       ]
     },
@@ -30830,22 +30845,24 @@
       "tz": "America/New_York",
       "sessions": [
         {
+          "name": "Qualifying",
+          "time": "2026-08-01T09:30:00-04:00",
+          "duration": 25
+        },
+        {
           "name": "Race 1",
-          "time": "2026-08-01T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-08-01T14:25:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-08-02T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-08-02T09:30:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race 3",
-          "time": "2026-08-02T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-08-02T13:40:00-04:00",
+          "duration": 30
         }
       ]
     },
@@ -30888,16 +30905,24 @@
       "tz": "America/New_York",
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-09-18T10:35:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-18T16:15:00-04:00",
+          "duration": 25
+        },
+        {
           "name": "Race 1",
-          "time": "2026-09-19T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-09-19T16:10:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-09-20T08:00:00-04:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-09-20T14:55:00-04:00",
+          "duration": 30
         }
       ]
     },
@@ -30911,16 +30936,29 @@
       "tz": "America/Chicago",
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-17T10:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-17T15:40:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-18T10:35:00-05:00",
+          "duration": 25
+        },
+        {
           "name": "Race 1",
-          "time": "2026-10-17T07:00:00-05:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-10-18T17:05:00-05:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-10-18T07:00:00-05:00",
-          "tbd": true,
-          "duration": 35
+          "time": "2026-10-19T12:00:00-05:00",
+          "duration": 30
         }
       ]
     },
