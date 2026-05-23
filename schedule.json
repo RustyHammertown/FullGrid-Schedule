@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-23T01:44:47.538Z",
+  "generatedAt": "2026-05-23T02:39:35.936Z",
   "events": [
     {
       "id": 101,
@@ -30713,6 +30713,214 @@
               "service": "FloRacing"
             }
           }
+        }
+      ]
+    },
+    {
+      "id": 5400,
+      "series": "framericas",
+      "name": "NOLA SpeedTour",
+      "circuit": "NOLA Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-04-11T15:00:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T09:30:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-12T13:30:00-05:00",
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5401,
+      "series": "framericas",
+      "name": "Road America SpeedTour",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-16T15:00:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-17T09:30:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-17T13:30:00-05:00",
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5402,
+      "series": "framericas",
+      "name": "Mid-Ohio SpeedTour",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-14T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-14T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5403,
+      "series": "framericas",
+      "name": "Indy SpeedTour",
+      "circuit": "Indianapolis Motor Speedway (Road Course)",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5404,
+      "series": "framericas",
+      "name": "New Jersey Lottery SpeedTour",
+      "circuit": "New Jersey Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-02T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-02T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5405,
+      "series": "framericas",
+      "name": "CTMP Labour Day Weekend Sprints",
+      "circuit": "Canadian Tire Motorsport Park",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5406,
+      "series": "framericas",
+      "name": "VIR SpeedTour",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "series": "framericas",
+      "name": "Barber SpeedTour",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-18T07:00:00-05:00",
+          "tbd": true,
+          "duration": 35
         }
       ]
     },

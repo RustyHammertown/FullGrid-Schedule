@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-23T01:13:19.872Z",
+  "generatedAt": "2026-05-23T02:39:38.012Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1607,6 +1607,52 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/lucasdirt/"
+        }
+      ]
+    },
+    "framericas": {
+      "schedule": [
+        {
+          "url": "https://www.framericas.com/events",
+          "label": "Official schedule (click an event for its timetable)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.framericas.com/pages/2026-results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.framericas.com/pages/2026-results",
+          "label": "Driver/Team standings (via the Standings menu)"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.race-monitor.com/Live",
+          "label": "Race Monitor live timing & scoring"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.framericas.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/framericas"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/framericas"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/framericas/"
         }
       ]
     },

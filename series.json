@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-23T01:13:18.505Z",
+  "generatedAt": "2026-05-23T02:39:36.634Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1315,6 +1315,31 @@
       "streamUrl": "https://www.floracing.com/",
       "resultsUrl": "https://www.lucasdirt.com/standings/",
       "fallbackMinutes": 240
+    },
+    "framericas": {
+      "id": "framericas",
+      "tags": [
+        "open-wheel",
+        "f3-car",
+        "feeder-series",
+        "regional-series",
+        "north-america"
+      ],
+      "group": "openwheel",
+      "region": "americas",
+      "label": "FR Americas",
+      "short": "FRA",
+      "color": "#0EA5E9",
+      "bg": "rgba(14,165,233,0.15)",
+      "broadcast": {
+        "Global": "YouTube/racingamericatv"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
+      "resultsUrl": "https://www.framericas.com/pages/2026-results"
     },
     "enascar": {
       "id": "enascar",

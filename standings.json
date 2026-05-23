@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-23T01:13:19.182Z",
+  "generatedAt": "2026-05-23T02:39:37.310Z",
   "flat": {
     "f1": [
       {
@@ -1727,6 +1727,68 @@
         "name": "Ben Ramirez (R)",
         "points": 14,
         "team": "RASE Motorsports"
+      }
+    ],
+    "framericas": [
+      {
+        "pos": 1,
+        "name": "Evagoras Papasavvas (R)",
+        "points": 75.5,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 2,
+        "name": "Cooper Shipman (R)",
+        "points": 63,
+        "team": "Kiwi Motorsport"
+      },
+      {
+        "pos": 3,
+        "name": "Christian Bogle",
+        "points": 57.5,
+        "team": "Toney Driver Development"
+      },
+      {
+        "pos": 4,
+        "name": "Kekai Hauanio (R)",
+        "points": 56,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 5,
+        "name": "Brady Golan",
+        "points": 54.5,
+        "team": "Toney Driver Development"
+      },
+      {
+        "pos": 6,
+        "name": "Luke Powers (R)",
+        "points": 45,
+        "team": "Toney Driver Development"
+      },
+      {
+        "pos": 7,
+        "name": "James Lawley",
+        "points": 25,
+        "team": "Atlantic Racing Team"
+      },
+      {
+        "pos": 8,
+        "name": "Barrett Wolfe",
+        "points": 21,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 9,
+        "name": "Eric Wisniewski (R)",
+        "points": 17,
+        "team": "Hillenburg Motorsports"
+      },
+      {
+        "pos": 10,
+        "name": "Harbir Dass (R)",
+        "points": 15,
+        "team": "Kiwi Motorsport"
       }
     ],
     "xtrial": [
