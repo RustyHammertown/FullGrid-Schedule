@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:09:57.570Z",
+  "generatedAt": "2026-05-24T15:39:41.803Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1565,6 +1565,97 @@
         }
       ]
     },
+    "lucasdirt": {
+      "schedule": [
+        {
+          "url": "https://www.lucasdirt.com/schedules/",
+          "label": "Official schedule"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.lucasdirt.com/standings/",
+          "label": "Points standings + per-event results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.lucasdirt.com/standings/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.myracepass.com/series/1402/schedule",
+          "label": "MyRacePass live timing (open the live event)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.lucasdirt.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/lucasdirt/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/lucasdirt"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/lucasdirt/"
+        }
+      ]
+    },
+    "framericas": {
+      "schedule": [
+        {
+          "url": "https://www.framericas.com/events",
+          "label": "Official schedule (click an event for its timetable)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.framericas.com/pages/2026-results",
+          "label": "Official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.framericas.com/pages/2026-results",
+          "label": "Driver/Team standings (via the Standings menu)"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.race-monitor.com/Live",
+          "label": "Race Monitor live timing & scoring"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.framericas.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/framericas"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/framericas"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/framericas/"
+        }
+      ]
+    },
     "supercross": {
       "schedule": [
         {
@@ -2201,6 +2292,12 @@
           "label": "International GT — official"
         }
       ],
+      "liveTiming": [
+        {
+          "url": "https://speedhive.mylaps.com/Organizations/36734",
+          "label": "SVRA live timing & results (Speedhive)"
+        }
+      ],
       "instagram": [
         {
           "url": "https://www.instagram.com/igtchampionship/"
@@ -2214,6 +2311,141 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/InternationalGT/"
+        }
+      ]
+    },
+    "hsr": {
+      "schedule": [
+        {
+          "url": "https://www.hsrrace.com/upcoming-events/",
+          "label": "HSR event calendar"
+        },
+        {
+          "url": "https://www.hsrrace.com/classic-6-hours-of-watkins-glen/",
+          "label": "Per-event page → provisional schedule PDF"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.hsrrace.com/results/",
+          "label": "HSR race results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.hsrrace.com/standings/",
+          "label": "Per-championship points standings (PDFs)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.hsrrace.com/",
+          "label": "Historic Sportscar Racing — official"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/historicsportscarracing/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/HSR_race"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/HSRrace"
+        }
+      ]
+    },
+    "svra": {
+      "schedule": [
+        {
+          "url": "https://svra.com/events/",
+          "label": "SVRA SpeedTour event calendar"
+        },
+        {
+          "url": "https://svra.com/gtb/?lib=schedule&event_ID=2006",
+          "label": "Per-event weekend timetable (event_ID per round)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://svra.com/race-results/",
+          "label": "SVRA race results (by event/group/session)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://svra.com/",
+          "label": "SVRA — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://speedhive.mylaps.com/Organizations/36734",
+          "label": "SVRA live timing & results (Speedhive)"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/svralife/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/svralife"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/svralife/"
+        }
+      ]
+    },
+    "ginettana": {
+      "schedule": [
+        {
+          "url": "https://www.ginetta.com/us/racing/",
+          "label": "Ginetta Challenge NA — official calendar"
+        },
+        {
+          "url": "https://svra.com/events/2026-lime-rock/",
+          "label": "SVRA per-event weekend timetable"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://svra.com/race-results/",
+          "label": "SVRA race results (by group/session)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.ginetta.com/us/racing/",
+          "label": "Ginetta Challenge NA — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://speedhive.mylaps.com/Organizations/36734",
+          "label": "SVRA live timing & results (Speedhive)"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/ginettacars/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/ginettacars"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/ginettacars/"
         }
       ]
     },

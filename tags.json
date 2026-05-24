@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:09:59.861Z",
+  "generatedAt": "2026-05-24T15:39:44.921Z",
   "categories": [
     {
       "id": "geography",
@@ -26,6 +26,7 @@
         "flo-promotions",
         "gt-sport",
         "high-limit",
+        "hsr",
         "imsa",
         "indycar",
         "inex",
@@ -39,6 +40,7 @@
         "nhra",
         "porsche-motorsport",
         "sro",
+        "svra",
         "world-of-outlaws",
         "wsc"
       ]
@@ -186,6 +188,7 @@
     "flo-promotions": "Flo Promotions",
     "gt-sport": "GT Sport",
     "high-limit": "High Limit",
+    "hsr": "HSR",
     "imsa": "IMSA",
     "indycar": "IndyCar",
     "inex": "INEX",
@@ -199,6 +202,7 @@
     "nhra": "NHRA",
     "porsche-motorsport": "Porsche Motorsport",
     "sro": "SRO",
+    "svra": "SVRA",
     "world-of-outlaws": "World of Outlaws",
     "wsc": "WSC",
     "global": "Global",

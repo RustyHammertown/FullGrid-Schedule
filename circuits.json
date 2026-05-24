@@ -1,7 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:09:55.638Z",
+  "generatedAt": "2026-05-24T15:39:39.694Z",
   "circuits": {
+    "34 Raceway": {
+      "lat": 40.8345,
+      "lon": -91.2477
+    },
     "Albert Park Circuit": {
       "lat": -37.8497,
       "lon": 144.968,
@@ -17,6 +21,14 @@
       "region": "Algarve",
       "website": "https://www.autodromodoalgarve.com",
       "length_m": 4684
+    },
+    "All-Tech Raceway": {
+      "lat": 30.1255,
+      "lon": -82.6161
+    },
+    "Atomic Speedway": {
+      "lat": 39.2045,
+      "lon": -83.0199
     },
     "Autodromo Enzo e Dino Ferrari": {
       "lat": 44.3411,
@@ -84,6 +96,10 @@
       "website": "https://balatonpark.com",
       "length_m": 4115
     },
+    "Batesville Motor Speedway": {
+      "lat": 35.7199,
+      "lon": -91.7411
+    },
     "Brands Hatch": {
       "lat": 51.3575,
       "lon": 0.26,
@@ -94,12 +110,20 @@
       "base": "Brands Hatch",
       "layout": "GP"
     },
+    "Brownstown Speedway": {
+      "lat": 38.8738,
+      "lon": -86.0409
+    },
     "Chang International Circuit, Buriram": {
       "lat": 14.9628,
       "lon": 103.085,
       "city": "Buriram",
       "website": "https://www.chang-circuit.com",
       "length_m": 4554
+    },
+    "Circle City Raceway": {
+      "lat": 39.7294,
+      "lon": -86.0369
     },
     "Circuit de Barcelona-Catalunya": {
       "lat": 41.57,
@@ -196,6 +220,10 @@
       "website": "https://www.jarama.org",
       "length_m": 3850
     },
+    "Florence Speedway": {
+      "lat": 38.8742,
+      "lon": -84.6982
+    },
     "Fuji International Speedway": {
       "lat": 35.3717,
       "lon": 138.9258,
@@ -203,6 +231,14 @@
       "region": "Shizuoka",
       "website": "https://www.fsw.tv",
       "length_m": 4563
+    },
+    "Golden Isles Speedway": {
+      "lat": 31.2361,
+      "lon": -81.7559
+    },
+    "Hagerstown Speedway": {
+      "lat": 39.6606,
+      "lon": -77.8439
     },
     "Hockenheimring": {
       "lat": 49.3278,
@@ -358,6 +394,14 @@
       "region": "Rhineland-Palatinate",
       "website": "https://www.nuerburgring.de",
       "length_m": 20832
+    },
+    "Ocala Speedway": {
+      "lat": 29.2825,
+      "lon": -82.1874
+    },
+    "Pittsburgh's Pennsylvania Motor Speedway": {
+      "lat": 40.422,
+      "lon": -80.2613
     },
     "Red Bull Ring": {
       "lat": 47.2197,
@@ -1962,6 +2006,10 @@
       "website": "https://masoncitymotorspeedway.com",
       "length_m": 536
     },
+    "Muskingum County Speedway": {
+      "lat": 40.0695,
+      "lon": -82.0635
+    },
     "Volunteer Speedway": {
       "lat": 36.2232,
       "lon": -83.0528,
@@ -1991,6 +2039,10 @@
       "city": "Anaheim",
       "region": "California",
       "website": "https://www.mlb.com/angels/ballpark"
+    },
+    "Smoky Mountain Speedway": {
+      "lat": 35.639,
+      "lon": -84.103
     },
     "Snapdragon Stadium": {
       "lat": 32.7831,

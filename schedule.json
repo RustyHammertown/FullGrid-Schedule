@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:09:53.478Z",
+  "generatedAt": "2026-05-24T15:39:37.458Z",
   "events": [
     {
       "id": 101,
@@ -20657,7 +20657,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -20761,7 +20761,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -20865,7 +20865,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -20969,7 +20969,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21063,7 +21063,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21167,7 +21167,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21271,7 +21271,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21365,7 +21365,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21438,7 +21438,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21511,7 +21511,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21584,7 +21584,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21657,7 +21657,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21730,7 +21730,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21803,7 +21803,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21876,7 +21876,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -21949,7 +21949,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -22022,7 +22022,7 @@
               "service": "TNT Sports / Channel 4"
             },
             "AU": {
-              "service": "Foxtel"
+              "service": "Fox Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -24910,7 +24910,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-05-22T19:30:00-04:00",
+          "time": "2026-05-23T08:00:00-04:00",
           "laps": 134,
           "broadcasts": {
             "US": {
@@ -29430,6 +29430,1535 @@
               "service": "FloRacing"
             }
           }
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-02-18T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5301,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 1)",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-19T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5302,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 2)",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-20T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 3)",
+      "circuit": "All-Tech Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-21T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-02-23T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 1)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-24T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 2)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-25T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5307,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 3)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-26T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 4)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-27T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5309,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 5)",
+      "circuit": "Ocala Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-02-28T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5310,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-03-03T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5311,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 1)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-04T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5312,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 2)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-05T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5313,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 3)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-06T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5314,
+      "series": "lucasdirt",
+      "name": "Wieland Winter Nationals (Night 4)",
+      "circuit": "Golden Isles Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-07T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5315,
+      "series": "lucasdirt",
+      "name": "Buckeye Spring 50",
+      "circuit": "Atomic Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "postponed": true,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-27T08:00:00-04:00",
+          "tbd": true,
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5316,
+      "series": "lucasdirt",
+      "name": "Indiana Icebreaker",
+      "circuit": "Brownstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-28T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5317,
+      "series": "lucasdirt",
+      "name": "Buckeye Spring 50",
+      "circuit": "Atomic Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-29T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5318,
+      "series": "lucasdirt",
+      "name": "The Melvin L. Joseph Memorial",
+      "circuit": "Georgetown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-24T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5319,
+      "series": "lucasdirt",
+      "name": "Superior Homes Late Model York County Nationals",
+      "circuit": "BAPS Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-25T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5320,
+      "series": "lucasdirt",
+      "name": "Conococheague 40",
+      "circuit": "Hagerstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-26T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5321,
+      "series": "lucasdirt",
+      "name": "Circle City",
+      "circuit": "Circle City Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-01T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5322,
+      "series": "lucasdirt",
+      "name": "Ralph Latham Memorial",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-02T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5323,
+      "series": "lucasdirt",
+      "name": "Farmer City 74",
+      "circuit": "Farmer City Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-08T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5324,
+      "series": "lucasdirt",
+      "name": "FALS Spring Shootout",
+      "circuit": "Fairbury Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-09T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5325,
+      "series": "lucasdirt",
+      "name": "High Bank Heist (Night 1)",
+      "circuit": "Eagle Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-14T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5326,
+      "series": "lucasdirt",
+      "name": "Cowboy Classic",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-21T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5327,
+      "series": "lucasdirt",
+      "name": "The Tribute to Don and Billie Gibson",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-22T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5328,
+      "series": "lucasdirt",
+      "name": "Show-Me 100",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-23T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5329,
+      "series": "lucasdirt",
+      "name": "Mountain Moonshine Classic (Night 1)",
+      "circuit": "Smoky Mountain Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-19T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5330,
+      "series": "lucasdirt",
+      "name": "Mountain Moonshine Classic (Night 2)",
+      "circuit": "Smoky Mountain Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-20T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5331,
+      "series": "lucasdirt",
+      "name": "Firecracker 100 (Night 1)",
+      "circuit": "Lernerville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-25T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5332,
+      "series": "lucasdirt",
+      "name": "Firecracker 100 (Night 2)",
+      "circuit": "Lernerville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-26T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5333,
+      "series": "lucasdirt",
+      "name": "Firecracker 100 (Night 3)",
+      "circuit": "Lernerville Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-27T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5334,
+      "series": "lucasdirt",
+      "name": "Independence 50",
+      "circuit": "Atomic Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-03T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5335,
+      "series": "lucasdirt",
+      "name": "Freedom 50",
+      "circuit": "Muskingum County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-04T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5336,
+      "series": "lucasdirt",
+      "name": "34",
+      "circuit": "34 Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-09T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5337,
+      "series": "lucasdirt",
+      "name": "Salute to Forrest",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-10T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5338,
+      "series": "lucasdirt",
+      "name": "CMH Diamond Nationals",
+      "circuit": "Lucas Oil Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-11T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5339,
+      "series": "lucasdirt",
+      "name": "Adams County",
+      "circuit": "Adams County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-14T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5340,
+      "series": "lucasdirt",
+      "name": "Go 50",
+      "circuit": "Shelby County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-16T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5341,
+      "series": "lucasdirt",
+      "name": "Silver Dollar Nationals (Night 1)",
+      "circuit": "Shelby County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-17T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5342,
+      "series": "lucasdirt",
+      "name": "Silver Dollar Nationals (Night 2)",
+      "circuit": "Shelby County Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-18T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5343,
+      "series": "lucasdirt",
+      "name": "North/South 100 (Night 1)",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-06T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5344,
+      "series": "lucasdirt",
+      "name": "North/South 100 (Night 2)",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-07T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5345,
+      "series": "lucasdirt",
+      "name": "North/South 100 (Night 3)",
+      "circuit": "Florence Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-08T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5346,
+      "series": "lucasdirt",
+      "name": "Topless 100 (Night 1)",
+      "circuit": "Batesville Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-14T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5347,
+      "series": "lucasdirt",
+      "name": "Topless 100 (Night 2)",
+      "circuit": "Batesville Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-15T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5348,
+      "series": "lucasdirt",
+      "name": "The Rumble by the River (Night 1)",
+      "circuit": "Port Royal Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-28T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5349,
+      "series": "lucasdirt",
+      "name": "The Rumble by the River (Night 2)",
+      "circuit": "Port Royal Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-29T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5350,
+      "series": "lucasdirt",
+      "name": "Knoxville (Night 1)",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-17T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "series": "lucasdirt",
+      "name": "Knoxville (Night 2)",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-18T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "series": "lucasdirt",
+      "name": "Knoxville (Night 3)",
+      "circuit": "Knoxville Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-19T18:30:00-05:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5353,
+      "series": "lucasdirt",
+      "name": "CJ Rayburn Memorial",
+      "circuit": "Brownstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-25T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5354,
+      "series": "lucasdirt",
+      "name": "Jackson 100",
+      "circuit": "Brownstown Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-26T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5355,
+      "series": "lucasdirt",
+      "name": "Pittsburgher (Night 1)",
+      "circuit": "Pittsburgh's Pennsylvania Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-02T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5356,
+      "series": "lucasdirt",
+      "name": "Pittsburgher (Night 2)",
+      "circuit": "Pittsburgh's Pennsylvania Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-03T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5357,
+      "series": "lucasdirt",
+      "name": "Eldora",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-09T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5358,
+      "series": "lucasdirt",
+      "name": "Eldora",
+      "circuit": "Eldora Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-10T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5359,
+      "series": "lucasdirt",
+      "name": "Dirt Track World Championship (Night 1)",
+      "circuit": "West Virginia Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-16T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5360,
+      "series": "lucasdirt",
+      "name": "Dirt Track World Championship (Night 2)",
+      "circuit": "West Virginia Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-17T18:30:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5400,
+      "series": "framericas",
+      "name": "NOLA SpeedTour",
+      "circuit": "NOLA Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-04-11T15:00:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-12T09:30:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-04-12T13:30:00-05:00",
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5401,
+      "series": "framericas",
+      "name": "Road America SpeedTour",
+      "circuit": "Road America",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-05-16T15:00:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-17T09:30:00-05:00",
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-17T13:30:00-05:00",
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5402,
+      "series": "framericas",
+      "name": "Mid-Ohio SpeedTour",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-12T17:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T11:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-13T16:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-14T11:55:00-04:00",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5403,
+      "series": "framericas",
+      "name": "Indy SpeedTour",
+      "circuit": "Indianapolis Motor Speedway (Road Course)",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-19T09:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-19T15:10:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T13:05:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T08:00:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-21T11:50:00-04:00",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5404,
+      "series": "framericas",
+      "name": "New Jersey Lottery SpeedTour",
+      "circuit": "New Jersey Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-08-01T09:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-01T14:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-02T09:30:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-02T13:40:00-04:00",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5405,
+      "series": "framericas",
+      "name": "CTMP Labour Day Weekend Sprints",
+      "circuit": "Canadian Tire Motorsport Park",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true,
+          "duration": 35
+        }
+      ]
+    },
+    {
+      "id": 5406,
+      "series": "framericas",
+      "name": "VIR SpeedTour",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-18T10:35:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-18T16:15:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T16:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T14:55:00-04:00",
+          "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "series": "framericas",
+      "name": "Barber SpeedTour",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-17T10:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-17T15:40:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-18T10:35:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-18T17:05:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-19T12:00:00-05:00",
+          "duration": 30
         }
       ]
     },
@@ -42815,14 +44344,17 @@
         {
           "name": "Sixties' Endurance Practice",
           "time": "2026-05-22T10:35:00+02:00",
-          "duration": 40
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Sixties' Endurance Qualifying",
           "time": "2026-05-22T18:15:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "Global": "YouTube/peterautoracing"
+            "Global": "Not Televised"
           }
         },
         {
@@ -42836,7 +44368,10 @@
         {
           "name": "Heritage Touring Cup 1 Practice",
           "time": "2026-05-22T13:50:00+02:00",
-          "duration": 30
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Heritage Touring Cup 1 Qualifying",
@@ -42857,7 +44392,10 @@
         {
           "name": "Heritage Touring Cup 2 Practice",
           "time": "2026-05-22T12:15:00+02:00",
-          "duration": 30
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Heritage Touring Cup 2 Qualifying",
@@ -42878,7 +44416,10 @@
         {
           "name": "Classic Endurance Racing 1 Practice",
           "time": "2026-05-22T16:30:00+02:00",
-          "duration": 45
+          "duration": 45,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Classic Endurance Racing 1 Qualifying",
@@ -42899,7 +44440,10 @@
         {
           "name": "Classic Endurance Racing 2 Practice",
           "time": "2026-05-22T09:40:00+02:00",
-          "duration": 45
+          "duration": 45,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Classic Endurance Racing 2 Qualifying",
@@ -42920,7 +44464,10 @@
         {
           "name": "Gentlemen Challenge Practice",
           "time": "2026-05-22T15:50:00+02:00",
-          "duration": 30
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Gentlemen Challenge Qualifying",
@@ -42951,7 +44498,7 @@
           "time": "2026-05-22T11:25:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "Global": "YouTube/peterautoracing"
+            "Global": "Not Televised"
           }
         },
         {
@@ -42959,7 +44506,7 @@
           "time": "2026-05-22T17:25:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "Global": "YouTube/peterautoracing"
+            "Global": "Not Televised"
           }
         },
         {
@@ -42983,7 +44530,7 @@
           "time": "2026-05-22T14:30:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "Global": "YouTube/peterautoracing"
+            "Global": "Not Televised"
           }
         },
         {
@@ -42991,7 +44538,7 @@
           "time": "2026-05-22T20:00:00+02:00",
           "duration": 40,
           "broadcasts": {
-            "Global": "YouTube/peterautoracing"
+            "Global": "Not Televised"
           }
         },
         {
@@ -43671,6 +45218,4611 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5190,
+      "series": "ginettana",
+      "name": "Lime Rock",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-21T10:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-22T10:15:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-05-22T15:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-05-23T11:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-05-23T16:40:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5191,
+      "series": "ginettana",
+      "name": "Mid-Ohio",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-12T11:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-12T16:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-06-13T11:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-06-13T17:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-06-14T14:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5192,
+      "series": "ginettana",
+      "name": "Lime Rock",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "series": "ginettana",
+      "name": "VIR",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-18T10:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-18T15:45:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-09-19T09:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-09-19T17:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-09-20T13:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5194,
+      "series": "ginettana",
+      "name": "Barber",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-16T11:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-16T16:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-17T11:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-10-17T16:35:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-10-18T13:45:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-10-18T16:25:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5200,
+      "series": "svra",
+      "name": "Lime Rock",
+      "circuit": "Lime Rock Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Grp 6/12a Practice 1",
+          "time": "2026-05-21T09:05:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 6/12a Practice 2",
+          "time": "2026-05-21T13:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 6/12a Qualifying",
+          "time": "2026-05-22T09:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/12a Sprint 1",
+          "time": "2026-05-22T13:20:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Grp 6/12a Sprint 2",
+          "time": "2026-05-23T13:05:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Sprint 3",
+          "time": "2026-05-23T17:20:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b/8/12b Practice 1",
+          "time": "2026-05-21T10:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 1/3/4/5b/8/12b Practice 2",
+          "time": "2026-05-21T15:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 1/3/4/5b/8/12b Qualifying",
+          "time": "2026-05-22T11:55:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b/8/12b Sprint 1",
+          "time": "2026-05-22T17:10:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b/8/12b Sprint 2",
+          "time": "2026-05-23T10:20:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b/8/12b Sprint 3",
+          "time": "2026-05-23T16:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Practice 1",
+          "time": "2026-05-21T10:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 10 Practice 2",
+          "time": "2026-05-21T14:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-05-22T10:15:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-05-22T15:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-05-23T11:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-05-23T16:40:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "series": "svra",
+      "name": "Mid-Ohio",
+      "circuit": "Mid-Ohio Sports Car Course",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Grp 6/8/12 Practice",
+          "time": "2026-06-12T10:10:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Qualifying",
+          "time": "2026-06-12T15:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 2",
+          "time": "2026-06-13T13:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 3",
+          "time": "2026-06-14T13:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Practice",
+          "time": "2026-06-12T12:20:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Qualifying",
+          "time": "2026-06-12T17:20:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 1",
+          "time": "2026-06-13T12:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 2",
+          "time": "2026-06-13T18:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 3",
+          "time": "2026-06-14T15:25:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Practice",
+          "time": "2026-06-12T09:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11 Qualifying",
+          "time": "2026-06-12T14:45:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 1",
+          "time": "2026-06-13T09:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 2",
+          "time": "2026-06-13T15:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 3",
+          "time": "2026-06-14T11:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Practice",
+          "time": "2026-06-12T08:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Qualifying",
+          "time": "2026-06-12T13:45:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Sprint 1",
+          "time": "2026-06-13T10:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 2",
+          "time": "2026-06-13T16:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 3",
+          "time": "2026-06-14T10:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "series": "svra",
+      "name": "Indianapolis",
+      "circuit": "Indianapolis Motor Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Indiana/Indianapolis",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Grp 1/1b/3/4 Practice",
+          "time": "2026-06-19T08:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4 Qualifying",
+          "time": "2026-06-19T13:40:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4 Sprint 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4 Sprint 2",
+          "time": "2026-06-20T13:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4 Sprint 3",
+          "time": "2026-06-21T08:45:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 9/11a Practice",
+          "time": "2026-06-19T08:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 9/11a Qualifying",
+          "time": "2026-06-19T14:10:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 9/11a Sprint 1",
+          "time": "2026-06-20T08:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 9/11a Sprint 2",
+          "time": "2026-06-20T14:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 9/11a Sprint 3",
+          "time": "2026-06-21T09:15:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Practice",
+          "time": "2026-06-19T09:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-06-19T14:40:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-06-20T09:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-06-20T14:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-06-21T11:15:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/11b Practice",
+          "time": "2026-06-19T10:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/11b Qualifying",
+          "time": "2026-06-19T15:40:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/11b Sprint 1",
+          "time": "2026-06-20T10:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/11b Sprint 2",
+          "time": "2026-06-20T15:25:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/11b Sprint 3",
+          "time": "2026-06-21T14:55:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Practice",
+          "time": "2026-06-19T11:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Qualifying",
+          "time": "2026-06-19T17:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 1",
+          "time": "2026-06-20T11:10:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 2",
+          "time": "2026-06-20T17:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 3",
+          "time": "2026-06-21T15:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2/5b Practice",
+          "time": "2026-06-19T12:20:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2/5b Qualifying",
+          "time": "2026-06-19T18:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2/5b Sprint 1",
+          "time": "2026-06-20T11:40:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2/5b Sprint 2",
+          "time": "2026-06-20T17:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2/5b Sprint 3",
+          "time": "2026-06-21T16:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "HSCA Sprint",
+          "time": "2026-06-21T16:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5203,
+      "series": "svra",
+      "name": "New Jersey",
+      "circuit": "New Jersey Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Grp 1/3/4/8 Practice",
+          "time": "2026-08-01T09:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/8 Qualifying",
+          "time": "2026-08-01T11:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/8 Sprint 1",
+          "time": "2026-08-01T15:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/8 Sprint 2",
+          "time": "2026-08-02T09:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/8 Sprint 3",
+          "time": "2026-08-02T14:25:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/10/12 Practice",
+          "time": "2026-08-01T10:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/10/12 Qualifying",
+          "time": "2026-08-01T12:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/10/12 Sprint 1",
+          "time": "2026-08-01T16:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/10/12 Sprint 2",
+          "time": "2026-08-02T10:15:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/10/12 Sprint 3",
+          "time": "2026-08-02T15:40:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Practice",
+          "time": "2026-08-01T11:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11 Qualifying",
+          "time": "2026-08-01T13:50:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 1",
+          "time": "2026-08-01T17:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 2",
+          "time": "2026-08-02T11:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 3",
+          "time": "2026-08-02T16:55:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5204,
+      "series": "svra",
+      "name": "Watkins Glen",
+      "circuit": "Watkins Glen International",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Grp 8/12b Practice",
+          "time": "2026-09-11T08:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 8/12b Qualifying",
+          "time": "2026-09-11T13:25:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 8/12b Sprint 1",
+          "time": "2026-09-12T08:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 8/12b Sprint 2",
+          "time": "2026-09-12T13:40:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 8/12b Sprint 3",
+          "time": "2026-09-13T08:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Practice",
+          "time": "2026-09-11T08:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/12a Qualifying",
+          "time": "2026-09-11T13:55:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/12a Sprint 1",
+          "time": "2026-09-12T08:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Sprint 2",
+          "time": "2026-09-12T14:10:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Sprint 3",
+          "time": "2026-09-13T09:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Practice",
+          "time": "2026-09-11T09:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Qualifying",
+          "time": "2026-09-11T14:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Sprint 1",
+          "time": "2026-09-12T09:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 2",
+          "time": "2026-09-12T14:45:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 3",
+          "time": "2026-09-13T09:45:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Practice",
+          "time": "2026-09-11T09:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Qualifying",
+          "time": "2026-09-11T15:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 1",
+          "time": "2026-09-12T09:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 2",
+          "time": "2026-09-12T15:15:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 3",
+          "time": "2026-09-13T11:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 9 Practice",
+          "time": "2026-09-11T10:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 9 Qualifying",
+          "time": "2026-09-11T15:35:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 9 Sprint 1",
+          "time": "2026-09-12T10:10:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 9 Sprint 2",
+          "time": "2026-09-12T15:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 9 Sprint 3",
+          "time": "2026-09-13T13:10:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Historic Trans Am Practice",
+          "time": "2026-09-11T10:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Historic Trans Am Qualifying",
+          "time": "2026-09-11T16:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Historic Trans Am Sprint 1",
+          "time": "2026-09-12T10:40:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Historic Trans Am Sprint 2",
+          "time": "2026-09-12T16:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Historic Trans Am Governor's Cup",
+          "time": "2026-09-13T12:30:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/11b Practice",
+          "time": "2026-09-11T11:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/11b Qualifying",
+          "time": "2026-09-11T16:40:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/11b Sprint 1",
+          "time": "2026-09-12T11:15:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/11b Sprint 2",
+          "time": "2026-09-12T16:55:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/11b Sprint 3",
+          "time": "2026-09-13T13:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Practice",
+          "time": "2026-09-11T11:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10/11a Qualifying",
+          "time": "2026-09-11T17:10:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10/11a Sprint 1",
+          "time": "2026-09-12T11:45:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Sprint 2",
+          "time": "2026-09-12T17:25:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Sprint 3",
+          "time": "2026-09-13T10:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Formula Vee Practice",
+          "time": "2026-09-11T12:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Formula Vee Qualifying",
+          "time": "2026-09-11T17:40:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Formula Vee Sprint 1",
+          "time": "2026-09-12T12:15:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Formula Vee Sprint 2",
+          "time": "2026-09-12T18:00:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Formula Vee Sprint 3",
+          "time": "2026-09-13T14:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Historic Stock Car Sprint",
+          "time": "2026-09-13T15:10:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5205,
+      "series": "svra",
+      "name": "VIR",
+      "circuit": "Virginia International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Grp 1/3/4/5b Practice",
+          "time": "2026-09-18T08:00:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Qualifying",
+          "time": "2026-09-18T13:40:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 1",
+          "time": "2026-09-19T08:30:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 2",
+          "time": "2026-09-19T14:25:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 3",
+          "time": "2026-09-20T09:20:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Practice",
+          "time": "2026-09-18T08:30:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11 Qualifying",
+          "time": "2026-09-18T14:10:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 1",
+          "time": "2026-09-19T09:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 2",
+          "time": "2026-09-19T14:55:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11 Sprint 3",
+          "time": "2026-09-20T10:40:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Practice",
+          "time": "2026-09-18T11:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Qualifying",
+          "time": "2026-09-18T16:45:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 1",
+          "time": "2026-09-19T10:50:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 2",
+          "time": "2026-09-19T18:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 3",
+          "time": "2026-09-20T15:40:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Practice",
+          "time": "2026-09-18T10:05:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-09-18T15:45:00-04:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-09-19T09:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-09-19T17:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-09-20T13:35:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5206,
+      "series": "svra",
+      "name": "Laguna Seca",
+      "circuit": "WeatherTech Raceway Laguna Seca",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Grp 1/3/4/5b Practice",
+          "time": "2026-10-02T08:30:00-07:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/3/4/5b Qualifying",
+          "time": "2026-10-02T13:30:00-07:00",
+          "duration": 20
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 1",
+          "time": "2026-10-03T08:30:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 2",
+          "time": "2026-10-03T13:30:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/3/4/5b Sprint 3",
+          "time": "2026-10-04T11:15:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 8 Practice",
+          "time": "2026-10-02T09:00:00-07:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 8 Qualifying",
+          "time": "2026-10-02T13:55:00-07:00",
+          "duration": 20
+        },
+        {
+          "name": "Grp 8 Sprint 1",
+          "time": "2026-10-03T08:55:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 8 Sprint 2",
+          "time": "2026-10-03T14:00:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 8 Sprint 3",
+          "time": "2026-10-04T11:45:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Practice",
+          "time": "2026-10-02T09:30:00-07:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Qualifying",
+          "time": "2026-10-02T14:20:00-07:00",
+          "duration": 20
+        },
+        {
+          "name": "Grp 2 Sprint 1",
+          "time": "2026-10-03T09:20:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 2",
+          "time": "2026-10-03T14:30:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 3",
+          "time": "2026-10-04T14:30:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Practice",
+          "time": "2026-10-02T10:35:00-07:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10/11a Qualifying",
+          "time": "2026-10-02T15:15:00-07:00",
+          "duration": 20
+        },
+        {
+          "name": "Grp 10/11a Sprint 1",
+          "time": "2026-10-03T09:45:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Sprint 2",
+          "time": "2026-10-03T15:00:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Sprint 3",
+          "time": "2026-10-04T15:30:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11b Practice",
+          "time": "2026-10-02T11:05:00-07:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5a/7/9/11b Qualifying",
+          "time": "2026-10-02T15:40:00-07:00",
+          "duration": 20
+        },
+        {
+          "name": "Grp 5a/7/9/11b Sprint 1",
+          "time": "2026-10-03T10:10:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11b Sprint 2",
+          "time": "2026-10-03T15:30:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5a/7/9/11b Sprint 3",
+          "time": "2026-10-04T16:00:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12 Practice",
+          "time": "2026-10-02T11:35:00-07:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/12 Qualifying",
+          "time": "2026-10-02T16:05:00-07:00",
+          "duration": 20
+        },
+        {
+          "name": "Grp 6/12 Sprint 1",
+          "time": "2026-10-03T10:35:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12 Sprint 2",
+          "time": "2026-10-03T16:00:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12 Sprint 3",
+          "time": "2026-10-04T16:30:00-07:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5207,
+      "series": "svra",
+      "name": "Barber",
+      "circuit": "Barber Motorsports Park",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Grp 1/1b/3/4/5 Practice 1",
+          "time": "2026-10-16T09:00:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4/5 Practice 2",
+          "time": "2026-10-16T14:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4/5 Qualifying",
+          "time": "2026-10-17T08:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4/5 Sprint 1",
+          "time": "2026-10-17T13:30:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4/5 Sprint 2",
+          "time": "2026-10-18T09:55:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4/5 Sprint 3",
+          "time": "2026-10-18T15:20:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Practice 1",
+          "time": "2026-10-16T10:00:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Practice 2",
+          "time": "2026-10-16T15:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Qualifying",
+          "time": "2026-10-17T10:05:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 1",
+          "time": "2026-10-17T16:00:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 2",
+          "time": "2026-10-18T12:40:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/8/12 Sprint 3",
+          "time": "2026-10-18T14:50:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Practice 1",
+          "time": "2026-10-16T11:30:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Practice 2",
+          "time": "2026-10-16T16:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Qualifying",
+          "time": "2026-10-17T11:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10 Sprint 1",
+          "time": "2026-10-17T16:35:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 2",
+          "time": "2026-10-18T13:45:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10 Sprint 3",
+          "time": "2026-10-18T16:25:00-05:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5208,
+      "series": "svra",
+      "name": "COTA",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Grp 5/8/12b Practice",
+          "time": "2026-11-06T07:00:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5/8/12b Qualifying",
+          "time": "2026-11-06T12:35:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 5/8/12b Sprint 1",
+          "time": "2026-11-07T07:00:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5/8/12b Sprint 2",
+          "time": "2026-11-07T12:30:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 5/8/12b Gold Helmet Race",
+          "time": "2026-11-08T10:15:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 7/9/11b Practice",
+          "time": "2026-11-06T07:30:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 7/9/11b Qualifying",
+          "time": "2026-11-06T13:05:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 7/9/11b Sprint 1",
+          "time": "2026-11-07T07:30:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 7/9/11b Sprint 2",
+          "time": "2026-11-07T13:00:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 7/9/11b Gold Helmet Race",
+          "time": "2026-11-08T10:50:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4 Practice",
+          "time": "2026-11-06T08:00:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4 Qualifying",
+          "time": "2026-11-06T13:35:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 1/1b/3/4 Sprint 1",
+          "time": "2026-11-07T08:00:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4 Sprint 2",
+          "time": "2026-11-07T13:30:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 1/1b/3/4 Gold Helmet Race",
+          "time": "2026-11-08T13:40:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Practice",
+          "time": "2026-11-06T08:30:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Qualifying",
+          "time": "2026-11-06T14:05:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 2 Sprint 1",
+          "time": "2026-11-07T08:35:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Sprint 2",
+          "time": "2026-11-07T14:45:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 2 Gold Helmet Race",
+          "time": "2026-11-08T14:15:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Practice",
+          "time": "2026-11-06T09:30:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/12a Qualifying",
+          "time": "2026-11-06T15:05:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 6/12a Sprint 1",
+          "time": "2026-11-07T10:45:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Sprint 2",
+          "time": "2026-11-07T16:30:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 6/12a Gold Helmet Race",
+          "time": "2026-11-08T15:25:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Practice",
+          "time": "2026-11-06T10:00:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10/11a Qualifying",
+          "time": "2026-11-06T15:35:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Grp 10/11a Sprint 1",
+          "time": "2026-11-07T11:15:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Sprint 2",
+          "time": "2026-11-07T17:00:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Grp 10/11a Gold Helmet Race",
+          "time": "2026-11-08T14:50:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        },
+        {
+          "name": "Historic Stock Car Sprint",
+          "time": "2026-11-08T16:00:00-06:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5215,
+      "series": "hsr",
+      "name": "IMSA Classic at Rolex 24",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-01-22T15:45:00-05:00",
+          "duration": 30,
+          "resultsUrl": "https://www.hsrrace.com/wp-content/uploads/sites/59/2026/01/22/HSR-IMSA-Classic-Practice.pdf"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-01-23T08:40:00-05:00",
+          "duration": 15,
+          "resultsUrl": "https://www.hsrrace.com/wp-content/uploads/sites/59/2026/01/23/HSR-IMSA-Classic-Qualifying.pdf"
+        },
+        {
+          "name": "Qualifying Race",
+          "time": "2026-01-23T18:30:00-05:00",
+          "duration": 30,
+          "resultsUrl": "https://www.hsrrace.com/wp-content/uploads/sites/59/2026/01/24/HSR-IMSA-Classic-Qualifying-Race.pdf",
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Feature Race",
+          "time": "2026-01-24T08:50:00-05:00",
+          "duration": 30,
+          "resultsUrl": "https://www.hsrrace.com/wp-content/uploads/sites/59/2026/01/24/HSR-IMSA-Classic-Race.pdf",
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5216,
+      "series": "hsr",
+      "name": "Sebring Pistons & Props",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-02-13T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-02-13T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-02-13T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-02-13T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-02-13T09:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Practice",
+          "time": "2026-02-13T10:10:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-02-13T10:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-02-13T11:15:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-02-13T11:40:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-02-13T13:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-02-13T13:25:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-02-13T14:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-02-13T14:30:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "B.R.M Modern Enduro",
+          "time": "2026-02-13T15:05:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-02-14T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-02-14T08:25:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Qualifying 3",
+          "time": "2026-02-14T09:35:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-02-14T10:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-02-14T10:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-02-14T10:55:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Sprint Race 1",
+          "time": "2026-02-14T11:20:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Sprint Race 1",
+          "time": "2026-02-14T13:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Sprint Race 1",
+          "time": "2026-02-14T13:45:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Sprint Race 1",
+          "time": "2026-02-14T14:10:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Sprint Race 1",
+          "time": "2026-02-14T14:40:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Sprint Race 1",
+          "time": "2026-02-14T15:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-02-14T15:30:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-02-14T16:40:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Sprint Race 2",
+          "time": "2026-02-15T08:30:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Sprint Race 2",
+          "time": "2026-02-15T08:55:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Sprint Race 2",
+          "time": "2026-02-15T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Sprint Race 2",
+          "time": "2026-02-15T09:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Sprint Race 2",
+          "time": "2026-02-15T10:15:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Sprint Race 2",
+          "time": "2026-02-15T10:40:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5217,
+      "series": "hsr",
+      "name": "The Mitty",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-04-24T08:10:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Group 2 Qualifying 1",
+          "time": "2026-04-24T08:35:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-04-24T09:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-04-24T09:30:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Group 3 Qualifying 1",
+          "time": "2026-04-24T09:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4A/B Qualifying 1",
+          "time": "2026-04-24T10:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-04-24T10:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 1",
+          "time": "2026-04-24T11:15:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Practice",
+          "time": "2026-04-24T11:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-04-24T12:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-04-24T13:35:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Group 2 Qualifying 2",
+          "time": "2026-04-24T14:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-04-24T14:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Group 3 Qualifying 2",
+          "time": "2026-04-24T14:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-04-24T15:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4A/B Qualifying 2",
+          "time": "2026-04-24T15:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-04-24T16:15:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 2",
+          "time": "2026-04-24T16:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Sasco International-American Race A",
+          "time": "2026-04-24T17:20:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-04-24T18:00:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-04-25T08:10:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4A/B Qualifying 3",
+          "time": "2026-04-25T08:35:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 3",
+          "time": "2026-04-25T09:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 3",
+          "time": "2026-04-25T09:30:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-04-25T09:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-04-25T10:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Group 2 Qualifying 3",
+          "time": "2026-04-25T10:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Group 3 Qualifying 3",
+          "time": "2026-04-25T11:15:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-04-25T11:45:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 1",
+          "time": "2026-04-25T12:25:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mazda Spec Miata/MX-5 Feature Race",
+          "time": "2026-04-25T14:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-04-25T14:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-04-25T15:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4A/B Race 1",
+          "time": "2026-04-25T15:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-04-25T16:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4C Race 1",
+          "time": "2026-04-25T16:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Group 2 Race 1",
+          "time": "2026-04-25T17:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Group 3 Race 1",
+          "time": "2026-04-25T17:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 2",
+          "time": "2026-04-25T18:10:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-04-25T18:50:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-04-26T08:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Group 2 Race 2",
+          "time": "2026-04-26T08:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Group 3 Race 2",
+          "time": "2026-04-26T09:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race B",
+          "time": "2026-04-26T12:10:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-04-26T12:50:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 2",
+          "time": "2026-04-26T13:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Modern Enduro",
+          "time": "2026-04-26T13:50:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-04-26T15:00:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4A/B Race 2",
+          "time": "2026-04-26T16:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-04-26T16:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4C Race 2",
+          "time": "2026-04-26T17:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5210,
+      "series": "hsr",
+      "name": "Watkins Glen Classic 6 Hour",
+      "circuit": "Watkins Glen International",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-06-12T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-06-12T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-06-12T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics Qualifying 1",
+          "time": "2026-06-12T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-06-12T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Practice",
+          "time": "2026-06-12T10:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 1",
+          "time": "2026-06-12T10:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 1",
+          "time": "2026-06-12T11:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp D Qualifying 1",
+          "time": "2026-06-12T12:00:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 1",
+          "time": "2026-06-12T13:30:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-06-12T13:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-06-12T14:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-06-12T14:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics Qualifying 2",
+          "time": "2026-06-12T15:15:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-06-12T15:40:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-06-12T16:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 2",
+          "time": "2026-06-12T16:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 2",
+          "time": "2026-06-12T18:00:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 2",
+          "time": "2026-06-12T18:35:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp D Qualifying 2",
+          "time": "2026-06-12T19:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-06-13T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-06-13T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics Qualifying 3",
+          "time": "2026-06-13T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-06-13T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Grand Prix Classics 4C Qualifying 3",
+          "time": "2026-06-13T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-06-13T10:10:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-06-13T10:35:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-06-13T11:15:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-06-13T11:55:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-06-13T14:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 1",
+          "time": "2026-06-13T15:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 1",
+          "time": "2026-06-13T16:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-06-13T17:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 2",
+          "time": "2026-06-13T18:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 2",
+          "time": "2026-06-13T19:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-06-14T08:00:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics Race 1",
+          "time": "2026-06-14T08:25:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-06-14T08:50:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4C Race 1",
+          "time": "2026-06-14T09:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-06-14T09:45:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-06-14T10:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Modern Enduro",
+          "time": "2026-06-14T10:40:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Sprint 2",
+          "time": "2026-06-14T11:50:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-06-14T13:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-06-14T13:45:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics Race 2",
+          "time": "2026-06-14T14:55:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-06-14T15:20:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-06-14T16:30:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Grand Prix Classics 4C Race 2",
+          "time": "2026-06-14T16:55:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-06-14T17:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-06-14T17:50:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5211,
+      "series": "hsr",
+      "name": "NASCAR Classic to Le Mans Classic",
+      "circuit": "Circuit de la Sarthe",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5212,
+      "series": "hsr",
+      "name": "Road Atlanta Classic 10 Hour",
+      "circuit": "Michelin Raceway Road Atlanta",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-09-18T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-09-18T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-09-18T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-09-18T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-09-18T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 1",
+          "time": "2026-09-18T10:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 1",
+          "time": "2026-09-18T10:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp D Qualifying 1",
+          "time": "2026-09-18T11:25:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-09-18T12:55:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-09-18T13:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-09-18T13:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-09-18T14:15:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-09-18T14:40:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-09-18T15:05:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-09-18T16:15:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Qualifying 2",
+          "time": "2026-09-18T16:50:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp C Qualifying 2",
+          "time": "2026-09-18T17:30:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Classic Grp A/B Qualifying 2",
+          "time": "2026-09-18T18:05:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-09-19T08:00:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 3",
+          "time": "2026-09-19T08:25:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-09-19T08:50:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-09-19T09:20:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-09-19T09:45:00-04:00",
+          "duration": 20
+        },
+        {
+          "name": "B.R.M Vintage Enduro",
+          "time": "2026-09-19T10:10:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-09-19T11:20:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-09-19T13:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 1",
+          "time": "2026-09-19T14:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 1",
+          "time": "2026-09-19T15:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-09-19T16:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 2",
+          "time": "2026-09-19T17:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 2",
+          "time": "2026-09-19T18:00:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-09-20T08:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-09-20T08:35:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-09-20T09:00:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 1",
+          "time": "2026-09-20T09:30:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-09-20T12:10:00-04:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-09-20T13:15:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-09-20T13:40:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-09-20T14:10:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-09-20T14:35:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 2",
+          "time": "2026-09-20T15:00:00-04:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 3",
+          "time": "2026-09-20T15:30:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 3",
+          "time": "2026-09-20T16:30:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 3",
+          "time": "2026-09-20T17:30:00-04:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5213,
+      "series": "hsr",
+      "name": "Daytona Classic 24 Hour",
+      "circuit": "Daytona International Speedway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-11-12T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-11-12T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-11-12T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-11-12T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-11-12T13:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-11-12T14:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-11-12T14:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-11-12T15:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-11-12T15:40:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-11-12T16:15:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Qualifying 3",
+          "time": "2026-11-13T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 3",
+          "time": "2026-11-13T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 3",
+          "time": "2026-11-13T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 3",
+          "time": "2026-11-13T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-11-13T09:45:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-11-13T10:55:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-11-13T12:55:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-11-13T14:05:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-11-13T14:40:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-11-13T15:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-11-13T15:35:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-11-13T16:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Qualifying",
+          "time": "2026-11-13T16:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp G Qualifying",
+          "time": "2026-11-13T16:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp F Qualifying",
+          "time": "2026-11-13T17:15:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp E Qualifying",
+          "time": "2026-11-13T17:40:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C/D Qualifying",
+          "time": "2026-11-13T18:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying",
+          "time": "2026-11-13T18:35:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-11-14T08:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-11-14T08:25:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-11-14T08:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-11-14T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Vintage Enduro",
+          "time": "2026-11-14T09:45:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 2",
+          "time": "2026-11-14T10:55:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Ford Feature Race",
+          "time": "2026-11-14T11:30:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 1",
+          "time": "2026-11-14T14:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-11-14T15:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 1",
+          "time": "2026-11-14T16:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 1",
+          "time": "2026-11-14T17:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 1",
+          "time": "2026-11-14T18:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 1",
+          "time": "2026-11-14T19:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-11-14T20:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 2",
+          "time": "2026-11-14T21:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 2",
+          "time": "2026-11-14T22:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 2",
+          "time": "2026-11-14T23:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 2",
+          "time": "2026-11-15T00:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 2",
+          "time": "2026-11-15T01:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 3",
+          "time": "2026-11-15T02:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 3",
+          "time": "2026-11-15T03:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 3",
+          "time": "2026-11-15T04:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 3",
+          "time": "2026-11-15T05:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 3",
+          "time": "2026-11-15T06:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 3",
+          "time": "2026-11-15T07:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 4",
+          "time": "2026-11-15T08:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C/D Race 4",
+          "time": "2026-11-15T09:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp E Race 4",
+          "time": "2026-11-15T10:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp F Race 4",
+          "time": "2026-11-15T11:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp G Race 4",
+          "time": "2026-11-15T12:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp P Race 4",
+          "time": "2026-11-15T13:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5214,
+      "series": "hsr",
+      "name": "Sebring Classic 12 Hour",
+      "circuit": "Sebring International Raceway",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Vintage Cup Qualifying 1",
+          "time": "2026-12-03T08:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Legacy Racers Qualifying 1",
+          "time": "2026-12-03T08:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 1",
+          "time": "2026-12-03T08:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 1",
+          "time": "2026-12-03T09:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-12-03T09:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp D Practice",
+          "time": "2026-12-03T10:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C Practice",
+          "time": "2026-12-03T10:40:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Practice",
+          "time": "2026-12-03T11:05:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Practice",
+          "time": "2026-12-03T11:30:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Legacy Racers Qualifying 2",
+          "time": "2026-12-03T13:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Historic Trophy Qualifying 2",
+          "time": "2026-12-03T13:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Qualifying 2",
+          "time": "2026-12-03T13:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Vintage Cup Qualifying 2",
+          "time": "2026-12-03T14:20:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-12-03T14:45:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Prototype Challenge Qualifying",
+          "time": "2026-12-03T15:10:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "B.R.M Vintage Enduro",
+          "time": "2026-12-03T15:50:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Night Practice",
+          "time": "2026-12-03T18:00:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C Night Practice",
+          "time": "2026-12-03T18:25:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp D Night Practice",
+          "time": "2026-12-03T18:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "NASCAR Classic Race 1",
+          "time": "2026-12-04T08:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 1",
+          "time": "2026-12-04T08:25:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 1",
+          "time": "2026-12-04T08:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 1",
+          "time": "2026-12-04T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 1",
+          "time": "2026-12-04T09:45:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "B.R.M Legacy Enduro",
+          "time": "2026-12-04T10:10:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Sasco International-American Race",
+          "time": "2026-12-04T11:15:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Enduro",
+          "time": "2026-12-04T12:45:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Enduro",
+          "time": "2026-12-04T13:55:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 1 (PM)",
+          "time": "2026-12-04T15:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 1",
+          "time": "2026-12-04T15:30:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Qualifying",
+          "time": "2026-12-04T16:05:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp C Qualifying",
+          "time": "2026-12-04T16:30:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Classic Grp A/B Qualifying",
+          "time": "2026-12-04T16:55:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "Mission GT Race 2",
+          "time": "2026-12-05T08:00:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 2",
+          "time": "2026-12-05T08:25:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 2",
+          "time": "2026-12-05T08:50:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 2",
+          "time": "2026-12-05T09:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Prototype Challenge Race 2",
+          "time": "2026-12-05T09:45:00-05:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 2",
+          "time": "2026-12-05T10:20:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 1",
+          "time": "2026-12-05T12:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 1",
+          "time": "2026-12-05T13:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 1",
+          "time": "2026-12-05T14:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 2",
+          "time": "2026-12-05T15:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 2",
+          "time": "2026-12-05T16:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 2",
+          "time": "2026-12-05T17:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 3",
+          "time": "2026-12-05T18:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 3",
+          "time": "2026-12-05T19:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 3",
+          "time": "2026-12-05T20:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp A/B Race 4",
+          "time": "2026-12-06T09:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp C Race 4",
+          "time": "2026-12-06T10:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Classic Grp D Race 4",
+          "time": "2026-12-06T11:00:00-05:00",
+          "duration": 42,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Mission GT Race 3",
+          "time": "2026-12-06T12:45:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Historic Trophy Race 3",
+          "time": "2026-12-06T13:10:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Legacy Racers Race 3",
+          "time": "2026-12-06T13:35:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Vintage Cup Race 3",
+          "time": "2026-12-06T14:05:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "NASCAR Classic Race 3",
+          "time": "2026-12-06T14:30:00-05:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -46967,22 +53119,26 @@
         {
           "name": "Practice 1",
           "time": "2026-05-22T14:05:00+10:00",
-          "duration": 25
+          "duration": 25,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-22T14:45:00+10:00",
-          "duration": 25
+          "duration": 25,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars"
         },
         {
           "name": "Qualifying (Race 14)",
           "time": "2026-05-23T09:45:00+10:00",
-          "duration": 30
+          "duration": 30,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars"
         },
         {
           "name": "Qualifying (Race 15)",
           "time": "2026-05-23T10:40:00+10:00",
-          "duration": 30
+          "duration": 30,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars"
         },
         {
           "name": "Race 14",
@@ -46999,7 +53155,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47027,7 +53183,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47043,12 +53199,14 @@
         {
           "name": "Qualifying (Race 16)",
           "time": "2026-05-24T11:35:00+10:00",
-          "duration": 30
+          "duration": 30,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars"
         },
         {
           "name": "Top Ten Shootout (Race 16)",
           "time": "2026-05-24T12:30:00+10:00",
           "duration": 20,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -47060,7 +53218,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47088,7 +53246,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47128,7 +53286,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47168,7 +53326,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo / Seven Network"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47208,7 +53366,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47248,7 +53406,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47288,7 +53446,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47328,7 +53486,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo / Seven Network"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47368,7 +53526,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo / Seven Network"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47408,7 +53566,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -47448,7 +53606,7 @@
               "service": "SuperView"
             },
             "AU": {
-              "service": "Fox Sports / Seven Network / Kayo"
+              "service": "Fox Sports / Kayo / Seven Network"
             },
             "NZ": {
               "service": "Sky Sport NZ"
@@ -51127,9 +57285,24 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-05-31T14:00:00+02:00",
-          "tbd": true
+          "name": "Qualifying",
+          "time": "2026-05-29T16:45:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T15:11:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T13:31:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-31T17:21:00+02:00",
+          "duration": 20
         }
       ]
     },
@@ -51340,9 +57513,24 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-05-31T14:00:00+02:00",
-          "tbd": true
+          "name": "Qualifying",
+          "time": "2026-05-29T16:45:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T15:11:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T13:31:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-31T17:21:00+02:00",
+          "duration": 20
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-24T15:09:56.688Z",
+  "generatedAt": "2026-05-24T15:39:40.742Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -370,7 +370,7 @@
         "Balkans": "SportKlub",
         "IL": "Charlton",
         "Africa": "SuperSport",
-        "AU": "Fox Sports Australia",
+        "AU": "Fox Sports",
         "NZ": "Sky Sports NZ",
         "CN": "Huya / Tencent",
         "KR": "Coupang",
@@ -673,7 +673,7 @@
         "US": "Peacock",
         "Global": "Check local listings"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -701,7 +701,7 @@
       "broadcast": {
         "Global": "YouTube/imsaofficial"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -728,7 +728,7 @@
       "broadcast": {
         "Global": "YouTube/imsaofficial"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -754,7 +754,7 @@
       "broadcast": {
         "Global": "YouTube/LamborghiniSquadraCorse"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -780,7 +780,7 @@
       "broadcast": {
         "Global": "YouTube/LamborghiniSquadraCorse"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -806,7 +806,7 @@
       "broadcast": {
         "Global": "YouTube/imsaofficial"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -857,7 +857,7 @@
       "broadcast": {
         "Global": "YouTube/PorscheSprintChallenge"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -884,7 +884,7 @@
       "broadcast": {
         "Global": "YouTube/PorscheSprintChallenge"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -911,7 +911,7 @@
       "broadcast": {
         "Global": "YouTube/PorscheSprintChallenge"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -939,7 +939,7 @@
         "Global": "YouTube/imsaofficial"
       },
       "resultsUrl": "https://porschecarreracup.us/results",
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -964,7 +964,7 @@
       "broadcast": {
         "Global": "YouTube/imsaofficial"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -990,7 +990,7 @@
       "broadcast": {
         "Global": "YouTube/FordRacing"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1017,7 +1017,7 @@
         "AU": "Fox Sports / Kayo",
         "Global": "YouTube/FordRacing"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1080,7 +1080,7 @@
         "AU": "Fox Sports / Kayo",
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
@@ -1295,6 +1295,52 @@
       "resultsUrl": "https://www.floseries.com/standings/",
       "fallbackMinutes": 240
     },
+    "lucasdirt": {
+      "id": "lucasdirt",
+      "tags": [
+        "dirt",
+        "super-late-model",
+        "national-series",
+        "north-america"
+      ],
+      "group": "dirt",
+      "region": "americas",
+      "label": "Lucas Oil Late Models",
+      "short": "Lucas Oil LM",
+      "color": "#0046AD",
+      "bg": "rgba(0,70,173,0.15)",
+      "broadcast": {
+        "Global": "FloRacing"
+      },
+      "streamUrl": "https://www.floracing.com/",
+      "resultsUrl": "https://www.lucasdirt.com/standings/",
+      "fallbackMinutes": 240
+    },
+    "framericas": {
+      "id": "framericas",
+      "tags": [
+        "open-wheel",
+        "f3-car",
+        "feeder-series",
+        "regional-series",
+        "north-america"
+      ],
+      "group": "openwheel",
+      "region": "americas",
+      "label": "FR Americas",
+      "short": "FRA",
+      "color": "#0EA5E9",
+      "bg": "rgba(14,165,233,0.15)",
+      "broadcast": {
+        "Global": "YouTube/racingamericatv"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
+      "resultsUrl": "https://www.framericas.com/pages/2026-results"
+    },
     "enascar": {
       "id": "enascar",
       "tags": [
@@ -1452,7 +1498,7 @@
         "JP": "J SPORTS",
         "Global": "Check local listings"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "resultsUrl": "https://japancup.co/results"
@@ -1475,7 +1521,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
@@ -1506,7 +1552,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1531,7 +1577,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
@@ -1559,7 +1605,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1583,7 +1629,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
@@ -1615,7 +1661,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1641,7 +1687,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1668,13 +1714,86 @@
       "broadcast": {
         "Global": "YouTube/racingamericatv"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying",
         "Sprint"
       ],
       "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://internationalgt.net/race-results/"
+    },
+    "ginettana": {
+      "id": "ginettana",
+      "tags": [
+        "sports-car",
+        "north-america",
+        "regional-series"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "Ginetta Challenge NA",
+      "short": "GCNA",
+      "color": "#0D9488",
+      "bg": "rgba(13,148,136,0.15)",
+      "broadcast": {
+        "Global": "YouTube/racingamericatv"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
+      "resultsUrl": "https://svra.com/race-results/"
+    },
+    "svra": {
+      "id": "svra",
+      "tags": [
+        "sports-car",
+        "historic",
+        "north-america",
+        "regional-series",
+        "svra"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "SVRA Group Racing",
+      "short": "SVRA",
+      "color": "#7E22CE",
+      "bg": "rgba(126,34,206,0.15)",
+      "broadcast": {
+        "Global": "YouTube/racingamericatv"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
+      "resultsUrl": "https://svra.com/race-results/"
+    },
+    "hsr": {
+      "id": "hsr",
+      "tags": [
+        "sports-car",
+        "historic",
+        "north-america",
+        "regional-series",
+        "hsr"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "Historic Sportscar Racing",
+      "short": "HSR",
+      "color": "#0891B2",
+      "bg": "rgba(8,145,178,0.15)",
+      "broadcast": {
+        "Global": "YouTube/imsaofficial"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@imsaofficial/streams",
+      "resultsUrl": "https://www.hsrrace.com/results/"
     },
     "transamnational": {
       "id": "transamnational",
@@ -1694,8 +1813,9 @@
       "broadcast": {
         "Global": "YouTube/TheTransAmSeries"
       },
-      "unstreamedCategories": [
-        "Practice"
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@TheTransAmSeries/streams",
       "resultsUrl": "https://www.gotransam.com/standings/"
@@ -1718,7 +1838,7 @@
       "broadcast": {
         "Global": "YouTube/TheTransAmSeries"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1743,7 +1863,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
@@ -1767,7 +1887,7 @@
       "broadcast": {
         "Global": "YouTube/peterautoracing"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@peterautoracing/streams",
@@ -1790,7 +1910,7 @@
       "broadcast": {
         "Global": "YouTube/peterautoracing"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@peterautoracing/streams",
@@ -1814,7 +1934,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld",
@@ -1839,7 +1959,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1865,7 +1985,7 @@
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -1920,7 +2040,7 @@
       "color": "#FACC15",
       "bg": "rgba(250,204,21,0.15)",
       "broadcast": {
-        "AU": "Fox Sports / Kayo / Seven Network",
+        "AU": "Fox Sports / Kayo",
         "NZ": "Sky Sport NZ",
         "UK": "TNT Sports / discovery+",
         "IE": "TNT Sports / discovery+",
@@ -1929,7 +2049,7 @@
         "Global": "SuperView"
       },
       "streamUrl": "https://www.supercars.com/",
-      "resultsUrl": "https://www.supercars.com/championship/results/"
+      "resultsUrl": "https://www.supercars.com/results/2026/supercars"
     },
     "btcc": {
       "id": "btcc",
@@ -1970,7 +2090,7 @@
       },
       "streamUrl": "https://btcc.net/",
       "resultsUrl": "https://btcc.net/race-results/",
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "fallbackMinutes": 25,
@@ -1998,7 +2118,7 @@
       },
       "streamUrl": "https://www.youtube.com/@BritishF4",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_F4_British_Championship",
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ]
@@ -2024,7 +2144,7 @@
       },
       "streamUrl": "https://www.youtube.com/@F4USChampionship",
       "resultsUrl": "https://www.f4uschampionship.com/pages/2026-results",
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
@@ -2324,7 +2444,7 @@
       "broadcast": {
         "Global": "YouTube/TCRTV"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@TCRTV",
@@ -2348,7 +2468,7 @@
       "broadcast": {
         "Global": "YouTube/GTOPENseries"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTOPENseries",
@@ -2372,7 +2492,7 @@
       "broadcast": {
         "Global": "YouTube/EuroFormulaOpen"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@EuroFormulaOpen",
@@ -2395,7 +2515,7 @@
       "broadcast": {
         "Global": "YouTube/GTCupOpenSeries"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTCupOpenSeries",
@@ -2420,7 +2540,7 @@
       "broadcast": {
         "Global": "YouTube/PorscheCarreraCupDeutschland"
       },
-      "unstreamedCategories": [
+      "notTelevisedCategories": [
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@PorscheCarreraCupDeutschland",
@@ -2428,7 +2548,8 @@
     }
   },
   "categoryOverrides": {
-    "Pit Stop Challenge": "Practice"
+    "Pit Stop Challenge": "Practice",
+    "Qualifying Race": "Race"
   },
   "racePatterns": {
     "race": [

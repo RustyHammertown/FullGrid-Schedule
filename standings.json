@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:09:54.407Z",
+  "generatedAt": "2026-05-24T15:39:38.630Z",
   "flat": {
     "f1": [
       {
@@ -1285,6 +1285,68 @@
         "team": "Brandon, FL"
       }
     ],
+    "lucasdirt": [
+      {
+        "pos": 1,
+        "name": "Hudson O'Neal",
+        "points": 2945,
+        "team": "Martinsville, IN"
+      },
+      {
+        "pos": 2,
+        "name": "Devin Moran",
+        "points": 2855,
+        "team": "Dresden, OH"
+      },
+      {
+        "pos": 3,
+        "name": "Brandon Sheppard",
+        "points": 2780,
+        "team": "New Berlin, IL"
+      },
+      {
+        "pos": 4,
+        "name": "Ricky Thornton Jr",
+        "points": 2695,
+        "team": "Chandler, AZ"
+      },
+      {
+        "pos": 5,
+        "name": "Brandon Overton",
+        "points": 2650,
+        "team": "Evans, GA"
+      },
+      {
+        "pos": 6,
+        "name": "Max Blair",
+        "points": 2650,
+        "team": "Centerville, PA"
+      },
+      {
+        "pos": 7,
+        "name": "Brian Shirley",
+        "points": 2410,
+        "team": "Chatham, IL"
+      },
+      {
+        "pos": 8,
+        "name": "Garrett Alberson",
+        "points": 2405,
+        "team": "Las Cruces, NM"
+      },
+      {
+        "pos": 9,
+        "name": "Kyle Bronson",
+        "points": 2325,
+        "team": "Brandon, FL"
+      },
+      {
+        "pos": 10,
+        "name": "Josh Rice",
+        "points": 2300,
+        "team": "Crittenden, KY"
+      }
+    ],
     "woolm": [
       {
         "pos": 1,
@@ -1665,6 +1727,68 @@
         "name": "Ben Ramirez (R)",
         "points": 14,
         "team": "RASE Motorsports"
+      }
+    ],
+    "framericas": [
+      {
+        "pos": 1,
+        "name": "Evagoras Papasavvas (R)",
+        "points": 75.5,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 2,
+        "name": "Cooper Shipman (R)",
+        "points": 63,
+        "team": "Kiwi Motorsport"
+      },
+      {
+        "pos": 3,
+        "name": "Christian Bogle",
+        "points": 57.5,
+        "team": "Toney Driver Development"
+      },
+      {
+        "pos": 4,
+        "name": "Kekai Hauanio (R)",
+        "points": 56,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 5,
+        "name": "Brady Golan",
+        "points": 54.5,
+        "team": "Toney Driver Development"
+      },
+      {
+        "pos": 6,
+        "name": "Luke Powers (R)",
+        "points": 45,
+        "team": "Toney Driver Development"
+      },
+      {
+        "pos": 7,
+        "name": "James Lawley",
+        "points": 25,
+        "team": "Atlantic Racing Team"
+      },
+      {
+        "pos": 8,
+        "name": "Barrett Wolfe",
+        "points": 21,
+        "team": "Crosslink Motorsports"
+      },
+      {
+        "pos": 9,
+        "name": "Eric Wisniewski (R)",
+        "points": 17,
+        "team": "Hillenburg Motorsports"
+      },
+      {
+        "pos": 10,
+        "name": "Harbir Dass (R)",
+        "points": 15,
+        "team": "Kiwi Motorsport"
       }
     ],
     "xtrial": [
