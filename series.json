@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-25T23:14:06.714Z",
+  "generatedAt": "2026-05-25T23:21:45.159Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1601,6 +1601,29 @@
       },
       "streamUrl": "https://www.youtube.com/@adacmotorsports",
       "resultsUrl": "https://www.adac-motorsport.de/en/adac-gt-masters/results/2026/"
+    },
+    "bmwm2": {
+      "id": "bmwm2",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "bmw",
+        "adac"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "ADAC BMW M2 Cup",
+      "short": "M2 Cup",
+      "color": "#1C69D4",
+      "bg": "rgba(28,105,212,0.15)",
+      "broadcast": {
+        "DE": "Joyn",
+        "Global": "YouTube/adacmotorsports"
+      },
+      "streamUrl": "https://www.youtube.com/@adacmotorsports",
+      "resultsUrl": "https://www.adac-motorsport.de/bmw-m2-cup/results/2026/"
     },
     "gtwasia": {
       "id": "gtwasia",

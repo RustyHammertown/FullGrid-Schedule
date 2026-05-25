@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:14:08.731Z",
+  "generatedAt": "2026-05-25T23:21:47.181Z",
   "groups": {
     "f1": [
       {
@@ -810,6 +810,21 @@
           "Qualifying 2",
           "Qualifying 3",
           "Qualifying 4"
+        ]
+      }
+    ],
+    "bmwm2": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
         ]
       }
     ],
