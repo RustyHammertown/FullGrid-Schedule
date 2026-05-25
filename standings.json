@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:59:07.491Z",
+  "generatedAt": "2026-05-25T23:07:43.395Z",
   "flat": {
     "f1": [
       {
@@ -814,58 +814,6 @@
         "pos": 10,
         "name": "Lucas Cartelle / Hudson Schwartz",
         "points": 13
-      }
-    ],
-    "agtm": [
-      {
-        "pos": 1,
-        "name": "Felix Hirsiger / Finn Zulauf",
-        "points": 85
-      },
-      {
-        "pos": 2,
-        "name": "Leyton Fourie / Tim Zimmermann",
-        "points": 67
-      },
-      {
-        "pos": 3,
-        "name": "Kiano Blum / Niklas Kalus",
-        "points": 62
-      },
-      {
-        "pos": 4,
-        "name": "Pavel Lefterov / Mark Kastelic",
-        "points": 54
-      },
-      {
-        "pos": 5,
-        "name": "Colin Bönighausen / Leo Pichler",
-        "points": 50
-      },
-      {
-        "pos": 6,
-        "name": "Sandro Holzem / Juliano Holzem",
-        "points": 45
-      },
-      {
-        "pos": 7,
-        "name": "Fabio Rauer / Storm Gjerdrum",
-        "points": 44
-      },
-      {
-        "pos": 8,
-        "name": "Jamie Alan Day / Baudouin Detout",
-        "points": 31
-      },
-      {
-        "pos": 9,
-        "name": "Massimiliano Cuccarese / Alain Valente",
-        "points": 30
-      },
-      {
-        "pos": 10,
-        "name": "Robin Rogalski / Simon Connor Primm",
-        "points": 25
       }
     ],
     "dtm": [
@@ -3571,6 +3519,233 @@
     ]
   },
   "classes": {
+    "agtm": [
+      {
+        "className": "Overall",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Felix Hirsiger / Finn Zulauf",
+            "points": 85,
+            "team": "Engstler Motorsport",
+            "vehicle": "Lamborghini Huracán GT3 Evo II"
+          },
+          {
+            "pos": 2,
+            "name": "Leyton Fourie / Tim Zimmermann",
+            "points": 67,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "Kiano Blum / Niklas Kalus",
+            "points": 62,
+            "team": "Haupt Racing Team",
+            "vehicle": "Ford Mustang GT3"
+          },
+          {
+            "pos": 4,
+            "name": "Pavel Lefterov / Mark Kastelic",
+            "points": 54,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 5,
+            "name": "Colin Bönighausen / Leo Pichler",
+            "points": 50,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 6,
+            "name": "Sandro Holzem / Juliano Holzem",
+            "points": 45,
+            "team": "Schubert Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 7,
+            "name": "Fabio Rauer / Storm Gjerdrum",
+            "points": 44,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "Jamie Alan Day / Baudouin Detout",
+            "points": 31,
+            "team": "Comtoyou Racing",
+            "vehicle": "Aston Martin Vantage GT3 Evo"
+          },
+          {
+            "pos": 9,
+            "name": "Massimiliano Cuccarese / Alain Valente",
+            "points": 30,
+            "team": "Haupt Racing Team",
+            "vehicle": "Ford Mustang GT3"
+          },
+          {
+            "pos": 10,
+            "name": "Robin Rogalski / Simon Connor Primm",
+            "points": 25,
+            "team": "HGL Racing",
+            "vehicle": "Lamborghini Huracán GT3 Evo II"
+          }
+        ]
+      },
+      {
+        "className": "Silver-Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Felix Hirsiger / Finn Zulauf",
+            "points": 85,
+            "team": "Engstler Motorsport",
+            "vehicle": "Lamborghini Huracán GT3 Evo II"
+          },
+          {
+            "pos": 2,
+            "name": "Leyton Fourie / Tim Zimmermann",
+            "points": 67,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "Kiano Blum / Niklas Kalus",
+            "points": 62,
+            "team": "Haupt Racing Team",
+            "vehicle": "Ford Mustang GT3"
+          },
+          {
+            "pos": 4,
+            "name": "Mark Kastelic / Pavel Lefterov",
+            "points": 54,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 5,
+            "name": "Colin Bönighausen / Leo Pichler",
+            "points": 50,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 6,
+            "name": "Juliano Holzem / Sandro Holzem",
+            "points": 45,
+            "team": "Schubert Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 7,
+            "name": "Fabio Rauer / Storm Gjerdrum",
+            "points": 44,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "Jamie Alan Day / Baudouin Detout",
+            "points": 31,
+            "team": "Comtoyou Racing",
+            "vehicle": "Aston Martin Vantage GT3 Evo"
+          },
+          {
+            "pos": 9,
+            "name": "Alain Valente / Massimiliano Cuccarese",
+            "points": 30,
+            "team": "Haupt Racing Team",
+            "vehicle": "Ford Mustang GT3"
+          },
+          {
+            "pos": 10,
+            "name": "Robin Rogalski / Simon Connor Primm",
+            "points": 25,
+            "team": "HGL Racing",
+            "vehicle": "Lamborghini Huracán GT3 Evo II"
+          }
+        ]
+      },
+      {
+        "className": "Road to DTM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Finn Zulauf",
+            "points": 97,
+            "team": "Engstler Motorsport",
+            "vehicle": "Lamborghini Huracán GT3 Evo II"
+          },
+          {
+            "pos": 2,
+            "name": "Leyton Fourie",
+            "points": 78,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "Kiano Blum",
+            "points": 74,
+            "team": "Haupt Racing Team",
+            "vehicle": "Ford Mustang GT3"
+          },
+          {
+            "pos": 4,
+            "name": "Niklas Kalus",
+            "points": 72,
+            "team": "Haupt Racing Team",
+            "vehicle": "Ford Mustang GT3"
+          },
+          {
+            "pos": 5,
+            "name": "Mark Kastelic",
+            "points": 63,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 6,
+            "name": "Leo Pichler",
+            "points": 62,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 7,
+            "name": "Sandro Holzem",
+            "points": 60,
+            "team": "Schubert Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "Colin Bönighausen",
+            "points": 58,
+            "team": "Razoon",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 9,
+            "name": "Storm Gjerdrum",
+            "points": 53,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 10,
+            "name": "Juliano Holzem",
+            "points": 51,
+            "team": "Schubert Motorsport",
+            "vehicle": "BMW M4 GT3 Evo"
+          }
+        ]
+      }
+    ],
     "vpscc": [
       {
         "className": "LMP3",
@@ -6659,6 +6834,49 @@
     "elms": "Team Standings"
   },
   "teamFlat": {
+    "agtm": [
+      {
+        "pos": 1,
+        "name": "FK Performance Motorsport",
+        "points": 112,
+        "vehicle": "BMW M4 GT3 Evo"
+      },
+      {
+        "pos": 2,
+        "name": "Engstler Motorsport",
+        "points": 104,
+        "vehicle": "Lamborghini Huracán GT3 Evo II"
+      },
+      {
+        "pos": 3,
+        "name": "razoon - more than racing",
+        "points": 99,
+        "vehicle": "Porsche 911 GT3 R"
+      },
+      {
+        "pos": 4,
+        "name": "Haupt Racing Team",
+        "points": 94,
+        "vehicle": "Ford Mustang GT3"
+      },
+      {
+        "pos": 5,
+        "name": "Schubert Motorsport",
+        "points": 43,
+        "vehicle": "BMW M4 GT3 Evo"
+      },
+      {
+        "pos": 6,
+        "name": "Comtoyou Racing",
+        "points": 31,
+        "vehicle": "Aston Martin Vantage GT3 Evo"
+      },
+      {
+        "pos": 7,
+        "name": "TS Competition",
+        "points": 27
+      }
+    ],
     "tcamerica": [
       {
         "pos": 1,
