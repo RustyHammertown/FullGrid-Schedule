@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:40:47.344Z",
+  "generatedAt": "2026-05-25T23:50:35.236Z",
   "events": [
     {
       "id": 101,
@@ -43469,7 +43469,7 @@
           }
         },
         {
-          "name": "RL360 Superstock TT Race 1",
+          "name": "Superstock TT Race 1",
           "time": "2026-05-30T10:45:00+01:00",
           "laps": 3,
           "broadcasts": {
@@ -43482,7 +43482,7 @@
           }
         },
         {
-          "name": "Motul Sidecar TT Race 1",
+          "name": "Sidecar TT Race 1",
           "time": "2026-05-30T13:30:00+01:00",
           "laps": 3,
           "broadcasts": {
@@ -43495,7 +43495,7 @@
           }
         },
         {
-          "name": "RST Superbike TT",
+          "name": "Superbike TT",
           "time": "2026-05-31T13:30:00+01:00",
           "laps": 6,
           "broadcasts": {
@@ -43508,7 +43508,7 @@
           }
         },
         {
-          "name": "Monster Energy Supersport TT Race 1",
+          "name": "Supersport TT Race 1",
           "time": "2026-06-02T10:45:00+01:00",
           "laps": 4,
           "broadcasts": {
@@ -43521,7 +43521,7 @@
           }
         },
         {
-          "name": "Carole Nash Sportbike TT Race 1",
+          "name": "Sportbike TT Race 1",
           "time": "2026-06-02T14:15:00+01:00",
           "laps": 3,
           "broadcasts": {
@@ -43534,7 +43534,7 @@
           }
         },
         {
-          "name": "Motul Sidecar TT Race 2",
+          "name": "Sidecar TT Race 2",
           "time": "2026-06-03T10:45:00+01:00",
           "laps": 3,
           "broadcasts": {
@@ -43547,7 +43547,7 @@
           }
         },
         {
-          "name": "RL360 Superstock TT Race 2",
+          "name": "Superstock TT Race 2",
           "time": "2026-06-03T13:30:00+01:00",
           "laps": 3,
           "broadcasts": {
@@ -43560,7 +43560,7 @@
           }
         },
         {
-          "name": "Monster Energy Supersport TT Race 2",
+          "name": "Supersport TT Race 2",
           "time": "2026-06-05T10:45:00+01:00",
           "laps": 4,
           "broadcasts": {
@@ -43573,7 +43573,7 @@
           }
         },
         {
-          "name": "Carole Nash Sportbike TT Race 2",
+          "name": "Sportbike TT Race 2",
           "time": "2026-06-05T14:00:00+01:00",
           "laps": 3,
           "broadcasts": {
@@ -43586,7 +43586,7 @@
           }
         },
         {
-          "name": "Milwaukee Senior TT",
+          "name": "Senior TT",
           "time": "2026-06-06T11:00:00+01:00",
           "laps": 6,
           "broadcasts": {

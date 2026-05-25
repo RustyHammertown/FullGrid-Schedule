@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:40:52.650Z",
+  "generatedAt": "2026-05-25T23:50:40.439Z",
   "groups": {
     "f1": [
       {
@@ -853,7 +853,7 @@
           "Superbike/Superstock Qualifying 3",
           "Superbike/Superstock Qualifying 4",
           "Superbike/Superstock Qualifying 5",
-          "RST Superbike TT"
+          "Superbike TT"
         ]
       },
       {
@@ -866,8 +866,8 @@
           "Superbike/Superstock Qualifying 3",
           "Superbike/Superstock Qualifying 4",
           "Superbike/Superstock Qualifying 5",
-          "RL360 Superstock TT Race 1",
-          "RL360 Superstock TT Race 2"
+          "Superstock TT Race 1",
+          "Superstock TT Race 2"
         ]
       },
       {
@@ -880,8 +880,8 @@
           "Supersport/Sportbike Qualifying 3",
           "Supersport/Sportbike Qualifying 4",
           "Supersport/Sportbike Qualifying 5",
-          "Monster Energy Supersport TT Race 1",
-          "Monster Energy Supersport TT Race 2"
+          "Supersport TT Race 1",
+          "Supersport TT Race 2"
         ]
       },
       {
@@ -894,8 +894,8 @@
           "Supersport/Sportbike Qualifying 3",
           "Supersport/Sportbike Qualifying 4",
           "Supersport/Sportbike Qualifying 5",
-          "Carole Nash Sportbike TT Race 1",
-          "Carole Nash Sportbike TT Race 2"
+          "Sportbike TT Race 1",
+          "Sportbike TT Race 2"
         ]
       },
       {
@@ -908,8 +908,8 @@
           "Sidecar Qualifying 3",
           "Sidecar Qualifying 4",
           "Sidecar Qualifying 5",
-          "Motul Sidecar TT Race 1",
-          "Motul Sidecar TT Race 2"
+          "Sidecar TT Race 1",
+          "Sidecar TT Race 2"
         ]
       },
       {
@@ -921,7 +921,7 @@
           "Superbike/Superstock Qualifying 3",
           "Superbike/Superstock Qualifying 4",
           "Superbike/Superstock Qualifying 5",
-          "Milwaukee Senior TT"
+          "Senior TT"
         ]
       }
     ],
