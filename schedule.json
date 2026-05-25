@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:24:02.948Z",
+  "generatedAt": "2026-05-25T22:44:02.645Z",
   "events": [
     {
       "id": 101,
@@ -42530,6 +42530,318 @@
             },
             "Global": {
               "service": "YouTube/DTM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2960,
+      "series": "agtm",
+      "name": "Red Bull Ring",
+      "circuit": "Red Bull Ring",
+      "flag": "🇦🇹",
+      "country": "Austria",
+      "tz": "Europe/Vienna",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-04-24T09:05:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/adacmotorsports"
+          }
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-04-24T15:00:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/adacmotorsports"
+          }
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-25T08:15:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-25T15:10:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-26T08:10:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-26T15:10:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2961,
+      "series": "agtm",
+      "name": "Circuit Zandvoort",
+      "circuit": "Circuit Zandvoort",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-22T09:10:00+02:00",
+          "duration": 50,
+          "broadcasts": {
+            "Global": "YouTube/adacmotorsports"
+          }
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-22T15:15:00+02:00",
+          "duration": 50,
+          "broadcasts": {
+            "Global": "YouTube/adacmotorsports"
+          }
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-23T08:20:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T15:10:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-24T08:15:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T15:10:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2962,
+      "series": "agtm",
+      "name": "Lausitzring",
+      "circuit": "Lausitzring",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2963,
+      "series": "agtm",
+      "name": "Nürburgring",
+      "circuit": "Nürburgring GP",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2964,
+      "series": "agtm",
+      "name": "Salzburgring",
+      "circuit": "Salzburgring",
+      "flag": "🇦🇹",
+      "country": "Austria",
+      "tz": "Europe/Vienna",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2965,
+      "series": "agtm",
+      "name": "Hockenheimring",
+      "circuit": "Hockenheimring",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
             }
           }
         }

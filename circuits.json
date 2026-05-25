@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:24:05.104Z",
+  "generatedAt": "2026-05-25T22:44:06.555Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -426,6 +426,14 @@
       "region": "Saxony",
       "website": "https://www.sachsenring.de",
       "length_m": 3671
+    },
+    "Salzburgring": {
+      "lat": 47.8231,
+      "lon": 13.1694,
+      "city": "Plainfeld",
+      "region": "Salzburg",
+      "website": "https://www.salzburgring.com",
+      "length_m": 4255
     },
     "Sepang International Circuit": {
       "lat": 2.7603,
