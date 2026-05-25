@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:07:43.395Z",
+  "generatedAt": "2026-05-25T23:14:04.794Z",
   "flat": {
     "f1": [
       {
@@ -762,58 +762,6 @@
         "name": "John Salerno",
         "points": 610,
         "team": "JTR Motorsports Engineering"
-      }
-    ],
-    "agt4": [
-      {
-        "pos": 1,
-        "name": "Gabriele Piana / Benjamin Sylvestersson",
-        "points": 45
-      },
-      {
-        "pos": 2,
-        "name": "Denny Berndt / Lachlan Robinson",
-        "points": 36
-      },
-      {
-        "pos": 3,
-        "name": "Jan Philipp Springob / Philipp Gogollok",
-        "points": 31
-      },
-      {
-        "pos": 4,
-        "name": "Alon Gabbay / Maximilian Schreyer",
-        "points": 27
-      },
-      {
-        "pos": 5,
-        "name": "Luis Moser / Luca Link",
-        "points": 24
-      },
-      {
-        "pos": 6,
-        "name": "Roman Fellner-Feldegg / Marek Böckmann",
-        "points": 17
-      },
-      {
-        "pos": 7,
-        "name": "Phillip Wiskirchen / Linus Hahne",
-        "points": 15
-      },
-      {
-        "pos": 8,
-        "name": "Tim Horrell / Hendrik Still",
-        "points": 14
-      },
-      {
-        "pos": 9,
-        "name": "Alexander Connor / Marius Schmid",
-        "points": 14
-      },
-      {
-        "pos": 10,
-        "name": "Lucas Cartelle / Hudson Schwartz",
-        "points": 13
       }
     ],
     "dtm": [
@@ -3519,6 +3467,238 @@
     ]
   },
   "classes": {
+    "agt4": [
+      {
+        "className": "Overall",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Gabriele Piana / Benjamin Sylvestersson",
+            "points": 45,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 2,
+            "name": "Denny Berndt / Lachlan Robinson",
+            "points": 36,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 3,
+            "name": "Jan Philipp Springob / Philipp Gogollok",
+            "points": 31,
+            "team": "EastSide Motorsport",
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "Alon Gabbay / Maximilian Schreyer",
+            "points": 27,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 5,
+            "name": "Luis Moser / Luca Link",
+            "points": 24,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 6,
+            "name": "Roman Fellner-Feldegg / Marek Böckmann",
+            "points": 17,
+            "team": "PROsport Racing",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
+            "pos": 7,
+            "name": "Phillip Wiskirchen / Linus Hahne",
+            "points": 15,
+            "team": "ME Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "Tim Horrell / Hendrik Still",
+            "points": 14,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 9,
+            "name": "Alexander Connor / Marius Schmid",
+            "points": 14,
+            "team": "Mücke Motorsport",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
+            "pos": 10,
+            "name": "Lucas Cartelle / Hudson Schwartz",
+            "points": 13,
+            "team": "CRT Sport",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
+          }
+        ]
+      },
+      {
+        "className": "Junior",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Benjamin Sylvestersson",
+            "points": 45,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 2,
+            "name": "Denny Berndt",
+            "points": 36,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 2,
+            "name": "Lachlan Robinson",
+            "points": 36,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 3,
+            "name": "Philipp Gogollok",
+            "points": 32,
+            "team": "EastSide Motorsport",
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "Alon Gabbay",
+            "points": 27,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 4,
+            "name": "Maximilian Schreyer",
+            "points": 27,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 5,
+            "name": "Luca Link",
+            "points": 24,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 5,
+            "name": "Luis Moser",
+            "points": 24,
+            "team": "FK Performance Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 6,
+            "name": "Roman Fellner-Feldegg",
+            "points": 17,
+            "team": "PROsport Racing",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
+            "pos": 7,
+            "name": "Linus Hahne",
+            "points": 16,
+            "team": "ME Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          }
+        ]
+      },
+      {
+        "className": "Rookie",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Marius Schmid",
+            "points": 45,
+            "team": "Mücke Motorsport",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
+            "pos": 2,
+            "name": "Frederic Zebis",
+            "points": 31,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 3,
+            "name": "Nicolas Guillaume",
+            "points": 29,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 4,
+            "name": "Hamish Forrest",
+            "points": 27,
+            "team": "Razoon",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 5,
+            "name": "Lukas Stiefelhagen",
+            "points": 25,
+            "team": "ME Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 6,
+            "name": "Jack James",
+            "points": 15,
+            "team": "Razoon",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 7,
+            "name": "Erik Bertilsson",
+            "points": 13,
+            "team": "KRT Racing",
+            "vehicle": "Ginetta G56 GT4 Evo"
+          }
+        ]
+      },
+      {
+        "className": "Pro-Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Tim Horrell / Hendrik Still",
+            "points": 50,
+            "team": "AVIA W&S Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 2,
+            "name": "Laurenz Rühl / Jesper Brunhoj Jensen",
+            "points": 20,
+            "team": "Wimmer Werk Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          },
+          {
+            "pos": 3,
+            "name": "Jack James / Harald Huber",
+            "points": 16,
+            "team": "Razoon",
+            "vehicle": "Porsche 718 Cayman GT4 RS CS"
+          }
+        ]
+      }
+    ],
     "agtm": [
       {
         "className": "Overall",
@@ -6834,6 +7014,74 @@
     "elms": "Team Standings"
   },
   "teamFlat": {
+    "agt4": [
+      {
+        "pos": 1,
+        "name": "FK Performance Motorsport",
+        "points": 69,
+        "vehicle": "BMW M4 GT4 Evo"
+      },
+      {
+        "pos": 2,
+        "name": "AVIA W&S Motorsport",
+        "points": 63,
+        "vehicle": "Porsche 718 Cayman GT4 RS CS"
+      },
+      {
+        "pos": 3,
+        "name": "EastSide Motorsport",
+        "points": 32,
+        "vehicle": "Aston Martin Vantage AMR GT4 Evo"
+      },
+      {
+        "pos": 4,
+        "name": "ME Motorsport",
+        "points": 26,
+        "vehicle": "BMW M4 GT4 Evo"
+      },
+      {
+        "pos": 5,
+        "name": "PROsport Racing",
+        "points": 18,
+        "vehicle": "Mercedes-AMG GT4"
+      },
+      {
+        "pos": 6,
+        "name": "Mücke Motorsport",
+        "points": 16,
+        "vehicle": "Mercedes-AMG GT4"
+      },
+      {
+        "pos": 7,
+        "name": "CRT Sport",
+        "points": 13,
+        "vehicle": "Toyota GR Supra GT4 Evo2"
+      },
+      {
+        "pos": 8,
+        "name": "razoon - more than racing",
+        "points": 11,
+        "vehicle": "Porsche 718 Cayman GT4 RS CS"
+      },
+      {
+        "pos": 8,
+        "name": "CV Performance XJP Motorsport",
+        "points": 11,
+        "vehicle": "Mercedes-AMG GT4"
+      },
+      {
+        "pos": 9,
+        "name": "Wimmer Werk Motorsport",
+        "points": 8,
+        "vehicle": "Porsche 718 Cayman GT4 RS CS"
+      },
+      {
+        "pos": 10,
+        "name": "KRT Racing",
+        "points": 7,
+        "vehicle": "Ginetta G56 GT4 Evo"
+      }
+    ],
     "agtm": [
       {
         "pos": 1,
