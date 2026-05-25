@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:35:38.759Z",
+  "generatedAt": "2026-05-25T23:40:52.650Z",
   "groups": {
     "f1": [
       {
@@ -841,6 +841,87 @@
           "Sidecar Qualifying 3",
           "Sidecar Qualifying 4",
           "Sidecar Qualifying 5"
+        ]
+      },
+      {
+        "label": "Superbike",
+        "sessions": [
+          "Newcomer Speed-Controlled Lap",
+          "Superbike/Superstock Practice",
+          "Superbike/Superstock Qualifying 1",
+          "Superbike/Superstock Qualifying 2",
+          "Superbike/Superstock Qualifying 3",
+          "Superbike/Superstock Qualifying 4",
+          "Superbike/Superstock Qualifying 5",
+          "RST Superbike TT"
+        ]
+      },
+      {
+        "label": "Superstock",
+        "sessions": [
+          "Newcomer Speed-Controlled Lap",
+          "Superbike/Superstock Practice",
+          "Superbike/Superstock Qualifying 1",
+          "Superbike/Superstock Qualifying 2",
+          "Superbike/Superstock Qualifying 3",
+          "Superbike/Superstock Qualifying 4",
+          "Superbike/Superstock Qualifying 5",
+          "RL360 Superstock TT Race 1",
+          "RL360 Superstock TT Race 2"
+        ]
+      },
+      {
+        "label": "Supersport",
+        "sessions": [
+          "Newcomer Speed-Controlled Lap",
+          "Supersport/Sportbike Practice",
+          "Supersport/Sportbike Qualifying 1",
+          "Supersport/Sportbike Qualifying 2",
+          "Supersport/Sportbike Qualifying 3",
+          "Supersport/Sportbike Qualifying 4",
+          "Supersport/Sportbike Qualifying 5",
+          "Monster Energy Supersport TT Race 1",
+          "Monster Energy Supersport TT Race 2"
+        ]
+      },
+      {
+        "label": "Sportbike",
+        "sessions": [
+          "Newcomer Speed-Controlled Lap",
+          "Supersport/Sportbike Practice",
+          "Supersport/Sportbike Qualifying 1",
+          "Supersport/Sportbike Qualifying 2",
+          "Supersport/Sportbike Qualifying 3",
+          "Supersport/Sportbike Qualifying 4",
+          "Supersport/Sportbike Qualifying 5",
+          "Carole Nash Sportbike TT Race 1",
+          "Carole Nash Sportbike TT Race 2"
+        ]
+      },
+      {
+        "label": "Sidecar",
+        "sessions": [
+          "Newcomer Speed-Controlled Lap",
+          "Sidecar Practice",
+          "Sidecar Qualifying 1",
+          "Sidecar Qualifying 2",
+          "Sidecar Qualifying 3",
+          "Sidecar Qualifying 4",
+          "Sidecar Qualifying 5",
+          "Motul Sidecar TT Race 1",
+          "Motul Sidecar TT Race 2"
+        ]
+      },
+      {
+        "label": "Senior",
+        "sessions": [
+          "Superbike/Superstock Practice",
+          "Superbike/Superstock Qualifying 1",
+          "Superbike/Superstock Qualifying 2",
+          "Superbike/Superstock Qualifying 3",
+          "Superbike/Superstock Qualifying 4",
+          "Superbike/Superstock Qualifying 5",
+          "Milwaukee Senior TT"
         ]
       }
     ],
