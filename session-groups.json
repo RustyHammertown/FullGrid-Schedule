@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:44:04.328Z",
+  "generatedAt": "2026-05-25T22:59:11.757Z",
   "groups": {
     "f1": [
       {
@@ -810,6 +810,22 @@
           "Qualifying 2",
           "Qualifying 3",
           "Qualifying 4"
+        ]
+      }
+    ],
+    "agt4": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

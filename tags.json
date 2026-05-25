@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:24:10.149Z",
+  "generatedAt": "2026-05-25T22:59:13.888Z",
   "categories": [
     {
       "id": "geography",
@@ -123,7 +123,8 @@
         "mazda",
         "mini",
         "cupra",
-        "caterham"
+        "caterham",
+        "ginetta"
       ]
     },
     {
@@ -237,6 +238,7 @@
     "mazda": "Mazda",
     "mini": "Mini",
     "cupra": "Cupra",
-    "caterham": "Caterham"
+    "caterham": "Caterham",
+    "ginetta": "Ginetta"
   }
 }

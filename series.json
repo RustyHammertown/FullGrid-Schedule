@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-25T22:44:03.497Z",
+  "generatedAt": "2026-05-25T22:59:09.610Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1546,6 +1546,34 @@
       },
       "streamUrl": "https://www.youtube.com/DTM",
       "resultsUrl": "https://www.dtm.com/en/results?season=2026"
+    },
+    "agt4": {
+      "id": "agt4",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "regional-series",
+        "europe",
+        "aston-martin",
+        "bmw",
+        "mercedes-amg",
+        "porsche",
+        "toyota",
+        "ginetta",
+        "adac"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "ADAC GT4 Germany",
+      "short": "AGT4",
+      "color": "#14B8A6",
+      "bg": "rgba(20,184,166,0.15)",
+      "broadcast": {
+        "DE": "SPORT1",
+        "Global": "YouTube/adacmotorsports"
+      },
+      "streamUrl": "https://www.youtube.com/@adacmotorsports",
+      "resultsUrl": "https://www.adac-motorsport.de/en/adac-gt4-germany/results/2026/"
     },
     "agtm": {
       "id": "agtm",

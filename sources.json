@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:44:05.809Z",
+  "generatedAt": "2026-05-25T22:59:10.686Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1233,6 +1233,34 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/GTWorldChallengeEurope/"
+        }
+      ]
+    },
+    "agt4": {
+      "schedule": [
+        {
+          "url": "https://www.adac-motorsport.de/en/adac-gt4-germany/race-calendar/",
+          "label": "Official calendar (per-event Zeitplan PDFs on event pages)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.adac-motorsport.de/en/adac-gt4-germany/results/2026/"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.adac-motorsport.de/en/adac-gt4-germany/rankings/2026/"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.adac-motorsport.de/en/adac-gt4-germany/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/adac_motorsport"
         }
       ]
     },

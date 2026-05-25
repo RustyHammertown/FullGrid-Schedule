@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T22:44:05.084Z",
+  "generatedAt": "2026-05-25T22:59:07.491Z",
   "flat": {
     "f1": [
       {
@@ -762,6 +762,58 @@
         "name": "John Salerno",
         "points": 610,
         "team": "JTR Motorsports Engineering"
+      }
+    ],
+    "agt4": [
+      {
+        "pos": 1,
+        "name": "Gabriele Piana / Benjamin Sylvestersson",
+        "points": 45
+      },
+      {
+        "pos": 2,
+        "name": "Denny Berndt / Lachlan Robinson",
+        "points": 36
+      },
+      {
+        "pos": 3,
+        "name": "Jan Philipp Springob / Philipp Gogollok",
+        "points": 31
+      },
+      {
+        "pos": 4,
+        "name": "Alon Gabbay / Maximilian Schreyer",
+        "points": 27
+      },
+      {
+        "pos": 5,
+        "name": "Luis Moser / Luca Link",
+        "points": 24
+      },
+      {
+        "pos": 6,
+        "name": "Roman Fellner-Feldegg / Marek Böckmann",
+        "points": 17
+      },
+      {
+        "pos": 7,
+        "name": "Phillip Wiskirchen / Linus Hahne",
+        "points": 15
+      },
+      {
+        "pos": 8,
+        "name": "Tim Horrell / Hendrik Still",
+        "points": 14
+      },
+      {
+        "pos": 9,
+        "name": "Alexander Connor / Marius Schmid",
+        "points": 14
+      },
+      {
+        "pos": 10,
+        "name": "Lucas Cartelle / Hudson Schwartz",
+        "points": 13
       }
     ],
     "agtm": [
