@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-25T23:21:45.159Z",
+  "generatedAt": "2026-05-25T23:35:36.487Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1601,6 +1601,25 @@
       },
       "streamUrl": "https://www.youtube.com/@adacmotorsports",
       "resultsUrl": "https://www.adac-motorsport.de/en/adac-gt-masters/results/2026/"
+    },
+    "iomtt": {
+      "id": "iomtt",
+      "tags": [
+        "motorcycle",
+        "europe"
+      ],
+      "group": "bikes",
+      "region": "europe",
+      "label": "Isle of Man TT",
+      "short": "IOM TT",
+      "color": "#E94E1B",
+      "bg": "rgba(233,78,27,0.15)",
+      "broadcast": {
+        "UK": "ITV4",
+        "Global": "TT+"
+      },
+      "streamUrl": "https://ttplus.iomttraces.com/browse",
+      "resultsUrl": "https://www.iomttraces.com/racing/page/2026-results/"
     },
     "bmwm2": {
       "id": "bmwm2",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:21:44.168Z",
+  "generatedAt": "2026-05-25T23:35:35.316Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -442,6 +442,14 @@
       "region": "Selangor",
       "website": "https://www.sepangcircuit.com",
       "length_m": 5543
+    },
+    "Snaefell Mountain Course": {
+      "lat": 54.1686,
+      "lon": -4.4769,
+      "city": "Douglas",
+      "region": "Isle of Man",
+      "website": "https://www.iomttraces.com",
+      "length_m": 60725
     },
     "Shanghai International Circuit": {
       "lat": 31.3389,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:21:46.177Z",
+  "generatedAt": "2026-05-25T23:35:37.751Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1233,6 +1233,46 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/GTWorldChallengeEurope/"
+        }
+      ]
+    },
+    "iomtt": {
+      "schedule": [
+        {
+          "url": "https://www.iomttraces.com/racing/page/schedule/",
+          "label": "Official schedule"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.iomttraces.com/racing/page/2026-results/",
+          "label": "Live once racing starts (May 30)"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.iomttraces.com/follow/page/access-live-timing/",
+          "label": "Official live timing"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.iomttraces.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/ttracesofficial/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://twitter.com/ttracesofficial"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/TTRacesOfficial"
         }
       ]
     },

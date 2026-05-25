@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-25T23:21:47.181Z",
+  "generatedAt": "2026-05-25T23:35:38.759Z",
   "groups": {
     "f1": [
       {
@@ -810,6 +810,37 @@
           "Qualifying 2",
           "Qualifying 3",
           "Qualifying 4"
+        ]
+      }
+    ],
+    "iomtt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Newcomer Speed-Controlled Lap",
+          "Supersport/Sportbike Practice",
+          "Sidecar Practice",
+          "Superbike/Superstock Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Superbike/Superstock Qualifying 1",
+          "Superbike/Superstock Qualifying 2",
+          "Superbike/Superstock Qualifying 3",
+          "Superbike/Superstock Qualifying 4",
+          "Superbike/Superstock Qualifying 5",
+          "Supersport/Sportbike Qualifying 1",
+          "Supersport/Sportbike Qualifying 2",
+          "Supersport/Sportbike Qualifying 3",
+          "Supersport/Sportbike Qualifying 4",
+          "Supersport/Sportbike Qualifying 5",
+          "Sidecar Qualifying 1",
+          "Sidecar Qualifying 2",
+          "Sidecar Qualifying 3",
+          "Sidecar Qualifying 4",
+          "Sidecar Qualifying 5"
         ]
       }
     ],
