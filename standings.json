@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:40:52.037Z",
+  "generatedAt": "2026-05-25T22:10:26.705Z",
   "flat": {
     "f1": [
       {
@@ -762,6 +762,78 @@
         "name": "John Salerno",
         "points": 610,
         "team": "JTR Motorsports Engineering"
+      }
+    ],
+    "dtm": [
+      {
+        "pos": 1,
+        "name": "Maro Engel",
+        "points": 67,
+        "team": "#80 Winward Racing",
+        "vehicle": "Mercedes-AMG GT3 Evo"
+      },
+      {
+        "pos": 2,
+        "name": "Lucas Auer",
+        "points": 61,
+        "team": "#22 Landgraf Motorsport",
+        "vehicle": "Mercedes-AMG GT3 Evo"
+      },
+      {
+        "pos": 3,
+        "name": "Marco Wittmann",
+        "points": 52,
+        "team": "#11 Schubert Motorsport",
+        "vehicle": "BMW M4 GT3 Evo"
+      },
+      {
+        "pos": 4,
+        "name": "Thomas Preining",
+        "points": 46,
+        "team": "#91 Manthey Racing",
+        "vehicle": "Porsche 911 GT3 R"
+      },
+      {
+        "pos": 5,
+        "name": "Matteo Cairoli",
+        "points": 43,
+        "team": "#14 Emil Frey Racing",
+        "vehicle": "Ferrari 296 GT3"
+      },
+      {
+        "pos": 6,
+        "name": "Ben Dörr",
+        "points": 42,
+        "team": "#25 Dörr Motorsport",
+        "vehicle": "McLaren 720S GT3 Evo"
+      },
+      {
+        "pos": 7,
+        "name": "Kelvin van der Linde",
+        "points": 41,
+        "team": "#3 Schubert Motorsport",
+        "vehicle": "BMW M4 GT3 Evo"
+      },
+      {
+        "pos": 8,
+        "name": "Thierry Vermeulen",
+        "points": 41,
+        "team": "#69 Emil Frey Racing",
+        "vehicle": "Ferrari 296 GT3"
+      },
+      {
+        "pos": 9,
+        "name": "Jules Gounon",
+        "points": 30,
+        "team": "#48 Winward Racing",
+        "vehicle": "Mercedes-AMG GT3 Evo"
+      },
+      {
+        "pos": 10,
+        "name": "Nicki Thiim",
+        "points": 24,
+        "team": "#7 Comtoyou Racing",
+        "vehicle": "Aston Martin Vantage GT3"
       }
     ],
     "gtwce": [

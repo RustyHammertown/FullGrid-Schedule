@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-24T15:40:54.074Z",
+  "generatedAt": "2026-05-25T22:10:24.719Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1508,6 +1508,44 @@
       },
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.gt-world-challenge-europe.com/results"
+    },
+    "dtm": {
+      "id": "dtm",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "touring-car",
+        "regional-series",
+        "europe",
+        "mercedes-amg",
+        "bmw",
+        "porsche",
+        "ferrari",
+        "mclaren",
+        "aston-martin",
+        "lamborghini",
+        "ford",
+        "audi",
+        "adac"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "DTM",
+      "short": "DTM",
+      "color": "#E2001A",
+      "bg": "rgba(226,0,26,0.15)",
+      "broadcast": {
+        "DE": "ProSieben",
+        "AT": "ServusTV",
+        "UK": "Premier Sports",
+        "US": "RACER",
+        "FR": "DAZN",
+        "NL": "Viaplay",
+        "AU": "beIN Sports",
+        "Global": "YouTube/DTM"
+      },
+      "streamUrl": "https://www.youtube.com/DTM",
+      "resultsUrl": "https://www.dtm.com/en/results?season=2026"
     },
     "gtwasia": {
       "id": "gtwasia",

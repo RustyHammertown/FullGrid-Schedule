@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:40:58.104Z",
+  "generatedAt": "2026-05-25T22:10:29.995Z",
   "categories": [
     {
       "id": "geography",
@@ -18,6 +18,7 @@
       "label": "Sanctioning Body",
       "tags": [
         "aco",
+        "adac",
         "ama",
         "arca",
         "ffsa",
@@ -180,6 +181,7 @@
     "feeder-series": "Feeder Series",
     "support-series": "Support Series",
     "aco": "ACO",
+    "adac": "ADAC",
     "ama": "AMA",
     "arca": "ARCA",
     "ffsa": "FFSA",

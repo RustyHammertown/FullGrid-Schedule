@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:40:53.064Z",
+  "generatedAt": "2026-05-25T22:10:28.922Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -370,6 +370,14 @@
       "city": "Beilun",
       "region": "Zhejiang",
       "length_m": 4015
+    },
+    "Motorsport Arena Oschersleben": {
+      "lat": 52.0281,
+      "lon": 11.2797,
+      "city": "Oschersleben",
+      "region": "Saxony-Anhalt",
+      "website": "https://www.motorsportarena.com",
+      "length_m": 3667
     },
     "Norisring": {
       "lat": 49.4283,

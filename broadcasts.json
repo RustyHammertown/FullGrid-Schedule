@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-24T15:40:59.110Z",
+  "generatedAt": "2026-05-25T22:10:31.004Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -133,6 +133,9 @@
     "SuperSport": "https://supersport.com/",
     "Sky Italia": "https://www.sky.it/",
     "Sky Deutschland": "https://www.sky.de/",
+    "ProSieben": "https://www.prosieben.de/",
+    "ran.de": "https://ran.joyn.de/sports/motorsport/dtm",
+    "Joyn": "https://www.joyn.de/",
     "Sky Sport NZ": "https://www.skysport.co.nz/",
     "Sky Sports NZ": "https://www.skysport.co.nz/",
     "Movistar+": "https://www.movistarplus.es/",
@@ -158,6 +161,7 @@
     "IMSA TV": "https://www.imsa.com/tv/",
     "IndyCar Live": "https://www.indycar.com/",
     "RACER Network": "https://racer.com/",
+    "RACER": "https://racer.com/",
     "NASCAR.com": "https://www.nascar.com/",
     "SMX Video Pass": "https://www.supermotocross.com/",
     "SuperView": "https://www.supercars.com/superview",
@@ -285,6 +289,7 @@
     "PT": "Portugal",
     "IT": "Italy",
     "Nordics": "Nordics",
+    "PL": "Poland",
     "HU": "Hungary",
     "SK": "Slovakia",
     "TR": "Turkey",

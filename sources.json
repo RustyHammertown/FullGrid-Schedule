@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T15:40:55.095Z",
+  "generatedAt": "2026-05-25T22:10:27.792Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1233,6 +1233,50 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/GTWorldChallengeEurope/"
+        }
+      ]
+    },
+    "dtm": {
+      "schedule": [
+        {
+          "url": "https://www.dtm.com/en/events",
+          "label": "Official calendar (per-event timetables via api.dtm.com)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.dtm.com/en/results?season=2026"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.dtm.com/en/standings?season=2026"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://racecontrol.dtm.com/series/14/sessions?autoplay=true",
+          "label": "DTM Race Control live timing"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.dtm.com/en"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/dtm.official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/dtm"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/DTM"
         }
       ]
     },
