@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T22:45:41.968Z",
+  "generatedAt": "2026-05-26T23:29:46.833Z",
   "events": [
     {
       "id": 101,
@@ -58195,13 +58195,12 @@
       "sessions": [
         {
           "name": "Qualifying",
-          "time": "2026-05-30T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-05-30T11:00:00+01:00",
+          "duration": 25
         },
         {
           "name": "Race 1",
-          "time": "2026-05-30T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-05-30T13:55:00+01:00",
           "duration": 20,
           "broadcasts": {
             "UK": {
@@ -58214,8 +58213,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-05-31T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-05-31T10:10:00+01:00",
           "duration": 20,
           "broadcasts": {
             "UK": {
@@ -58228,8 +58226,7 @@
         },
         {
           "name": "Race 3",
-          "time": "2026-05-31T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-05-31T15:15:00+01:00",
           "duration": 25,
           "broadcasts": {
             "UK": {
