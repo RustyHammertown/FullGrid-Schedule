@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T23:36:32.161Z",
+  "generatedAt": "2026-05-26T23:46:25.470Z",
   "events": [
     {
       "id": 101,
@@ -16502,8 +16502,48 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-29T08:00:00-04:00",
+          "duration": 90,
+          "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            }
+          }
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-29T11:30:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-29T16:50:00-04:00",
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            }
+          }
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-30T11:05:00-04:00",
+          "duration": 25,
+          "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            }
+          }
+        },
+        {
           "name": "Race",
-          "time": "2026-05-30T16:00:00-04:00",
+          "time": "2026-05-30T16:10:00-04:00",
           "duration": 100,
           "broadcasts": {
             "US": {
@@ -39100,9 +39140,75 @@
       "round": 1,
       "sessions": [
         {
-          "name": "Gate Drop",
-          "time": "2026-05-30T13:00:00-07:00",
-          "duration": 180,
+          "name": "250 Moto 1",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "NBC / Peacock"
+            },
+            "CA": {
+              "service": "Peacock"
+            },
+            "AU": {
+              "service": "SMX Video Pass"
+            },
+            "UK": {
+              "service": "SMX Video Pass"
+            },
+            "Global": {
+              "service": "SMX Video Pass"
+            }
+          }
+        },
+        {
+          "name": "450 Moto 1",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "NBC / Peacock"
+            },
+            "CA": {
+              "service": "Peacock"
+            },
+            "AU": {
+              "service": "SMX Video Pass"
+            },
+            "UK": {
+              "service": "SMX Video Pass"
+            },
+            "Global": {
+              "service": "SMX Video Pass"
+            }
+          }
+        },
+        {
+          "name": "250 Moto 2",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "NBC / Peacock"
+            },
+            "CA": {
+              "service": "Peacock"
+            },
+            "AU": {
+              "service": "SMX Video Pass"
+            },
+            "UK": {
+              "service": "SMX Video Pass"
+            },
+            "Global": {
+              "service": "SMX Video Pass"
+            }
+          }
+        },
+        {
+          "name": "450 Moto 2",
+          "time": "2026-05-30T05:00:00-07:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
