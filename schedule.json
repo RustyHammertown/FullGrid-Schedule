@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T23:29:46.833Z",
+  "generatedAt": "2026-05-26T23:36:32.161Z",
   "events": [
     {
       "id": 101,
@@ -39100,75 +39100,9 @@
       "round": 1,
       "sessions": [
         {
-          "name": "250 Moto 1",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "NBC / Peacock"
-            },
-            "CA": {
-              "service": "Peacock"
-            },
-            "AU": {
-              "service": "SMX Video Pass"
-            },
-            "UK": {
-              "service": "SMX Video Pass"
-            },
-            "Global": {
-              "service": "SMX Video Pass"
-            }
-          }
-        },
-        {
-          "name": "450 Moto 1",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "NBC / Peacock"
-            },
-            "CA": {
-              "service": "Peacock"
-            },
-            "AU": {
-              "service": "SMX Video Pass"
-            },
-            "UK": {
-              "service": "SMX Video Pass"
-            },
-            "Global": {
-              "service": "SMX Video Pass"
-            }
-          }
-        },
-        {
-          "name": "250 Moto 2",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "NBC / Peacock"
-            },
-            "CA": {
-              "service": "Peacock"
-            },
-            "AU": {
-              "service": "SMX Video Pass"
-            },
-            "UK": {
-              "service": "SMX Video Pass"
-            },
-            "Global": {
-              "service": "SMX Video Pass"
-            }
-          }
-        },
-        {
-          "name": "450 Moto 2",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
+          "name": "Gate Drop",
+          "time": "2026-05-30T13:00:00-07:00",
+          "duration": 180,
           "broadcasts": {
             "US": {
               "service": "NBC / Peacock"
