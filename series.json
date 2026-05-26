@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-26T00:05:31.394Z",
+  "generatedAt": "2026-05-26T02:55:46.101Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1622,6 +1622,111 @@
       "resultsUrl": "https://www.iomttraces.com/racing/page/2026-results/",
       "classGrid": true
     },
+    "fiakeuro": {
+      "id": "fiakeuro",
+      "tags": [
+        "karting",
+        "fia",
+        "europe",
+        "feeder-series"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "FIA Karting European Championship",
+      "short": "Euro Kart",
+      "color": "#0B6BCB",
+      "bg": "rgba(11,107,203,0.15)",
+      "broadcast": {
+        "Global": "YouTube/fiakartingchampionship9818"
+      },
+      "streamUrl": "https://www.youtube.com/@fiakartingchampionship9818/streams",
+      "resultsUrl": "https://www.fiakarting.com/competition-list",
+      "classGrid": true
+    },
+    "fiakwc": {
+      "id": "fiakwc",
+      "tags": [
+        "karting",
+        "fia",
+        "europe",
+        "world-championship"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "FIA Karting World Championship",
+      "short": "World Kart",
+      "color": "#C2410C",
+      "bg": "rgba(194,65,12,0.15)",
+      "broadcast": {
+        "Global": "YouTube/fiakartingchampionship9818"
+      },
+      "streamUrl": "https://www.youtube.com/@fiakartingchampionship9818/streams",
+      "resultsUrl": "https://www.fiakarting.com/competition-list",
+      "classGrid": true
+    },
+    "fiakwcup": {
+      "id": "fiakwcup",
+      "tags": [
+        "karting",
+        "fia",
+        "europe",
+        "world-championship"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "FIA Karting World Cup",
+      "short": "Kart W Cup",
+      "color": "#15803D",
+      "bg": "rgba(21,128,61,0.15)",
+      "broadcast": {
+        "Global": "YouTube/fiakartingchampionship9818"
+      },
+      "streamUrl": "https://www.youtube.com/@fiakartingchampionship9818/streams",
+      "resultsUrl": "https://www.fiakarting.com/competition-list",
+      "classGrid": true
+    },
+    "fiakap": {
+      "id": "fiakap",
+      "tags": [
+        "karting",
+        "fia",
+        "asia-pacific",
+        "feeder-series"
+      ],
+      "group": "openwheel",
+      "region": "asiapacific",
+      "label": "FIA Karting A&D Asia-Pacific",
+      "short": "A&D Asia",
+      "color": "#7C3AED",
+      "bg": "rgba(124,58,237,0.15)",
+      "broadcast": {
+        "Global": "YouTube/fiakartingchampionship9818"
+      },
+      "streamUrl": "https://www.youtube.com/@fiakartingchampionship9818/streams",
+      "resultsUrl": "https://www.fiakarting.com/competition-list",
+      "classGrid": true
+    },
+    "fiaksam": {
+      "id": "fiaksam",
+      "tags": [
+        "karting",
+        "fia",
+        "south-america",
+        "feeder-series"
+      ],
+      "group": "openwheel",
+      "region": "americas",
+      "label": "FIA Karting A&D South American",
+      "short": "A&D S.Am",
+      "color": "#DB2777",
+      "bg": "rgba(219,39,119,0.15)",
+      "broadcast": {
+        "Global": "YouTube/fiakartingchampionship9818"
+      },
+      "streamUrl": "https://www.youtube.com/@fiakartingchampionship9818/streams",
+      "resultsUrl": "https://www.fiakarting.com/competition-list",
+      "classGrid": true
+    },
     "bmwm2": {
       "id": "bmwm2",
       "tags": [
@@ -2855,9 +2960,11 @@
       "sprint",
       "feature",
       "^heat",
+      "super heat",
       "main event",
       "a-main",
-      "a main"
+      "a main",
+      "\\bfinal\\b"
     ],
     "practice": [
       "\\bpractice\\b",

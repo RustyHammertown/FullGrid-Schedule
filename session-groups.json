@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T00:05:33.424Z",
+  "generatedAt": "2026-05-26T02:55:48.023Z",
   "groups": {
     "f1": [
       {
@@ -922,6 +922,166 @@
           "Superbike/Superstock Qualifying 4",
           "Superbike/Superstock Qualifying 5",
           "Senior Race"
+        ]
+      }
+    ],
+    "fiakeuro": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "OK Free Practice",
+          "Junior Free Practice",
+          "KZ Free Practice",
+          "KZ2 Free Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "OK Qualifying",
+          "OK Qualifying Heats",
+          "Junior Qualifying",
+          "Junior Qualifying Heats",
+          "KZ Qualifying",
+          "KZ Qualifying Heats",
+          "KZ2 Qualifying",
+          "KZ2 Qualifying Heats"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "OK Warm-up",
+          "OK Warm-up Super Heat",
+          "Junior Warm-up",
+          "Junior Warm-up Super Heat",
+          "KZ Warm-up",
+          "KZ2 Warm-up",
+          "KZ2 Warm-up Super Heat"
+        ]
+      },
+      {
+        "label": "OK",
+        "sessions": [
+          "OK Free Practice",
+          "OK Qualifying",
+          "OK Qualifying Heats",
+          "OK Warm-up",
+          "OK Warm-up Super Heat",
+          "OK Super Heat A",
+          "OK Super Heat B",
+          "OK Final"
+        ]
+      },
+      {
+        "label": "Junior",
+        "sessions": [
+          "Junior Free Practice",
+          "Junior Qualifying",
+          "Junior Qualifying Heats",
+          "Junior Warm-up",
+          "Junior Warm-up Super Heat",
+          "Junior Super Heat A",
+          "Junior Super Heat B",
+          "Junior Final"
+        ]
+      },
+      {
+        "label": "KZ",
+        "sessions": [
+          "KZ Free Practice",
+          "KZ Qualifying",
+          "KZ Qualifying Heats",
+          "KZ Warm-up",
+          "KZ Super Heat",
+          "KZ Final"
+        ]
+      },
+      {
+        "label": "KZ2",
+        "sessions": [
+          "KZ2 Free Practice",
+          "KZ2 Qualifying",
+          "KZ2 Qualifying Heats",
+          "KZ2 Warm-up",
+          "KZ2 Warm-up Super Heat",
+          "KZ2 Super Heat A",
+          "KZ2 Super Heat B",
+          "KZ2 Final"
+        ]
+      }
+    ],
+    "fiakwc": [
+      {
+        "label": "KZ",
+        "sessions": [
+          "KZ Final"
+        ]
+      },
+      {
+        "label": "KZ2",
+        "sessions": [
+          "KZ2 Final"
+        ]
+      },
+      {
+        "label": "KZ2 Masters",
+        "sessions": [
+          "KZ2 Masters Final"
+        ]
+      },
+      {
+        "label": "OK",
+        "sessions": [
+          "OK Final"
+        ]
+      },
+      {
+        "label": "Junior",
+        "sessions": [
+          "Junior Final"
+        ]
+      }
+    ],
+    "fiakwcup": [
+      {
+        "label": "OK-N",
+        "sessions": [
+          "OK-N Final"
+        ]
+      },
+      {
+        "label": "OK-NJ",
+        "sessions": [
+          "OK-NJ Final"
+        ]
+      }
+    ],
+    "fiakap": [
+      {
+        "label": "Senior",
+        "sessions": [
+          "Senior Final"
+        ]
+      },
+      {
+        "label": "Junior",
+        "sessions": [
+          "Junior Final"
+        ]
+      }
+    ],
+    "fiaksam": [
+      {
+        "label": "Senior",
+        "sessions": [
+          "Senior Final"
+        ]
+      },
+      {
+        "label": "Junior",
+        "sessions": [
+          "Junior Final"
         ]
       }
     ],

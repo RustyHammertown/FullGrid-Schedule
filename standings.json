@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T00:05:29.334Z",
+  "generatedAt": "2026-05-26T02:55:44.164Z",
   "flat": {
     "f1": [
       {
@@ -3467,6 +3467,308 @@
     ]
   },
   "classes": {
+    "fiakeuro": [
+      {
+        "className": "OK",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Noah Baglin",
+            "points": 190,
+            "team": "#106",
+            "flag": "🇬🇧"
+          },
+          {
+            "pos": 2,
+            "name": "Zac Drummond",
+            "points": 111,
+            "team": "#103",
+            "flag": "🇬🇧"
+          },
+          {
+            "pos": 3,
+            "name": "Dean Hoogendoorn",
+            "points": 95,
+            "team": "#101",
+            "flag": "🇳🇱"
+          },
+          {
+            "pos": 4,
+            "name": "Niklas Schaufler",
+            "points": 93,
+            "team": "#139",
+            "flag": "🇦🇹"
+          },
+          {
+            "pos": 5,
+            "name": "Joe Turney",
+            "points": 88,
+            "team": "#116",
+            "flag": "🇬🇧"
+          },
+          {
+            "pos": 6,
+            "name": "Benjamin Manach",
+            "points": 80,
+            "team": "#114",
+            "flag": "🇪🇸"
+          },
+          {
+            "pos": 7,
+            "name": "Luke Kornder",
+            "points": 78,
+            "team": "#136",
+            "flag": "🇩🇪"
+          },
+          {
+            "pos": 8,
+            "name": "Gilles Herman",
+            "points": 71,
+            "team": "#165",
+            "flag": "🇧🇪"
+          },
+          {
+            "pos": 9,
+            "name": "William Calleja",
+            "points": 63,
+            "team": "#105",
+            "flag": "🇦🇺"
+          },
+          {
+            "pos": 10,
+            "name": "Henry Domain",
+            "points": 59,
+            "team": "#110",
+            "flag": "🇬🇧"
+          }
+        ]
+      },
+      {
+        "className": "Junior",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Will Green",
+            "points": 182,
+            "team": "#204",
+            "flag": "🇬🇧"
+          },
+          {
+            "pos": 2,
+            "name": "Daniel Miron Lorente",
+            "points": 167,
+            "team": "#203",
+            "flag": "🇪🇸"
+          },
+          {
+            "pos": 3,
+            "name": "Gioele Girardello",
+            "points": 149,
+            "team": "#208",
+            "flag": "🇮🇹"
+          },
+          {
+            "pos": 4,
+            "name": "Many Nuvolini",
+            "points": 125,
+            "team": "#207",
+            "flag": "🇫🇷"
+          },
+          {
+            "pos": 5,
+            "name": "Oskari Walle",
+            "points": 96,
+            "team": "#222",
+            "flag": "🇫🇮"
+          },
+          {
+            "pos": 6,
+            "name": "Julian Frasnelli",
+            "points": 83,
+            "team": "#217",
+            "flag": "🇮🇹"
+          },
+          {
+            "pos": 7,
+            "name": "Priam Bruno",
+            "points": 76,
+            "team": "#231",
+            "flag": "🇧🇪"
+          },
+          {
+            "pos": 8,
+            "name": "Zdenek Babicek",
+            "points": 57,
+            "team": "#205",
+            "flag": "🇨🇿"
+          },
+          {
+            "pos": 9,
+            "name": "Antoine Sylva Venant",
+            "points": 54,
+            "team": "#227",
+            "flag": "🇧🇪"
+          },
+          {
+            "pos": 10,
+            "name": "Antonio Pizzonia",
+            "points": 52,
+            "team": "#202",
+            "flag": "🇮🇹"
+          }
+        ]
+      },
+      {
+        "className": "KZ",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Stan Pex",
+            "points": 88,
+            "team": "#6",
+            "flag": "🇳🇱"
+          },
+          {
+            "pos": 2,
+            "name": "Adrian Malheiro Suñe",
+            "points": 84,
+            "team": "#77",
+            "flag": "🇪🇸"
+          },
+          {
+            "pos": 3,
+            "name": "Danilo Albanese",
+            "points": 82,
+            "team": "#27",
+            "flag": "🇮🇹"
+          },
+          {
+            "pos": 4,
+            "name": "Daniel Vasile",
+            "points": 46,
+            "team": "#19",
+            "flag": "🇷🇴"
+          },
+          {
+            "pos": 5,
+            "name": "Viktor Gustafsson",
+            "points": 44,
+            "team": "#65",
+            "flag": "🇸🇪"
+          },
+          {
+            "pos": 6,
+            "name": "Maksim Orlov",
+            "points": 40,
+            "team": "#11",
+            "flag": "🏁"
+          },
+          {
+            "pos": 7,
+            "name": "Emilien Denner",
+            "points": 35,
+            "team": "#7",
+            "flag": "🇫🇷"
+          },
+          {
+            "pos": 8,
+            "name": "Pedro Hiltbrand",
+            "points": 30,
+            "team": "#59",
+            "flag": "🇪🇸"
+          },
+          {
+            "pos": 9,
+            "name": "Giuseppe Palomba",
+            "points": 29,
+            "team": "#5",
+            "flag": "🇮🇹"
+          },
+          {
+            "pos": 10,
+            "name": "Tom Leuillet",
+            "points": 29,
+            "team": "#33",
+            "flag": "🇫🇷"
+          }
+        ]
+      },
+      {
+        "className": "KZ2",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Elie Goldstein",
+            "points": 80,
+            "team": "#307",
+            "flag": "🇧🇪"
+          },
+          {
+            "pos": 2,
+            "name": "Arthur Lehouck",
+            "points": 77,
+            "team": "#306",
+            "flag": "🇫🇷"
+          },
+          {
+            "pos": 3,
+            "name": "Matheus Morgatto",
+            "points": 76,
+            "team": "#341",
+            "flag": "🇧🇷"
+          },
+          {
+            "pos": 4,
+            "name": "Maximilian Schleimer",
+            "points": 67,
+            "team": "#302",
+            "flag": "🇩🇪"
+          },
+          {
+            "pos": 5,
+            "name": "Kimi Tani",
+            "points": 61,
+            "team": "#326",
+            "flag": "🇫🇮"
+          },
+          {
+            "pos": 6,
+            "name": "Daniel Maciá",
+            "points": 49,
+            "team": "#311",
+            "flag": "🇪🇸"
+          },
+          {
+            "pos": 7,
+            "name": "Jayden Thien",
+            "points": 49,
+            "team": "#303",
+            "flag": "🇳🇱"
+          },
+          {
+            "pos": 8,
+            "name": "Genis Civico Espona",
+            "points": 44,
+            "team": "#317",
+            "flag": "🇪🇸"
+          },
+          {
+            "pos": 9,
+            "name": "Alois Girardet",
+            "points": 36,
+            "team": "#354",
+            "flag": "🇫🇷"
+          },
+          {
+            "pos": 10,
+            "name": "Jean Luyet",
+            "points": 25,
+            "team": "#315",
+            "flag": "🇨🇭"
+          }
+        ]
+      }
+    ],
     "agt4": [
       {
         "className": "Overall",

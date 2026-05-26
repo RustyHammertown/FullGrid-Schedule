@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T00:05:35.436Z",
+  "generatedAt": "2026-05-26T02:55:49.925Z",
   "categories": [
     {
       "id": "geography",
@@ -8,6 +8,7 @@
       "tags": [
         "global",
         "north-america",
+        "south-america",
         "europe",
         "asia-pacific",
         "australia"
@@ -56,6 +57,7 @@
         "esports",
         "stock-car",
         "open-wheel",
+        "karting",
         "rally",
         "sports-car",
         "touring-car"
@@ -146,6 +148,7 @@
     "esports": "eSports",
     "stock-car": "Stock Car",
     "open-wheel": "Open-Wheel",
+    "karting": "Karting",
     "rally": "Rally",
     "sports-car": "Sports Car",
     "touring-car": "Touring Car",
@@ -210,6 +213,7 @@
     "wsc": "WSC",
     "global": "Global",
     "north-america": "North America",
+    "south-america": "South America",
     "europe": "Europe",
     "asia-pacific": "Asia Pacific",
     "australia": "Australia",

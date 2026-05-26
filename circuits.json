@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T00:05:30.377Z",
+  "generatedAt": "2026-05-26T02:55:45.149Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2558,6 +2558,82 @@
       "region": "Wiltshire",
       "website": "https://www.castlecombecircuit.co.uk",
       "length_m": 2974
+    },
+    "World Circuit La Conca": {
+      "lat": 40.129178,
+      "lon": 18.35068,
+      "city": "Muro Leccese",
+      "region": "Apulia"
+    },
+    "Kartódromo Internacional Lucas Guerrero": {
+      "lat": 39.50662,
+      "lon": -0.74729,
+      "city": "Chiva",
+      "region": "Valencia"
+    },
+    "Karting Genk Horensbergdam": {
+      "lat": 50.987804,
+      "lon": 5.563636,
+      "city": "Genk",
+      "region": "Limburg"
+    },
+    "Motorsportarena Mülsen": {
+      "lat": 50.779444,
+      "lon": 12.543889,
+      "city": "Mülsen",
+      "region": "Saxony"
+    },
+    "Circuito Internazionale Napoli": {
+      "lat": 40.836417,
+      "lon": 14.566039,
+      "city": "Sarno",
+      "region": "Campania"
+    },
+    "Åsum Ring": {
+      "lat": 55.986137,
+      "lon": 14.122956,
+      "city": "Kristianstad",
+      "region": "Skåne"
+    },
+    "Le Mans Karting International": {
+      "lat": 47.940999,
+      "lon": 0.211472,
+      "city": "Le Mans",
+      "region": "Sarthe"
+    },
+    "Circuito Internazionale di Viterbo": {
+      "lat": 42.484608,
+      "lon": 12.070679,
+      "city": "Viterbo",
+      "region": "Lazio"
+    },
+    "Bahrain International Kart Circuit": {
+      "lat": 26.028859,
+      "lon": 50.507124,
+      "city": "Sakhir"
+    },
+    "Circuit of Macao – Coloane": {
+      "lat": 22.132406,
+      "lon": 113.561236,
+      "city": "Coloane"
+    },
+    "Zhuzhou International Karting Circuit": {
+      "lat": 27.819533,
+      "lon": 113.062008,
+      "city": "Zhuzhou",
+      "region": "Hunan"
+    },
+    "Madras International Karting Arena": {
+      "lat": 13.000594,
+      "lon": 79.990442,
+      "city": "Chennai",
+      "region": "Tamil Nadu"
+    },
+    "Kartódromo Internacional de Imperatriz": {
+      "lat": -5.544422,
+      "lon": -47.460278,
+      "city": "Imperatriz",
+      "region": "Maranhão"
     }
   }
 }

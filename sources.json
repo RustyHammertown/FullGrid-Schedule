@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T00:05:32.412Z",
+  "generatedAt": "2026-05-26T02:55:47.074Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1273,6 +1273,231 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/TTRacesOfficial"
+        }
+      ]
+    },
+    "fiakeuro": {
+      "schedule": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Per-event results (open an event → /<class>/results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiakarting.com/championship-standings",
+          "label": "Official championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiakarting.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.apex-timing.com/live-timing/fiakarting/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fia.karting.championship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/fiakarting"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fia.karting.championship.official/"
+        }
+      ]
+    },
+    "fiakwc": {
+      "schedule": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Per-event results (open an event → /<class>/results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiakarting.com/championship-standings",
+          "label": "Official championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiakarting.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.apex-timing.com/live-timing/fiakarting/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fia.karting.championship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/fiakarting"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fia.karting.championship.official/"
+        }
+      ]
+    },
+    "fiakwcup": {
+      "schedule": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Per-event results (open an event → /<class>/results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiakarting.com/championship-standings",
+          "label": "Official championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiakarting.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.apex-timing.com/live-timing/fiakarting/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fia.karting.championship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/fiakarting"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fia.karting.championship.official/"
+        }
+      ]
+    },
+    "fiakap": {
+      "schedule": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Per-event results (open an event → /<class>/results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiakarting.com/championship-standings",
+          "label": "Official championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiakarting.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.apex-timing.com/live-timing/fiakarting/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fia.karting.championship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/fiakarting"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fia.karting.championship.official/"
+        }
+      ]
+    },
+    "fiaksam": {
+      "schedule": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.fiakarting.com/competition-list",
+          "label": "Per-event results (open an event → /<class>/results)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.fiakarting.com/championship-standings",
+          "label": "Official championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fiakarting.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.apex-timing.com/live-timing/fiakarting/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fia.karting.championship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/fiakarting"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fia.karting.championship.official/"
         }
       ]
     },

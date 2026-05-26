@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-26T00:05:28.191Z",
+  "generatedAt": "2026-05-26T02:55:43.072Z",
   "events": [
     {
       "id": 101,
@@ -30959,6 +30959,525 @@
           "name": "Race 2",
           "time": "2026-10-19T12:00:00-05:00",
           "duration": 30
+        }
+      ]
+    },
+    {
+      "id": 5500,
+      "series": "fiakeuro",
+      "name": "FIA Karting European Championship — La Conca",
+      "circuit": "World Circuit La Conca",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "OK Free Practice",
+          "time": "2026-04-10T09:15:00+02:00",
+          "duration": 70
+        },
+        {
+          "name": "OK Qualifying",
+          "time": "2026-04-10T11:01:00+02:00",
+          "duration": 90,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results7.pdf"
+        },
+        {
+          "name": "OK Qualifying Heats",
+          "time": "2026-04-10T13:55:00+02:00",
+          "duration": 170,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results23.pdf"
+        },
+        {
+          "name": "OK Warm-up",
+          "time": "2026-04-11T09:13:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "OK Warm-up Super Heat",
+          "time": "2026-04-12T09:15:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "OK Super Heat A",
+          "time": "2026-04-12T10:30:00+02:00",
+          "laps": 16,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results29.pdf"
+        },
+        {
+          "name": "OK Super Heat B",
+          "time": "2026-04-12T11:20:00+02:00",
+          "laps": 16,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results30.pdf"
+        },
+        {
+          "name": "OK Final",
+          "time": "2026-04-12T14:05:00+02:00",
+          "laps": 24,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results32.pdf"
+        },
+        {
+          "name": "Junior Free Practice",
+          "time": "2026-04-10T09:00:00+02:00",
+          "duration": 70
+        },
+        {
+          "name": "Junior Qualifying",
+          "time": "2026-04-10T10:40:00+02:00",
+          "duration": 90,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results39.pdf"
+        },
+        {
+          "name": "Junior Qualifying Heats",
+          "time": "2026-04-10T14:15:00+02:00",
+          "duration": 185,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results55.pdf"
+        },
+        {
+          "name": "Junior Warm-up",
+          "time": "2026-04-11T09:00:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Junior Warm-up Super Heat",
+          "time": "2026-04-12T09:00:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "Junior Super Heat A",
+          "time": "2026-04-12T10:05:00+02:00",
+          "laps": 12,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results61.pdf"
+        },
+        {
+          "name": "Junior Super Heat B",
+          "time": "2026-04-12T10:55:00+02:00",
+          "laps": 12,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results62.pdf"
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-04-12T13:20:00+02:00",
+          "laps": 20,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results64.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5501,
+      "series": "fiakeuro",
+      "name": "FIA Karting European Championship — Chiva-Valencia",
+      "circuit": "Kartódromo Internacional Lucas Guerrero",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "OK Free Practice",
+          "time": "2026-05-08T09:30:00+02:00",
+          "duration": 95
+        },
+        {
+          "name": "OK Qualifying",
+          "time": "2026-05-08T12:09:00+02:00",
+          "duration": 66,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results63.pdf"
+        },
+        {
+          "name": "OK Qualifying Heats",
+          "time": "2026-05-08T15:15:00+02:00",
+          "duration": 235,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results82.pdf"
+        },
+        {
+          "name": "OK Warm-up",
+          "time": "2026-05-09T09:09:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "OK Warm-up Super Heat",
+          "time": "2026-05-10T09:15:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "OK Super Heat A",
+          "time": "2026-05-10T11:10:00+02:00",
+          "laps": 14,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results85.pdf"
+        },
+        {
+          "name": "OK Super Heat B",
+          "time": "2026-05-10T12:00:00+02:00",
+          "laps": 14,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results86.pdf"
+        },
+        {
+          "name": "OK Final",
+          "time": "2026-05-10T15:50:00+02:00",
+          "laps": 21,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results88.pdf"
+        },
+        {
+          "name": "Junior Free Practice",
+          "time": "2026-05-08T09:10:00+02:00",
+          "duration": 95
+        },
+        {
+          "name": "Junior Qualifying",
+          "time": "2026-05-08T11:54:00+02:00",
+          "duration": 66,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results95.pdf"
+        },
+        {
+          "name": "Junior Qualifying Heats",
+          "time": "2026-05-08T14:55:00+02:00",
+          "duration": 235,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results114.pdf"
+        },
+        {
+          "name": "Junior Warm-up",
+          "time": "2026-05-09T08:56:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Junior Warm-up Super Heat",
+          "time": "2026-05-10T09:00:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "Junior Super Heat A",
+          "time": "2026-05-10T10:45:00+02:00",
+          "laps": 11,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results117.pdf"
+        },
+        {
+          "name": "Junior Super Heat B",
+          "time": "2026-05-10T11:35:00+02:00",
+          "laps": 11,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results118.pdf"
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-05-10T14:50:00+02:00",
+          "laps": 18,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results120.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5502,
+      "series": "fiakeuro",
+      "name": "FIA Karting European Championship — Genk",
+      "circuit": "Karting Genk Horensbergdam",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "KZ Free Practice",
+          "time": "2026-05-22T09:40:00+02:00",
+          "duration": 135
+        },
+        {
+          "name": "KZ Qualifying",
+          "time": "2026-05-22T14:35:00+02:00",
+          "duration": 8
+        },
+        {
+          "name": "KZ Qualifying Heats",
+          "time": "2026-05-23T13:20:00+02:00",
+          "duration": 235,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz_results8.pdf"
+        },
+        {
+          "name": "KZ Warm-up",
+          "time": "2026-05-23T10:15:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "KZ Super Heat",
+          "time": "2026-05-24T11:35:00+02:00",
+          "laps": 15,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz_results10.pdf"
+        },
+        {
+          "name": "KZ Final",
+          "time": "2026-05-24T15:20:00+02:00",
+          "laps": 23,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz_results12.pdf"
+        },
+        {
+          "name": "KZ2 Free Practice",
+          "time": "2026-05-22T10:00:00+02:00",
+          "duration": 175
+        },
+        {
+          "name": "KZ2 Qualifying",
+          "time": "2026-05-22T14:50:00+02:00",
+          "duration": 36,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results26.pdf"
+        },
+        {
+          "name": "KZ2 Qualifying Heats",
+          "time": "2026-05-22T16:55:00+02:00",
+          "duration": 50,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results42.pdf"
+        },
+        {
+          "name": "KZ2 Warm-up",
+          "time": "2026-05-23T09:00:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "KZ2 Warm-up Super Heat",
+          "time": "2026-05-24T09:00:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "KZ2 Super Heat A",
+          "time": "2026-05-24T10:35:00+02:00",
+          "laps": 15,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results48.pdf"
+        },
+        {
+          "name": "KZ2 Super Heat B",
+          "time": "2026-05-24T11:05:00+02:00",
+          "laps": 15,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results49.pdf"
+        },
+        {
+          "name": "KZ2 Final",
+          "time": "2026-05-24T14:20:00+02:00",
+          "laps": 23,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results51.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5503,
+      "series": "fiakeuro",
+      "name": "FIA Karting European Championship — Mülsen",
+      "circuit": "Motorsportarena Mülsen",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "OK Final",
+          "time": "2026-06-14T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-06-14T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5504,
+      "series": "fiakeuro",
+      "name": "FIA Karting European Championship — Sarno",
+      "circuit": "Circuito Internazionale Napoli",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "KZ Final",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ2 Final",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5505,
+      "series": "fiakeuro",
+      "name": "FIA Karting European Championship — Kristianstad",
+      "circuit": "Åsum Ring",
+      "flag": "🇸🇪",
+      "country": "Sweden",
+      "tz": "Europe/Stockholm",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "OK Final",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5510,
+      "series": "fiakwc",
+      "name": "FIA Karting World Championship — Le Mans",
+      "circuit": "Le Mans Karting International",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "KZ Final",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ2 Final",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ2 Masters Final",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5511,
+      "series": "fiakwc",
+      "name": "FIA Karting World Championship — Bahrain",
+      "circuit": "Bahrain International Kart Circuit",
+      "flag": "🇧🇭",
+      "country": "Bahrain",
+      "tz": "Asia/Bahrain",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "OK Final",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5520,
+      "series": "fiakwcup",
+      "name": "FIA Karting World Cup — Viterbo",
+      "circuit": "Circuito Internazionale di Viterbo",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "OK-N Final",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK-NJ Final",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5530,
+      "series": "fiakap",
+      "name": "FIA Karting Asia-Pacific Championship — Macao",
+      "circuit": "Circuit of Macao – Coloane",
+      "flag": "🇲🇴",
+      "country": "Macao",
+      "tz": "Asia/Macau",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Senior Final",
+          "time": "2026-06-21T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-06-21T20:00:00+08:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5531,
+      "series": "fiakap",
+      "name": "FIA Karting Asia-Pacific Championship — Zhuzhou",
+      "circuit": "Zhuzhou International Karting Circuit",
+      "flag": "🇨🇳",
+      "country": "China",
+      "tz": "Asia/Shanghai",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Senior Final",
+          "time": "2026-07-26T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-07-26T20:00:00+08:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5532,
+      "series": "fiakap",
+      "name": "FIA Karting Asia-Pacific Championship — Madras",
+      "circuit": "Madras International Karting Arena",
+      "flag": "🇮🇳",
+      "country": "India",
+      "tz": "Asia/Kolkata",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Senior Final",
+          "time": "2026-09-13T17:30:00+05:30",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-09-13T17:30:00+05:30",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5540,
+      "series": "fiaksam",
+      "name": "FIA Karting South American Championship — Imperatriz",
+      "circuit": "Kartódromo Internacional de Imperatriz",
+      "flag": "🇧🇷",
+      "country": "Brazil",
+      "tz": "America/Fortaleza",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Senior Final",
+          "time": "2026-10-04T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Final",
+          "time": "2026-10-04T09:00:00-03:00",
+          "tbd": true
         }
       ]
     },
