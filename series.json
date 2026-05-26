@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-25T23:58:22.962Z",
+  "generatedAt": "2026-05-26T00:05:31.394Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1619,7 +1619,8 @@
         "Global": "TT+"
       },
       "streamUrl": "https://ttplus.iomttraces.com/browse",
-      "resultsUrl": "https://www.iomttraces.com/racing/page/2026-results/"
+      "resultsUrl": "https://www.iomttraces.com/racing/page/2026-results/",
+      "classGrid": true
     },
     "bmwm2": {
       "id": "bmwm2",
@@ -2000,6 +2001,7 @@
       ],
       "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://svra.com/race-results/",
+      "classGrid": true,
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -2029,6 +2031,7 @@
       ],
       "streamUrl": "https://www.youtube.com/@imsaofficial/streams",
       "resultsUrl": "https://www.hsrrace.com/results/",
+      "classGrid": true,
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -2058,6 +2061,7 @@
       ],
       "streamUrl": "https://www.youtube.com/@TheTransAmSeries/streams",
       "resultsUrl": "https://www.gotransam.com/standings/",
+      "classGrid": true,
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -2142,6 +2146,7 @@
       ],
       "streamUrl": "https://www.youtube.com/@peterautoracing/streams",
       "resultsUrl": "http://lemansclassicseries.alkamelsystems.com/",
+      "classGrid": true,
       "unstreamedCategories": [
         "Practice"
       ]
