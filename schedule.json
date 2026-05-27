@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T22:16:33.830Z",
+  "generatedAt": "2026-05-27T23:02:19.717Z",
   "events": [
     {
       "id": 101,
@@ -4056,16 +4056,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -4096,9 +4086,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-06-20T15:00:00+02:00",
-          "laps": 10,
+          "name": "Warmup",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4106,9 +4096,9 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-06-21T14:00:00+02:00",
-          "tbd": true,
+          "name": "Sprint",
+          "time": "2026-06-20T15:00:00+02:00",
+          "laps": 10,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4199,16 +4189,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-06-27T14:00:00+02:00",
           "tbd": true,
@@ -4239,9 +4219,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-06-27T15:00:00+02:00",
-          "laps": 13,
+          "name": "Warmup",
+          "time": "2026-06-28T14:00:00+02:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4249,9 +4229,9 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true,
+          "name": "Sprint",
+          "time": "2026-06-27T15:00:00+02:00",
+          "laps": 13,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4342,16 +4322,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-07-10T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-07-11T14:00:00+02:00",
           "tbd": true,
@@ -4382,9 +4352,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-07-11T15:00:00+02:00",
-          "laps": 15,
+          "name": "Warmup",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4392,9 +4362,9 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-07-12T14:00:00+02:00",
-          "tbd": true,
+          "name": "Sprint",
+          "time": "2026-07-11T15:00:00+02:00",
+          "laps": 15,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4485,16 +4455,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-08-07T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-08-08T13:00:00+01:00",
           "tbd": true,
@@ -4525,9 +4485,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-08-08T16:00:00+01:00",
-          "laps": 10,
+          "name": "Warmup",
+          "time": "2026-08-09T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4535,9 +4495,9 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-08-09T13:00:00+01:00",
-          "tbd": true,
+          "name": "Sprint",
+          "time": "2026-08-08T16:00:00+01:00",
+          "laps": 10,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4628,16 +4588,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-08-28T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
@@ -4668,9 +4618,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-08-29T15:00:00+02:00",
-          "laps": 11,
+          "name": "Warmup",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4678,9 +4628,9 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-08-30T14:00:00+02:00",
-          "tbd": true,
+          "name": "Sprint",
+          "time": "2026-08-29T15:00:00+02:00",
+          "laps": 11,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4771,16 +4721,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-09-11T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -4811,9 +4751,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-09-12T15:00:00+02:00",
-          "laps": 13,
+          "name": "Warmup",
+          "time": "2026-09-13T14:00:00+02:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4821,9 +4761,9 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-09-13T14:00:00+02:00",
-          "tbd": true,
+          "name": "Sprint",
+          "time": "2026-09-12T15:00:00+02:00",
+          "laps": 13,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4914,16 +4854,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-09-18T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true,
@@ -4954,10 +4884,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-09-19T14:00:00+02:00",
+          "name": "Warmup",
+          "time": "2026-09-20T14:00:00+02:00",
           "tbd": true,
-          "laps": 14,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -4965,9 +4894,10 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-09-20T14:00:00+02:00",
+          "name": "Sprint",
+          "time": "2026-09-19T14:00:00+02:00",
           "tbd": true,
+          "laps": 14,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5059,16 +4989,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-10-02T21:00:00+09:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
@@ -5099,10 +5019,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-10-03T21:00:00+09:00",
+          "name": "Warmup",
+          "time": "2026-10-04T21:00:00+09:00",
           "tbd": true,
-          "laps": 12,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5110,9 +5029,10 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-10-04T21:00:00+09:00",
+          "name": "Sprint",
+          "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
+          "laps": 12,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5204,16 +5124,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-10-30T20:00:00+08:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-10-31T20:00:00+08:00",
           "tbd": true,
@@ -5244,10 +5154,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-10-31T20:00:00+08:00",
+          "name": "Warmup",
+          "time": "2026-11-01T20:00:00+08:00",
           "tbd": true,
-          "laps": 10,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5255,9 +5164,10 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-11-01T20:00:00+08:00",
+          "name": "Sprint",
+          "time": "2026-10-31T20:00:00+08:00",
           "tbd": true,
+          "laps": 10,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5349,16 +5259,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-11-06T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
@@ -5389,10 +5289,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-11-07T15:00:00+03:00",
+          "name": "Warmup",
+          "time": "2026-11-08T15:00:00+03:00",
           "tbd": true,
-          "laps": 11,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5400,9 +5299,10 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-11-08T15:00:00+03:00",
+          "name": "Sprint",
+          "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
+          "laps": 11,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5494,16 +5394,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-11-27T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-11-28T13:00:00+01:00",
           "tbd": true,
@@ -5534,10 +5424,9 @@
           }
         },
         {
-          "name": "Sprint",
-          "time": "2026-11-28T13:00:00+01:00",
+          "name": "Warmup",
+          "time": "2026-11-29T13:00:00+01:00",
           "tbd": true,
-          "laps": 13,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -5545,9 +5434,10 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-11-29T13:00:00+01:00",
+          "name": "Sprint",
+          "time": "2026-11-28T13:00:00+01:00",
           "tbd": true,
+          "laps": 13,
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP+"
@@ -6378,16 +6268,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -6492,16 +6372,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-06-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
@@ -6624,16 +6494,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-07-10T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-07-11T14:00:00+02:00",
           "tbd": true,
@@ -6738,16 +6598,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-08-07T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-08-07T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
@@ -6870,16 +6720,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-08-28T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
@@ -6993,16 +6833,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-09-11T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -7107,16 +6937,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-09-18T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-09-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
@@ -7240,16 +7060,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-10-02T21:00:00+09:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
@@ -7355,16 +7165,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-10-30T20:00:00+08:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-10-30T20:00:00+08:00",
           "tbd": true,
           "broadcasts": {
@@ -7488,16 +7288,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-11-06T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
@@ -7603,16 +7393,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-11-27T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-11-27T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
@@ -8475,16 +8255,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -8589,16 +8359,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-06-26T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
@@ -8721,16 +8481,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-07-10T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-07-11T14:00:00+02:00",
           "tbd": true,
@@ -8835,16 +8585,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-08-07T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-08-07T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
@@ -8967,16 +8707,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-08-28T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
@@ -9090,16 +8820,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-09-11T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -9204,16 +8924,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-09-18T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-09-18T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
@@ -9337,16 +9047,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-10-02T21:00:00+09:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
@@ -9452,16 +9152,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-10-30T20:00:00+08:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-10-30T20:00:00+08:00",
           "tbd": true,
           "broadcasts": {
@@ -9585,16 +9275,6 @@
           }
         },
         {
-          "name": "Practice",
-          "time": "2026-11-06T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
           "name": "Practice 2",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
@@ -9700,16 +9380,6 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-11-27T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "FS1 / MotoGP+"
-            }
-          }
-        },
-        {
-          "name": "Practice",
           "time": "2026-11-27T13:00:00+01:00",
           "tbd": true,
           "broadcasts": {
@@ -10880,7 +10550,12 @@
       "round": 9,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-06-07T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-06-07T07:00:00-05:00",
           "tbd": true
         },
@@ -11093,7 +10768,12 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-05T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-05T08:00:00-04:00",
           "tbd": true
         },
@@ -11187,7 +10867,12 @@
       "round": 12,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-19T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-19T07:00:00-05:00",
           "tbd": true
         },
@@ -11282,7 +10967,12 @@
       "round": 13,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-09T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-09T05:00:00-07:00",
           "tbd": true
         },
@@ -11376,7 +11066,12 @@
       "round": 14,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-16T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-16T08:00:00-04:00",
           "tbd": true
         },
@@ -11470,7 +11165,12 @@
       "round": 15,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-23T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-23T08:00:00-04:00",
           "tbd": true
         },
@@ -11565,7 +11265,12 @@
       "round": 16,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-29T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true
         },
@@ -11659,7 +11364,12 @@
       "round": 17,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-30T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-30T07:00:00-05:00",
           "tbd": true
         },
@@ -11753,7 +11463,12 @@
       "round": 18,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-09-06T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-09-06T05:00:00-07:00",
           "tbd": true
         },
@@ -19140,6 +18855,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-06T13:50:00-04:00",
           "duration": 45,
@@ -19172,6 +18902,21 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-26T13:50:00-04:00",
           "duration": 45,
@@ -19203,6 +18948,21 @@
       "tz": "America/New_York",
       "round": 5,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-22T09:20:00-04:00",
@@ -19381,7 +19141,17 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true
         },
@@ -19416,7 +19186,17 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-29T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-29T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true
         },
@@ -19451,7 +19231,17 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-09-26T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-26T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
           "time": "2026-09-26T07:00:00-05:00",
           "tbd": true
         },
@@ -19486,7 +19276,17 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-10-10T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-10T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true
         },
@@ -19779,6 +19579,16 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Sprint Race",
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
@@ -19844,6 +19654,16 @@
       "tz": "Europe/Madrid",
       "round": 5,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Sprint Race",
           "time": "2026-06-13T14:00:00+02:00",
@@ -19911,6 +19731,16 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Sprint Race",
           "time": "2026-06-27T14:00:00+02:00",
           "tbd": true,
@@ -19976,6 +19806,16 @@
       "tz": "Europe/London",
       "round": 7,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-04T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T13:00:00+01:00",
+          "tbd": true
+        },
         {
           "name": "Sprint Race",
           "time": "2026-07-04T13:00:00+01:00",
@@ -20043,6 +19883,16 @@
       "round": 8,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Sprint Race",
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
@@ -20108,6 +19958,16 @@
       "tz": "Europe/Budapest",
       "round": 9,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Sprint Race",
           "time": "2026-07-25T14:00:00+02:00",
@@ -20175,6 +20035,16 @@
       "round": 10,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Sprint Race",
           "time": "2026-09-05T14:00:00+02:00",
           "tbd": true,
@@ -20240,6 +20110,16 @@
       "tz": "Europe/Madrid",
       "round": 11,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Sprint Race",
           "time": "2026-09-12T14:00:00+02:00",
@@ -20307,6 +20187,16 @@
       "round": 12,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-09-25T16:00:00+04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-25T16:00:00+04:00",
+          "tbd": true
+        },
+        {
           "name": "Sprint Race",
           "time": "2026-09-25T16:00:00+04:00",
           "tbd": true,
@@ -20373,6 +20263,16 @@
       "round": 13,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-11-28T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-28T15:00:00+03:00",
+          "tbd": true
+        },
+        {
           "name": "Sprint Race",
           "time": "2026-11-28T15:00:00+03:00",
           "tbd": true,
@@ -20438,6 +20338,16 @@
       "tz": "Asia/Dubai",
       "round": 14,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-12-05T16:00:00+04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-12-05T16:00:00+04:00",
+          "tbd": true
+        },
         {
           "name": "Sprint Race",
           "time": "2026-12-05T16:00:00+04:00",
@@ -22201,7 +22111,12 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-06-20T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-06-20T20:00:00+08:00",
           "tbd": true
         },
@@ -22284,7 +22199,12 @@
       "round": 12,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-04T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-04T20:00:00+08:00",
           "tbd": true
         },
@@ -22367,7 +22287,12 @@
       "round": 13,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-05T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-05T20:00:00+08:00",
           "tbd": true
         },
@@ -22450,7 +22375,12 @@
       "round": 14,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-25T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-25T21:00:00+09:00",
           "tbd": true
         },
@@ -22533,7 +22463,12 @@
       "round": 15,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-26T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-26T21:00:00+09:00",
           "tbd": true
         },
@@ -22616,7 +22551,12 @@
       "round": 16,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-15T13:00:00+01:00",
           "tbd": true
         },
@@ -22699,7 +22639,12 @@
       "round": 17,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-16T13:00:00+01:00",
           "tbd": true
         },
@@ -23064,6 +23009,41 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole LMGT3",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying HYPERCAR",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole HYPERCAR",
+          "time": "2026-06-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-06-13T16:00:00+02:00",
           "duration": 1440,
@@ -23127,6 +23107,41 @@
       "tz": "America/Sao_Paulo",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole LMGT3",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying HYPERCAR",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole HYPERCAR",
+          "time": "2026-07-12T09:00:00-03:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-07-12T11:30:00-03:00",
@@ -23192,6 +23207,41 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole LMGT3",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying HYPERCAR",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole HYPERCAR",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-09-06T13:00:00-05:00",
           "duration": 360,
@@ -23255,6 +23305,41 @@
       "tz": "Asia/Tokyo",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole LMGT3",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying HYPERCAR",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole HYPERCAR",
+          "time": "2026-09-27T21:00:00+09:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-09-27T11:00:00+09:00",
@@ -23320,6 +23405,41 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole LMGT3",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying HYPERCAR",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole HYPERCAR",
+          "time": "2026-10-24T15:00:00+03:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-10-24T13:00:00+03:00",
           "duration": 600,
@@ -23383,6 +23503,41 @@
       "tz": "Asia/Bahrain",
       "round": 8,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole LMGT3",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying HYPERCAR",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Hyperpole HYPERCAR",
+          "time": "2026-11-07T15:00:00+03:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-11-07T14:00:00+03:00",
@@ -28062,6 +28217,21 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-06T08:00:00-04:00",
           "tbd": true,
@@ -28108,6 +28278,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-27T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-27T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-27T09:00:00-03:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-06-27T09:00:00-03:00",
           "tbd": true,
@@ -28136,6 +28321,21 @@
       "tz": "America/Toronto",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-04T08:00:00-04:00",
@@ -28183,6 +28383,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-07-19T08:00:00-04:00",
           "tbd": true,
@@ -28211,6 +28426,21 @@
       "tz": "America/Edmonton",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-25T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-25T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T06:00:00-06:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-25T06:00:00-06:00",
@@ -28258,6 +28488,21 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-09T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-09T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-09T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-08-09T08:00:00-04:00",
           "tbd": true,
@@ -28286,6 +28531,21 @@
       "tz": "America/Toronto",
       "round": 8,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-15T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-08-15T08:00:00-04:00",
@@ -28316,6 +28576,21 @@
       "round": 9,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-08-29T08:00:00-04:00",
           "tbd": true,
@@ -28345,6 +28620,21 @@
       "round": 10,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-09-06T08:00:00-04:00",
           "tbd": true,
@@ -28373,6 +28663,21 @@
       "tz": "America/Toronto",
       "round": 11,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-09-12T08:00:00-04:00",
@@ -32316,6 +32621,11 @@
       "country": "Canada",
       "tz": "America/Toronto",
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Qualifying",
           "time": "2026-09-05T08:00:00-04:00",
@@ -37319,7 +37629,12 @@
       "round": 10,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-06-28T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-06-28T08:00:00-04:00",
           "tbd": true
         },
@@ -37391,7 +37706,12 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-07-19T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-07-19T05:00:00-07:00",
           "tbd": true
         },
@@ -37463,7 +37783,12 @@
       "round": 12,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-07-26T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-07-26T05:00:00-07:00",
           "tbd": true
         },
@@ -37535,7 +37860,12 @@
       "round": 13,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-08-23T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-08-23T07:00:00-05:00",
           "tbd": true
         },
@@ -37608,7 +37938,12 @@
       "round": 14,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-09-07T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-09-07T08:00:00-04:00",
           "tbd": true
         },
@@ -37680,7 +38015,12 @@
       "round": 15,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-09-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-09-20T08:00:00-04:00",
           "tbd": true
         },
@@ -37752,7 +38092,12 @@
       "round": 16,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-09-27T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-09-27T08:00:00-04:00",
           "tbd": true
         },
@@ -37824,7 +38169,12 @@
       "round": 17,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-10-04T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-10-04T07:00:00-05:00",
           "tbd": true
         },
@@ -37897,7 +38247,12 @@
       "round": 18,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-10-18T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-10-18T07:00:00-05:00",
           "tbd": true
         },
@@ -37970,7 +38325,12 @@
       "round": 19,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-11-01T04:00:00-08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-11-01T04:00:00-08:00",
           "tbd": true
         },
@@ -38042,7 +38402,12 @@
       "round": 20,
       "sessions": [
         {
-          "name": "Qualifying",
+          "name": "Qualifying Day 1",
+          "time": "2026-11-15T04:00:00-08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying Day 2",
           "time": "2026-11-15T04:00:00-08:00",
           "tbd": true
         },
@@ -39177,12 +39542,32 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true
         },
         {
-          "name": "Qualifying",
+          "name": "Practice 2",
+          "time": "2026-08-23T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-08-23T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP3",
+          "time": "2026-08-23T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP2 Pro/Am",
+          "time": "2026-08-23T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP2",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true
         },
@@ -39233,12 +39618,32 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying",
+          "name": "Practice 2",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP3",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP2 Pro/Am",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP2",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
@@ -39289,12 +39694,32 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
           "time": "2026-10-10T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying",
+          "name": "Practice 2",
+          "time": "2026-10-10T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMGT3",
+          "time": "2026-10-10T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP3",
+          "time": "2026-10-10T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP2 Pro/Am",
+          "time": "2026-10-10T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying LMP2",
           "time": "2026-10-10T13:00:00+01:00",
           "tbd": true
         },
@@ -39449,6 +39874,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-13T22:00:00+10:00",
           "tbd": true,
@@ -39480,6 +39920,21 @@
       "tz": "Australia/Darwin",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-25T21:30:00+09:30",
@@ -39513,6 +39968,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-19T22:00:00+10:00",
           "tbd": true,
@@ -39544,6 +40014,21 @@
       "tz": "Australia/Adelaide",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-28T22:30:00+10:30",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-28T22:30:00+10:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-28T22:30:00+10:30",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-11-28T22:30:00+10:30",
@@ -42882,6 +43367,11 @@
           "tbd": true
         },
         {
+          "name": "Pre-Qualifying",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
@@ -42939,6 +43429,11 @@
           "tbd": true
         },
         {
+          "name": "Pre-Qualifying",
+          "time": "2026-08-29T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
@@ -42992,6 +43487,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-10-03T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
           "time": "2026-10-03T20:00:00+08:00",
           "tbd": true
         },
@@ -43636,6 +44136,31 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -43787,6 +44312,31 @@
       "tz": "Europe/Berlin",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
@@ -43940,6 +44490,31 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-25T14:00:00+02:00",
           "tbd": true,
@@ -44091,6 +44666,31 @@
       "tz": "Europe/Berlin",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-15T14:00:00+02:00",
@@ -44244,6 +44844,31 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -44395,6 +45020,31 @@
       "tz": "Europe/Berlin",
       "round": 8,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-10T14:00:00+02:00",
@@ -44708,6 +45358,26 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -44745,6 +45415,26 @@
       "tz": "Europe/Berlin",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-11T14:00:00+02:00",
@@ -44784,6 +45474,26 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-05T14:00:00+02:00",
           "tbd": true,
@@ -44821,6 +45531,26 @@
       "tz": "Europe/Berlin",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-10T14:00:00+02:00",
@@ -44940,6 +45670,26 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true,
@@ -44977,6 +45727,26 @@
       "tz": "Europe/Berlin",
       "round": 3,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-25T14:00:00+02:00",
@@ -45016,6 +45786,26 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-08-15T14:00:00+02:00",
           "tbd": true,
@@ -45054,6 +45844,26 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -45091,6 +45901,26 @@
       "tz": "Europe/Berlin",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-10T14:00:00+02:00",
@@ -45685,6 +46515,11 @@
           "tbd": true
         },
         {
+          "name": "Pre-Qualifying",
+          "time": "2026-07-10T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
@@ -45742,6 +46577,11 @@
           "tbd": true
         },
         {
+          "name": "Pre-Qualifying",
+          "time": "2026-08-28T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
@@ -45795,6 +46635,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-09-11T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
           "time": "2026-09-11T21:00:00+09:00",
           "tbd": true
         },
@@ -45975,14 +46820,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -46027,14 +46872,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-08-01T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -46079,14 +46924,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-10-10T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -46302,14 +47147,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-06-13T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-06-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-12T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -46360,14 +47205,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-08-29T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-08-28T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-28T07:00:00-05:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -46418,14 +47263,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-09-26T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-09-25T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-25T07:00:00-05:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -46476,14 +47321,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-10-10T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-10-08T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-08T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -47466,14 +48311,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -47538,14 +48383,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-08-01T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -47610,14 +48455,14 @@
           "tbd": true
         },
         {
-          "name": "Qualifying",
-          "time": "2026-10-10T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "name": "Qualifying 1",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -48302,6 +49147,16 @@
           }
         },
         {
+          "name": "Qualifying 2",
+          "time": "2026-06-14T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-13T08:00:00-04:00",
           "tbd": true,
@@ -48309,16 +49164,6 @@
             "US": {
               "service": "FS1 / YouTube/GTWorld"
             },
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-06-14T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
             }
@@ -48370,6 +49215,16 @@
           }
         },
         {
+          "name": "Qualifying 2",
+          "time": "2026-08-30T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
           "name": "Race 1",
           "time": "2026-08-29T07:00:00-05:00",
           "tbd": true,
@@ -48377,16 +49232,6 @@
             "US": {
               "service": "FS1 / YouTube/GTWorld"
             },
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-08-30T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
             }
@@ -48438,6 +49283,16 @@
           }
         },
         {
+          "name": "Qualifying 2",
+          "time": "2026-09-27T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-26T07:00:00-05:00",
           "tbd": true,
@@ -48445,16 +49300,6 @@
             "US": {
               "service": "FS1 / YouTube/GTWorld"
             },
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-09-27T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
             }
@@ -48506,6 +49351,16 @@
           }
         },
         {
+          "name": "Qualifying 2",
+          "time": "2026-10-11T08:00:00-04:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
           "name": "Race 1",
           "time": "2026-10-10T08:00:00-04:00",
           "tbd": true,
@@ -48513,16 +49368,6 @@
             "US": {
               "service": "FS1 / YouTube/GTWorld"
             },
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-10-11T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
             }
@@ -49826,14 +50671,34 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-06-13T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -49848,14 +50713,34 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-06-27T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -49870,14 +50755,34 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-07-18T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -49892,14 +50797,34 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-09-19T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -49914,14 +50839,34 @@
       "round": 8,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-10-03T05:00:00-07:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-10-03T05:00:00-07:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -49936,14 +50881,34 @@
       "round": 9,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-10-17T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -49958,14 +50923,34 @@
       "round": 10,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 1",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 2",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-11-07T06:00:00-06:00",
+          "tbd": true
+        },
+        {
           "name": "Enduro",
           "time": "2026-11-07T06:00:00-06:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         }
       ]
     },
@@ -50094,22 +51079,17 @@
         {
           "name": "Sprint Race 1",
           "time": "2026-07-18T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
         },
         {
           "name": "Sprint Race 2",
           "time": "2026-07-18T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/TheTransAmSeries"
-            }
-          }
+          "tbd": true
+        },
+        {
+          "name": "Sprint Race 3",
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
         }
       ]
     },
@@ -55695,6 +56675,11 @@
           "tbd": true
         },
         {
+          "name": "Free Practice 3",
+          "time": "2026-06-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-06-26T14:00:00+02:00",
           "tbd": true,
@@ -55703,6 +56688,11 @@
               "service": "YouTube/GTWorld"
             }
           }
+        },
+        {
+          "name": "Free Practice 4",
+          "time": "2026-06-25T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Qualifying 2",
@@ -55757,6 +56747,11 @@
           "tbd": true
         },
         {
+          "name": "Free Practice 3",
+          "time": "2026-07-17T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
@@ -55765,6 +56760,11 @@
               "service": "YouTube/GTWorld"
             }
           }
+        },
+        {
+          "name": "Free Practice 4",
+          "time": "2026-07-17T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Qualifying 2",
@@ -55819,6 +56819,11 @@
           "tbd": true
         },
         {
+          "name": "Free Practice 3",
+          "time": "2026-10-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
@@ -55827,6 +56832,11 @@
               "service": "YouTube/GTWorld"
             }
           }
+        },
+        {
+          "name": "Free Practice 4",
+          "time": "2026-10-02T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Qualifying 2",
@@ -55881,6 +56891,11 @@
           "tbd": true
         },
         {
+          "name": "Free Practice 3",
+          "time": "2026-10-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying 1",
           "time": "2026-10-17T13:00:00+01:00",
           "tbd": true,
@@ -55889,6 +56904,11 @@
               "service": "YouTube/GTWorld"
             }
           }
+        },
+        {
+          "name": "Free Practice 4",
+          "time": "2026-10-16T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Qualifying 2",
@@ -56012,6 +57032,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-26T14:00:00+02:00",
           "tbd": true,
@@ -56043,6 +57078,21 @@
       "tz": "Europe/Berlin",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-29T14:00:00+02:00",
@@ -56076,6 +57126,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-10-03T14:00:00+02:00",
           "tbd": true,
@@ -56107,6 +57172,21 @@
       "tz": "Europe/Rome",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-22T14:00:00+02:00",
@@ -56219,6 +57299,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T21:00:00+09:00",
           "tbd": true,
@@ -56250,6 +57345,21 @@
       "tz": "Asia/Seoul",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-17T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-17T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-17T21:00:00+09:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-17T21:00:00+09:00",
@@ -56283,6 +57393,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-09-05T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-05T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T20:00:00+08:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-05T20:00:00+08:00",
           "tbd": true,
@@ -56314,6 +57439,21 @@
       "tz": "Europe/Rome",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-22T14:00:00+02:00",
@@ -56623,6 +57763,26 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-13T22:00:00+10:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-13T22:00:00+10:00",
           "tbd": true,
@@ -56654,6 +57814,26 @@
       "tz": "Australia/Darwin",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-25T21:30:00+09:30",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-25T21:30:00+09:30",
@@ -56687,6 +57867,26 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-19T22:00:00+10:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-19T22:00:00+10:00",
           "tbd": true,
@@ -56718,6 +57918,26 @@
       "tz": "Australia/Melbourne",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-31T23:00:00+11:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-31T23:00:00+11:00",
@@ -57353,6 +58573,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T08:00:00-04:00",
           "tbd": true,
@@ -57385,6 +58620,21 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-08-15T07:00:00-05:00",
           "tbd": true,
@@ -57416,6 +58666,21 @@
       "tz": "America/New_York",
       "round": 7,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-09-12T08:00:00-04:00",
@@ -57607,6 +58872,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-08-15T07:00:00-05:00",
           "tbd": true,
@@ -57638,6 +58918,21 @@
       "tz": "America/Los_Angeles",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-05T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-05T05:00:00-07:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T05:00:00-07:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-09-05T05:00:00-07:00",
@@ -61666,14 +62961,19 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-06-21T13:00:00+01:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/MINIChallengeUK"
-            }
-          }
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-21T13:00:00+01:00",
+          "tbd": true
         }
       ]
     },
@@ -61949,14 +63249,19 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-11-01T12:00:00+00:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/MINIChallengeUK"
-            }
-          }
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-11-01T12:00:00+00:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-11-01T12:00:00+00:00",
+          "tbd": true
         }
       ]
     },
@@ -62025,7 +63330,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-07-18T13:00:00+01:00",
           "tbd": true
         }
@@ -62111,7 +63426,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-08-29T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-29T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-08-29T13:00:00+01:00",
           "tbd": true
         }
@@ -62133,7 +63458,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         }
@@ -62268,7 +63603,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-06-20T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-20T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-06-20T13:00:00+01:00",
           "tbd": true
         }
@@ -62290,7 +63635,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-07-18T13:00:00+01:00",
           "tbd": true
         }
@@ -62312,7 +63667,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-08-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-08-16T13:00:00+01:00",
           "tbd": true
         }
@@ -62334,7 +63699,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-08-29T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-29T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-08-29T13:00:00+01:00",
           "tbd": true
         }
@@ -62356,7 +63731,17 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         }
@@ -62407,7 +63792,17 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-06-14T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-14T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-06-14T13:00:00+01:00",
           "tbd": true
         }
@@ -62451,7 +63846,17 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-08-23T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-23T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-08-23T13:00:00+01:00",
           "tbd": true
         }
@@ -62468,7 +63873,17 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         }
@@ -62485,7 +63900,17 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-10-11T13:00:00+01:00",
           "tbd": true
         }
@@ -62536,7 +63961,17 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-06-14T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-14T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-06-14T13:00:00+01:00",
           "tbd": true
         }
@@ -62580,7 +64015,17 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-08-23T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-23T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-08-23T13:00:00+01:00",
           "tbd": true
         }
@@ -62597,7 +64042,17 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         }
@@ -62614,7 +64069,17 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
           "time": "2026-10-11T13:00:00+01:00",
           "tbd": true
         }
@@ -62712,7 +64177,37 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Free Practice",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-06-07T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-06-07T13:00:00+01:00",
           "tbd": true
         }
@@ -62729,7 +64224,37 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Free Practice",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-07-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-07-26T13:00:00+01:00",
           "tbd": true
         }
@@ -62746,7 +64271,37 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Free Practice",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-08-22T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-08-22T13:00:00+01:00",
           "tbd": true
         }
@@ -62763,7 +64318,37 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Free Practice",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-09-27T13:00:00+01:00",
           "tbd": true
         }
@@ -62886,12 +64471,37 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Free Practice",
           "time": "2026-07-12T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-07-12T13:00:00+01:00",
           "tbd": true
         }
@@ -62908,12 +64518,37 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Free Practice",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         }
@@ -62930,12 +64565,37 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Free Practice",
           "time": "2026-10-11T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 5",
+          "time": "2026-10-11T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 6",
           "time": "2026-10-11T13:00:00+01:00",
           "tbd": true
         }
@@ -63018,7 +64678,22 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-07-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-07-05T13:00:00+01:00",
           "tbd": true
         }
@@ -63035,7 +64710,22 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-08-02T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-02T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-02T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-08-02T13:00:00+01:00",
           "tbd": true
         }
@@ -63052,7 +64742,22 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-13T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         }
@@ -63069,7 +64774,22 @@
       "round": 8,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Qualifying",
+          "time": "2026-10-04T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-04T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-04T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-10-04T13:00:00+01:00",
           "tbd": true
         }
@@ -63552,6 +65272,26 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
@@ -63583,6 +65323,26 @@
       "tz": "Europe/Budapest",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
@@ -63616,6 +65376,26 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
@@ -63647,6 +65427,26 @@
       "tz": "Europe/Berlin",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-09-12T14:00:00+02:00",
@@ -63680,6 +65480,26 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-09-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-09-27T14:00:00+02:00",
           "tbd": true,
@@ -63701,6 +65521,26 @@
       "tz": "Europe/Madrid",
       "round": 8,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-24T14:00:00+02:00",
@@ -63848,6 +65688,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
@@ -63889,6 +65744,21 @@
       "tz": "Europe/Budapest",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
@@ -63932,6 +65802,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-18T14:00:00+02:00",
           "tbd": true,
@@ -63973,6 +65858,21 @@
       "tz": "Europe/Berlin",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-09-12T14:00:00+02:00",
@@ -64016,6 +65916,21 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-26T14:00:00+02:00",
           "tbd": true,
@@ -64057,6 +65972,21 @@
       "tz": "Europe/Madrid",
       "round": 8,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-24T14:00:00+02:00",
@@ -64204,6 +66134,26 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-06T14:00:00+02:00",
           "tbd": true,
@@ -64235,6 +66185,26 @@
       "tz": "Europe/Paris",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-18T14:00:00+02:00",
@@ -64268,6 +66238,26 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-26T14:00:00+02:00",
           "tbd": true,
@@ -64299,6 +66289,26 @@
       "tz": "Europe/Madrid",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-24T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-24T14:00:00+02:00",
@@ -64500,6 +66510,16 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -64531,6 +66551,16 @@
       "tz": "Europe/Berlin",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
@@ -64564,6 +66594,16 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-08-15T14:00:00+02:00",
           "tbd": true,
@@ -64595,6 +66635,16 @@
       "tz": "Europe/Berlin",
       "round": 8,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-10T14:00:00+02:00",
@@ -64737,26 +66787,34 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-13T08:00:00-04:00",
-          "tbd": true,
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/F4USChampionship"
-            }
-          }
+          "tbd": true
         },
         {
           "name": "Race 2",
-          "time": "2026-06-14T08:00:00-04:00",
-          "tbd": true,
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/F4USChampionship"
-            }
-          }
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-13T08:00:00-04:00",
+          "tbd": true
         }
       ]
     },
@@ -64770,6 +66828,21 @@
       "tz": "America/New_York",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-01T08:00:00-04:00",
@@ -64816,6 +66889,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-05T08:00:00-04:00",
           "tbd": true,
@@ -64861,26 +66949,34 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-19T08:00:00-04:00",
-          "tbd": true,
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/F4USChampionship"
-            }
-          }
+          "tbd": true
         },
         {
           "name": "Race 2",
-          "time": "2026-09-20T08:00:00-04:00",
-          "tbd": true,
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/F4USChampionship"
-            }
-          }
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
         }
       ]
     },
@@ -64895,26 +66991,34 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-10-17T07:00:00-05:00",
-          "tbd": true,
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/F4USChampionship"
-            }
-          }
+          "tbd": true
         },
         {
           "name": "Race 2",
-          "time": "2026-10-18T07:00:00-05:00",
-          "tbd": true,
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/F4USChampionship"
-            }
-          }
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
         }
       ]
     }
