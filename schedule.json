@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T00:27:51.544Z",
+  "generatedAt": "2026-05-27T01:14:30.513Z",
   "events": [
     {
       "id": 101,
@@ -49144,22 +49144,201 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-06-05T14:00:00+02:00",
-          "tbd": true
+          "name": "Sixties' Endurance Practice",
+          "time": "2026-06-05T10:40:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
-          "name": "Qualifying",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "name": "Sixties' Endurance Qualifying",
+          "time": "2026-06-05T17:40:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Sixties' Endurance Race",
+          "time": "2026-06-06T13:40:00+02:00",
+          "duration": 120,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
         },
         {
-          "name": "Race",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "name": "Heritage Touring Cup 1 Practice",
+          "time": "2026-06-05T15:25:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Heritage Touring Cup 1 Qualifying",
+          "time": "2026-06-06T10:35:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Heritage Touring Cup 1 Race",
+          "time": "2026-06-07T09:00:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Heritage Touring Cup 2 Practice",
+          "time": "2026-06-05T10:00:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Heritage Touring Cup 2 Qualifying",
+          "time": "2026-06-06T08:30:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Heritage Touring Cup 2 Race",
+          "time": "2026-06-07T14:45:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Classic Endurance Racing 1 Practice",
+          "time": "2026-06-05T13:50:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Classic Endurance Racing 1 Qualifying",
+          "time": "2026-06-06T09:15:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Classic Endurance Racing 1 Race",
+          "time": "2026-06-07T13:35:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Classic Endurance Racing 2 Practice",
+          "time": "2026-06-05T16:05:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Classic Endurance Racing 2 Qualifying",
+          "time": "2026-06-06T18:25:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Classic Endurance Racing 2 Race",
+          "time": "2026-06-07T15:55:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Gentlemen Challenge Practice",
+          "time": "2026-06-05T09:20:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Gentlemen Challenge Qualifying",
+          "time": "2026-06-05T17:00:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Gentlemen Challenge Race 1",
+          "time": "2026-06-06T15:50:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Gentlemen Challenge Race 2",
+          "time": "2026-06-07T17:05:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "2.0L Cup Practice",
+          "time": "2026-06-05T08:30:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "2.0L Cup Qualifying",
+          "time": "2026-06-05T14:45:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "2.0L Cup Race",
+          "time": "2026-06-06T16:45:00+02:00",
+          "duration": 90,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Classic Touring Challenge Practice",
+          "time": "2026-06-05T12:00:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Classic Touring Challenge Qualifying",
+          "time": "2026-06-06T11:25:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Classic Touring Challenge Race",
+          "time": "2026-06-07T10:50:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
