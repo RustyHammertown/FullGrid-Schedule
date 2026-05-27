@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T23:35:03.001Z",
+  "generatedAt": "2026-05-27T23:48:22.621Z",
   "events": [
     {
       "id": 101,
@@ -4056,6 +4056,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -4187,6 +4192,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -4322,6 +4332,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-07-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-07-11T14:00:00+02:00",
           "tbd": true,
@@ -4453,6 +4468,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-08T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -4588,6 +4608,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-08-29T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
@@ -4721,6 +4746,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -4852,6 +4882,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -4989,6 +5024,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-10-02T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
@@ -5122,6 +5162,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -5259,6 +5304,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-11-06T15:00:00+03:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
@@ -5392,6 +5442,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-27T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -6268,6 +6323,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -6379,6 +6439,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-28T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -6494,6 +6559,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-07-11T14:00:00+02:00",
           "tbd": true,
@@ -6605,6 +6675,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-09T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -6720,6 +6795,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
@@ -6833,6 +6913,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-09-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -6944,6 +7029,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -7060,6 +7150,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-10-02T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
@@ -7172,6 +7267,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -7288,6 +7388,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-11-06T15:00:00+03:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
@@ -7400,6 +7505,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-27T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -8255,6 +8365,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true,
@@ -8366,6 +8481,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-28T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -8481,6 +8601,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-07-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-07-11T14:00:00+02:00",
           "tbd": true,
@@ -8592,6 +8717,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-09T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -8707,6 +8837,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-08-30T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-08-29T14:00:00+02:00",
           "tbd": true,
@@ -8820,6 +8955,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-09-13T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true,
@@ -8931,6 +9071,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -9047,6 +9192,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-10-02T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-10-03T21:00:00+09:00",
           "tbd": true,
@@ -9159,6 +9309,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -9275,6 +9430,11 @@
           }
         },
         {
+          "name": "Practice",
+          "time": "2026-11-06T15:00:00+03:00",
+          "tbd": true
+        },
+        {
           "name": "Practice 2",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true,
@@ -9387,6 +9547,11 @@
               "service": "FS1 / MotoGP+"
             }
           }
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-27T13:00:00+01:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
@@ -16696,7 +16861,12 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-06-28T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-06-28T08:00:00-04:00",
           "tbd": true
         },
@@ -16770,7 +16940,12 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-12T08:00:00-04:00",
           "tbd": true
         },
@@ -16844,7 +17019,12 @@
       "round": 8,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-02T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-02T07:00:00-05:00",
           "tbd": true
         },
@@ -16918,7 +17098,12 @@
       "round": 9,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-23T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-23T08:00:00-04:00",
           "tbd": true
         },
@@ -16992,7 +17177,12 @@
       "round": 10,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-09-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-09-20T08:00:00-04:00",
           "tbd": true
         },
@@ -17066,7 +17256,12 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-10-03T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-10-03T08:00:00-04:00",
           "tbd": true
         },
@@ -17269,7 +17464,12 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-06-07T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-06-07T08:00:00-04:00",
           "tbd": true
         },
@@ -17307,7 +17507,12 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-06-27T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-06-27T08:00:00-04:00",
           "tbd": true
         },
@@ -17345,7 +17550,12 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-07-11T08:00:00-04:00",
           "tbd": true
         },
@@ -17383,7 +17593,12 @@
       "round": 7,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-01T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-01T07:00:00-05:00",
           "tbd": true
         },
@@ -17421,7 +17636,12 @@
       "round": 8,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-08-22T08:00:00-04:00",
           "tbd": true
         },
@@ -17459,7 +17679,12 @@
       "round": 9,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true
         },
@@ -17497,7 +17722,12 @@
       "round": 10,
       "sessions": [
         {
-          "name": "Practice",
+          "name": "Practice 1",
+          "time": "2026-10-02T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
           "time": "2026-10-02T08:00:00-04:00",
           "tbd": true
         },
@@ -17794,6 +18024,16 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-07-11T08:00:00-04:00",
           "tbd": true
@@ -17837,6 +18077,16 @@
       "round": 8,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-16T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-16T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-08-16T07:00:00-05:00",
           "tbd": true
@@ -17866,6 +18116,16 @@
       "tz": "America/New_York",
       "round": 9,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Qualifying",
           "time": "2026-08-22T08:00:00-04:00",
@@ -17909,6 +18169,16 @@
       "tz": "America/New_York",
       "round": 10,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-01T08:00:00-04:00",
+          "tbd": true
+        },
         {
           "name": "Qualifying",
           "time": "2026-10-01T08:00:00-04:00",
@@ -28956,6 +29226,11 @@
           "tbd": true
         },
         {
+          "name": "Final Practice",
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-06-06T08:00:00-04:00",
           "tbd": true
@@ -28988,6 +29263,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Final Practice",
           "time": "2026-06-20T08:00:00-04:00",
           "tbd": true
         },
@@ -29027,6 +29307,11 @@
           "tbd": true
         },
         {
+          "name": "Final Practice",
+          "time": "2026-07-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-07-01T08:00:00-04:00",
           "tbd": true
@@ -29058,6 +29343,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-07-10T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Final Practice",
           "time": "2026-07-10T08:00:00-04:00",
           "tbd": true
         },
@@ -29097,6 +29387,11 @@
           "tbd": true
         },
         {
+          "name": "Final Practice",
+          "time": "2026-07-25T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-07-25T08:00:00-04:00",
           "tbd": true
@@ -29128,6 +29423,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-08-05T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Final Practice",
           "time": "2026-08-05T08:00:00-04:00",
           "tbd": true
         },
@@ -29167,6 +29467,11 @@
           "tbd": true
         },
         {
+          "name": "Final Practice",
+          "time": "2026-08-22T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-08-22T08:00:00-04:00",
           "tbd": true
@@ -29198,6 +29503,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-08-28T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Final Practice",
           "time": "2026-08-28T08:00:00-04:00",
           "tbd": true
         },
@@ -29237,6 +29547,11 @@
           "tbd": true
         },
         {
+          "name": "Final Practice",
+          "time": "2026-09-05T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-09-05T08:00:00-04:00",
           "tbd": true
@@ -29272,6 +29587,11 @@
           "tbd": true
         },
         {
+          "name": "Final Practice",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Qualifying",
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true
@@ -29303,6 +29623,11 @@
       "sessions": [
         {
           "name": "Practice",
+          "time": "2026-10-11T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Final Practice",
           "time": "2026-10-11T08:00:00-04:00",
           "tbd": true
         },
@@ -42971,26 +43296,14 @@
           "tbd": true
         },
         {
-          "name": "Race",
-          "time": "2026-07-19T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "CA": {
-              "service": "IndyCar Live"
-            },
-            "UK": {
-              "service": "Sky Sports F1"
-            },
-            "AU": {
-              "service": "Stan Sport"
-            },
-            "Global": {
-              "service": "IndyCar Live"
-            },
-            "US": {
-              "service": "FS1"
-            }
-          }
+          "name": "Race 1",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-18T07:00:00-05:00",
+          "tbd": true
         }
       ]
     },
@@ -65498,14 +65811,14 @@
           "tbd": true
         },
         {
-          "name": "Race",
+          "name": "Race 1",
           "time": "2026-09-27T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTOPENseries"
-            }
-          }
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-27T14:00:00+02:00",
+          "tbd": true
         }
       ]
     },
