@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T21:18:35.987Z",
+  "generatedAt": "2026-05-27T21:32:42.473Z",
   "events": [
     {
       "id": 101,
@@ -18504,9 +18504,24 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-05T10:10:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-05T14:20:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T10:10:00-04:00",
+          "duration": 20
+        },
+        {
           "name": "Race 1",
-          "time": "2026-06-06T15:00:00-04:00",
-          "duration": 30,
+          "time": "2026-06-06T15:05:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18518,8 +18533,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T10:05:00-04:00",
-          "duration": 30,
+          "time": "2026-06-07T10:10:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18542,9 +18557,24 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-10T09:20:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-10T13:10:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-11T09:55:00-04:00",
+          "duration": 20
+        },
+        {
           "name": "Race 1",
-          "time": "2026-07-11T17:20:00-04:00",
-          "duration": 30,
+          "time": "2026-07-11T17:25:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18556,8 +18586,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-12T10:00:00-04:00",
-          "duration": 30,
+          "time": "2026-07-12T10:05:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18580,9 +18610,24 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-21T09:40:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-21T14:20:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T08:00:00-04:00",
+          "duration": 20
+        },
+        {
           "name": "Race 1",
-          "time": "2026-08-22T17:40:00-04:00",
-          "duration": 30,
+          "time": "2026-08-22T17:45:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18594,8 +18639,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-08-23T15:25:00-04:00",
-          "duration": 30,
+          "time": "2026-08-23T15:30:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18618,9 +18663,24 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-18T08:00:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-18T12:44:00-04:00",
+          "duration": 26
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-18T17:05:00-04:00",
+          "duration": 20
+        },
+        {
           "name": "Race 1",
-          "time": "2026-09-19T09:35:00-04:00",
-          "duration": 30,
+          "time": "2026-09-19T09:40:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18632,8 +18692,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-09-20T10:10:00-04:00",
-          "duration": 30,
+          "time": "2026-09-20T10:15:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18656,9 +18716,24 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-30T10:00:00-04:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-30T14:45:00-04:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-01T08:00:00-04:00",
+          "duration": 20
+        },
+        {
           "name": "Race 1",
-          "time": "2026-10-01T14:10:00-04:00",
-          "duration": 30,
+          "time": "2026-10-01T14:15:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
@@ -18670,8 +18745,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-10-02T09:30:00-04:00",
-          "duration": 30,
+          "time": "2026-10-02T09:35:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "YouTube/MX5Cup"
