@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-27T21:32:45.690Z",
+  "generatedAt": "2026-05-27T21:33:59.816Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -838,13 +838,15 @@
       },
       "notTelevisedCategories": [
         "Practice",
-        "Qualifying"
+        "Qualifying",
+        "Warmup"
       ],
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup",
       "fallbackMinutes": 35,
       "unstreamedCategories": [
         "Practice",
-        "Qualifying"
+        "Qualifying",
+        "Warmup"
       ]
     },
     "supercup": {
