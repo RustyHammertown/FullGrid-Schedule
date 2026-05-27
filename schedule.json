@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T01:14:30.513Z",
+  "generatedAt": "2026-05-27T01:19:30.198Z",
   "events": [
     {
       "id": 101,
@@ -63278,8 +63278,8 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-05T10:10:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -63288,8 +63288,8 @@
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-05T15:40:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -63298,8 +63298,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-06T09:00:00+02:00",
+          "duration": 35,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -63308,8 +63308,8 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-06T18:15:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -63318,8 +63318,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-07T10:15:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
