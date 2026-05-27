@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T22:15:34.553Z",
+  "generatedAt": "2026-05-27T22:15:59.894Z",
   "events": [
     {
       "id": 101,
@@ -18470,9 +18470,6 @@
           "time": "2026-01-22T17:15:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18483,9 +18480,6 @@
           "time": "2026-01-23T10:00:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18518,9 +18512,6 @@
           "time": "2026-02-28T07:30:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18531,9 +18522,6 @@
           "time": "2026-03-01T15:55:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18571,9 +18559,6 @@
           "time": "2026-06-06T15:05:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18584,9 +18569,6 @@
           "time": "2026-06-07T10:10:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18624,9 +18606,6 @@
           "time": "2026-07-11T17:25:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18637,9 +18616,6 @@
           "time": "2026-07-12T10:05:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18677,9 +18653,6 @@
           "time": "2026-08-22T17:45:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18690,9 +18663,6 @@
           "time": "2026-08-23T15:30:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18730,9 +18700,6 @@
           "time": "2026-09-19T09:40:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18743,9 +18710,6 @@
           "time": "2026-09-20T10:15:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18783,9 +18747,6 @@
           "time": "2026-10-01T14:15:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -18796,9 +18757,6 @@
           "time": "2026-10-02T09:35:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/imsaofficial"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19107,12 +19065,6 @@
           "time": "2026-03-19T13:05:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19123,12 +19075,6 @@
           "time": "2026-03-20T10:20:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19166,12 +19112,6 @@
           "time": "2026-05-02T08:50:00-07:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19182,12 +19122,6 @@
           "time": "2026-05-03T09:30:00-07:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19210,12 +19144,6 @@
           "time": "2026-06-06T13:50:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19226,12 +19154,6 @@
           "time": "2026-06-07T09:00:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19254,12 +19176,6 @@
           "time": "2026-06-26T13:50:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19270,12 +19186,6 @@
           "time": "2026-06-27T07:55:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19298,12 +19208,6 @@
           "time": "2026-08-22T09:20:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -19314,12 +19218,6 @@
           "time": "2026-08-23T09:40:00-04:00",
           "duration": 45,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/imsaofficial"
             }
@@ -36284,9 +36182,6 @@
           "time": "2026-04-14T19:00:00-05:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36309,9 +36204,6 @@
           "time": "2026-04-21T20:00:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36334,9 +36226,6 @@
           "time": "2026-04-28T19:00:00-05:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36359,9 +36248,6 @@
           "time": "2026-05-19T19:30:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36384,9 +36270,6 @@
           "time": "2026-06-02T19:30:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36409,9 +36292,6 @@
           "time": "2026-06-16T18:30:00-05:00",
           "laps": 150,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36434,9 +36314,6 @@
           "time": "2026-06-23T19:30:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36459,9 +36336,6 @@
           "time": "2026-07-07T17:30:00-06:00",
           "laps": 60,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36484,9 +36358,6 @@
           "time": "2026-07-14T19:30:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36509,9 +36380,6 @@
           "time": "2026-07-28T18:30:00-05:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36534,9 +36402,6 @@
           "time": "2026-08-04T19:30:00-04:00",
           "laps": 150,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36559,9 +36424,6 @@
           "time": "2026-08-18T19:30:00-04:00",
           "laps": 80,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36584,9 +36446,6 @@
           "time": "2026-09-01T19:30:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36609,9 +36468,6 @@
           "time": "2026-09-15T18:30:00-05:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36634,9 +36490,6 @@
           "time": "2026-09-22T18:30:00-05:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -36659,9 +36512,6 @@
           "time": "2026-10-13T19:30:00-04:00",
           "laps": 100,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/iRacingOfficial"
-            },
             "Global": {
               "service": "YouTube/iRacingOfficial"
             }
@@ -56501,12 +56351,6 @@
           "time": "2026-03-07T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56517,12 +56361,6 @@
           "time": "2026-03-08T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56545,12 +56383,6 @@
           "time": "2026-03-28T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56561,12 +56393,6 @@
           "time": "2026-03-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56589,12 +56415,6 @@
           "time": "2026-05-08T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56605,12 +56425,6 @@
           "time": "2026-05-09T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56633,12 +56447,6 @@
           "time": "2026-06-20T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56649,12 +56457,6 @@
           "time": "2026-06-21T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56677,12 +56479,6 @@
           "time": "2026-08-15T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56693,12 +56489,6 @@
           "time": "2026-08-16T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56721,12 +56511,6 @@
           "time": "2026-09-12T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56737,12 +56521,6 @@
           "time": "2026-09-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56765,12 +56543,6 @@
           "time": "2026-03-28T23:00:00+11:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56781,12 +56553,6 @@
           "time": "2026-03-29T23:00:00+11:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56824,12 +56590,6 @@
           "time": "2026-05-09T12:00:00+09:30",
           "duration": 40,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56845,12 +56605,6 @@
           "time": "2026-05-10T12:55:00+09:30",
           "duration": 40,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56873,12 +56627,6 @@
           "time": "2026-06-13T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56889,12 +56637,6 @@
           "time": "2026-06-14T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56917,12 +56659,6 @@
           "time": "2026-07-25T21:30:00+09:30",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56933,12 +56669,6 @@
           "time": "2026-07-26T21:30:00+09:30",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56961,12 +56691,6 @@
           "time": "2026-09-19T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -56977,12 +56701,6 @@
           "time": "2026-09-20T22:00:00+10:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -57005,12 +56723,6 @@
           "time": "2026-10-31T23:00:00+11:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -57021,12 +56733,6 @@
           "time": "2026-11-01T23:00:00+11:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/FordRacing"
-            },
-            "AU": {
-              "service": "YouTube/FordRacing"
-            },
             "Global": {
               "service": "YouTube/FordRacing"
             }
@@ -64941,9 +64647,6 @@
           "time": "2026-04-11T09:20:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -64954,9 +64657,6 @@
           "time": "2026-04-11T14:10:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -64967,9 +64667,6 @@
           "time": "2026-04-12T10:30:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65002,9 +64699,6 @@
           "time": "2026-05-16T13:05:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65015,9 +64709,6 @@
           "time": "2026-05-17T09:20:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65028,9 +64719,6 @@
           "time": "2026-05-17T14:10:00-05:00",
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65054,9 +64742,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65068,9 +64753,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65094,9 +64776,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65108,9 +64787,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65122,9 +64798,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65148,9 +64821,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65162,9 +64832,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65176,9 +64843,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65202,9 +64866,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65216,9 +64877,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65242,9 +64900,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
@@ -65256,9 +64911,6 @@
           "tbd": true,
           "duration": 30,
           "broadcasts": {
-            "US": {
-              "service": "YouTube/F4USChampionship"
-            },
             "Global": {
               "service": "YouTube/F4USChampionship"
             }
