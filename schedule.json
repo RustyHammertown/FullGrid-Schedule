@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T01:19:30.198Z",
+  "generatedAt": "2026-05-27T02:05:06.897Z",
   "events": [
     {
       "id": 101,
@@ -57696,9 +57696,39 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-29T08:40:00-07:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/PorscheSprintChallenge"
+            }
+          }
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-29T12:50:00-07:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/PorscheSprintChallenge"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-30T08:30:00-07:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/PorscheSprintChallenge"
+            }
+          }
+        },
+        {
           "name": "Race 1",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-05-30T13:15:00-07:00",
+          "duration": 40,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheSprintChallenge"
@@ -57707,8 +57737,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-05-31T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-05-31T13:15:00-07:00",
+          "duration": 40,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheSprintChallenge"
