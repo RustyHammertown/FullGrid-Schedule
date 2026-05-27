@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T23:02:59.852Z",
+  "generatedAt": "2026-05-27T23:13:17.821Z",
   "events": [
     {
       "id": 101,
@@ -17712,8 +17712,8 @@
       "sessions": [
         {
           "name": "Qualifying",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-06T08:50:00-04:00",
+          "duration": 20
         },
         {
           "name": "Race 1",
@@ -18856,18 +18856,18 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-05T09:25:00-04:00",
+          "duration": 40
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-05T13:45:00-04:00",
+          "duration": 40
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-06T09:40:00-04:00",
+          "duration": 20
         },
         {
           "name": "Race 1",
@@ -19580,18 +19580,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-04T15:00:00+02:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T15:10:00+02:00",
+          "duration": 40
         },
         {
           "name": "Sprint Race",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-06T14:15:00+02:00",
           "laps": 30,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1095",
           "broadcasts": {
@@ -19602,8 +19601,7 @@
         },
         {
           "name": "Feature Race",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-07T09:35:00+02:00",
           "laps": 42,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1095",
           "broadcasts": {
@@ -26044,13 +26042,13 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-06T09:30:00-04:00",
+          "duration": 50
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-06T10:35:00-04:00",
+          "duration": 45
         },
         {
           "name": "Race",
@@ -27871,13 +27869,13 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-06T14:45:00-07:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-06T16:45:00-07:00",
+          "duration": 30
         },
         {
           "name": "Race",
@@ -42788,8 +42786,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-06T14:05:00-05:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
@@ -65273,28 +65271,28 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T11:15:00+02:00",
+          "duration": 45
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T15:40:00+02:00",
+          "duration": 45
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-06T10:25:00+02:00",
+          "duration": 30
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-07T09:30:00+02:00",
+          "duration": 30
         },
         {
           "name": "Race 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-06T15:05:00+02:00",
+          "duration": 70,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTOPENseries"
@@ -65303,8 +65301,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-07T14:15:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTOPENseries"
@@ -65689,23 +65687,23 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T10:25:00+02:00",
+          "duration": 40
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T14:50:00+02:00",
+          "duration": 40
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-06T09:55:00+02:00",
+          "duration": 30
         },
         {
           "name": "Race 1",
           "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/EuroFormulaOpen"
@@ -65714,8 +65712,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-07T10:45:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/EuroFormulaOpen"
@@ -65724,8 +65722,8 @@
         },
         {
           "name": "Race 3",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-07T16:00:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/EuroFormulaOpen"
@@ -66135,28 +66133,28 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T12:25:00+02:00",
+          "duration": 40
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-05T16:50:00+02:00",
+          "duration": 40
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-06T11:00:00+02:00",
+          "duration": 25
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-07T09:00:00+02:00",
+          "duration": 25
         },
         {
           "name": "Race 1",
-          "time": "2026-06-06T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-06T17:05:00+02:00",
+          "duration": 50,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTCupOpenSeries"
@@ -66165,8 +66163,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-07T12:40:00+02:00",
+          "duration": 50,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTCupOpenSeries"
