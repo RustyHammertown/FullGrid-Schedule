@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-27T20:51:39.990Z",
+  "generatedAt": "2026-05-27T20:57:45.220Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -573,10 +573,20 @@
       "broadcast": {
         "Global": "FloRacing"
       },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying",
+        "Warmup"
+      ],
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
       "fallbackMinutes": 75,
       "typicalLapSeconds": 25,
-      "lapBased": true
+      "lapBased": true,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying",
+        "Warmup"
+      ]
     },
     "wrc": {
       "id": "wrc",
