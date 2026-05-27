@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-27T23:13:57.817Z",
+  "generatedAt": "2026-05-27T23:34:22.146Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -292,7 +292,7 @@
       "color": "#0891B2",
       "bg": "rgba(8,145,178,0.15)",
       "broadcast": {
-        "US": "FOX Sports",
+        "US": "FS1",
         "UK": "Sky Sports",
         "AU": "Stan Sport",
         "Global": "Check local listings"
@@ -317,7 +317,7 @@
       "color": "#1D9E75",
       "bg": "rgba(29,158,117,0.15)",
       "broadcast": {
-        "US": "FOX Sports",
+        "US": "FOX",
         "UK": "Sky Sports",
         "AU": "Stan Sport",
         "Global": "Check local listings"
@@ -1455,7 +1455,7 @@
       "color": "#0066B3",
       "bg": "rgba(0,102,179,0.15)",
       "broadcast": {
-        "US": "FOX Sports",
+        "US": "FS1",
         "UK": "Sky Sports",
         "AU": "Fox Sports",
         "Global": "Check local listings"
