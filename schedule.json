@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T21:48:06.617Z",
+  "generatedAt": "2026-05-28T21:57:33.761Z",
   "events": [
     {
       "id": 101,
@@ -3157,19 +3157,19 @@
               "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3196,10 +3196,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3219,19 +3219,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3258,10 +3258,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3281,19 +3281,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3320,10 +3320,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3366,19 +3366,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3405,10 +3405,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3428,19 +3428,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3467,10 +3467,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3490,19 +3490,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3529,10 +3529,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3575,19 +3575,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3614,10 +3614,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3637,19 +3637,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3676,10 +3676,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3699,19 +3699,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3738,10 +3738,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3784,19 +3784,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3823,10 +3823,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3846,19 +3846,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3885,10 +3885,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3908,19 +3908,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -3947,10 +3947,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4048,19 +4048,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4087,10 +4087,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4110,19 +4110,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4149,10 +4149,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4172,19 +4172,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4211,10 +4211,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4315,19 +4315,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4354,10 +4354,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4426,19 +4426,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4465,10 +4465,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4537,19 +4537,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4576,10 +4576,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4680,19 +4680,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4719,10 +4719,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4791,19 +4791,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4830,10 +4830,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4902,19 +4902,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -4941,10 +4941,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5045,19 +5045,19 @@
               "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5084,10 +5084,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5156,19 +5156,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5195,10 +5195,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5267,19 +5267,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5306,10 +5306,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5405,19 +5405,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5444,10 +5444,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5511,19 +5511,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5550,10 +5550,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5617,19 +5617,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5656,10 +5656,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5755,19 +5755,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5794,10 +5794,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5861,19 +5861,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -5900,10 +5900,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5967,19 +5967,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6006,10 +6006,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6105,19 +6105,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6144,10 +6144,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6211,19 +6211,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6250,10 +6250,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6317,19 +6317,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6356,10 +6356,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6455,19 +6455,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6494,10 +6494,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6561,19 +6561,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6600,10 +6600,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6667,19 +6667,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6706,10 +6706,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6805,19 +6805,19 @@
               "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6844,10 +6844,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6911,19 +6911,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -6950,10 +6950,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7017,19 +7017,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7056,10 +7056,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7155,19 +7155,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7194,10 +7194,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7261,19 +7261,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7300,10 +7300,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7367,19 +7367,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7406,10 +7406,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7507,19 +7507,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7546,10 +7546,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7614,19 +7614,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7653,10 +7653,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7721,19 +7721,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7760,10 +7760,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7861,19 +7861,19 @@
               "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -7900,10 +7900,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7968,19 +7968,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8007,10 +8007,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8075,19 +8075,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8114,10 +8114,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8215,19 +8215,19 @@
               "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8254,10 +8254,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8322,19 +8322,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8361,10 +8361,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8429,19 +8429,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8468,10 +8468,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8569,19 +8569,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8608,10 +8608,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8676,19 +8676,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8715,10 +8715,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8783,19 +8783,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8822,10 +8822,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8923,19 +8923,19 @@
               "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -8962,10 +8962,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -9030,19 +9030,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -9069,10 +9069,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -9137,19 +9137,19 @@
               "service": "MotoGP Channel / MotoGP VideoPass"
             },
             "CA": {
-              "service": "MotoGP VideoPass"
+              "service": "Sportsnet"
             },
             "UK": {
               "service": "TNT Sports"
             },
             "AU": {
-              "service": "Fox Sports"
+              "service": "Fox Sports / Kayo Sports"
             },
             "NZ": {
               "service": "Sky Sport NZ"
             },
             "DE": {
-              "service": "ServusTV"
+              "service": "Sky Deutschland / DF1"
             },
             "AT": {
               "service": "ServusTV"
@@ -9176,10 +9176,10 @@
               "service": "SuperSport"
             },
             "BR": {
-              "service": "Band"
+              "service": "ESPN"
             },
             "JP": {
-              "service": "DAZN"
+              "service": "Hulu"
             },
             "MENA": {
               "service": "beIN Sports"
