@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T00:05:58.960Z",
+  "generatedAt": "2026-05-28T00:15:02.443Z",
   "events": [
     {
       "id": 101,
@@ -57798,9 +57798,30 @@
       "round": 1,
       "sessions": [
         {
-          "name": "Race 1",
-          "time": "2026-03-07T07:00:00-05:00",
-          "tbd": true,
+          "name": "Practice 1",
+          "time": "2026-03-06T08:00:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-06T11:30:00-05:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-03-06T14:50:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "Miles Cup Qualifying",
+          "time": "2026-03-07T08:30:00-05:00",
+          "duration": 15
+        },
+        {
+          "name": "Miles Cup Race",
+          "time": "2026-03-07T13:25:00-05:00",
+          "duration": 45,
+          "resultsUrl": "https://www.fordracing.com/articles/series/mustang-cup/2026/3/mustang-cup-usa-sebring-results",
           "broadcasts": {
             "Global": {
               "service": "YouTube/FordRacing"
@@ -57808,9 +57829,15 @@
           }
         },
         {
-          "name": "Race 2",
-          "time": "2026-03-08T08:00:00-04:00",
-          "tbd": true,
+          "name": "Parnelli Cup Qualifying",
+          "time": "2026-03-08T08:30:00-04:00",
+          "duration": 15
+        },
+        {
+          "name": "Parnelli Cup Race",
+          "time": "2026-03-08T13:55:00-04:00",
+          "duration": 45,
+          "resultsUrl": "https://www.fordracing.com/articles/series/mustang-cup/2026/3/mustang-cup-usa-sebring-results",
           "broadcasts": {
             "Global": {
               "service": "YouTube/FordRacing"
