@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T03:14:23.125Z",
+  "generatedAt": "2026-05-28T03:33:07.924Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -62,12 +62,30 @@
       ],
       "results": [
         {
-          "url": "https://www.motogp.com/en/gp-results"
+          "url": "https://www.motogp.com/en/gp-results",
+          "label": "Official results (MotoGP/Moto2/Moto3)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship",
+          "label": "Wikipedia Moto2 (race-by-race, fallback)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship",
+          "label": "Wikipedia Moto3 (race-by-race, fallback)"
         }
       ],
       "standings": [
         {
-          "url": "https://www.motogp.com/en/world-standing/2026/motogp/championship-standings"
+          "url": "https://www.motogp.com/en/world-standing/2026/motogp/championship-standings",
+          "label": "MotoGP standings"
+        },
+        {
+          "url": "https://www.motogp.com/en/world-standing/2026/moto2/championship-standings",
+          "label": "Moto2 standings"
+        },
+        {
+          "url": "https://www.motogp.com/en/world-standing/2026/moto3/championship-standings",
+          "label": "Moto3 standings"
         }
       ],
       "website": [
@@ -88,70 +106,6 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/MotoGP/"
-        }
-      ]
-    },
-    "moto2": {
-      "schedule": [
-        {
-          "url": "https://www.motogp.com/en/calendar",
-          "label": "Official calendar (shared with MotoGP)"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship",
-          "label": "Wikipedia (full season)"
-        }
-      ],
-      "results": [
-        {
-          "url": "https://www.motogp.com/en/gp-results",
-          "label": "Official results (Moto2 filter)"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship",
-          "label": "Wikipedia (race-by-race, fallback)"
-        }
-      ],
-      "standings": [
-        {
-          "url": "https://www.motogp.com/en/world-standing/2026/moto2/championship-standings"
-        }
-      ],
-      "website": [
-        {
-          "url": "https://www.motogp.com/"
-        }
-      ]
-    },
-    "moto3": {
-      "schedule": [
-        {
-          "url": "https://www.motogp.com/en/calendar",
-          "label": "Official calendar (shared with MotoGP)"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship",
-          "label": "Wikipedia (full season)"
-        }
-      ],
-      "results": [
-        {
-          "url": "https://www.motogp.com/en/gp-results",
-          "label": "Official results (Moto3 filter)"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship",
-          "label": "Wikipedia (race-by-race, fallback)"
-        }
-      ],
-      "standings": [
-        {
-          "url": "https://www.motogp.com/en/world-standing/2026/moto3/championship-standings"
-        }
-      ],
-      "website": [
-        {
-          "url": "https://www.motogp.com/"
         }
       ]
     },
@@ -4008,6 +3962,20 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/CarreraCupDeutschland/"
+        }
+      ]
+    },
+    "moto2": {
+      "website": [
+        {
+          "url": "https://www.motogp.com/"
+        }
+      ]
+    },
+    "moto3": {
+      "website": [
+        {
+          "url": "https://www.motogp.com/"
         }
       ]
     }

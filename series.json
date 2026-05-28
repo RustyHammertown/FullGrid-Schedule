@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-28T03:14:22.291Z",
+  "generatedAt": "2026-05-28T03:33:05.284Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -107,6 +107,8 @@
       "tags": [
         "motorcycle",
         "gp-motorcycle",
+        "moto2",
+        "moto3",
         "world-championship",
         "global",
         "fim"
@@ -129,65 +131,8 @@
         "race": 50
       },
       "typicalLapSeconds": 100,
-      "lapBased": true
-    },
-    "moto2": {
-      "id": "moto2",
-      "tags": [
-        "motorcycle",
-        "moto2",
-        "feeder-series",
-        "global",
-        "fim"
-      ],
-      "group": "bikes",
-      "region": "europe",
-      "label": "Moto2",
-      "short": "Moto2",
-      "color": "#0EA5E9",
-      "bg": "rgba(14,165,233,0.15)",
-      "broadcast": {
-        "US": "MotoGP VideoPass",
-        "UK": "TNT Sports",
-        "AU": "Fox Sports",
-        "Global": "Check local listings"
-      },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto2_World_Championship",
-      "fallbackMinutes": {
-        "sprint": 25,
-        "race": 45
-      },
-      "typicalLapSeconds": 105,
-      "lapBased": true
-    },
-    "moto3": {
-      "id": "moto3",
-      "tags": [
-        "motorcycle",
-        "moto3",
-        "feeder-series",
-        "global",
-        "fim"
-      ],
-      "group": "bikes",
-      "region": "europe",
-      "label": "Moto3",
-      "short": "Moto3",
-      "color": "#22C55E",
-      "bg": "rgba(34,197,94,0.15)",
-      "broadcast": {
-        "US": "MotoGP VideoPass",
-        "UK": "TNT Sports",
-        "AU": "Fox Sports",
-        "Global": "Check local listings"
-      },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Moto3_World_Championship",
-      "fallbackMinutes": {
-        "sprint": 25,
-        "race": 40
-      },
-      "typicalLapSeconds": 115,
-      "lapBased": true
+      "lapBased": true,
+      "classGrid": true
     },
     "supercross": {
       "id": "supercross",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T03:14:23.952Z",
+  "generatedAt": "2026-05-28T03:33:06.597Z",
   "groups": {
     "f1": [
       {
@@ -72,71 +72,63 @@
       {
         "label": "Practice",
         "sessions": [
-          "Practice 1",
-          "Practice",
-          "Practice 2"
+          "MotoGP Practice 1",
+          "MotoGP Practice",
+          "MotoGP Practice 2",
+          "Moto2 Practice 1",
+          "Moto2 Practice",
+          "Moto2 Practice 2",
+          "Moto3 Practice 1",
+          "Moto3 Practice",
+          "Moto3 Practice 2"
         ]
       },
       {
         "label": "Qualifying",
         "sessions": [
-          "Qualifying",
-          "Qualifying 1",
-          "Qualifying 2"
+          "MotoGP Qualifying",
+          "MotoGP Qualifying 1",
+          "MotoGP Qualifying 2",
+          "Moto2 Qualifying 1",
+          "Moto2 Qualifying 2",
+          "Moto3 Qualifying 1",
+          "Moto3 Qualifying 2"
         ]
       },
       {
-        "label": "Warmup",
+        "label": "MotoGP",
         "sessions": [
-          "Warmup"
+          "MotoGP Practice 1",
+          "MotoGP Practice",
+          "MotoGP Practice 2",
+          "MotoGP Qualifying",
+          "MotoGP Qualifying 1",
+          "MotoGP Qualifying 2",
+          "MotoGP Sprint",
+          "MotoGP Warm-up",
+          "MotoGP Race"
         ]
       },
       {
-        "label": "Sprint",
+        "label": "Moto2",
         "sessions": [
-          "Sprint"
+          "Moto2 Practice 1",
+          "Moto2 Practice",
+          "Moto2 Practice 2",
+          "Moto2 Qualifying 1",
+          "Moto2 Qualifying 2",
+          "Moto2 Race"
         ]
       },
       {
-        "label": "Race",
+        "label": "Moto3",
         "sessions": [
-          "Race"
-        ]
-      }
-    ],
-    "moto2": [
-      {
-        "label": "Practice",
-        "sessions": [
-          "Practice 1",
-          "Practice",
-          "Practice 2"
-        ]
-      },
-      {
-        "label": "Qualifying",
-        "sessions": [
-          "Qualifying",
-          "Qualifying 1",
-          "Qualifying 2"
-        ]
-      }
-    ],
-    "moto3": [
-      {
-        "label": "Practice",
-        "sessions": [
-          "Practice 1",
-          "Practice",
-          "Practice 2"
-        ]
-      },
-      {
-        "label": "Qualifying",
-        "sessions": [
-          "Qualifying",
-          "Qualifying 1",
-          "Qualifying 2"
+          "Moto3 Practice 1",
+          "Moto3 Practice",
+          "Moto3 Practice 2",
+          "Moto3 Qualifying 1",
+          "Moto3 Qualifying 2",
+          "Moto3 Race"
         ]
       }
     ],

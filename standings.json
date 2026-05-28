@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T03:14:20.619Z",
+  "generatedAt": "2026-05-28T03:33:04.648Z",
   "flat": {
     "f1": [
       {
@@ -360,78 +360,6 @@
         "points": 123,
         "team": "#66 Meyer Shank Racing",
         "vehicle": "Honda"
-      }
-    ],
-    "motogp": [
-      {
-        "pos": 1,
-        "name": "Marco Bezzecchi",
-        "points": 142,
-        "team": "#72 Aprilia Racing",
-        "vehicle": "Aprilia RS-GP26"
-      },
-      {
-        "pos": 2,
-        "name": "Jorge Martín",
-        "points": 127,
-        "team": "#89 Aprilia Racing",
-        "vehicle": "Aprilia RS-GP26"
-      },
-      {
-        "pos": 3,
-        "name": "Fabio Di Giannantonio",
-        "points": 116,
-        "team": "#49 Pertamina Enduro VR46",
-        "vehicle": "Ducati Desmosedici GP26"
-      },
-      {
-        "pos": 4,
-        "name": "Pedro Acosta",
-        "points": 92,
-        "team": "#37 Red Bull KTM Factory",
-        "vehicle": "KTM RC16"
-      },
-      {
-        "pos": 5,
-        "name": "Ai Ogura",
-        "points": 77,
-        "team": "#79 Trackhouse MotoGP",
-        "vehicle": "Aprilia RS-GP26"
-      },
-      {
-        "pos": 6,
-        "name": "Raúl Fernández",
-        "points": 68,
-        "team": "#25 Trackhouse MotoGP",
-        "vehicle": "Aprilia RS-GP26"
-      },
-      {
-        "pos": 7,
-        "name": "Álex Márquez",
-        "points": 67,
-        "team": "#73 BK8 Gresini Racing",
-        "vehicle": "Ducati Desmosedici GP25"
-      },
-      {
-        "pos": 8,
-        "name": "Francesco Bagnaia",
-        "points": 63,
-        "team": "#63 Ducati Lenovo",
-        "vehicle": "Ducati Desmosedici GP26"
-      },
-      {
-        "pos": 9,
-        "name": "Marc Márquez",
-        "points": 57,
-        "team": "#93 Ducati Lenovo",
-        "vehicle": "Ducati Desmosedici GP26"
-      },
-      {
-        "pos": 10,
-        "name": "Fermín Aldeguer",
-        "points": 47,
-        "team": "#54 BK8 Gresini Racing",
-        "vehicle": "Ducati Desmosedici GP25"
       }
     ],
     "f2": [
@@ -1997,150 +1925,6 @@
         "vehicle": "Toyota Corolla GR Sport"
       }
     ],
-    "moto2": [
-      {
-        "pos": 1,
-        "name": "Manuel González",
-        "points": 104.5,
-        "team": "#18 Liqui Moly Dynavolt Intact GP",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 2,
-        "name": "Izan Guevara",
-        "points": 86,
-        "team": "#28 Blu Cru Pramac Yamaha",
-        "vehicle": "Boscoscuro Moto2"
-      },
-      {
-        "pos": 3,
-        "name": "Celestino Vietti",
-        "points": 73,
-        "team": "#13 SpeedRS Team",
-        "vehicle": "Boscoscuro Moto2"
-      },
-      {
-        "pos": 4,
-        "name": "Senna Agius",
-        "points": 65,
-        "team": "#81 Liqui Moly Dynavolt Intact GP",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 5,
-        "name": "David Alonso",
-        "points": 58,
-        "team": "#80 CFMoto Aspar Team",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 6,
-        "name": "Iván Ortolá",
-        "points": 52.5,
-        "team": "#4 QJMotor – MSi",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 7,
-        "name": "Daniel Holgado",
-        "points": 42,
-        "team": "#96 CFMoto Aspar Team",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 8,
-        "name": "Daniel Muñoz",
-        "points": 41,
-        "team": "#17 Italtrans Racing Team",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 9,
-        "name": "Alonso López",
-        "points": 39.5,
-        "team": "#21 Italjet Gresini Moto2",
-        "vehicle": "Kalex Moto2"
-      },
-      {
-        "pos": 10,
-        "name": "Álex Escrig",
-        "points": 30,
-        "team": "#11 Klint Racing Team",
-        "vehicle": "Forward Moto2"
-      }
-    ],
-    "moto3": [
-      {
-        "pos": 1,
-        "name": "Máximo Quiles",
-        "points": 140,
-        "team": "#28 CFMoto Aspar Team",
-        "vehicle": "KTM RC250GP"
-      },
-      {
-        "pos": 2,
-        "name": "Adrián Fernández",
-        "points": 76,
-        "team": "#31 Leopard Racing",
-        "vehicle": "Honda NSF250RW"
-      },
-      {
-        "pos": 3,
-        "name": "Álvaro Carpe",
-        "points": 73,
-        "team": "#83 Red Bull KTM Ajo",
-        "vehicle": "KTM RC250GP"
-      },
-      {
-        "pos": 4,
-        "name": "Marco Morelli",
-        "points": 58,
-        "team": "#97 CFMoto Aspar Team",
-        "vehicle": "KTM RC250GP"
-      },
-      {
-        "pos": 5,
-        "name": "Veda Pratama",
-        "points": 58,
-        "team": "#9 Honda Team Asia",
-        "vehicle": "Honda NSF250RW"
-      },
-      {
-        "pos": 6,
-        "name": "Valentín Perrone",
-        "points": 56,
-        "team": "#73 Red Bull KTM Tech3",
-        "vehicle": "KTM RC250GP"
-      },
-      {
-        "pos": 7,
-        "name": "David Almansa",
-        "points": 52,
-        "team": "#22 Liqui Moly Dynavolt Intact GP",
-        "vehicle": "KTM RC250GP"
-      },
-      {
-        "pos": 8,
-        "name": "Guido Pini",
-        "points": 46,
-        "team": "#94 Leopard Racing",
-        "vehicle": "Honda NSF250RW"
-      },
-      {
-        "pos": 9,
-        "name": "Brian Uriarte",
-        "points": 42,
-        "team": "#51 Red Bull KTM Ajo",
-        "vehicle": "KTM RC250GP"
-      },
-      {
-        "pos": 10,
-        "name": "David Muñoz",
-        "points": 38,
-        "team": "#64 Liqui Moly Dynavolt Intact GP",
-        "vehicle": "KTM RC250GP"
-      }
-    ],
     "supercars": [
       {
         "pos": 1,
@@ -3467,6 +3251,233 @@
     ]
   },
   "classes": {
+    "motogp": [
+      {
+        "className": "MotoGP",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Marco Bezzecchi",
+            "points": 142,
+            "team": "#72 Aprilia Racing",
+            "vehicle": "Aprilia RS-GP26"
+          },
+          {
+            "pos": 2,
+            "name": "Jorge Martín",
+            "points": 127,
+            "team": "#89 Aprilia Racing",
+            "vehicle": "Aprilia RS-GP26"
+          },
+          {
+            "pos": 3,
+            "name": "Fabio Di Giannantonio",
+            "points": 116,
+            "team": "#49 Pertamina Enduro VR46",
+            "vehicle": "Ducati Desmosedici GP26"
+          },
+          {
+            "pos": 4,
+            "name": "Pedro Acosta",
+            "points": 92,
+            "team": "#37 Red Bull KTM Factory",
+            "vehicle": "KTM RC16"
+          },
+          {
+            "pos": 5,
+            "name": "Ai Ogura",
+            "points": 77,
+            "team": "#79 Trackhouse MotoGP",
+            "vehicle": "Aprilia RS-GP26"
+          },
+          {
+            "pos": 6,
+            "name": "Raúl Fernández",
+            "points": 68,
+            "team": "#25 Trackhouse MotoGP",
+            "vehicle": "Aprilia RS-GP26"
+          },
+          {
+            "pos": 7,
+            "name": "Álex Márquez",
+            "points": 67,
+            "team": "#73 BK8 Gresini Racing",
+            "vehicle": "Ducati Desmosedici GP25"
+          },
+          {
+            "pos": 8,
+            "name": "Francesco Bagnaia",
+            "points": 63,
+            "team": "#63 Ducati Lenovo",
+            "vehicle": "Ducati Desmosedici GP26"
+          },
+          {
+            "pos": 9,
+            "name": "Marc Márquez",
+            "points": 57,
+            "team": "#93 Ducati Lenovo",
+            "vehicle": "Ducati Desmosedici GP26"
+          },
+          {
+            "pos": 10,
+            "name": "Fermín Aldeguer",
+            "points": 47,
+            "team": "#54 BK8 Gresini Racing",
+            "vehicle": "Ducati Desmosedici GP25"
+          }
+        ]
+      },
+      {
+        "className": "Moto2",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Manuel González",
+            "points": 104.5,
+            "team": "#18 Liqui Moly Dynavolt Intact GP",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 2,
+            "name": "Izan Guevara",
+            "points": 86,
+            "team": "#28 Blu Cru Pramac Yamaha",
+            "vehicle": "Boscoscuro Moto2"
+          },
+          {
+            "pos": 3,
+            "name": "Celestino Vietti",
+            "points": 73,
+            "team": "#13 SpeedRS Team",
+            "vehicle": "Boscoscuro Moto2"
+          },
+          {
+            "pos": 4,
+            "name": "Senna Agius",
+            "points": 65,
+            "team": "#81 Liqui Moly Dynavolt Intact GP",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 5,
+            "name": "David Alonso",
+            "points": 58,
+            "team": "#80 CFMoto Aspar Team",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 6,
+            "name": "Iván Ortolá",
+            "points": 52.5,
+            "team": "#4 QJMotor – MSi",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 7,
+            "name": "Daniel Holgado",
+            "points": 42,
+            "team": "#96 CFMoto Aspar Team",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 8,
+            "name": "Daniel Muñoz",
+            "points": 41,
+            "team": "#17 Italtrans Racing Team",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 9,
+            "name": "Alonso López",
+            "points": 39.5,
+            "team": "#21 Italjet Gresini Moto2",
+            "vehicle": "Kalex Moto2"
+          },
+          {
+            "pos": 10,
+            "name": "Álex Escrig",
+            "points": 30,
+            "team": "#11 Klint Racing Team",
+            "vehicle": "Forward Moto2"
+          }
+        ]
+      },
+      {
+        "className": "Moto3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Máximo Quiles",
+            "points": 140,
+            "team": "#28 CFMoto Aspar Team",
+            "vehicle": "KTM RC250GP"
+          },
+          {
+            "pos": 2,
+            "name": "Adrián Fernández",
+            "points": 76,
+            "team": "#31 Leopard Racing",
+            "vehicle": "Honda NSF250RW"
+          },
+          {
+            "pos": 3,
+            "name": "Álvaro Carpe",
+            "points": 73,
+            "team": "#83 Red Bull KTM Ajo",
+            "vehicle": "KTM RC250GP"
+          },
+          {
+            "pos": 4,
+            "name": "Marco Morelli",
+            "points": 58,
+            "team": "#97 CFMoto Aspar Team",
+            "vehicle": "KTM RC250GP"
+          },
+          {
+            "pos": 5,
+            "name": "Veda Pratama",
+            "points": 58,
+            "team": "#9 Honda Team Asia",
+            "vehicle": "Honda NSF250RW"
+          },
+          {
+            "pos": 6,
+            "name": "Valentín Perrone",
+            "points": 56,
+            "team": "#73 Red Bull KTM Tech3",
+            "vehicle": "KTM RC250GP"
+          },
+          {
+            "pos": 7,
+            "name": "David Almansa",
+            "points": 52,
+            "team": "#22 Liqui Moly Dynavolt Intact GP",
+            "vehicle": "KTM RC250GP"
+          },
+          {
+            "pos": 8,
+            "name": "Guido Pini",
+            "points": 46,
+            "team": "#94 Leopard Racing",
+            "vehicle": "Honda NSF250RW"
+          },
+          {
+            "pos": 9,
+            "name": "Brian Uriarte",
+            "points": 42,
+            "team": "#51 Red Bull KTM Ajo",
+            "vehicle": "KTM RC250GP"
+          },
+          {
+            "pos": 10,
+            "name": "David Muñoz",
+            "points": 38,
+            "team": "#64 Liqui Moly Dynavolt Intact GP",
+            "vehicle": "KTM RC250GP"
+          }
+        ]
+      }
+    ],
     "fiakeuro": [
       {
         "className": "OK",
@@ -7345,8 +7356,6 @@
     "woolm": "2026-05-17",
     "f4us": "2026-05-17",
     "framericas": "2026-05-17",
-    "moto2": "2026-05-17",
-    "moto3": "2026-05-17",
     "igtopen": "2026-05-17",
     "efo": "2026-05-17",
     "tcreu": "2026-05-17",
