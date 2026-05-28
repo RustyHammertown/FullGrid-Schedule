@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-28T03:35:02.011Z",
+  "generatedAt": "2026-05-28T03:39:53.788Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3073,5 +3073,9 @@
     "motogp",
     "indycar",
     "nascar"
+  ],
+  "removed": [
+    "moto2",
+    "moto3"
   ]
 }
