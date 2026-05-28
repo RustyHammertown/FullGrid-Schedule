@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-27T23:48:57.096Z",
+  "generatedAt": "2026-05-28T00:05:24.840Z",
   "events": [
     {
       "id": 101,
@@ -57894,24 +57894,39 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Race 1",
+          "name": "Practice 1",
           "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/FordRacing"
-            }
-          }
+          "tbd": true
         },
         {
-          "name": "Race 2",
-          "time": "2026-06-21T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/FordRacing"
-            }
-          }
+          "name": "Practice 2",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Miles Cup Qualifying",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Parnelli Cup Qualifying",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Miles Cup Race",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Parnelli Cup Race",
+          "time": "2026-06-20T08:00:00-04:00",
+          "tbd": true
         }
       ]
     },
@@ -57926,24 +57941,39 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Race 1",
+          "name": "Practice 1",
           "time": "2026-08-15T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/FordRacing"
-            }
-          }
+          "tbd": true
         },
         {
-          "name": "Race 2",
-          "time": "2026-08-16T07:00:00-05:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/FordRacing"
-            }
-          }
+          "name": "Practice 2",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Miles Cup Qualifying",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Parnelli Cup Qualifying",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Miles Cup Race",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Parnelli Cup Race",
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true
         }
       ]
     },
@@ -57958,24 +57988,39 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Race 1",
+          "name": "Practice 1",
           "time": "2026-09-12T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/FordRacing"
-            }
-          }
+          "tbd": true
         },
         {
-          "name": "Race 2",
-          "time": "2026-09-13T08:00:00-04:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/FordRacing"
-            }
-          }
+          "name": "Practice 2",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Miles Cup Qualifying",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Parnelli Cup Qualifying",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Miles Cup Race",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Parnelli Cup Race",
+          "time": "2026-09-12T08:00:00-04:00",
+          "tbd": true
         }
       ]
     },
