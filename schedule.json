@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T22:11:50.876Z",
+  "generatedAt": "2026-05-28T22:17:33.628Z",
   "events": [
     {
       "id": 101,
@@ -3189,6 +3189,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3200,6 +3260,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3269,6 +3341,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3280,6 +3412,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3349,6 +3493,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3360,6 +3564,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3452,6 +3668,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3463,6 +3739,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3532,6 +3820,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3543,6 +3891,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3612,6 +3972,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3623,6 +4043,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3715,6 +4147,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3726,6 +4218,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3795,6 +4299,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3806,6 +4370,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3875,6 +4451,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3886,6 +4522,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -3978,6 +4626,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -3989,6 +4697,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4058,6 +4778,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4069,6 +4849,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4138,6 +4930,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4149,6 +5001,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4296,6 +5160,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4307,6 +5231,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4376,6 +5312,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4387,6 +5383,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4456,6 +5464,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4467,6 +5535,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4617,6 +5697,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4628,6 +5768,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4746,6 +5898,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4757,6 +5969,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -4875,6 +6099,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -4886,6 +6170,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5036,6 +6332,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5047,6 +6403,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5165,6 +6533,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5176,6 +6604,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5294,6 +6734,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5305,6 +6805,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5455,6 +6967,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5466,6 +7038,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5584,6 +7168,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5595,6 +7239,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5713,6 +7369,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5724,6 +7440,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5869,6 +7597,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -5880,6 +7668,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -5993,6 +7793,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6004,6 +7864,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6117,6 +7989,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6128,6 +8060,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6273,6 +8217,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6284,6 +8288,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6397,6 +8413,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6408,6 +8484,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6521,6 +8609,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6532,6 +8680,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6677,6 +8837,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6688,6 +8908,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6801,6 +9033,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6812,6 +9104,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -6925,6 +9229,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -6936,6 +9300,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7081,6 +9457,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7092,6 +9528,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7205,6 +9653,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7216,6 +9724,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7329,6 +9849,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7340,6 +9920,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7485,6 +10077,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7496,6 +10148,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7609,6 +10273,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7620,6 +10344,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7733,6 +10469,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7744,6 +10540,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -7889,6 +10697,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -7900,6 +10768,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8013,6 +10893,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8024,6 +10964,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8137,6 +11089,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8148,6 +11160,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8295,6 +11319,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8306,6 +11390,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8420,6 +11516,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8431,6 +11587,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8545,6 +11713,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8556,6 +11784,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8703,6 +11943,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8714,6 +12014,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8828,6 +12140,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8839,6 +12211,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -8953,6 +12337,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -8964,6 +12408,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9111,6 +12567,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9122,6 +12638,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9236,6 +12764,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9247,6 +12835,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9361,6 +12961,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9372,6 +13032,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9519,6 +13191,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9530,6 +13262,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9644,6 +13388,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9655,6 +13459,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9769,6 +13585,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9780,6 +13656,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -9927,6 +13815,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -9938,6 +13886,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -10052,6 +14012,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -10063,6 +14083,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
@@ -10177,6 +14209,66 @@
             "IN": {
               "service": "Eurosport India / FanCode"
             },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
             "BR": {
               "service": "SporTV"
             },
@@ -10188,6 +14280,18 @@
             },
             "TH": {
               "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
             },
             "ZA": {
               "service": "SuperSport"
