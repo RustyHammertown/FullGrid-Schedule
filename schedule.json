@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T21:40:48.211Z",
+  "generatedAt": "2026-05-28T21:47:34.606Z",
   "events": [
     {
       "id": 101,
@@ -3143,7 +3143,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/tha/motogp/spr/classification",
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             }
           }
         },
@@ -3154,7 +3154,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/tha/motogp/rac/classification",
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -3352,7 +3352,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/motogp/spr/classification",
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -3363,7 +3363,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/bra/motogp/rac/classification",
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -3561,7 +3561,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/motogp/spr/classification",
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -3572,7 +3572,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/motogp/rac/classification",
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -3770,7 +3770,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/spa/motogp/spr/classification",
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -3781,7 +3781,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/spa/motogp/rac/classification",
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -4023,7 +4023,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/fra/motogp/spr/classification",
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -4045,7 +4045,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/fra/motogp/rac/classification",
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -4292,7 +4292,7 @@
           "laps": 12,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -4312,7 +4312,7 @@
           "laps": 24,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -4657,7 +4657,7 @@
           "laps": 11,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             }
           }
         },
@@ -4677,7 +4677,7 @@
           "laps": 23,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -5022,7 +5022,7 @@
           "laps": 12,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             }
           }
         },
@@ -5042,7 +5042,7 @@
           "laps": 25,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -5392,7 +5392,7 @@
           "laps": 10,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -5402,7 +5402,7 @@
           "laps": 21,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -5742,7 +5742,7 @@
           "laps": 13,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -5752,7 +5752,7 @@
           "laps": 26,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -6092,7 +6092,7 @@
           "laps": 15,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -6102,7 +6102,7 @@
           "laps": 30,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -6442,7 +6442,7 @@
           "laps": 10,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             }
           }
         },
@@ -6452,7 +6452,7 @@
           "laps": 20,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -6792,7 +6792,7 @@
           "laps": 11,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             }
           }
         },
@@ -6802,7 +6802,7 @@
           "laps": 23,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -7142,7 +7142,7 @@
           "laps": 13,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -7152,7 +7152,7 @@
           "laps": 27,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -7493,7 +7493,7 @@
           "laps": 14,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -7504,7 +7504,7 @@
           "laps": 28,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -7847,7 +7847,7 @@
           "laps": 12,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -7858,7 +7858,7 @@
           "laps": 24,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -8201,7 +8201,7 @@
           "laps": 10,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -8212,7 +8212,7 @@
           "laps": 20,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -8555,7 +8555,7 @@
           "laps": 11,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             }
           }
         },
@@ -8566,7 +8566,7 @@
           "laps": 22,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"
@@ -8909,7 +8909,7 @@
           "laps": 13,
           "broadcasts": {
             "US": {
-              "service": "MotoGP Channel / MotoGP VideoPass"
+              "service": "FS2 / MotoGP VideoPass"
             }
           }
         },
@@ -8920,7 +8920,7 @@
           "laps": 27,
           "broadcasts": {
             "US": {
-              "service": "FOX / MotoGP VideoPass"
+              "service": "FS1 / MotoGP VideoPass"
             },
             "CA": {
               "service": "MotoGP VideoPass"

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-28T21:40:51.936Z",
+  "generatedAt": "2026-05-28T21:47:35.305Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -120,7 +120,7 @@
       "color": "#378ADD",
       "bg": "rgba(55,138,221,0.15)",
       "broadcast": {
-        "US": "FOX / MotoGP Channel / MotoGP VideoPass",
+        "US": "FS1 / FS2 / MotoGP Channel / MotoGP VideoPass",
         "UK": "TNT Sports",
         "AU": "Fox Sports",
         "Global": "Check local listings"
