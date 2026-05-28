@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T22:49:24.695Z",
+  "generatedAt": "2026-05-28T22:55:31.135Z",
   "groups": {
     "f1": [
       {
@@ -555,29 +555,116 @@
       {
         "label": "Practice",
         "sessions": [
-          "Practice",
-          "Sixties' Endurance Practice",
-          "Heritage Touring Cup 1 Practice",
-          "Heritage Touring Cup 2 Practice",
+          "2.0L Cup Practice",
           "Classic Endurance Racing 1 Practice",
           "Classic Endurance Racing 2 Practice",
-          "Gentlemen Challenge Practice"
+          "Classic Touring Challenge Practice",
+          "Gentlemen Challenge Practice",
+          "Heritage Touring Cup 1 Practice",
+          "Heritage Touring Cup 2 Practice",
+          "Practice",
+          "Sixties' Endurance Practice"
         ]
       },
       {
         "label": "Qualifying",
         "sessions": [
-          "Qualifying",
-          "Sixties' Endurance Qualifying",
-          "Heritage Touring Cup 1 Qualifying",
-          "Heritage Touring Cup 2 Qualifying",
+          "2.0L Cup Qualifying",
           "Classic Endurance Racing 1 Qualifying",
           "Classic Endurance Racing 2 Qualifying",
-          "Gentlemen Challenge Qualifying",
+          "Classic Touring Challenge Qualifying",
           "Endurance Racing Legends 1 Qualifying 1",
           "Endurance Racing Legends 1 Qualifying 2",
           "Endurance Racing Legends 2 Qualifying 1",
-          "Endurance Racing Legends 2 Qualifying 2"
+          "Endurance Racing Legends 2 Qualifying 2",
+          "Gentlemen Challenge Qualifying",
+          "Heritage Touring Cup 1 Qualifying",
+          "Heritage Touring Cup 2 Qualifying",
+          "Qualifying",
+          "Sixties' Endurance Qualifying"
+        ]
+      },
+      {
+        "label": "2.0L Cup",
+        "sessions": [
+          "2.0L Cup Practice",
+          "2.0L Cup Qualifying",
+          "2.0L Cup Race"
+        ]
+      },
+      {
+        "label": "Classic Endurance Racing 1",
+        "sessions": [
+          "Classic Endurance Racing 1 Practice",
+          "Classic Endurance Racing 1 Qualifying",
+          "Classic Endurance Racing 1 Race"
+        ]
+      },
+      {
+        "label": "Classic Endurance Racing 2",
+        "sessions": [
+          "Classic Endurance Racing 2 Practice",
+          "Classic Endurance Racing 2 Qualifying",
+          "Classic Endurance Racing 2 Race"
+        ]
+      },
+      {
+        "label": "Classic Touring Challenge",
+        "sessions": [
+          "Classic Touring Challenge Practice",
+          "Classic Touring Challenge Qualifying",
+          "Classic Touring Challenge Race"
+        ]
+      },
+      {
+        "label": "Endurance Racing Legends 1",
+        "sessions": [
+          "Endurance Racing Legends 1 Qualifying 1",
+          "Endurance Racing Legends 1 Qualifying 2",
+          "Endurance Racing Legends 1 Race 1",
+          "Endurance Racing Legends 1 Race 2"
+        ]
+      },
+      {
+        "label": "Endurance Racing Legends 2",
+        "sessions": [
+          "Endurance Racing Legends 2 Qualifying 1",
+          "Endurance Racing Legends 2 Qualifying 2",
+          "Endurance Racing Legends 2 Race 1",
+          "Endurance Racing Legends 2 Race 2"
+        ]
+      },
+      {
+        "label": "Gentlemen Challenge",
+        "sessions": [
+          "Gentlemen Challenge Practice",
+          "Gentlemen Challenge Qualifying",
+          "Gentlemen Challenge Race 1",
+          "Gentlemen Challenge Race 2"
+        ]
+      },
+      {
+        "label": "Heritage Touring Cup 1",
+        "sessions": [
+          "Heritage Touring Cup 1 Practice",
+          "Heritage Touring Cup 1 Qualifying",
+          "Heritage Touring Cup 1 Race"
+        ]
+      },
+      {
+        "label": "Heritage Touring Cup 2",
+        "sessions": [
+          "Heritage Touring Cup 2 Practice",
+          "Heritage Touring Cup 2 Qualifying",
+          "Heritage Touring Cup 2 Race"
+        ]
+      },
+      {
+        "label": "Sixties' Endurance",
+        "sessions": [
+          "Sixties' Endurance Practice",
+          "Sixties' Endurance Qualifying",
+          "Sixties' Endurance Race"
         ]
       }
     ],
