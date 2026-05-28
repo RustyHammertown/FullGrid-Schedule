@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-28T22:03:39.509Z",
+  "generatedAt": "2026-05-28T22:11:19.052Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -111,6 +111,9 @@
     "Viaplay": "https://viaplay.com/",
     "SuperSport": "https://supersport.com/",
     "SporTV": "https://sportv.globo.com/",
+    "Sportklub": "https://sportklub.rs/",
+    "Trans7": "https://www.trans7.co.id/",
+    "True4U": "https://true4u.com/",
     "Sky Italia": "https://www.sky.it/",
     "Sky Deutschland": "https://www.sky.de/",
     "ProSieben": "https://www.prosieben.de/",
@@ -206,6 +209,25 @@
       "AL",
       "XK"
     ],
+    "LATAM": [
+      "MX",
+      "GT",
+      "HN",
+      "SV",
+      "NI",
+      "CR",
+      "PA",
+      "CO",
+      "VE",
+      "EC",
+      "PE",
+      "BO",
+      "CL",
+      "AR",
+      "UY",
+      "PY",
+      "DO"
+    ],
     "Africa": [
       "ZA",
       "NG",
@@ -279,6 +301,12 @@
     "CL": "Chile",
     "ZA": "South Africa",
     "MENA": "Middle East & North Africa",
+    "LATAM": "Latin America",
+    "Balkans": "Balkans",
+    "Africa": "Africa",
+    "ID": "Indonesia",
+    "TH": "Thailand",
+    "VE": "Venezuela",
     "Global": "Global"
   }
 }

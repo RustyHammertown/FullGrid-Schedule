@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-28T22:03:31.284Z",
+  "generatedAt": "2026-05-28T22:11:18.388Z",
   "events": [
     {
       "id": 101,
@@ -3186,20 +3186,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3248,20 +3266,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3310,20 +3346,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3395,20 +3449,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3457,20 +3529,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3519,20 +3609,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3604,20 +3712,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3666,20 +3792,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3728,20 +3872,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3813,20 +3975,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3875,20 +4055,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -3937,20 +4135,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4077,20 +4293,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4139,20 +4373,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4201,20 +4453,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4344,20 +4614,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4455,20 +4743,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4566,20 +4872,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4709,20 +5033,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4820,20 +5162,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -4931,20 +5291,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5074,20 +5452,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5185,20 +5581,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5296,20 +5710,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5434,20 +5866,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5540,20 +5990,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5646,20 +6114,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5784,20 +6270,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5890,20 +6394,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -5996,20 +6518,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6134,20 +6674,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6240,20 +6798,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6346,20 +6922,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6484,20 +7078,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6590,20 +7202,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6696,20 +7326,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6834,20 +7482,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -6940,20 +7606,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7046,20 +7730,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7184,20 +7886,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7290,20 +8010,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7396,20 +8134,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7536,20 +8292,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7643,20 +8417,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7750,20 +8542,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7890,20 +8700,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -7997,20 +8825,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8104,20 +8950,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8244,20 +9108,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8351,20 +9233,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8458,20 +9358,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8598,20 +9516,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8705,20 +9641,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8812,20 +9766,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -8952,20 +9924,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -9059,20 +10049,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
@@ -9166,20 +10174,38 @@
             "NL": {
               "service": "Ziggo Sport"
             },
-            "Nordics": {
-              "service": "Viaplay"
-            },
             "IN": {
               "service": "Eurosport India / FanCode"
-            },
-            "ZA": {
-              "service": "SuperSport"
             },
             "BR": {
               "service": "SporTV"
             },
             "JP": {
               "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
             },
             "MENA": {
               "service": "beIN Sports"
