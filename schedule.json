@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:29:20.986Z",
+  "generatedAt": "2026-05-29T16:37:39.475Z",
   "events": [
     {
       "id": 101,
@@ -51445,7 +51445,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51455,7 +51455,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51465,7 +51465,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51475,7 +51475,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51485,7 +51485,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51495,7 +51495,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51505,7 +51505,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51515,7 +51515,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51525,7 +51525,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51535,7 +51535,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51545,7 +51545,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51555,7 +51555,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51565,7 +51565,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51575,7 +51575,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51585,7 +51585,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51595,7 +51595,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
@@ -51603,6 +51603,16 @@
           "name": "All classes Eliminations",
           "time": "2026-05-31T11:00:00-04:00",
           "duration": 300,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "All classes Eliminations Broadcast",
+          "time": "2026-05-31T15:00:00-04:00",
+          "duration": 120,
           "broadcasts": {
             "CA": {
               "service": "FOX Sports Racing"
