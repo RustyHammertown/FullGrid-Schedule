@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T00:16:28.928Z",
+  "generatedAt": "2026-05-29T03:09:00.250Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -554,7 +554,7 @@
       ],
       "group": "rally",
       "region": "europe",
-      "label": "WRC",
+      "label": "FIA WRC",
       "short": "WRC",
       "color": "#7F77DD",
       "bg": "rgba(127,119,221,0.15)",
