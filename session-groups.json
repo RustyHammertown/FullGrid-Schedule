@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:09:44.687Z",
+  "generatedAt": "2026-05-29T16:21:20.531Z",
   "groups": {
     "f1": [
       {
@@ -1601,12 +1601,43 @@
     ],
     "nhra": [
       {
-        "label": "Qualifying",
+        "label": "Top Fuel",
         "sessions": [
-          "Qualifying Day 1",
-          "Qualifying Day 2",
-          "Qualifying Day 1 (TBD)",
-          "Qualifying Day 2 (TBD)"
+          "Top Fuel Qualifying 1",
+          "Top Fuel Qualifying 2",
+          "Top Fuel Qualifying 3",
+          "Top Fuel Qualifying 4",
+          "Top Fuel Eliminations"
+        ]
+      },
+      {
+        "label": "Funny Car",
+        "sessions": [
+          "Funny Car Qualifying 1",
+          "Funny Car Qualifying 2",
+          "Funny Car Qualifying 3",
+          "Funny Car Qualifying 4",
+          "Funny Car Eliminations"
+        ]
+      },
+      {
+        "label": "Pro Stock",
+        "sessions": [
+          "Pro Stock Qualifying 1",
+          "Pro Stock Qualifying 2",
+          "Pro Stock Qualifying 3",
+          "Pro Stock Qualifying 4",
+          "Pro Stock Eliminations"
+        ]
+      },
+      {
+        "label": "Pro Stock Motorcycle",
+        "sessions": [
+          "Pro Stock Motorcycle Qualifying 1",
+          "Pro Stock Motorcycle Qualifying 2",
+          "Pro Stock Motorcycle Qualifying 3",
+          "Pro Stock Motorcycle Qualifying 4",
+          "Pro Stock Motorcycle Eliminations"
         ]
       }
     ],
