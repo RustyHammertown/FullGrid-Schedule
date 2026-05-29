@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-29T12:44:49.941Z",
+  "generatedAt": "2026-05-29T13:06:56.450Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -171,7 +171,18 @@
     "MegaMedia": "https://www.mega.cl/",
     "DF1": "https://www.df1.de/",
     "RDS": "https://www.rds.ca/",
-    "MotorTrend": "https://www.motortrend.com/"
+    "MotorTrend": "https://www.motortrend.com/",
+    "Fox Deportes": "https://www.foxdeportes.com/",
+    "MTV3": "https://www.mtv.fi/",
+    "TV4": "https://www.tv4.se/",
+    "VG": "https://tv.vg.no/",
+    "Go3": "https://go3.tv/",
+    "TV3": "https://www.ccma.cat/tv3/",
+    "Oneplay Sport": "https://oneplaysport.cz/",
+    "RAI": "https://www.rai.it/",
+    "TVNZ": "https://www.tvnz.co.nz/",
+    "TV Asahi": "https://www.tv-asahi.co.jp/",
+    "Sony Sports Network": "https://www.sonysportsnetwork.com/"
   },
   "buckets": {
     "Nordics": [
@@ -219,6 +230,15 @@
       "TH",
       "VN",
       "TL"
+    ],
+    "SouthAsia": [
+      "AF",
+      "BD",
+      "BT",
+      "MV",
+      "NP",
+      "PK",
+      "LK"
     ],
     "Balkans": [
       "RS",
@@ -343,6 +363,16 @@
     "SI": "Slovenia",
     "TW": "Taiwan",
     "MT": "Malta",
+    "FI": "Finland",
+    "SE": "Sweden",
+    "NO": "Norway",
+    "EE": "Estonia",
+    "LV": "Latvia",
+    "LT": "Lithuania",
+    "HK": "Hong Kong",
+    "HR": "Croatia",
+    "MM": "Myanmar",
+    "SouthAsia": "South Asia",
     "Global": "Global"
   }
 }

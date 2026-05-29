@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T12:44:44.832Z",
+  "generatedAt": "2026-05-29T13:06:55.779Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -559,13 +559,17 @@
       "color": "#7F77DD",
       "bg": "rgba(127,119,221,0.15)",
       "broadcast": {
-        "US": "Rally.TV",
-        "UK": "Rally.TV",
-        "IE": "Rally.TV",
-        "CA": "Rally.TV",
-        "AU": "Rally.TV",
-        "DE": "ServusTV",
-        "AT": "ServusTV",
+        "US": "RACER+",
+        "CA": "REV TV / RACER+",
+        "UK": "ITV / TNT Sports",
+        "IE": "ITV / TNT Sports",
+        "AU": "Stan Sport",
+        "NZ": "TVNZ",
+        "DE": "ServusTV / Sky Deutschland",
+        "AT": "ServusTV / Sky Deutschland",
+        "FR": "Canal+",
+        "IT": "RAI / Sky Italia",
+        "JP": "J SPORTS / TV Asahi",
         "Global": "Rally.TV"
       },
       "resultsUrl": "https://www.wrc.com/en/results-and-standings",
