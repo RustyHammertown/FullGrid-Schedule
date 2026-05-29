@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T17:52:47.431Z",
+  "generatedAt": "2026-05-29T18:07:32.936Z",
   "groups": {
     "f1": [
       {
@@ -1338,11 +1338,35 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying",
-          "Qualifying GTP",
-          "Qualifying GTD",
-          "Qualifying GTD PRO",
-          "Qualifying LMP2",
-          "Qualifying (TBD)"
+          "Qualifying (TBD)",
+          "GTP Qualifying",
+          "LMP2 Qualifying",
+          "GTD PRO Qualifying",
+          "GTD Qualifying"
+        ]
+      },
+      {
+        "label": "GTP",
+        "sessions": [
+          "GTP Qualifying"
+        ]
+      },
+      {
+        "label": "LMP2",
+        "sessions": [
+          "LMP2 Qualifying"
+        ]
+      },
+      {
+        "label": "GTD PRO",
+        "sessions": [
+          "GTD PRO Qualifying"
+        ]
+      },
+      {
+        "label": "GTD",
+        "sessions": [
+          "GTD Qualifying"
         ]
       }
     ],

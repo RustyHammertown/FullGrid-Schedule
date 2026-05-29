@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T17:52:42.216Z",
+  "generatedAt": "2026-05-29T18:07:31.610Z",
   "events": [
     {
       "id": 101,
@@ -30531,9 +30531,9 @@
           "duration": 120
         },
         {
-          "name": "Qualifying",
+          "name": "GTD PRO Qualifying",
           "time": "2026-05-29T16:50:00-04:00",
-          "duration": 35,
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -30541,9 +30541,19 @@
           }
         },
         {
-          "name": "Warmup",
-          "time": "2026-05-30T11:05:00-04:00",
-          "duration": 25
+          "name": "GTP Qualifying",
+          "time": "2026-05-29T17:10:00-04:00",
+          "duration": 15,
+          "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            }
+          }
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-05-30T11:10:00-04:00",
+          "duration": 20
         },
         {
           "name": "Race",
