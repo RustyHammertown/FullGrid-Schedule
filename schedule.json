@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:21:58.064Z",
+  "generatedAt": "2026-05-29T16:28:31.982Z",
   "events": [
     {
       "id": 101,
@@ -51480,61 +51480,6 @@
           }
         },
         {
-          "name": "Top Fuel Eliminations",
-          "time": "2026-05-31T11:00:00-04:00",
-          "duration": 300,
-          "broadcasts": {
-            "CA": {
-              "service": "FOX Sports Racing"
-            },
-            "UK": {
-              "service": "NHRA.tv"
-            },
-            "AU": {
-              "service": "NHRA.tv"
-            },
-            "NZ": {
-              "service": "NHRA.tv"
-            },
-            "DE": {
-              "service": "NHRA.tv"
-            },
-            "AT": {
-              "service": "NHRA.tv"
-            },
-            "CH": {
-              "service": "NHRA.tv"
-            },
-            "NL": {
-              "service": "NHRA.tv"
-            },
-            "FR": {
-              "service": "NHRA.tv"
-            },
-            "ES": {
-              "service": "NHRA.tv"
-            },
-            "IT": {
-              "service": "NHRA.tv"
-            },
-            "Nordics": {
-              "service": "NHRA.tv"
-            },
-            "BR": {
-              "service": "NHRA.tv"
-            },
-            "JP": {
-              "service": "NHRA.tv"
-            },
-            "Global": {
-              "service": "NHRA.tv"
-            },
-            "US": {
-              "service": "FOX"
-            }
-          }
-        },
-        {
           "name": "Funny Car Qualifying 1",
           "time": "2026-05-29T14:30:00-04:00",
           "duration": 45,
@@ -51571,61 +51516,6 @@
           "broadcasts": {
             "US": {
               "service": "NHRA.tv / FS1"
-            }
-          }
-        },
-        {
-          "name": "Funny Car Eliminations",
-          "time": "2026-05-31T11:00:00-04:00",
-          "duration": 300,
-          "broadcasts": {
-            "CA": {
-              "service": "FOX Sports Racing"
-            },
-            "UK": {
-              "service": "NHRA.tv"
-            },
-            "AU": {
-              "service": "NHRA.tv"
-            },
-            "NZ": {
-              "service": "NHRA.tv"
-            },
-            "DE": {
-              "service": "NHRA.tv"
-            },
-            "AT": {
-              "service": "NHRA.tv"
-            },
-            "CH": {
-              "service": "NHRA.tv"
-            },
-            "NL": {
-              "service": "NHRA.tv"
-            },
-            "FR": {
-              "service": "NHRA.tv"
-            },
-            "ES": {
-              "service": "NHRA.tv"
-            },
-            "IT": {
-              "service": "NHRA.tv"
-            },
-            "Nordics": {
-              "service": "NHRA.tv"
-            },
-            "BR": {
-              "service": "NHRA.tv"
-            },
-            "JP": {
-              "service": "NHRA.tv"
-            },
-            "Global": {
-              "service": "NHRA.tv"
-            },
-            "US": {
-              "service": "FOX"
             }
           }
         },
@@ -51670,61 +51560,6 @@
           }
         },
         {
-          "name": "Pro Stock Eliminations",
-          "time": "2026-05-31T11:00:00-04:00",
-          "duration": 300,
-          "broadcasts": {
-            "CA": {
-              "service": "FOX Sports Racing"
-            },
-            "UK": {
-              "service": "NHRA.tv"
-            },
-            "AU": {
-              "service": "NHRA.tv"
-            },
-            "NZ": {
-              "service": "NHRA.tv"
-            },
-            "DE": {
-              "service": "NHRA.tv"
-            },
-            "AT": {
-              "service": "NHRA.tv"
-            },
-            "CH": {
-              "service": "NHRA.tv"
-            },
-            "NL": {
-              "service": "NHRA.tv"
-            },
-            "FR": {
-              "service": "NHRA.tv"
-            },
-            "ES": {
-              "service": "NHRA.tv"
-            },
-            "IT": {
-              "service": "NHRA.tv"
-            },
-            "Nordics": {
-              "service": "NHRA.tv"
-            },
-            "BR": {
-              "service": "NHRA.tv"
-            },
-            "JP": {
-              "service": "NHRA.tv"
-            },
-            "Global": {
-              "service": "NHRA.tv"
-            },
-            "US": {
-              "service": "FOX"
-            }
-          }
-        },
-        {
           "name": "Pro Stock Motorcycle Qualifying 1",
           "time": "2026-05-29T13:30:00-04:00",
           "duration": 45,
@@ -51765,7 +51600,7 @@
           }
         },
         {
-          "name": "Pro Stock Motorcycle Eliminations",
+          "name": "All classes Eliminations",
           "time": "2026-05-31T11:00:00-04:00",
           "duration": 300,
           "broadcasts": {

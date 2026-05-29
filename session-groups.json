@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:22:03.434Z",
+  "generatedAt": "2026-05-29T16:28:32.653Z",
   "groups": {
     "f1": [
       {
@@ -1601,13 +1601,33 @@
     ],
     "nhra": [
       {
-        "label": "Top Fuel",
+        "label": "Qualifying",
         "sessions": [
           "Top Fuel Qualifying 1",
           "Top Fuel Qualifying 2",
           "Top Fuel Qualifying 3",
           "Top Fuel Qualifying 4",
-          "Top Fuel Eliminations"
+          "Funny Car Qualifying 1",
+          "Funny Car Qualifying 2",
+          "Funny Car Qualifying 3",
+          "Funny Car Qualifying 4",
+          "Pro Stock Qualifying 1",
+          "Pro Stock Qualifying 2",
+          "Pro Stock Qualifying 3",
+          "Pro Stock Qualifying 4",
+          "Pro Stock Motorcycle Qualifying 1",
+          "Pro Stock Motorcycle Qualifying 2",
+          "Pro Stock Motorcycle Qualifying 3",
+          "Pro Stock Motorcycle Qualifying 4"
+        ]
+      },
+      {
+        "label": "Top Fuel",
+        "sessions": [
+          "Top Fuel Qualifying 1",
+          "Top Fuel Qualifying 2",
+          "Top Fuel Qualifying 3",
+          "Top Fuel Qualifying 4"
         ]
       },
       {
@@ -1616,8 +1636,7 @@
           "Funny Car Qualifying 1",
           "Funny Car Qualifying 2",
           "Funny Car Qualifying 3",
-          "Funny Car Qualifying 4",
-          "Funny Car Eliminations"
+          "Funny Car Qualifying 4"
         ]
       },
       {
@@ -1626,8 +1645,7 @@
           "Pro Stock Qualifying 1",
           "Pro Stock Qualifying 2",
           "Pro Stock Qualifying 3",
-          "Pro Stock Qualifying 4",
-          "Pro Stock Eliminations"
+          "Pro Stock Qualifying 4"
         ]
       },
       {
@@ -1636,8 +1654,7 @@
           "Pro Stock Motorcycle Qualifying 1",
           "Pro Stock Motorcycle Qualifying 2",
           "Pro Stock Motorcycle Qualifying 3",
-          "Pro Stock Motorcycle Qualifying 4",
-          "Pro Stock Motorcycle Eliminations"
+          "Pro Stock Motorcycle Qualifying 4"
         ]
       }
     ],
