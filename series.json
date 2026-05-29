@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T03:59:48.617Z",
+  "generatedAt": "2026-05-29T12:44:00.974Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3067,6 +3067,28 @@
     ],
     "warmup": [
       "warm[-\\s]?up"
+    ],
+    "classTails": [
+      "Night Practice",
+      "Qualifying Race",
+      "Gold Helmet Race",
+      "Sprint Race",
+      "Feature Race",
+      "Modern Enduro",
+      "Legacy Enduro",
+      "Vintage Enduro",
+      "Governor's Cup",
+      "Free Practice",
+      "Warm-up",
+      "Super Heat",
+      "Practice",
+      "Qualifying",
+      "Sprint",
+      "Enduro",
+      "Testing",
+      "Final",
+      "Race",
+      "SS\\d+"
     ]
   },
   "defaultFollowed": [
