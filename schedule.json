@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:48:39.039Z",
+  "generatedAt": "2026-05-29T16:50:39.037Z",
   "events": [
     {
       "id": 101,
@@ -51600,7 +51600,7 @@
           }
         },
         {
-          "name": "All classes Eliminations",
+          "name": "All classes Eliminations Live",
           "time": "2026-05-31T11:00:00-04:00",
           "duration": 300,
           "broadcasts": {
