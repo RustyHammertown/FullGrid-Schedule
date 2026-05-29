@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:38:19.823Z",
+  "generatedAt": "2026-05-29T16:48:00.193Z",
   "groups": {
     "f1": [
       {
@@ -1619,6 +1619,18 @@
           "Pro Stock Motorcycle Qualifying 2",
           "Pro Stock Motorcycle Qualifying 3",
           "Pro Stock Motorcycle Qualifying 4"
+        ]
+      },
+      {
+        "label": "Eliminations Live",
+        "sessions": [
+          "All classes Eliminations"
+        ]
+      },
+      {
+        "label": "Eliminations Broadcast",
+        "sessions": [
+          "All classes Eliminations Broadcast"
         ]
       },
       {
