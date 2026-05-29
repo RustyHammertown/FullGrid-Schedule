@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T18:08:12.133Z",
+  "generatedAt": "2026-05-29T18:17:05.373Z",
   "groups": {
     "f1": [
       {
@@ -1331,7 +1331,13 @@
           "Practice (TBD)",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)",
-          "Practice 3 (TBD)"
+          "Practice 3 (TBD)",
+          "GTP, GTD PRO Practice 1",
+          "GTP, GTD PRO Practice 2",
+          "GTP, GTD PRO Practice 3",
+          "GTP, LMP2, GTD PRO, GTD Practice 1",
+          "GTP, LMP2, GTD PRO, GTD Practice 2",
+          "GTP, LMP2, GTD PRO, GTD Practice 3"
         ]
       },
       {
@@ -1648,13 +1654,13 @@
       {
         "label": "Eliminations Live",
         "sessions": [
-          "All classes Eliminations Live"
+          "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live"
         ]
       },
       {
         "label": "Eliminations Broadcast",
         "sessions": [
-          "All classes Eliminations Broadcast"
+          "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast"
         ]
       },
       {

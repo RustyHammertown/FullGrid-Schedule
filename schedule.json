@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T18:08:06.786Z",
+  "generatedAt": "2026-05-29T18:17:04.045Z",
   "events": [
     {
       "id": 101,
@@ -30521,12 +30521,12 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Practice 1",
+          "name": "GTP, GTD PRO Practice 1",
           "time": "2026-05-29T08:00:00-04:00",
           "duration": 90
         },
         {
-          "name": "Practice 2",
+          "name": "GTP, GTD PRO Practice 2",
           "time": "2026-05-29T11:30:00-04:00",
           "duration": 120
         },
@@ -30551,12 +30551,12 @@
           }
         },
         {
-          "name": "Practice 3",
+          "name": "GTP, GTD PRO Practice 3",
           "time": "2026-05-30T11:10:00-04:00",
           "duration": 20
         },
         {
-          "name": "Race",
+          "name": "GTP, GTD PRO Race",
           "time": "2026-05-30T16:10:00-04:00",
           "duration": 100,
           "broadcasts": {
@@ -51546,7 +51546,7 @@
           }
         },
         {
-          "name": "All classes Eliminations Live",
+          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live",
           "time": "2026-05-31T11:00:00-04:00",
           "duration": 300,
           "broadcasts": {
@@ -51556,7 +51556,7 @@
           }
         },
         {
-          "name": "All classes Eliminations Broadcast",
+          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast",
           "time": "2026-05-31T15:00:00-04:00",
           "duration": 120,
           "broadcasts": {
@@ -51643,7 +51643,7 @@
           }
         },
         {
-          "name": "Eliminations Live",
+          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live",
           "time": "2026-06-07T11:00:00-04:00",
           "duration": 240,
           "broadcasts": {
@@ -51653,7 +51653,7 @@
           }
         },
         {
-          "name": "Eliminations Broadcast",
+          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast",
           "time": "2026-06-07T15:00:00-04:00",
           "duration": 120,
           "broadcasts": {
