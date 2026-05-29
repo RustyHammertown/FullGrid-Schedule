@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T03:46:41.883Z",
+  "generatedAt": "2026-05-29T03:54:11.426Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -568,7 +568,8 @@
         "AT": "ServusTV",
         "Global": "Rally.TV"
       },
-      "resultsUrl": "https://www.wrc.com/en/results-and-standings"
+      "resultsUrl": "https://www.wrc.com/en/results-and-standings",
+      "classGrid": true
     },
     "imsa": {
       "id": "imsa",
