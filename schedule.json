@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T17:39:08.026Z",
+  "generatedAt": "2026-05-29T17:52:02.030Z",
   "events": [
     {
       "id": 101,
@@ -17787,7 +17787,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -17917,7 +17917,7 @@
           "duration": 480,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18047,7 +18047,7 @@
           "duration": 480,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18178,7 +18178,7 @@
           "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rallye-monte-carlo-2026/",
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18320,7 +18320,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18450,7 +18450,7 @@
           "duration": 480,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18580,7 +18580,7 @@
           "duration": 480,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18711,7 +18711,7 @@
           "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rally-sweden-2026/",
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18853,7 +18853,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -18983,7 +18983,7 @@
           "duration": 480,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19113,7 +19113,7 @@
           "duration": 480,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19244,7 +19244,7 @@
           "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-safari-rally-kenya-2026/",
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19386,7 +19386,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19516,7 +19516,7 @@
           "duration": 540,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19646,7 +19646,7 @@
           "duration": 540,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19777,7 +19777,7 @@
           "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-croatia-rally-2026/",
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -19919,7 +19919,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20049,7 +20049,7 @@
           "duration": 540,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20179,7 +20179,7 @@
           "duration": 540,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20310,7 +20310,7 @@
           "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rally-islas-canarias-2026/",
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20452,7 +20452,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20582,7 +20582,7 @@
           "duration": 540,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20712,7 +20712,7 @@
           "duration": 720,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20842,7 +20842,7 @@
           "duration": 360,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -20984,7 +20984,7 @@
           "duration": 270,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21114,7 +21114,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21244,7 +21244,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21374,7 +21374,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21504,7 +21504,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21634,7 +21634,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21764,7 +21764,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -21894,7 +21894,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22024,7 +22024,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22154,7 +22154,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22284,7 +22284,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22414,7 +22414,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22544,7 +22544,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22674,7 +22674,7 @@
           "duration": 20,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22804,7 +22804,7 @@
           "duration": 20,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -22934,7 +22934,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23064,7 +23064,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23194,7 +23194,7 @@
           "duration": 15,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23324,7 +23324,7 @@
           "duration": 15,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23454,7 +23454,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23584,7 +23584,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23726,7 +23726,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23856,7 +23856,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -23986,7 +23986,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24116,7 +24116,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24246,7 +24246,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24376,7 +24376,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24506,7 +24506,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24636,7 +24636,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24766,7 +24766,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -24896,7 +24896,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25026,7 +25026,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25156,7 +25156,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25286,7 +25286,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25416,7 +25416,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25546,7 +25546,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25676,7 +25676,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25806,7 +25806,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -25936,7 +25936,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26078,7 +26078,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26208,7 +26208,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26350,7 +26350,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26480,7 +26480,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26610,7 +26610,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26740,7 +26740,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -26870,7 +26870,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27000,7 +27000,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27130,7 +27130,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27260,7 +27260,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27390,7 +27390,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27520,7 +27520,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27650,7 +27650,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27780,7 +27780,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -27910,7 +27910,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28040,7 +28040,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28170,7 +28170,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28300,7 +28300,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28430,7 +28430,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28560,7 +28560,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28690,7 +28690,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28820,7 +28820,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -28950,7 +28950,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29092,7 +29092,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29222,7 +29222,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29364,7 +29364,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29494,7 +29494,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29636,7 +29636,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29766,7 +29766,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -29908,7 +29908,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -30038,7 +30038,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "RACER+"
+              "service": "Rally.TV"
             },
             "CA": {
               "service": "REV TV / RACER+"
@@ -35206,7 +35206,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/sao-paulo",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35310,7 +35310,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/mexico-city",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35414,7 +35414,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/miami",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35518,7 +35518,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/jeddah/round-4",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35612,7 +35612,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/jeddah/round-5",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35716,7 +35716,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/madrid",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35820,7 +35820,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/berlin/round-7",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35914,7 +35914,7 @@
           "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/berlin/round-8",
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -35982,12 +35982,12 @@
       "round": 9,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Race Live",
           "time": "2026-05-16T15:04:00+02:00",
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36041,6 +36041,16 @@
               "service": "YouTube/FIAFormulaE"
             }
           }
+        },
+        {
+          "name": "Race Broadcast",
+          "time": "2026-05-30T23:00:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            }
+          }
         }
       ]
     },
@@ -36055,12 +36065,12 @@
       "round": 10,
       "sessions": [
         {
-          "name": "Race",
+          "name": "Race Live",
           "time": "2026-05-17T15:04:00+02:00",
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36112,6 +36122,16 @@
             },
             "Global": {
               "service": "YouTube/FIAFormulaE"
+            }
+          }
+        },
+        {
+          "name": "Race Broadcast",
+          "time": "2026-05-31T00:00:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
             }
           }
         }
@@ -36148,7 +36168,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36236,7 +36256,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36324,7 +36344,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36412,7 +36432,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36500,7 +36520,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36588,7 +36608,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -36676,7 +36696,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "CBS Sports Network / The Roku Channel"
+              "service": "The Roku Channel"
             },
             "CA": {
               "service": "TSN"
@@ -51613,9 +51633,19 @@
           }
         },
         {
-          "name": "Eliminations",
+          "name": "Eliminations Live",
           "time": "2026-06-07T11:00:00-04:00",
-          "duration": 360,
+          "duration": 240,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Eliminations Broadcast",
+          "time": "2026-06-07T15:00:00-04:00",
+          "duration": 120,
           "broadcasts": {
             "CA": {
               "service": "FOX Sports Racing"

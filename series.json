@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T17:39:11.494Z",
+  "generatedAt": "2026-05-29T17:52:02.730Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1199,7 +1199,7 @@
       "color": "#FAC775",
       "bg": "rgba(250,199,117,0.15)",
       "broadcast": {
-        "US": "CBS Sports Network / The Roku Channel",
+        "US": "The Roku Channel",
         "UK": "Channel 4",
         "AU": "beIN Sports",
         "Global": "Check local listings"
