@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T03:54:37.160Z",
+  "generatedAt": "2026-05-29T03:59:07.900Z",
   "events": [
     {
       "id": 101,
@@ -20346,7 +20346,7 @@
       "round": 8,
       "sessions": [
         {
-          "name": "Day 1",
+          "name": "Shakedown",
           "time": "2026-06-25T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
@@ -20401,118 +20401,8 @@
           }
         },
         {
-          "name": "Day 2",
+          "name": "SS1",
           "time": "2026-06-26T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 3",
-          "time": "2026-06-27T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 4",
-          "time": "2026-06-28T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
             "US": {
@@ -20578,7 +20468,7 @@
       "round": 9,
       "sessions": [
         {
-          "name": "Day 1",
+          "name": "Shakedown",
           "time": "2026-07-16T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
@@ -20633,118 +20523,8 @@
           }
         },
         {
-          "name": "Day 2",
+          "name": "SS1",
           "time": "2026-07-17T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 3",
-          "time": "2026-07-18T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 4",
-          "time": "2026-07-19T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
             "US": {
@@ -21042,7 +20822,7 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Day 1",
+          "name": "Shakedown",
           "time": "2026-08-27T09:00:00-03:00",
           "tbd": true,
           "broadcasts": {
@@ -21097,118 +20877,8 @@
           }
         },
         {
-          "name": "Day 2",
+          "name": "SS1",
           "time": "2026-08-28T09:00:00-03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 3",
-          "time": "2026-08-29T09:00:00-03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 4",
-          "time": "2026-08-30T09:00:00-03:00",
           "tbd": true,
           "broadcasts": {
             "US": {
@@ -21274,7 +20944,7 @@
       "round": 12,
       "sessions": [
         {
-          "name": "Day 1",
+          "name": "Shakedown",
           "time": "2026-09-10T09:00:00-03:00",
           "tbd": true,
           "broadcasts": {
@@ -21329,118 +20999,8 @@
           }
         },
         {
-          "name": "Day 2",
+          "name": "SS1",
           "time": "2026-09-11T09:00:00-03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 3",
-          "time": "2026-09-12T09:00:00-03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 4",
-          "time": "2026-09-13T09:00:00-03:00",
           "tbd": true,
           "broadcasts": {
             "US": {
@@ -21506,7 +21066,7 @@
       "round": 13,
       "sessions": [
         {
-          "name": "Day 1",
+          "name": "Shakedown",
           "time": "2026-10-01T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
@@ -21561,118 +21121,8 @@
           }
         },
         {
-          "name": "Day 2",
+          "name": "SS1",
           "time": "2026-10-02T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 3",
-          "time": "2026-10-03T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 4",
-          "time": "2026-10-04T14:00:00+02:00",
           "tbd": true,
           "broadcasts": {
             "US": {
@@ -21738,7 +21188,7 @@
       "round": 14,
       "sessions": [
         {
-          "name": "Day 1",
+          "name": "Shakedown",
           "time": "2026-11-11T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
@@ -21793,118 +21243,8 @@
           }
         },
         {
-          "name": "Day 2",
+          "name": "SS1",
           "time": "2026-11-12T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 3",
-          "time": "2026-11-13T15:00:00+03:00",
-          "tbd": true,
-          "broadcasts": {
-            "US": {
-              "service": "Rally.TV"
-            },
-            "CA": {
-              "service": "Rally.TV"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Rally.TV"
-            },
-            "NZ": {
-              "service": "Rally.TV"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "Canal+ / Eurosport"
-            },
-            "IT": {
-              "service": "Sky Italia / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Viaplay"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
-            "ZA": {
-              "service": "SuperSport"
-            },
-            "Global": {
-              "service": "Rally.TV"
-            }
-          }
-        },
-        {
-          "name": "Day 4",
-          "time": "2026-11-14T15:00:00+03:00",
           "tbd": true,
           "broadcasts": {
             "US": {
