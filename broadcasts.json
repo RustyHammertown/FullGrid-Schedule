@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-05-29T16:51:33.476Z",
+  "generatedAt": "2026-05-29T17:38:33.635Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -182,7 +182,9 @@
     "RAI": "https://www.rai.it/",
     "TVNZ": "https://www.tvnz.co.nz/",
     "TV Asahi": "https://www.tv-asahi.co.jp/",
-    "Sony Sports Network": "https://www.sonysportsnetwork.com/"
+    "Sony Sports Network": "https://www.sonysportsnetwork.com/",
+    "NASCAR Channel": "https://www.nascar.com/",
+    "F1 TV Premium": "https://f1tv.formula1.com/"
   },
   "buckets": {
     "Nordics": [

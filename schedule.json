@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T16:51:24.328Z",
+  "generatedAt": "2026-05-29T17:38:31.799Z",
   "events": [
     {
       "id": 101,
@@ -4112,7 +4112,7 @@
           "resultsUrl": "https://www.motogp.com/en/gp-results/2026/usa/motogp/rac/classification",
           "broadcasts": {
             "US": {
-              "service": "FS1 / MotoGP VideoPass"
+              "service": "FOX / MotoGP VideoPass"
             },
             "CA": {
               "service": "Sportsnet"
@@ -33409,7 +33409,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33495,7 +33495,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33581,7 +33581,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33655,7 +33655,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33731,7 +33731,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33807,7 +33807,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33883,7 +33883,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -33959,7 +33959,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34035,7 +34035,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34111,7 +34111,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34187,7 +34187,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34263,7 +34263,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34339,7 +34339,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34415,7 +34415,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34497,7 +34497,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34579,7 +34579,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34661,7 +34661,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34743,7 +34743,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34825,7 +34825,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34907,7 +34907,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -34989,7 +34989,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -35071,7 +35071,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -35153,7 +35153,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -36852,48 +36852,6 @@
           "time": "2026-05-08T14:55:00+02:00",
           "duration": 12,
           "broadcasts": {
-            "US": {
-              "service": "HBO Max"
-            },
-            "CA": {
-              "service": "TNT Sports"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Stan Sport"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "CH": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "L'Équipe / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "IT": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Eurosport"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
             "Global": {
               "service": "FIAWEC+"
             }
@@ -36914,48 +36872,6 @@
           "time": "2026-05-08T15:45:00+02:00",
           "duration": 12,
           "broadcasts": {
-            "US": {
-              "service": "HBO Max"
-            },
-            "CA": {
-              "service": "TNT Sports"
-            },
-            "UK": {
-              "service": "TNT Sports"
-            },
-            "AU": {
-              "service": "Stan Sport"
-            },
-            "DE": {
-              "service": "Eurosport"
-            },
-            "AT": {
-              "service": "Eurosport"
-            },
-            "CH": {
-              "service": "Eurosport"
-            },
-            "FR": {
-              "service": "L'Équipe / Eurosport"
-            },
-            "ES": {
-              "service": "Eurosport"
-            },
-            "IT": {
-              "service": "Eurosport"
-            },
-            "NL": {
-              "service": "Eurosport"
-            },
-            "Nordics": {
-              "service": "Eurosport"
-            },
-            "IN": {
-              "service": "Eurosport India"
-            },
-            "JP": {
-              "service": "J SPORTS"
-            },
             "Global": {
               "service": "FIAWEC+"
             }
@@ -40894,10 +40810,10 @@
           "laps": 100,
           "broadcasts": {
             "US": {
-              "service": "FS2 / FloRacing"
+              "service": "FS2"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "FOX One"
             }
           }
         }
@@ -41423,7 +41339,7 @@
           "laps": 200,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "CA": {
               "service": "TSN"
@@ -41461,7 +41377,7 @@
           "laps": 125,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "CA": {
               "service": "TSN"
@@ -41499,7 +41415,7 @@
           "laps": 150,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "CA": {
               "service": "TSN"
@@ -41836,7 +41752,7 @@
           "laps": 173,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "CA": {
               "service": "TSN"
@@ -41940,7 +41856,7 @@
           "laps": 64,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "CA": {
               "service": "TSN"
@@ -42211,13 +42127,13 @@
           "laps": 60,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42255,13 +42171,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         },
@@ -42272,13 +42188,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42316,13 +42232,13 @@
           "laps": 250,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42360,13 +42276,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         },
@@ -42377,13 +42293,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42421,13 +42337,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42465,13 +42381,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         },
@@ -42482,13 +42398,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42526,13 +42442,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42570,13 +42486,13 @@
           "laps": 60,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42614,13 +42530,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42658,13 +42574,13 @@
           "laps": 60,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -42702,13 +42618,13 @@
           "laps": 200,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "TSN"
+              "service": "REV TV"
             },
             "Global": {
-              "service": "FloRacing"
+              "service": "YouTube/NASCARCanadaSeries"
             }
           }
         }
@@ -43071,7 +42987,7 @@
           "laps": 150,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "Global": {
               "service": "FloRacing"
@@ -43271,7 +43187,7 @@
           "laps": 150,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "Global": {
               "service": "FloRacing"
@@ -43391,7 +43307,7 @@
           "laps": 150,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FloRacing / NASCAR Channel"
             },
             "Global": {
               "service": "FloRacing"
@@ -43559,7 +43475,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
@@ -43679,7 +43595,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
@@ -43823,7 +43739,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
@@ -43991,7 +43907,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
@@ -44231,7 +44147,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
@@ -44759,7 +44675,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
@@ -52725,7 +52641,12 @@
           "time": "2026-05-14T13:15:00+02:00",
           "duration": 120,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -52733,7 +52654,12 @@
           "time": "2026-05-14T20:00:00+02:00",
           "duration": 210,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -52741,7 +52667,12 @@
           "time": "2026-05-15T10:15:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -52749,7 +52680,12 @@
           "time": "2026-05-15T11:05:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -52757,7 +52693,12 @@
           "time": "2026-05-15T12:00:00+02:00",
           "duration": 65,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -52765,7 +52706,12 @@
           "time": "2026-05-15T13:35:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -52773,7 +52719,12 @@
           "time": "2026-05-16T10:00:00+02:00",
           "duration": 60,
           "broadcasts": {
-            "Global": "YouTube/24hnbr"
+            "US": {
+              "service": "Not Televised"
+            },
+            "Global": {
+              "service": "YouTube/24hnbr"
+            }
           }
         },
         {
@@ -53511,7 +53462,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "beIN Sports / FIAWEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -53617,7 +53568,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "beIN Sports / FIAWEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -53723,7 +53674,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "beIN Sports / FIAWEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -53799,7 +53750,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "beIN Sports / FIAWEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -53875,7 +53826,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "beIN Sports / FIAWEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -53951,7 +53902,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FIAWEC+"
+              "service": "beIN Sports / FIAWEC+"
             },
             "UK": {
               "service": "TNT Sports"
@@ -54289,7 +54240,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54311,7 +54262,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54345,7 +54296,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54367,7 +54318,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54401,7 +54352,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54423,7 +54374,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54457,7 +54408,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54479,7 +54430,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54513,7 +54464,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54535,7 +54486,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54569,7 +54520,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54591,7 +54542,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54625,7 +54576,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54647,7 +54598,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54681,7 +54632,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54703,7 +54654,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54737,7 +54688,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54759,7 +54710,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54793,7 +54744,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54815,7 +54766,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54837,7 +54788,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54871,7 +54822,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54893,7 +54844,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54927,7 +54878,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54949,7 +54900,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -54971,7 +54922,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55005,7 +54956,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55027,7 +54978,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55061,7 +55012,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55083,7 +55034,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55117,7 +55068,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55139,7 +55090,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55173,7 +55124,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55195,7 +55146,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55295,7 +55246,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55317,7 +55268,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55339,7 +55290,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55361,7 +55312,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55395,7 +55346,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55417,7 +55368,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55439,7 +55390,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55461,7 +55412,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55495,7 +55446,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55517,7 +55468,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55539,7 +55490,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55561,7 +55512,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55595,7 +55546,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55617,7 +55568,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55639,7 +55590,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55661,7 +55612,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55695,7 +55646,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55717,7 +55668,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55739,7 +55690,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55761,7 +55712,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55795,7 +55746,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55817,7 +55768,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55839,7 +55790,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55861,7 +55812,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55895,7 +55846,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55917,7 +55868,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55939,7 +55890,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55961,7 +55912,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -55995,7 +55946,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56017,7 +55968,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56039,7 +55990,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56061,7 +56012,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56095,7 +56046,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56117,7 +56068,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56139,7 +56090,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56161,7 +56112,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56195,7 +56146,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56217,7 +56168,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56239,7 +56190,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56261,7 +56212,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56295,7 +56246,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56317,7 +56268,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56339,7 +56290,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56361,7 +56312,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56395,7 +56346,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56417,7 +56368,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56451,7 +56402,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56473,7 +56424,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56507,7 +56458,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -56529,7 +56480,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "NBC / Peacock"
+              "service": "Peacock"
             },
             "CA": {
               "service": "Peacock"
@@ -60660,20 +60611,18 @@
         {
           "name": "Pre-Qualifying",
           "time": "2026-05-16T10:30:00+09:00",
-          "duration": 60,
-          "broadcasts": {
-            "US": {
-              "service": "J SPORTS"
-            }
-          }
+          "duration": 60
         },
         {
           "name": "Qualifying 1",
           "time": "2026-05-16T15:00:00+09:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60682,8 +60631,11 @@
           "time": "2026-05-16T15:22:00+09:00",
           "duration": 15,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60692,8 +60644,11 @@
           "time": "2026-05-17T10:30:00+09:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60702,8 +60657,11 @@
           "time": "2026-05-17T15:15:00+09:00",
           "duration": 60,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         }
@@ -60734,8 +60692,11 @@
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60744,8 +60705,11 @@
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60754,8 +60718,11 @@
           "time": "2026-07-11T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60764,8 +60731,11 @@
           "time": "2026-07-12T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         }
@@ -60796,8 +60766,11 @@
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60806,8 +60779,11 @@
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60816,8 +60792,11 @@
           "time": "2026-08-29T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60826,8 +60805,11 @@
           "time": "2026-08-30T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         }
@@ -60858,8 +60840,11 @@
           "time": "2026-09-12T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60868,8 +60853,11 @@
           "time": "2026-09-12T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60878,8 +60866,11 @@
           "time": "2026-09-12T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         },
@@ -60888,8 +60879,11 @@
           "time": "2026-09-13T21:00:00+09:00",
           "tbd": true,
           "broadcasts": {
-            "US": {
+            "JP": {
               "service": "J SPORTS"
+            },
+            "Global": {
+              "service": "YouTube/GTWorld"
             }
           }
         }
@@ -72298,7 +72292,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -72360,7 +72354,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -72422,7 +72416,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -72484,7 +72478,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -72546,7 +72540,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -72608,7 +72602,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         },
@@ -72648,7 +72642,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -72710,7 +72704,7 @@
               "service": "Viaplay"
             },
             "Global": {
-              "service": "F1 TV Pro"
+              "service": "F1 TV Premium"
             }
           }
         }
@@ -73866,12 +73860,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -73888,12 +73876,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -73997,12 +73979,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74019,12 +73995,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74128,12 +74098,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74150,12 +74114,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74259,12 +74217,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74281,12 +74233,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74390,12 +74336,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74412,12 +74352,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74521,12 +74455,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74543,12 +74471,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74652,12 +74574,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74674,12 +74590,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74783,12 +74693,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74805,12 +74709,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -74914,12 +74812,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -74936,12 +74828,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"
@@ -75045,12 +74931,6 @@
             "IE": {
               "service": "ITVX / ITV Sport Extra"
             },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
-            },
             "Global": {
               "service": "YouTube/OfficialBTCC"
             }
@@ -75067,12 +74947,6 @@
             },
             "IE": {
               "service": "ITVX / ITV Sport Extra"
-            },
-            "US": {
-              "service": "RACER+"
-            },
-            "CA": {
-              "service": "RACER+"
             },
             "Global": {
               "service": "YouTube/OfficialBTCC"

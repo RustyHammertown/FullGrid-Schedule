@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T16:51:27.849Z",
+  "generatedAt": "2026-05-29T17:38:32.974Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -602,7 +602,7 @@
       "color": "#D4537E",
       "bg": "rgba(212,83,126,0.15)",
       "broadcast": {
-        "US": "Peacock / USA Network",
+        "US": "NBC / Peacock",
         "UK": "Sky Sports",
         "AU": "Stan Sport",
         "Global": "Check local listings"
@@ -1135,10 +1135,10 @@
       "color": "#5DCAA5",
       "bg": "rgba(93,202,165,0.15)",
       "broadcast": {
-        "US": "F1 TV Pro",
+        "US": "Apple TV",
         "UK": "Sky Sports F1",
         "AU": "Fox Sports",
-        "Global": "F1 TV"
+        "Global": "F1 TV Premium"
       },
       "resultsUrl": "https://www.fiaformula2.com/Calendar",
       "fallbackMinutes": {
@@ -1164,10 +1164,10 @@
       "color": "#06B6D4",
       "bg": "rgba(6,182,212,0.15)",
       "broadcast": {
-        "US": "F1 TV Pro",
+        "US": "Apple TV",
         "UK": "Sky Sports F1",
         "AU": "Fox Sports",
-        "Global": "F1 TV"
+        "Global": "F1 TV Premium"
       },
       "resultsUrl": "https://www.fiaformula3.com/Calendar",
       "fallbackMinutes": {
