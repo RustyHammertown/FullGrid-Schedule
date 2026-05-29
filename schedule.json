@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T18:17:37.332Z",
+  "generatedAt": "2026-05-29T20:56:58.001Z",
   "events": [
     {
       "id": 101,
@@ -12450,6 +12450,1246 @@
       ]
     },
     {
+      "id": 220,
+      "series": "motogp",
+      "name": "Indonesian Grand Prix",
+      "circuit": "Pertamina Mandalika International Circuit",
+      "flag": "🇮🇩",
+      "country": "Indonesia",
+      "tz": "Asia/Makassar",
+      "round": 17,
+      "sessions": [
+        {
+          "name": "MotoGP Practice 1",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Practice",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "MotoGP Practice 2",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Qualifying 1",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Qualifying 2",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Warm-up",
+          "time": "2026-10-11T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Sprint",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "FS1 / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Race",
+          "time": "2026-10-11T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "FS2 / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Practice 1",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Practice",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Moto2 Practice 2",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Qualifying 1",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Qualifying 2",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Race",
+          "time": "2026-10-11T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Practice 1",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Practice",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Moto3 Practice 2",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Qualifying 1",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Qualifying 2",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Race",
+          "time": "2026-10-11T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "series": "motogp",
+      "name": "Australian Grand Prix",
+      "circuit": "Phillip Island Grand Prix Circuit",
+      "flag": "🇦🇺",
+      "country": "Australia",
+      "tz": "Australia/Melbourne",
+      "round": 18,
+      "sessions": [
+        {
+          "name": "MotoGP Practice 1",
+          "time": "2026-10-23T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Practice",
+          "time": "2026-10-23T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "MotoGP Practice 2",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Qualifying 1",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Qualifying 2",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Warm-up",
+          "time": "2026-10-25T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Sprint",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "FS1 / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Race",
+          "time": "2026-10-25T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "FS2 / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Practice 1",
+          "time": "2026-10-23T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Practice",
+          "time": "2026-10-23T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Moto2 Practice 2",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Qualifying 1",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Qualifying 2",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Race",
+          "time": "2026-10-25T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Practice 1",
+          "time": "2026-10-23T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Practice",
+          "time": "2026-10-23T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Moto3 Practice 2",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Qualifying 1",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Qualifying 2",
+          "time": "2026-10-24T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Race",
+          "time": "2026-10-25T23:00:00+11:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": 217,
       "series": "motogp",
       "name": "Malaysian Grand Prix",
@@ -12457,7 +13697,7 @@
       "flag": "🇲🇾",
       "country": "Malaysia",
       "tz": "Asia/Kuala_Lumpur",
-      "round": 17,
+      "round": 19,
       "sessions": [
         {
           "name": "MotoGP Practice 1",
@@ -13081,7 +14321,7 @@
       "flag": "🇶🇦",
       "country": "Qatar",
       "tz": "Asia/Qatar",
-      "round": 18,
+      "round": 20,
       "sessions": [
         {
           "name": "MotoGP Practice 1",
@@ -13698,6 +14938,626 @@
       ]
     },
     {
+      "id": 222,
+      "series": "motogp",
+      "name": "Portuguese Grand Prix",
+      "circuit": "Algarve International Circuit",
+      "flag": "🇵🇹",
+      "country": "Portugal",
+      "tz": "Europe/Lisbon",
+      "round": 21,
+      "sessions": [
+        {
+          "name": "MotoGP Practice 1",
+          "time": "2026-11-20T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Practice",
+          "time": "2026-11-20T12:00:00+00:00",
+          "tbd": true
+        },
+        {
+          "name": "MotoGP Practice 2",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Qualifying 1",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Qualifying 2",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Warm-up",
+          "time": "2026-11-22T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Sprint",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "FS1 / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "MotoGP Race",
+          "time": "2026-11-22T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "FS2 / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Practice 1",
+          "time": "2026-11-20T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Practice",
+          "time": "2026-11-20T12:00:00+00:00",
+          "tbd": true
+        },
+        {
+          "name": "Moto2 Practice 2",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Qualifying 1",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Qualifying 2",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto2 Race",
+          "time": "2026-11-22T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Practice 1",
+          "time": "2026-11-20T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Practice",
+          "time": "2026-11-20T12:00:00+00:00",
+          "tbd": true
+        },
+        {
+          "name": "Moto3 Practice 2",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Qualifying 1",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Qualifying 2",
+          "time": "2026-11-21T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
+        },
+        {
+          "name": "Moto3 Race",
+          "time": "2026-11-22T12:00:00+00:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            },
+            "CA": {
+              "service": "Sportsnet"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "Sky Deutschland / DF1"
+            },
+            "AT": {
+              "service": "ServusTV"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "Sky Italia / TV8"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "NL": {
+              "service": "Ziggo Sport"
+            },
+            "IN": {
+              "service": "Eurosport India / FanCode"
+            },
+            "PT": {
+              "service": "Sport TV"
+            },
+            "BE": {
+              "service": "Play Sports / RTBF Auvio"
+            },
+            "CH": {
+              "service": "SRG SSR"
+            },
+            "PL": {
+              "service": "Polsat Sport"
+            },
+            "RO": {
+              "service": "Digi Sport"
+            },
+            "HU": {
+              "service": "Arena4"
+            },
+            "GR": {
+              "service": "Cosmote TV"
+            },
+            "CZ": {
+              "service": "Nova Sport"
+            },
+            "SK": {
+              "service": "Nova Sport"
+            },
+            "BG": {
+              "service": "Max Sport"
+            },
+            "CY": {
+              "service": "Cytavision"
+            },
+            "AL": {
+              "service": "Tring"
+            },
+            "XK": {
+              "service": "Artmotion"
+            },
+            "SI": {
+              "service": "Voyo"
+            },
+            "LU": {
+              "service": "RTL"
+            },
+            "GE": {
+              "service": "Silknet"
+            },
+            "GI": {
+              "service": "Gibtelecom"
+            },
+            "TR": {
+              "service": "S Sport"
+            },
+            "IL": {
+              "service": "Sport 5"
+            },
+            "KZ": {
+              "service": "Qsport"
+            },
+            "BR": {
+              "service": "SporTV"
+            },
+            "JP": {
+              "service": "Hulu"
+            },
+            "ID": {
+              "service": "Trans7"
+            },
+            "TH": {
+              "service": "True4U"
+            },
+            "TW": {
+              "service": "Videoland Sports"
+            },
+            "CN": {
+              "service": "Douyin"
+            },
+            "MT": {
+              "service": "GO Sports Premium"
+            },
+            "VE": {
+              "service": "TLT"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "LATAM": {
+              "service": "ESPN"
+            },
+            "SEA": {
+              "service": "SPOTV"
+            },
+            "Balkans": {
+              "service": "Sportklub"
+            },
+            "Africa": {
+              "service": "SuperSport"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "MENA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "MotoGP VideoPass"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": 219,
       "series": "motogp",
       "name": "Valencia Grand Prix",
@@ -13705,7 +15565,7 @@
       "flag": "🇪🇸",
       "country": "Spain",
       "tz": "Europe/Madrid",
-      "round": 19,
+      "round": 22,
       "sessions": [
         {
           "name": "MotoGP Practice 1",
@@ -55282,8 +57142,8 @@
       "sessions": [
         {
           "name": "250 Moto 1",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-05-30T13:15:00-07:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -55304,8 +57164,8 @@
         },
         {
           "name": "450 Moto 1",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-05-30T14:15:00-07:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -55326,8 +57186,8 @@
         },
         {
           "name": "250 Moto 2",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-05-30T15:30:00-07:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -55348,8 +57208,8 @@
         },
         {
           "name": "450 Moto 2",
-          "time": "2026-05-30T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-05-30T16:30:00-07:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -57493,27 +59353,22 @@
       "flag": "🇨🇳",
       "country": "China",
       "tz": "Asia/Shanghai",
-      "round": 3,
+      "round": 6,
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-04T09:20:00+08:00",
-          "duration": 60
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true
         },
         {
           "name": "Pre-Qualifying",
-          "time": "2026-06-04T14:55:00+08:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "time": "2026-10-30T20:00:00+08:00",
+          "tbd": true
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-05T08:30:00+08:00",
-          "duration": 15,
+          "time": "2026-10-31T20:00:00+08:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57522,8 +59377,8 @@
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-05T08:45:00+08:00",
-          "duration": 15,
+          "time": "2026-10-31T20:00:00+08:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57532,8 +59387,8 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-05T14:35:00+08:00",
-          "duration": 60,
+          "time": "2026-10-31T20:00:00+08:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57542,8 +59397,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-06T10:50:00+08:00",
-          "duration": 60,
+          "time": "2026-11-01T20:00:00+08:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57560,7 +59415,7 @@
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
-      "round": 4,
+      "round": 3,
       "sessions": [
         {
           "name": "Practice",
@@ -57622,7 +59477,7 @@
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
-      "round": 5,
+      "round": 4,
       "sessions": [
         {
           "name": "Practice",
@@ -57684,7 +59539,7 @@
       "flag": "🇨🇳",
       "country": "China",
       "tz": "Asia/Shanghai",
-      "round": 6,
+      "round": 5,
       "sessions": [
         {
           "name": "Practice",
