@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-29T13:07:39.694Z",
+  "generatedAt": "2026-05-29T16:09:02.045Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -608,7 +608,15 @@
         "Global": "Check local listings"
       },
       "resultsUrl": "https://www.imsa.com/weathertech/results/",
-      "fallbackMinutes": 360
+      "fallbackMinutes": 360,
+      "notTelevisedCategories": [
+        "Practice",
+        "Warmup"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Warmup"
+      ]
     },
     "pilot": {
       "id": "pilot",
