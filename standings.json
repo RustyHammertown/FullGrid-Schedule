@@ -1,75 +1,75 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-30T01:01:15.162Z",
+  "generatedAt": "2026-05-30T02:21:04.775Z",
   "flat": {
     "f1": [
       {
         "pos": 1,
         "name": "Kimi Antonelli",
-        "points": 100,
+        "points": 131,
         "team": "#12 Mercedes",
         "vehicle": "Mercedes W17"
       },
       {
         "pos": 2,
         "name": "George Russell",
-        "points": 80,
+        "points": 88,
         "team": "#63 Mercedes",
         "vehicle": "Mercedes W17"
       },
       {
         "pos": 3,
         "name": "Charles Leclerc",
-        "points": 59,
+        "points": 75,
         "team": "#16 Ferrari",
         "vehicle": "Ferrari SF-26"
       },
       {
         "pos": 4,
-        "name": "Lando Norris",
-        "points": 51,
-        "team": "#1 McLaren-Mercedes",
-        "vehicle": "McLaren MCL40"
-      },
-      {
-        "pos": 5,
         "name": "Lewis Hamilton",
-        "points": 51,
+        "points": 72,
         "team": "#44 Ferrari",
         "vehicle": "Ferrari SF-26"
       },
       {
+        "pos": 5,
+        "name": "Lando Norris",
+        "points": 58,
+        "team": "#1 McLaren-Mercedes",
+        "vehicle": "McLaren MCL40"
+      },
+      {
         "pos": 6,
         "name": "Oscar Piastri",
-        "points": 43,
+        "points": 48,
         "team": "#81 McLaren-Mercedes",
         "vehicle": "McLaren MCL40"
       },
       {
         "pos": 7,
         "name": "Max Verstappen",
-        "points": 26,
+        "points": 43,
         "team": "#3 Red Bull-Ford",
         "vehicle": "Red Bull Racing RB22"
       },
       {
         "pos": 8,
-        "name": "Oliver Bearman",
-        "points": 17,
-        "team": "#87 Haas-Ferrari",
-        "vehicle": "Haas VF-26"
-      },
-      {
-        "pos": 9,
         "name": "Pierre Gasly",
-        "points": 16,
+        "points": 20,
         "team": "#10 Alpine-Mercedes",
         "vehicle": "Alpine A526"
       },
       {
+        "pos": 9,
+        "name": "Oliver Bearman",
+        "points": 18,
+        "team": "#87 Haas-Ferrari",
+        "vehicle": "Haas VF-26"
+      },
+      {
         "pos": 10,
         "name": "Liam Lawson",
-        "points": 10,
+        "points": 16,
         "team": "#30 Racing Bulls-Red Bull Ford",
         "vehicle": "Racing Bulls VCARB 03"
       }
@@ -78,144 +78,206 @@
       {
         "pos": 1,
         "name": "Tyler Reddick",
-        "points": 567,
+        "points": 620,
         "team": "#45 23XI Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 2,
         "name": "Denny Hamlin",
-        "points": 438,
+        "points": 498,
         "team": "#11 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 3,
-        "name": "Chase Elliott",
-        "points": 422,
-        "team": "#9 Hendrick Motorsports",
-        "vehicle": "Chevrolet Camaro ZL1"
-      },
-      {
-        "pos": 4,
         "name": "Ryan Blaney",
-        "points": 405,
+        "points": 425,
         "team": "#12 Team Penske",
         "vehicle": "Ford Mustang Dark Horse"
       },
       {
-        "pos": 5,
-        "name": "Chris Buescher",
-        "points": 375,
-        "team": "#17 RFK Racing",
-        "vehicle": "Ford Mustang Dark Horse"
-      },
-      {
-        "pos": 6,
+        "pos": 4,
         "name": "Ty Gibbs",
-        "points": 372,
+        "points": 425,
         "team": "#54 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
-        "pos": 7,
-        "name": "Carson Hocevar",
-        "points": 342,
-        "team": "#77 Spire Motorsports",
+        "pos": 5,
+        "name": "Chase Elliott",
+        "points": 423,
+        "team": "#9 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
-        "pos": 8,
+        "pos": 6,
         "name": "Kyle Larson",
-        "points": 332,
+        "points": 386,
         "team": "#5 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
-        "pos": 9,
-        "name": "Brad Keselowski",
-        "points": 318,
-        "team": "#6 RFK Racing",
+        "pos": 7,
+        "name": "Chris Buescher",
+        "points": 385,
+        "team": "#17 RFK Racing",
         "vehicle": "Ford Mustang Dark Horse"
       },
       {
-        "pos": 10,
-        "name": "Bubba Wallace",
-        "points": 313,
-        "team": "#23 23XI Racing",
+        "pos": 8,
+        "name": "Christopher Bell",
+        "points": 361,
+        "team": "#20 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
+      },
+      {
+        "pos": 9,
+        "name": "Carson Hocevar",
+        "points": 356,
+        "team": "#77 Spire Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
+      },
+      {
+        "pos": 10,
+        "name": "Daniel Suárez",
+        "points": 350,
+        "team": "#7 Spire Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       }
     ],
     "oreilly": [
       {
         "pos": 1,
         "name": "Justin Allgaier",
-        "points": 679,
+        "points": 696,
         "team": "#7 JR Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 2,
-        "name": "Sheldon Creed",
-        "points": 504,
-        "team": "#00 Haas Factory Team",
-        "vehicle": "Chevrolet Camaro SS"
-      },
-      {
-        "pos": 3,
         "name": "Jesse Love",
-        "points": 502,
+        "points": 551,
         "team": "#2 Richard Childress Racing",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
-        "pos": 4,
+        "pos": 3,
         "name": "Corey Day",
-        "points": 484,
+        "points": 529,
         "team": "#17 Hendrick Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
+      },
+      {
+        "pos": 4,
+        "name": "Sheldon Creed",
+        "points": 510,
+        "team": "#00 Haas Factory Team",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 5,
         "name": "Brandon Jones",
-        "points": 474,
+        "points": 480,
         "team": "#20 Joe Gibbs Racing",
         "vehicle": "Toyota GR Supra"
       },
       {
         "pos": 6,
-        "name": "Sammy Smith",
-        "points": 427,
-        "team": "#8 JR Motorsports",
+        "name": "Austin Hill",
+        "points": 466,
+        "team": "#21 Richard Childress Racing",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 7,
-        "name": "Austin Hill",
-        "points": 424,
-        "team": "#21 Richard Childress Racing",
+        "name": "Sammy Smith",
+        "points": 453,
+        "team": "#8 JR Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 8,
         "name": "Carson Kvapil",
-        "points": 420,
+        "points": 450,
         "team": "#1 JR Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 9,
-        "name": "Sam Mayer",
-        "points": 369,
-        "team": "#41 Haas Factory Team",
+        "name": "Parker Retzlaff",
+        "points": 388,
+        "team": "#11 Kaulig Racing",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 10,
-        "name": "Taylor Gray",
-        "points": 365,
-        "team": "#54 Joe Gibbs Racing",
+        "name": "William Sawalich",
+        "points": 384,
+        "team": "#18 Joe Gibbs Racing",
         "vehicle": "Toyota GR Supra"
+      }
+    ],
+    "nascarcanada": [
+      {
+        "pos": 1,
+        "name": "Gary Klutt",
+        "points": 48,
+        "team": "#71 Legendary Motorcar Company"
+      },
+      {
+        "pos": 2,
+        "name": "L.P. Dumoulin",
+        "points": 43,
+        "team": "#47 Dumoulin Compétition"
+      },
+      {
+        "pos": 3,
+        "name": "Kyle Steckly",
+        "points": 42,
+        "team": "#22 MBS Motorsports"
+      },
+      {
+        "pos": 4,
+        "name": "Alex Guenette",
+        "points": 40,
+        "team": "#39 JASS Racing with XEMIS Racing"
+      },
+      {
+        "pos": 5,
+        "name": "Ryan Klutt",
+        "points": 39,
+        "team": "#42 Legendary Motorcar Company"
+      },
+      {
+        "pos": 6,
+        "name": "J.P. Bergeron",
+        "points": 38,
+        "team": "#1 Prolon Racing"
+      },
+      {
+        "pos": 7,
+        "name": "Darryl Timmers",
+        "points": 37,
+        "team": "#85 Larry Jackson Racing"
+      },
+      {
+        "pos": 8,
+        "name": "Connor Bell",
+        "points": 36,
+        "team": "#3 Ed Hakonson Racing"
+      },
+      {
+        "pos": 9,
+        "name": "D.J. Kennington",
+        "points": 35,
+        "team": "#17 DJK Racing"
+      },
+      {
+        "pos": 10,
+        "name": "Marc-Antoine Camirand",
+        "points": 35,
+        "team": "#96 Paillé Course//Racing"
       }
     ],
     "truck": [
@@ -294,70 +356,70 @@
       {
         "pos": 1,
         "name": "Álex Palou",
-        "points": 237,
+        "points": 273,
         "team": "#10 Chip Ganassi Racing",
         "vehicle": "Honda"
       },
       {
         "pos": 2,
-        "name": "Kyle Kirkwood",
-        "points": 210,
-        "team": "#27 Andretti Global",
-        "vehicle": "Honda"
-      },
-      {
-        "pos": 3,
         "name": "David Malukas",
-        "points": 185,
+        "points": 236,
         "team": "#12 Team Penske",
         "vehicle": "Chevrolet"
       },
       {
+        "pos": 3,
+        "name": "Kyle Kirkwood",
+        "points": 224,
+        "team": "#27 Andretti Global",
+        "vehicle": "Honda"
+      },
+      {
         "pos": 4,
         "name": "Christian Lundgaard",
-        "points": 182,
+        "points": 195,
         "team": "#7 Arrow McLaren",
         "vehicle": "Chevrolet"
       },
       {
         "pos": 5,
-        "name": "Josef Newgarden",
-        "points": 162,
-        "team": "#2 Team Penske",
-        "vehicle": "Chevrolet"
-      },
-      {
-        "pos": 6,
-        "name": "Scott Dixon",
-        "points": 148,
-        "team": "#9 Chip Ganassi Racing",
-        "vehicle": "Honda"
-      },
-      {
-        "pos": 7,
         "name": "Pato O'Ward",
-        "points": 148,
+        "points": 188,
         "team": "#5 Arrow McLaren",
         "vehicle": "Chevrolet"
       },
       {
-        "pos": 8,
+        "pos": 6,
         "name": "Scott McLaughlin",
-        "points": 141,
+        "points": 181,
         "team": "#3 Team Penske",
         "vehicle": "Chevrolet"
       },
       {
+        "pos": 7,
+        "name": "Felix Rosenqvist",
+        "points": 176,
+        "team": "#60 Meyer Shank Racing",
+        "vehicle": "Honda"
+      },
+      {
+        "pos": 8,
+        "name": "Josef Newgarden",
+        "points": 167,
+        "team": "#2 Team Penske",
+        "vehicle": "Chevrolet"
+      },
+      {
         "pos": 9,
-        "name": "Graham Rahal",
-        "points": 141,
-        "team": "#15 Rahal Letterman Lanigan Racing",
+        "name": "Scott Dixon",
+        "points": 167,
+        "team": "#9 Chip Ganassi Racing",
         "vehicle": "Honda"
       },
       {
         "pos": 10,
         "name": "Marcus Armstrong",
-        "points": 123,
+        "points": 154,
         "team": "#66 Meyer Shank Racing",
         "vehicle": "Honda"
       }
@@ -365,82 +427,82 @@
     "f2": [
       {
         "pos": 1,
+        "name": "Gabriele Minì",
+        "points": 57,
+        "team": "MP Motorsport"
+      },
+      {
+        "pos": 2,
+        "name": "Rafael Câmara",
+        "points": 36,
+        "team": "Invicta Racing"
+      },
+      {
+        "pos": 3,
         "name": "Nikola Tsolov",
         "points": 35,
         "team": "Campos Racing"
       },
       {
-        "pos": 2,
-        "name": "Gabriele Minì",
-        "points": 34,
-        "team": "MP Motorsport"
-      },
-      {
-        "pos": 3,
-        "name": "Rafael Câmara",
-        "points": 34,
-        "team": "Invicta Racing"
-      },
-      {
         "pos": 4,
-        "name": "Laurens van Hoepen",
-        "points": 26,
-        "team": "Trident"
+        "name": "Martinius Stenshorne",
+        "points": 35,
+        "team": "Rodin Motorsport"
       },
       {
         "pos": 5,
+        "name": "Noel León",
+        "points": 33,
+        "team": "Campos Racing"
+      },
+      {
+        "pos": 6,
+        "name": "Laurens van Hoepen",
+        "points": 33,
+        "team": "Trident"
+      },
+      {
+        "pos": 7,
+        "name": "Alex Dunne",
+        "points": 30,
+        "team": "Rodin Motorsport"
+      },
+      {
+        "pos": 8,
+        "name": "Dino Beganovic",
+        "points": 24,
+        "team": "DAMS Lucas Oil"
+      },
+      {
+        "pos": 9,
         "name": "Ritomo Miyata",
         "points": 22,
         "team": "Hitech"
       },
       {
-        "pos": 6,
-        "name": "Noel León",
-        "points": 21,
-        "team": "Campos Racing"
-      },
-      {
-        "pos": 7,
-        "name": "Dino Beganovic",
-        "points": 21,
-        "team": "DAMS Lucas Oil"
-      },
-      {
-        "pos": 8,
+        "pos": 10,
         "name": "Joshua Dürksen",
         "points": 16,
         "team": "Invicta Racing"
-      },
-      {
-        "pos": 9,
-        "name": "Tasanapol Inthraphuvasak",
-        "points": 13,
-        "team": "ART Grand Prix"
-      },
-      {
-        "pos": 10,
-        "name": "Alex Dunne",
-        "points": 12,
-        "team": "Rodin Motorsport"
       }
     ],
     "f3": [
       {
         "pos": 1,
         "name": "Ugo Ugochukwu",
-        "points": 33,
+        "points": 25,
         "team": "Campos Racing"
       },
       {
         "pos": 2,
         "name": "Bruno del Pino",
-        "points": 22,
+        "points": 18,
         "team": "Van Amersfoort Racing"
       },
       {
         "pos": 3,
         "name": "Freddie Slater",
-        "points": 20,
+        "points": 18,
         "team": "Trident"
       },
       {
@@ -484,6 +546,24 @@
         "name": "Noah Strømsted",
         "points": 2,
         "team": "Trident"
+      },
+      {
+        "pos": 11,
+        "name": "Jin Nakamura",
+        "points": 2,
+        "team": "Hitech"
+      },
+      {
+        "pos": 12,
+        "name": "Théophile Naël",
+        "points": 2,
+        "team": "Campos Racing"
+      },
+      {
+        "pos": 13,
+        "name": "Mattia Colnaghi",
+        "points": 1,
+        "team": "MP Motorsport"
       }
     ],
     "fe": [
@@ -1031,72 +1111,72 @@
       {
         "pos": 1,
         "name": "Trevor Huddleston",
-        "points": 172,
+        "points": 270,
         "team": "#50 High Point Racing",
         "vehicle": "Ford Mustang"
       },
       {
         "pos": 2,
         "name": "Mason Massey",
-        "points": 160,
+        "points": 250,
         "team": "#19 Bill McAnally Racing",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 3,
+        "name": "Robbie Kennealy",
+        "points": 232,
+        "team": "#1 Jan's Towing Racing",
+        "vehicle": "Ford Mustang"
+      },
+      {
+        "pos": 4,
         "name": "Hailie Deegan",
-        "points": 145,
+        "points": 232,
         "team": "#16 Bill McAnally Racing",
         "vehicle": "Chevrolet Camaro"
       },
       {
-        "pos": 4,
+        "pos": 5,
         "name": "Eric Johnson Jr.",
-        "points": 143,
+        "points": 226,
         "team": "#5 Jerry Pitts Racing",
         "vehicle": "Toyota Camry"
       },
       {
-        "pos": 5,
-        "name": "Cole Denton",
-        "points": 139,
-        "team": "#71 Jan's Towing Racing",
-        "vehicle": "Ford Mustang"
-      },
-      {
         "pos": 6,
-        "name": "Robbie Kennealy",
-        "points": 138,
-        "team": "#1 Jan's Towing Racing",
+        "name": "Cole Denton",
+        "points": 225,
+        "team": "#71 Jan's Towing Racing",
         "vehicle": "Ford Mustang"
       },
       {
         "pos": 7,
         "name": "Andrew Chapman",
-        "points": 130,
+        "points": 214,
         "team": "#55 High Point Racing",
         "vehicle": "Ford Mustang"
       },
       {
         "pos": 8,
         "name": "Gavin Ray",
-        "points": 120,
+        "points": 205,
         "team": "#7 Jerry Pitts Racing",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 9,
         "name": "Mia Lovell",
-        "points": 117,
+        "points": 205,
         "team": "#15 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 10,
         "name": "David Smith",
-        "points": 106,
+        "points": 184,
         "team": "#05 Shockwave Motorsports",
-        "vehicle": "Toyota Camry"
+        "vehicle": "Chevrolet Camaro"
       }
     ],
     "highlimit": [
@@ -1857,72 +1937,72 @@
       {
         "pos": 1,
         "name": "Ashley Sutton",
-        "points": 129,
+        "points": 174,
         "team": "#116 NAPA Racing UK",
         "vehicle": "Ford Focus Titanium Saloon"
       },
       {
         "pos": 2,
         "name": "Tom Ingram",
-        "points": 82,
+        "points": 117,
         "team": "#80 Team VERTU",
         "vehicle": "Hyundai i30 Fastback N Performance"
       },
       {
         "pos": 3,
-        "name": "Mikey Doble",
-        "points": 77,
-        "team": "#88 LKQ Power Maxed",
-        "vehicle": "Audi S3 Saloon"
-      },
-      {
-        "pos": 4,
-        "name": "Ricky Collard",
-        "points": 67,
-        "team": "#28 Team VERTU",
-        "vehicle": "Hyundai i30 Fastback N Performance"
-      },
-      {
-        "pos": 5,
-        "name": "Dan Cammish",
-        "points": 61,
-        "team": "#27 NAPA Racing UK",
-        "vehicle": "Ford Focus Titanium Saloon"
-      },
-      {
-        "pos": 6,
-        "name": "Aiden Moffat",
-        "points": 57,
-        "team": "#16 LKQ Power Maxed",
-        "vehicle": "Audi S3 Saloon"
-      },
-      {
-        "pos": 7,
-        "name": "Árón Taylor-Smith",
-        "points": 55,
-        "team": "#50 Laser Tools / MB",
-        "vehicle": "Toyota Corolla GR Sport"
-      },
-      {
-        "pos": 8,
         "name": "Charles Rainford",
-        "points": 54,
+        "points": 106,
         "team": "#99 WSR",
         "vehicle": "BMW 330i M Sport LCI"
       },
       {
-        "pos": 9,
+        "pos": 4,
+        "name": "Dan Cammish",
+        "points": 99,
+        "team": "#27 NAPA Racing UK",
+        "vehicle": "Ford Focus Titanium Saloon"
+      },
+      {
+        "pos": 5,
+        "name": "Ricky Collard",
+        "points": 94,
+        "team": "#28 Team VERTU",
+        "vehicle": "Hyundai i30 Fastback N Performance"
+      },
+      {
+        "pos": 6,
         "name": "Daryl De Leon",
-        "points": 51,
+        "points": 92,
         "team": "#2 WSR",
         "vehicle": "BMW 330i M Sport LCI"
       },
       {
-        "pos": 10,
+        "pos": 7,
         "name": "Gordon Shedden",
-        "points": 48,
-        "team": "#52 Laser Tools / MB",
+        "points": 83,
+        "team": "#52 Laser Tools Racing",
         "vehicle": "Toyota Corolla GR Sport"
+      },
+      {
+        "pos": 8,
+        "name": "Mikey Doble",
+        "points": 79,
+        "team": "#88 LKQ Power Maxed",
+        "vehicle": "Audi S3 Saloon"
+      },
+      {
+        "pos": 9,
+        "name": "Adam Morgan",
+        "points": 73,
+        "team": "#33 Cataclean Plato Racing",
+        "vehicle": "Mercedes-AMG A35 Saloon"
+      },
+      {
+        "pos": 10,
+        "name": "Tom Chilton",
+        "points": 68,
+        "team": "#3 EXCELR8 with Team VERTU",
+        "vehicle": "Hyundai i30 Fastback N Performance"
       }
     ],
     "supercars": [
@@ -2676,62 +2756,62 @@
       {
         "pos": 1,
         "name": "Nic Grindrod",
-        "points": 73,
+        "points": 101,
         "team": "Class C"
       },
       {
         "pos": 2,
-        "name": "Jared Knight",
-        "points": 38,
+        "name": "Jonathan Corker",
+        "points": 46,
         "team": "Class C"
       },
       {
         "pos": 3,
+        "name": "Jared Knight",
+        "points": 46,
+        "team": "Class C"
+      },
+      {
+        "pos": 4,
+        "name": "Malcolm Jeffs",
+        "points": 45,
+        "team": "Class C"
+      },
+      {
+        "pos": 5,
+        "name": "Jerry Bailey",
+        "points": 44,
+        "team": "Class B"
+      },
+      {
+        "pos": 6,
+        "name": "Nick Williamson",
+        "points": 41,
+        "team": "Class B"
+      },
+      {
+        "pos": 7,
         "name": "Reece Cannell",
         "points": 34,
         "team": "Class B"
       },
       {
-        "pos": 4,
-        "name": "Malcolm Jeffs",
-        "points": 34,
-        "team": "Class C"
-      },
-      {
-        "pos": 5,
-        "name": "Jonathan Corker",
-        "points": 29,
-        "team": "Class C"
-      },
-      {
-        "pos": 6,
-        "name": "Nick Williamson",
-        "points": 27,
-        "team": "Class B"
-      },
-      {
-        "pos": 7,
-        "name": "Jerry Bailey",
-        "points": 24,
-        "team": "Class B"
-      },
-      {
         "pos": 8,
-        "name": "James Dunkley",
-        "points": 18,
-        "team": "Class D"
+        "name": "Tom Harvey",
+        "points": 33,
+        "team": "Class C"
       },
       {
         "pos": 9,
-        "name": "Tom Harvey",
-        "points": 18,
-        "team": "Class C"
+        "name": "Nic Strong",
+        "points": 28,
+        "team": "Class B"
       },
       {
         "pos": 10,
-        "name": "Mike Broadway",
-        "points": 14,
-        "team": "Class A"
+        "name": "Neil Philpotts",
+        "points": 26,
+        "team": "Class B"
       }
     ],
     "minimiglia": [
@@ -4246,72 +4326,58 @@
           {
             "pos": 1,
             "name": "Óscar Tunjo",
-            "points": 1650,
+            "points": 1950,
             "team": "#1 Gebhardt Motorsport",
             "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 2,
             "name": "Brian Thienes",
-            "points": 1380,
+            "points": 1700,
             "team": "#77 Forte Racing",
             "vehicle": "Ligier JS P320"
           },
           {
             "pos": 3,
             "name": "Danny Soufi",
-            "points": 1370,
+            "points": 1600,
             "team": "#11 Gebhardt Motorsport",
             "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 4,
             "name": "Travis Hill",
-            "points": 1270,
+            "points": 1510,
             "team": "#2 Shopify Racing powered by TWOth",
             "vehicle": "Ligier JS P325"
           },
           {
             "pos": 5,
             "name": "Farhan Siddiqi",
-            "points": 1130,
+            "points": 1410,
             "team": "#87 FastMD with Remstar",
             "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 6,
+            "name": "Wyatt Brichacek",
+            "points": 1300,
+            "team": "#30 Toney Driver Development",
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 7,
             "name": "Mirco Schultis",
             "points": 1000,
             "team": "#70 Mishumotors",
             "vehicle": "Ligier JS P320"
           },
           {
-            "pos": 7,
-            "name": "Wyatt Brichacek",
-            "points": 950,
-            "team": "#30 Toney Driver Development",
-            "vehicle": "Ligier JS P325"
-          },
-          {
             "pos": 8,
-            "name": "Lincoln Day",
-            "points": 830,
+            "name": "Titus Sherlock",
+            "points": 990,
             "team": "#95 Toney Driver Development",
             "vehicle": "Ligier JS P325"
-          },
-          {
-            "pos": 9,
-            "name": "Jérémy Siffert",
-            "points": 710,
-            "team": "#31 Gebhardt Motorsport",
-            "vehicle": "Duqueine M30-D08"
-          },
-          {
-            "pos": 10,
-            "name": "Jon Hirshberg",
-            "points": 690,
-            "team": "#86 Forte Racing",
-            "vehicle": "Ligier JS P320"
           }
         ]
       },
@@ -4541,8 +4607,8 @@
             "pos": 6,
             "name": "Morgan Burkhard / Gordon Scully",
             "points": 640,
-            "team": "#59 KohR Motorsports",
-            "vehicle": "Ford Mustang GT4 (2024)"
+            "team": "#67 Czabok-Simpson Motorsport",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           },
           {
             "pos": 7,
@@ -7327,15 +7393,15 @@
     "elms": "Team Standings"
   },
   "lastUpdated": {
-    "f1": "2026-05-24",
-    "nascar": "2026-05-24",
-    "indycar": "2026-05-24",
-    "f2": "2026-05-24",
+    "f1": "2026-05-29",
+    "nascar": "2026-05-29",
+    "indycar": "2026-05-29",
+    "f2": "2026-05-29",
     "dtm": "2026-05-24",
-    "arcawest": "2026-05-24",
+    "arcawest": "2026-05-29",
     "highlimit": "2026-05-29",
     "woosc": "2026-05-29",
-    "btcc": "2026-05-24",
+    "btcc": "2026-05-29",
     "supercars": "2026-05-24",
     "f4british": "2026-05-24",
     "pccd": "2026-05-24",
@@ -7345,7 +7411,7 @@
     "gt3revival": "2026-05-24",
     "fiakeuro": "2026-05-24",
     "agtm": "2026-05-24",
-    "oreilly": "2026-05-23",
+    "oreilly": "2026-05-29",
     "truck": "2026-05-29",
     "lucasdirt": "2026-05-23",
     "internationalgt": "2026-05-23",
@@ -7376,7 +7442,7 @@
     "gtamerica": "2026-05-10",
     "wec": "2026-05-09",
     "indynxt": "2026-05-09",
-    "vpscc": "2026-05-09",
+    "vpscc": "2026-05-29",
     "tcamerica": "2026-05-09",
     "gtwca": "2026-05-09",
     "floracing": "2026-05-08",
@@ -7393,7 +7459,9 @@
     "pscgb": "2026-04-19",
     "legendselite": "2026-04-19",
     "gt4european": "2026-04-12",
-    "f3": "2026-03-07",
+    "f3": "2026-05-29",
+    "nascarcanada": "2026-05-29",
+    "ctcrc": "2026-05-29",
     "mx5": "2026-03-01",
     "xtrial": "2025-10-04"
   },
