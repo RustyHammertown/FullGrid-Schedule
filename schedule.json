@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-30T02:21:50.037Z",
+  "generatedAt": "2026-05-30T11:39:50.712Z",
   "events": [
     {
       "id": 101,
@@ -33627,7 +33627,7 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-06T12:40:00-04:00",
+          "time": "2026-06-06T12:45:00-04:00",
           "duration": 45,
           "broadcasts": {
             "US": {
@@ -33640,7 +33640,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T07:55:00-04:00",
+          "time": "2026-06-07T08:00:00-04:00",
           "duration": 45,
           "broadcasts": {
             "US": {
@@ -34807,21 +34807,21 @@
         {
           "name": "Practice 1",
           "time": "2026-06-05T09:25:00-04:00",
-          "duration": 40
+          "duration": 30
         },
         {
           "name": "Practice 2",
           "time": "2026-06-05T13:45:00-04:00",
-          "duration": 40
+          "duration": 30
         },
         {
           "name": "Qualifying",
           "time": "2026-06-06T09:40:00-04:00",
-          "duration": 20
+          "duration": 15
         },
         {
           "name": "Race 1",
-          "time": "2026-06-06T13:50:00-04:00",
+          "time": "2026-06-06T13:55:00-04:00",
           "duration": 45,
           "broadcasts": {
             "Global": {
@@ -35534,9 +35534,14 @@
           "duration": 45
         },
         {
-          "name": "Qualifying",
+          "name": "Qualifying Group A",
           "time": "2026-06-05T15:10:00+02:00",
-          "duration": 40
+          "duration": 14
+        },
+        {
+          "name": "Qualifying Group B",
+          "time": "2026-06-05T15:34:00+02:00",
+          "duration": 14
         },
         {
           "name": "Sprint Race",
@@ -35551,7 +35556,7 @@
         },
         {
           "name": "Feature Race",
-          "time": "2026-06-07T09:25:00+02:00",
+          "time": "2026-06-07T09:35:00+02:00",
           "laps": 42,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1095",
           "broadcasts": {
@@ -36486,7 +36491,7 @@
         },
         {
           "name": "Feature Race",
-          "time": "2026-06-07T07:45:00+02:00",
+          "time": "2026-06-07T07:55:00+02:00",
           "laps": 22,
           "broadcasts": {
             "US": {
@@ -44140,7 +44145,7 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-06T18:00:00-04:00",
+          "time": "2026-06-06T18:10:00-04:00",
           "laps": 50,
           "broadcasts": {
             "US": {
@@ -44156,8 +44161,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-06T20:10:00-04:00",
           "laps": 50,
           "broadcasts": {
             "US": {
@@ -51365,7 +51369,7 @@
     {
       "id": 2213,
       "series": "woolm",
-      "name": "57 Special",
+      "name": "Blaster 57 Special",
       "circuit": "Mansfield Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51389,7 +51393,7 @@
     {
       "id": 2214,
       "series": "woolm",
-      "name": "57 Special",
+      "name": "Blaster 57 Special",
       "circuit": "Mansfield Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -81857,7 +81861,7 @@
         {
           "name": "Qualifying",
           "time": "2026-06-06T09:55:00+02:00",
-          "duration": 30
+          "duration": 20
         },
         {
           "name": "Race 1",
