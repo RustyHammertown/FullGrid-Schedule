@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-31T16:33:32.040Z",
+  "generatedAt": "2026-05-31T19:46:36.062Z",
   "events": [
     {
       "id": 101,
@@ -49603,8 +49603,8 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-08-30T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-08-30T18:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "DIRTVision"
