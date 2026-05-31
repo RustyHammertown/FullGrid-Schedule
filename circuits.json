@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-30T20:10:43.886Z",
+  "generatedAt": "2026-05-31T16:33:34.162Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2458,6 +2458,12 @@
       "city": "Tarragona",
       "region": "Catalonia",
       "website": "https://www.tarracoarenaplaca.com"
+    },
+    "Palacio Municipal de Deportes San Pablo": {
+      "lat": 37.4083,
+      "lon": -5.9436,
+      "city": "Seville",
+      "region": "Andalusia"
     },
     "Donington Park": {
       "lat": 52.8306,

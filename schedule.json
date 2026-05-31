@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-30T20:10:41.798Z",
+  "generatedAt": "2026-05-31T16:33:32.040Z",
   "events": [
     {
       "id": 101,
@@ -17260,7 +17260,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T15:30:00-05:00",
+          "time": "2026-06-06T15:35:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17270,7 +17270,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-06T19:00:00-05:00",
+          "time": "2026-06-06T19:05:00-05:00",
           "duration": 45,
           "broadcasts": {
             "US": {
@@ -18905,8 +18905,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T09:30:00-04:00",
-          "duration": 50,
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Prime Video"
@@ -18915,8 +18915,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T10:40:00-04:00",
-          "duration": 60,
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Prime Video"
@@ -22731,6 +22731,7 @@
           "name": "Day 4",
           "time": "2026-05-10T08:05:00+01:00",
           "duration": 360,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-rally-de-portugal-2026/",
           "broadcasts": {
             "US": {
               "service": "Rally.TV"
@@ -25473,6 +25474,7 @@
           "name": "Lake Mikawako SS20 Power Stage",
           "time": "2026-05-31T14:15:00+09:00",
           "duration": 30,
+          "resultsUrl": "https://www.wrc.com/en/championship/results/2026/wrc-forum8-rally-japan-2026/",
           "broadcasts": {
             "US": {
               "service": "Rally.TV"
@@ -34211,7 +34213,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-05T14:20:00-04:00",
+          "time": "2026-06-05T14:30:00-04:00",
           "duration": 40
         },
         {
@@ -34831,7 +34833,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-07T09:00:00-04:00",
+          "time": "2026-06-07T09:05:00-04:00",
           "duration": 45,
           "broadcasts": {
             "Global": {
@@ -34927,6 +34929,53 @@
           "name": "Race 2",
           "time": "2026-08-23T09:40:00-04:00",
           "duration": 45,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "series": "mustang",
+      "name": "Circuit of the Americas",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-04T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-04T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/imsaofficial"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/imsaofficial"
@@ -40523,7 +40572,7 @@
     {
       "id": 1018,
       "series": "oreilly",
-      "name": "O'Reilly Auto Parts Series Race at San Diego",
+      "name": "United Rentals Driven to Serve 250",
       "circuit": "San Diego Street Course (Naval Base Coronado)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42839,7 +42888,7 @@
     {
       "id": 1310,
       "series": "arca",
-      "name": "Berlin ARCA 200",
+      "name": "Herr's Snacks 200",
       "circuit": "Berlin Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42915,7 +42964,7 @@
     {
       "id": 1313,
       "series": "arca",
-      "name": "Chicagoland ARCA 150",
+      "name": "Ashley Furniture 150",
       "circuit": "Chicagoland Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44109,7 +44158,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44152,7 +44201,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44168,7 +44217,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44212,7 +44261,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44256,7 +44305,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44273,7 +44322,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44317,7 +44366,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44361,7 +44410,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44378,7 +44427,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44422,7 +44471,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44466,7 +44515,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44510,7 +44559,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44554,7 +44603,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -44598,7 +44647,7 @@
               "service": "YouTube/NASCARCanadaSeries"
             },
             "CA": {
-              "service": "REV TV"
+              "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
               "service": "YouTube/NASCARCanadaSeries"
@@ -49550,11 +49599,12 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
+      "postponed": true,
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-05-31T18:00:00-05:00",
-          "duration": 240,
+          "time": "2026-08-30T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "DIRTVision"
@@ -52546,7 +52596,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-02T19:30:00-04:00",
+          "time": "2026-06-02T20:00:00-04:00",
           "laps": 100,
           "broadcasts": {
             "Global": {
@@ -53566,7 +53616,7 @@
     {
       "id": 1707,
       "series": "nhra",
-      "name": "NHRA New England Nationals",
+      "name": "NHRA New England Nationals presented by bproauto",
       "circuit": "New England Dragway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53574,27 +53624,127 @@
       "round": 8,
       "sessions": [
         {
-          "name": "Qualifying Day 1",
+          "name": "Top Fuel Qualifying 1",
+          "time": "2026-06-05T17:30:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 1",
+          "time": "2026-06-05T17:30:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 1",
           "time": "2026-06-05T17:00:00-04:00",
-          "duration": 90,
+          "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
         {
-          "name": "Qualifying Day 2",
+          "name": "Top Fuel Qualifying 2",
+          "time": "2026-06-05T20:00:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 2",
+          "time": "2026-06-05T20:00:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 2",
+          "time": "2026-06-05T19:30:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Top Fuel Qualifying 3",
           "time": "2026-06-06T12:30:00-04:00",
-          "duration": 90,
+          "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv / FS1"
+              "service": "NHRA.tv"
             }
           }
         },
         {
-          "name": "Top Fuel, Funny Car, Pro Stock Eliminations Live",
+          "name": "Funny Car Qualifying 3",
+          "time": "2026-06-06T13:05:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 3",
+          "time": "2026-06-06T13:45:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Top Fuel Qualifying 4",
+          "time": "2026-06-06T15:00:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 4",
+          "time": "2026-06-06T15:30:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 4",
+          "time": "2026-06-06T16:05:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "All classes Eliminations Live",
           "time": "2026-06-07T11:00:00-04:00",
           "duration": 240,
           "broadcasts": {
@@ -53604,7 +53754,7 @@
           }
         },
         {
-          "name": "Top Fuel, Funny Car, Pro Stock Eliminations Broadcast",
+          "name": "All classes Eliminations Broadcast",
           "time": "2026-06-07T15:00:00-04:00",
           "duration": 120,
           "broadcasts": {
@@ -54944,17 +55094,20 @@
         {
           "name": "Practice 1",
           "time": "2026-05-30T09:00:00+02:00",
-          "duration": 90
+          "duration": 90,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/monza/free-practice-1"
         },
         {
           "name": "Practice 2",
           "time": "2026-05-30T14:25:00+02:00",
-          "duration": 90
+          "duration": 90,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/monza/free-practice-2"
         },
         {
           "name": "Qualifying",
           "time": "2026-05-31T09:50:00+02:00",
           "duration": 60,
+          "resultsUrl": "https://www.gt-world-challenge-europe.com/results/2026/monza/qualifying-combined",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57235,6 +57388,7 @@
           "name": "250 Moto 1",
           "time": "2026-05-30T13:15:00-07:00",
           "duration": 35,
+          "resultsUrl": "https://promotocross.com/race/fox-raceway-national/results/250",
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -57257,6 +57411,7 @@
           "name": "450 Moto 1",
           "time": "2026-05-30T14:15:00-07:00",
           "duration": 35,
+          "resultsUrl": "https://promotocross.com/race/fox-raceway-national/results/450",
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -57279,6 +57434,7 @@
           "name": "250 Moto 2",
           "time": "2026-05-30T15:30:00-07:00",
           "duration": 35,
+          "resultsUrl": "https://promotocross.com/race/fox-raceway-national/results/250",
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -57301,6 +57457,7 @@
           "name": "450 Moto 2",
           "time": "2026-05-30T16:30:00-07:00",
           "duration": 35,
+          "resultsUrl": "https://promotocross.com/race/fox-raceway-national/results/450",
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -58634,6 +58791,24 @@
       ]
     },
     {
+      "id": 2609,
+      "series": "xtrial",
+      "name": "X-Trial FIM des Nations",
+      "circuit": "Palacio Municipal de Deportes San Pablo",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Round",
+          "time": "2026-03-14T13:00:00+01:00",
+          "tbd": true,
+          "resultsUrl": "https://www.x-trial.com/en/results/2026-sevilla-x-trial-fim-des-nations"
+        }
+      ]
+    },
+    {
       "id": 2608,
       "series": "xtrial",
       "name": "X-Trial Tarragona",
@@ -58920,6 +59095,7 @@
           "name": "Race",
           "time": "2026-05-31T10:30:00-04:00",
           "duration": 60,
+          "resultsUrl": "https://www.indynxt.com/results/indy-nxt/2026/detroit-grand-prix/race",
           "broadcasts": {
             "CA": {
               "service": "IndyCar Live"
@@ -60285,7 +60461,7 @@
     {
       "id": 2952,
       "series": "dtm",
-      "name": "Lausitzring",
+      "name": "DEKRA Lausitzring Sprint",
       "circuit": "Lausitzring",
       "flag": "🇩🇪",
       "country": "Germany",
@@ -60816,7 +60992,7 @@
     {
       "id": 2955,
       "series": "dtm",
-      "name": "Nürburgring",
+      "name": "Nürburgring Sprint",
       "circuit": "Nürburgring GP",
       "flag": "🇩🇪",
       "country": "Germany",
@@ -62471,19 +62647,6 @@
           }
         },
         {
-          "name": "Sidecar Race 1",
-          "time": "2026-05-30T13:30:00+01:00",
-          "laps": 3,
-          "broadcasts": {
-            "UK": {
-              "service": "ITV4"
-            },
-            "Global": {
-              "service": "TT+"
-            }
-          }
-        },
-        {
           "name": "Superbike Race",
           "time": "2026-05-31T13:30:00+01:00",
           "laps": 6,
@@ -62523,21 +62686,8 @@
           }
         },
         {
-          "name": "Sidecar Race 2",
-          "time": "2026-06-03T10:45:00+01:00",
-          "laps": 3,
-          "broadcasts": {
-            "UK": {
-              "service": "ITV4"
-            },
-            "Global": {
-              "service": "TT+"
-            }
-          }
-        },
-        {
           "name": "Superstock Race 2",
-          "time": "2026-06-03T13:30:00+01:00",
+          "time": "2026-06-03T10:45:00+01:00",
           "laps": 3,
           "broadcasts": {
             "UK": {
@@ -72811,6 +72961,7 @@
           "name": "Qualifying 1",
           "time": "2026-05-30T11:45:00+02:00",
           "duration": 20,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/monza/qualifying-1",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -72821,6 +72972,7 @@
           "name": "Race 1",
           "time": "2026-05-30T16:25:00+02:00",
           "duration": 45,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/monza/race-1",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -72836,6 +72988,7 @@
           "name": "Qualifying 2",
           "time": "2026-05-31T09:20:00+02:00",
           "duration": 20,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/monza/qualifying-2",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -72846,6 +72999,7 @@
           "name": "Race 2",
           "time": "2026-05-31T12:35:00+02:00",
           "duration": 45,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/monza/race-2",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -80797,6 +80951,23 @@
       ]
     },
     {
+      "id": 5127,
+      "series": "ctcrc",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-16T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
       "id": 5120,
       "series": "ctcrc",
       "name": "Oulton Park (BTCC)",
@@ -80814,17 +80985,68 @@
         {
           "name": "Race 1",
           "time": "2026-06-06T13:25:00+01:00",
-          "duration": 20
+          "duration": 20,
+          "broadcasts": {
+            "UK": {
+              "service": "ITV4 / ITVX"
+            },
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
+          }
         },
         {
           "name": "Race 2",
           "time": "2026-06-06T17:10:00+01:00",
-          "duration": 20
+          "duration": 20,
+          "broadcasts": {
+            "UK": {
+              "service": "ITV4 / ITVX"
+            },
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
+          }
         },
         {
           "name": "Race 3",
           "time": "2026-06-07T15:55:00+01:00",
-          "duration": 20
+          "duration": 20,
+          "broadcasts": {
+            "UK": {
+              "service": "ITV4 / ITVX"
+            },
+            "IE": {
+              "service": "ITV4 / ITVX"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "Global": {
+              "service": "YouTube/OfficialBTCC"
+            }
+          }
         }
       ]
     },
@@ -81434,23 +81656,23 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-05T11:15:00+02:00",
-          "duration": 45
+          "time": "2026-06-05T10:25:00+02:00",
+          "duration": 40
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-05T15:40:00+02:00",
-          "duration": 45
+          "time": "2026-06-05T14:50:00+02:00",
+          "duration": 40
         },
         {
           "name": "Qualifying 1",
           "time": "2026-06-06T10:25:00+02:00",
-          "duration": 30
+          "duration": 25
         },
         {
           "name": "Qualifying 2",
           "time": "2026-06-07T09:30:00+02:00",
-          "duration": 30
+          "duration": 25
         },
         {
           "name": "Race 1",
