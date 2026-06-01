@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T23:27:48.792Z",
+  "generatedAt": "2026-06-01T23:34:29.681Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1543,7 +1543,7 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
     },
     "itgtcup": {
       "id": "itgtcup",
@@ -1565,7 +1565,7 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
     },
     "itgtendurance": {
       "id": "itgtendurance",
@@ -1588,7 +1588,7 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
     },
     "gt4italy": {
       "id": "gt4italy",
