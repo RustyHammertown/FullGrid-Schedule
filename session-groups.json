@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T03:09:50.563Z",
+  "generatedAt": "2026-06-01T03:17:33.230Z",
   "groups": {
     "gt2": [
       {
@@ -533,7 +533,11 @@
         "sessions": [
           "Practice",
           "TA/GT Practice",
-          "TA2 Practice"
+          "TA2 Practice",
+          "TA/GT Testing 1",
+          "TA/GT Testing 2",
+          "TA2 Testing 1",
+          "TA2 Testing 2"
         ]
       },
       {
@@ -542,6 +546,14 @@
           "Qualifying",
           "TA/GT Qualifying",
           "TA2 Qualifying"
+        ]
+      }
+    ],
+    "lucasdirt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
         ]
       }
     ],
