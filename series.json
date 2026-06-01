@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T22:29:38.210Z",
+  "generatedAt": "2026-06-01T22:32:50.741Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2617,12 +2617,9 @@
       "color": "#16A34A",
       "bg": "rgba(22,163,74,0.15)",
       "broadcast": {
-        "Global": {
-          "service": "F4 Italian Live Stream",
-          "url": "https://www.f4championship.com/STREAMING"
-        }
+        "Global": "YouTube/Italianf4-Euro4"
       },
-      "streamUrl": "https://www.f4championship.com/STREAMING",
+      "streamUrl": "https://www.youtube.com/@Italianf4-Euro4",
       "resultsUrl": "https://www.acisport.it/it/F4/calendario-e-risultati/2026"
     },
     "pccgb": {
