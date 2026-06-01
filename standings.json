@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T22:24:02.515Z",
+  "generatedAt": "2026-06-01T22:27:09.926Z",
   "flat": {
     "f1": [
       {
@@ -1752,61 +1752,71 @@
         "pos": 1,
         "name": "Caleb Campbell",
         "points": 108,
-        "team": "Kiwi Motorsport"
+        "team": "#68 Kiwi Motorsport",
+        "flag": "🇨🇦"
       },
       {
         "pos": 2,
         "name": "Zach Fourie (R)",
         "points": 87,
-        "team": "Kiwi Motorsport"
+        "team": "#15 Kiwi Motorsport",
+        "flag": "🇿🇦"
       },
       {
         "pos": 3,
         "name": "Gastón Irazú",
         "points": 80,
-        "team": "Champagne Racing"
+        "team": "#27 Champagne Racing",
+        "flag": "🇺🇾"
       },
       {
         "pos": 4,
         "name": "Cole Medeiros (R)",
         "points": 39,
-        "team": "MLT Motorsports"
+        "team": "#77 MLT Motorsports",
+        "flag": "🇨🇦"
       },
       {
         "pos": 5,
         "name": "Clemente Huerta",
         "points": 36,
-        "team": "Speed Factory"
+        "team": "#17 Speed Factory",
+        "flag": "🇨🇱"
       },
       {
         "pos": 6,
         "name": "Luca Day (R)",
         "points": 32,
-        "team": "Momentum Motorsports"
+        "team": "#54 Momentum Motorsports",
+        "flag": "🇨🇦"
       },
       {
         "pos": 7,
         "name": "Robert Soroka (R)",
         "points": 28,
-        "team": "VMax Motorsport"
+        "team": "#93 VMax Motorsport",
+        "flag": "🇨🇦"
       },
       {
         "pos": 8,
         "name": "Fernando Rivera",
         "points": 26,
-        "team": "Crosslink Motorsports"
+        "team": "#16 Crosslink Motorsports",
+        "flag": "🇲🇽"
       },
       {
         "pos": 9,
         "name": "Ayden Kohut (R)",
         "points": 22,
-        "team": "Kiwi Motorsport"
+        "team": "#18 Kiwi Motorsport",
+        "flag": "🇺🇸"
       },
       {
         "pos": 10,
         "name": "Ben Ramirez (R)",
         "points": 14,
-        "team": "RASE Motorsports"
+        "team": "#32 RASE Motorsports",
+        "flag": "🇺🇸"
       }
     ],
     "framericas": [
@@ -2134,60 +2144,70 @@
         "pos": 1,
         "name": "Dries Van Langendonck",
         "points": 116,
+        "team": "#20 Rodin Motorsport",
         "flag": "🇧🇪"
       },
       {
         "pos": 2,
         "name": "Lewis Wherrell",
         "points": 87,
+        "team": "#12 JHR Developments",
         "flag": "🇬🇧"
       },
       {
         "pos": 3,
         "name": "Scott Lindblom",
         "points": 78,
+        "team": "#6 Hitech",
         "flag": "🇸🇪"
       },
       {
         "pos": 4,
         "name": "Ethan Jeff-Hall",
         "points": 75,
+        "team": "#88 Argenti Motorsport",
         "flag": "🇬🇧"
       },
       {
         "pos": 5,
         "name": "Theo Palmer",
         "points": 57,
+        "team": "#7 Hitech",
         "flag": "🇦🇪"
       },
       {
         "pos": 6,
         "name": "Joseph Smith",
         "points": 51,
+        "team": "#55 Virtuosi Racing",
         "flag": "🇬🇧"
       },
       {
         "pos": 7,
         "name": "Adam Al Azhari",
         "points": 50,
+        "team": "#5 Hitech",
         "flag": "🇦🇪"
       },
       {
         "pos": 8,
         "name": "Tommy Harfield",
         "points": 46,
+        "team": "#21 Chris Dittmann Racing",
         "flag": "🇬🇧"
       },
       {
         "pos": 9,
         "name": "Ethan Lennon",
         "points": 44,
+        "team": "#32 Rodin Motorsport",
         "flag": "🇿🇦"
       },
       {
         "pos": 10,
         "name": "Kit Belofsky",
         "points": 43,
+        "team": "#11 Fortec Motorsport",
         "flag": "🇬🇧"
       }
     ],
