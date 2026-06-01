@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T02:07:47.504Z",
+  "generatedAt": "2026-06-01T03:08:50.127Z",
   "groups": {
     "gt2": [
       {
@@ -56,7 +56,9 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying",
-          "Qualifying (TBD)"
+          "Qualifying (TBD)",
+          "Qualifying Group A",
+          "Qualifying Group B"
         ]
       },
       {
@@ -77,7 +79,9 @@
       {
         "label": "Qualifying",
         "sessions": [
-          "Qualifying"
+          "Qualifying",
+          "Qualifying Group A",
+          "Qualifying Group B"
         ]
       },
       {
@@ -257,7 +261,8 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying 1",
-          "Qualifying 2"
+          "Qualifying 2",
+          "Qualifying"
         ]
       }
     ],
@@ -273,7 +278,8 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying 1",
-          "Qualifying 2"
+          "Qualifying 2",
+          "Qualifying"
         ]
       }
     ],
@@ -304,6 +310,7 @@
           "Veterans Practice",
           "Fast Friday Practice",
           "Final Practice",
+          "Carb Day Practice",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)"
         ]
@@ -332,7 +339,9 @@
       {
         "label": "Practice",
         "sessions": [
-          "Practice"
+          "Practice",
+          "Practice 1",
+          "Practice 2"
         ]
       },
       {
@@ -1543,7 +1552,9 @@
         "sessions": [
           "Practice",
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {
@@ -1608,7 +1619,9 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying 1",
-          "Qualifying 2"
+          "Qualifying 2",
+          "Miles Cup Qualifying",
+          "Parnelli Cup Qualifying"
         ]
       }
     ],
@@ -1644,7 +1657,9 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying",
-          "Qualifying (TBD)"
+          "Qualifying (TBD)",
+          "Qualifying (GSX)",
+          "Qualifying (GTDX/P3)"
         ]
       }
     ],
@@ -1652,6 +1667,8 @@
       {
         "label": "Qualifying",
         "sessions": [
+          "Qualifying Day 1",
+          "Qualifying Day 2",
           "Top Fuel Qualifying 1",
           "Top Fuel Qualifying 2",
           "Top Fuel Qualifying 3",
