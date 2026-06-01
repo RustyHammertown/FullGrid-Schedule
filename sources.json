@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T22:21:23.339Z",
+  "generatedAt": "2026-06-01T22:22:33.538Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3493,7 +3493,7 @@
       "standings": [
         {
           "url": "https://www.f4championship.com/STANDINGS/DRIVERS_ABSOLUTE",
-          "label": "Italian F4 — official driver & team standings"
+          "label": "F4 Italian — official driver & team standings"
         }
       ],
       "website": [
