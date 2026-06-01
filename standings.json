@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T22:14:21.804Z",
+  "generatedAt": "2026-06-01T22:20:44.936Z",
   "flat": {
     "f1": [
       {
@@ -2196,90 +2196,105 @@
         "pos": 1,
         "name": "Alp Hasan Aksoy",
         "points": 144,
+        "team": "#10 Prema Racing",
         "flag": "🇹🇷"
       },
       {
         "pos": 2,
         "name": "Luka Sammalisto",
         "points": 138,
+        "team": "#7 US Racing",
         "flag": "🇫🇮"
       },
       {
         "pos": 3,
         "name": "Cristofor David Cosma",
         "points": 121,
+        "team": "#98 Prema Racing",
         "flag": "🇷🇴"
       },
       {
         "pos": 4,
         "name": "Edward Robinson",
         "points": 110,
+        "team": "#9 US Racing",
         "flag": "🇬🇧"
       },
       {
         "pos": 5,
         "name": "Oleksandr Savinkov",
         "points": 102,
+        "team": "#17 US Racing",
         "flag": "🇮🇹"
       },
       {
         "pos": 6,
         "name": "David Walther",
         "points": 102,
+        "team": "#86 Maffi Racing",
         "flag": "🇩🇰"
       },
       {
         "pos": 7,
         "name": "Ary Bansal",
         "points": 95,
+        "team": "#46 US Racing",
         "flag": "🇨🇿"
       },
       {
         "pos": 8,
         "name": "Arjen Kraling",
         "points": 77,
+        "team": "#62 US Racing",
         "flag": "🇩🇪"
       },
       {
         "pos": 9,
         "name": "Oleksandr Bondarev",
         "points": 72,
+        "team": "#27 Prema Racing",
         "flag": "🇺🇦"
       },
       {
         "pos": 10,
         "name": "Thomas Bearman",
         "points": 66,
+        "team": "#87 Van Amersfoort Racing",
         "flag": "🇬🇧"
       },
       {
         "pos": 11,
         "name": "Niccolò Maccagnani",
         "points": 66,
+        "team": "#19 Prema Racing",
         "flag": "🇮🇹"
       },
       {
         "pos": 12,
         "name": "Ludovico Busso",
         "points": 59,
+        "team": "#29 US Racing",
         "flag": "🇮🇹"
       },
       {
         "pos": 13,
         "name": "Oscar Repetto",
         "points": 51,
+        "team": "#6 PHM Racing",
         "flag": "🇳🇿"
       },
       {
         "pos": 14,
         "name": "Knud Nielsen",
         "points": 48,
+        "team": "#41 Real Racing",
         "flag": "🇩🇰"
       },
       {
         "pos": 15,
         "name": "Bader Al Sulaiti",
         "points": 47,
+        "team": "#26 Jenzer Motorsport",
         "flag": "🇶🇦"
       }
     ],
