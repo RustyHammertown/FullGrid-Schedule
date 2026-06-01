@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T22:33:19.648Z",
+  "generatedAt": "2026-06-01T23:27:22.511Z",
   "events": [
     {
       "id": 101,
@@ -83969,6 +83969,600 @@
         {
           "name": "Race 4 (Final)",
           "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5557,
+      "series": "itgtsprint",
+      "name": "Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-04-24T10:50:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-04-24T15:50:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Free Practice 3",
+          "time": "2026-04-24T19:05:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-25T09:10:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-25T09:30:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-25T15:00:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-26T14:00:00+02:00",
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5558,
+      "series": "itgtsprint",
+      "name": "Vallelunga",
+      "circuit": "Autodromo Piero Taruffi",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-22T11:40:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-22T16:50:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-23T10:30:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-23T10:55:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T16:40:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T14:00:00+02:00",
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5559,
+      "series": "itgtsprint",
+      "name": "Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5560,
+      "series": "itgtsprint",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5561,
+      "series": "itgtcup",
+      "name": "Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-04-24T11:50:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-04-24T16:50:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Free Practice 3",
+          "time": "2026-04-24T19:35:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-25T09:55:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-25T10:15:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-04-25T17:30:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-04-26T15:30:00+02:00",
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5562,
+      "series": "itgtcup",
+      "name": "Vallelunga",
+      "circuit": "Autodromo Piero Taruffi",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-22T10:30:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-22T15:40:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-23T09:00:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-23T09:25:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-23T14:00:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-24T10:10:00+02:00",
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5563,
+      "series": "itgtcup",
+      "name": "Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5564,
+      "series": "itgtcup",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5565,
+      "series": "itgtendurance",
+      "name": "Misano",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-08T11:05:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-08T16:05:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-09T18:00:00+02:00",
+          "duration": 115
+        },
+        {
+          "name": "Race",
+          "time": "2026-05-10T14:50:00+02:00",
+          "duration": 180
+        }
+      ]
+    },
+    {
+      "id": 5566,
+      "series": "itgtendurance",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-06-19T11:22:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-19T14:14:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T13:20:00+02:00",
+          "duration": 112
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-21T15:00:00+02:00",
+          "duration": 180
+        }
+      ]
+    },
+    {
+      "id": 5567,
+      "series": "itgtendurance",
+      "name": "Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5568,
+      "series": "itgtendurance",
+      "name": "Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-31T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-31T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5569,
+      "series": "gt4italy",
+      "name": "Misano",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-08T10:05:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-08T15:05:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-08T19:30:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-08T19:55:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-09T14:40:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-10T18:20:00+02:00",
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5570,
+      "series": "gt4italy",
+      "name": "Vallelunga",
+      "circuit": "Autodromo Piero Taruffi",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5571,
+      "series": "gt4italy",
+      "name": "Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-25T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5572,
+      "series": "gt4italy",
+      "name": "Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5573,
+      "series": "gt4italy",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T14:00:00+02:00",
           "tbd": true
         }
       ]

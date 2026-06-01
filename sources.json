@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T22:33:23.942Z",
+  "generatedAt": "2026-06-01T23:27:27.550Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3509,6 +3509,38 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/italianf4championship/"
+        }
+      ]
+    },
+    "itgtsprint": {
+      "schedule": [
+        {
+          "url": "https://www.acisport.it/campionati/CIGT/",
+          "label": "ACI Sport — Italian GT (Cloudflare-gated; timetables supplied manually)"
+        }
+      ]
+    },
+    "itgtcup": {
+      "schedule": [
+        {
+          "url": "https://www.acisport.it/campionati/CIGT/",
+          "label": "ACI Sport — Italian GT (Cloudflare-gated; timetables supplied manually)"
+        }
+      ]
+    },
+    "itgtendurance": {
+      "schedule": [
+        {
+          "url": "https://www.acisport.it/campionati/CIGT/",
+          "label": "ACI Sport — Italian GT (Cloudflare-gated; timetables supplied manually)"
+        }
+      ]
+    },
+    "gt4italy": {
+      "schedule": [
+        {
+          "url": "https://www.acisport.it/campionati/CIGT/",
+          "label": "ACI Sport — GT4 Italy (Cloudflare-gated; timetables supplied manually)"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T22:33:24.974Z",
+  "generatedAt": "2026-06-01T23:27:26.013Z",
   "groups": {
     "gt2": [
       {
@@ -1834,6 +1834,71 @@
         "sessions": [
           "Qualifying (Group 1)",
           "Qualifying (Group 2)"
+        ]
+      }
+    ],
+    "itgtsprint": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2",
+          "Free Practice 3"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "itgtcup": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2",
+          "Free Practice 3"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "itgtendurance": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      }
+    ],
+    "gt4italy": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

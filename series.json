@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T22:33:22.907Z",
+  "generatedAt": "2026-06-01T23:27:24.066Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1521,6 +1521,97 @@
       "unstreamedCategories": [
         "Practice"
       ]
+    },
+    "itgtsprint": {
+      "id": "itgtsprint",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "europe"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Italian GT Sprint Championship",
+      "short": "IGT-S",
+      "color": "#1D4ED8",
+      "bg": "rgba(29,78,216,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "ACI Sport TV",
+          "url": "https://acisport.tv/"
+        }
+      },
+      "streamUrl": "https://acisport.tv/",
+      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+    },
+    "itgtcup": {
+      "id": "itgtcup",
+      "tags": [
+        "sports-car",
+        "regional-series",
+        "europe"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Italian GT Cup Sprint Championship",
+      "short": "IGT-C",
+      "color": "#7C3AED",
+      "bg": "rgba(124,58,237,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "ACI Sport TV",
+          "url": "https://acisport.tv/"
+        }
+      },
+      "streamUrl": "https://acisport.tv/",
+      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+    },
+    "itgtendurance": {
+      "id": "itgtendurance",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "regional-series",
+        "europe"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Italian GT Endurance Championship",
+      "short": "IGT-E",
+      "color": "#B45309",
+      "bg": "rgba(180,83,9,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "ACI Sport TV",
+          "url": "https://acisport.tv/"
+        }
+      },
+      "streamUrl": "https://acisport.tv/",
+      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+    },
+    "gt4italy": {
+      "id": "gt4italy",
+      "tags": [
+        "sports-car",
+        "gt4",
+        "regional-series",
+        "europe"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "GT4 Italy Series",
+      "short": "GT4IT",
+      "color": "#0D9488",
+      "bg": "rgba(13,148,136,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "ACI Sport TV",
+          "url": "https://acisport.tv/"
+        }
+      },
+      "streamUrl": "https://acisport.tv/",
+      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
     },
     "dtm": {
       "id": "dtm",
