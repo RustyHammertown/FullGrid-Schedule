@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T23:35:09.517Z",
+  "generatedAt": "2026-06-01T23:36:20.307Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1611,7 +1611,7 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/campionati/CIGT/"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
     },
     "dtm": {
       "id": "dtm",
