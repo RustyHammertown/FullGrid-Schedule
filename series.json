@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T23:39:49.899Z",
+  "generatedAt": "2026-06-01T23:49:59.384Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1543,7 +1543,15 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "itgtcup": {
       "id": "itgtcup",
@@ -1565,7 +1573,15 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "itgtendurance": {
       "id": "itgtendurance",
@@ -1588,7 +1604,15 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "gt4italy": {
       "id": "gt4italy",
@@ -1611,7 +1635,15 @@
         }
       },
       "streamUrl": "https://acisport.tv/",
-      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026"
+      "resultsUrl": "https://www.acisport.it/it/CIGT/calendario-e-risultati/2026",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "dtm": {
       "id": "dtm",
@@ -2711,7 +2743,15 @@
         "Global": "YouTube/Italianf4-Euro4"
       },
       "streamUrl": "https://www.youtube.com/@Italianf4-Euro4",
-      "resultsUrl": "https://www.acisport.it/it/F4/calendario-e-risultati/2026"
+      "resultsUrl": "https://www.acisport.it/it/F4/calendario-e-risultati/2026",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccgb": {
       "id": "pccgb",
