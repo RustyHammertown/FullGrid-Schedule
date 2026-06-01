@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T11:49:04.614Z",
+  "generatedAt": "2026-06-01T22:14:04.497Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -67,6 +67,14 @@
       "region": "Lombardy",
       "website": "https://www.monzanet.it",
       "length_m": 5793
+    },
+    "Autodromo Piero Taruffi": {
+      "lat": 42.1567,
+      "lon": 12.3717,
+      "city": "Campagnano di Roma",
+      "region": "Lazio",
+      "website": "https://www.vallelunga.it",
+      "length_m": 4085
     },
     "Automotodrom Brno": {
       "lat": 49.205,

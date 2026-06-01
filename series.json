@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T11:49:05.645Z",
+  "generatedAt": "2026-06-01T22:14:02.650Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2600,6 +2600,30 @@
         "Practice",
         "Qualifying"
       ]
+    },
+    "f4italy": {
+      "id": "f4italy",
+      "tags": [
+        "open-wheel",
+        "f4-car",
+        "feeder-series",
+        "europe",
+        "fia"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "Italian F4 Championship",
+      "short": "F4IT",
+      "color": "#16A34A",
+      "bg": "rgba(22,163,74,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "F4 Italian Live Stream",
+          "url": "https://www.f4championship.com/STREAMING"
+        }
+      },
+      "streamUrl": "https://www.f4championship.com/STREAMING",
+      "resultsUrl": "https://www.acisport.it/it/F4/calendario-e-risultati/2026"
     },
     "pccgb": {
       "id": "pccgb",

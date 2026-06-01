@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T11:49:02.398Z",
+  "generatedAt": "2026-06-01T22:13:58.879Z",
   "events": [
     {
       "id": 101,
@@ -83616,6 +83616,360 @@
           "name": "Race 2",
           "time": "2026-10-18T09:35:00+01:00",
           "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5550,
+      "series": "f4italy",
+      "name": "Misano",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-05-08T08:30:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Free Practice 1 (Group 2)",
+          "time": "2026-05-08T09:00:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Free Practice 2 (Group 1)",
+          "time": "2026-05-08T13:30:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Free Practice 2 (Group 2)",
+          "time": "2026-05-08T14:00:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-05-08T17:55:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying (Group 2)",
+          "time": "2026-05-08T18:25:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-05-09T11:30:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-05-09T17:15:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-05-10T08:30:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-05-10T13:50:00+02:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5551,
+      "series": "f4italy",
+      "name": "Vallelunga",
+      "circuit": "Autodromo Piero Taruffi",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-05-22T08:30:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Free Practice 1 (Group 2)",
+          "time": "2026-05-22T09:10:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Free Practice 2 (Group 1)",
+          "time": "2026-05-22T12:50:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Free Practice 2 (Group 2)",
+          "time": "2026-05-22T13:30:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-05-22T18:10:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying (Group 2)",
+          "time": "2026-05-22T18:40:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-05-23T11:40:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-05-23T18:00:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-05-24T09:00:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-05-24T15:45:00+02:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5552,
+      "series": "f4italy",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-06-19T09:28:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Free Practice 1 (Group 2)",
+          "time": "2026-06-19T10:06:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Free Practice 2 (Group 1)",
+          "time": "2026-06-19T12:20:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Free Practice 2 (Group 2)",
+          "time": "2026-06-19T12:58:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-06-19T17:10:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying (Group 2)",
+          "time": "2026-06-19T17:40:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-06-20T11:30:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-06-20T17:30:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-06-21T09:30:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-06-21T14:00:00+02:00",
+          "duration": 25
+        }
+      ]
+    },
+    {
+      "id": 5553,
+      "series": "f4italy",
+      "name": "Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-07-26T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5554,
+      "series": "f4italy",
+      "name": "Imola",
+      "circuit": "Autodromo Enzo e Dino Ferrari",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-09-06T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5555,
+      "series": "f4italy",
+      "name": "Misano",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5556,
+      "series": "f4italy",
+      "name": "Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Free Practice 1 (Group 1)",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying (Group 1)",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1 (Groups B-C)",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2 (Groups A-B)",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3 (Groups A-C)",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 4 (Final)",
+          "time": "2026-11-01T13:00:00+01:00",
+          "tbd": true
         }
       ]
     }

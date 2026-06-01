@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T11:49:06.685Z",
+  "generatedAt": "2026-06-01T22:14:09.824Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3470,6 +3470,45 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/BritishF4/"
+        }
+      ]
+    },
+    "f4italy": {
+      "schedule": [
+        {
+          "url": "https://www.f4championship.com/",
+          "label": "Official site — calendar + per-round links"
+        },
+        {
+          "url": "https://www.acisport.it/it/F4/calendario-e-risultati/2026",
+          "label": "ACI Sport — calendar & weekend timetable PDFs"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.acisport.it/it/F4/calendario-e-risultati/2026",
+          "label": "ACI Sport — official results portal"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.f4championship.com/STANDINGS/DRIVERS_ABSOLUTE",
+          "label": "Italian F4 — official driver & team standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.f4championship.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/wsk_promotion/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/italianf4championship/"
         }
       ]
     },

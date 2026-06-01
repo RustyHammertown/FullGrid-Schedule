@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T11:49:03.560Z",
+  "generatedAt": "2026-06-01T22:14:00.443Z",
   "flat": {
     "f1": [
       {
@@ -2189,6 +2189,98 @@
         "name": "Kit Belofsky",
         "points": 43,
         "flag": "🇬🇧"
+      }
+    ],
+    "f4italy": [
+      {
+        "pos": 1,
+        "name": "Alp Hasan Aksoy",
+        "points": 144,
+        "flag": "🇹🇷"
+      },
+      {
+        "pos": 2,
+        "name": "Luka Sammalisto",
+        "points": 138,
+        "flag": "🇫🇮"
+      },
+      {
+        "pos": 3,
+        "name": "Cristofor David Cosma",
+        "points": 121,
+        "flag": "🇷🇴"
+      },
+      {
+        "pos": 4,
+        "name": "Edward Robinson",
+        "points": 110,
+        "flag": "🇬🇧"
+      },
+      {
+        "pos": 5,
+        "name": "Oleksandr Savinkov",
+        "points": 102,
+        "flag": "🇮🇹"
+      },
+      {
+        "pos": 6,
+        "name": "David Walther",
+        "points": 102,
+        "flag": "🇩🇰"
+      },
+      {
+        "pos": 7,
+        "name": "Ary Bansal",
+        "points": 95,
+        "flag": "🇨🇿"
+      },
+      {
+        "pos": 8,
+        "name": "Arjen Kraling",
+        "points": 77,
+        "flag": "🇩🇪"
+      },
+      {
+        "pos": 9,
+        "name": "Oleksandr Bondarev",
+        "points": 72,
+        "flag": "🇺🇦"
+      },
+      {
+        "pos": 10,
+        "name": "Thomas Bearman",
+        "points": 66,
+        "flag": "🇬🇧"
+      },
+      {
+        "pos": 11,
+        "name": "Niccolò Maccagnani",
+        "points": 66,
+        "flag": "🇮🇹"
+      },
+      {
+        "pos": 12,
+        "name": "Ludovico Busso",
+        "points": 59,
+        "flag": "🇮🇹"
+      },
+      {
+        "pos": 13,
+        "name": "Oscar Repetto",
+        "points": 51,
+        "flag": "🇳🇿"
+      },
+      {
+        "pos": 14,
+        "name": "Knud Nielsen",
+        "points": 48,
+        "flag": "🇩🇰"
+      },
+      {
+        "pos": 15,
+        "name": "Bader Al Sulaiti",
+        "points": 47,
+        "flag": "🇶🇦"
       }
     ],
     "pccd": [
@@ -7622,6 +7714,7 @@
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
     "f4british": "2026-05-31",
+    "f4italy": "2026-05-24",
     "pccd": "2026-05-24",
     "minichallenge": "2026-05-24",
     "minitrophy": "2026-05-24",
@@ -7685,6 +7778,58 @@
     "promotocross": "2026-05-30"
   },
   "teamFlat": {
+    "f4italy": [
+      {
+        "pos": 1,
+        "name": "Prema Racing",
+        "points": 206
+      },
+      {
+        "pos": 2,
+        "name": "US Racing",
+        "points": 172
+      },
+      {
+        "pos": 3,
+        "name": "Maffi Racing",
+        "points": 58
+      },
+      {
+        "pos": 4,
+        "name": "Van Amersfoort Racing",
+        "points": 56
+      },
+      {
+        "pos": 5,
+        "name": "R-ACE GP",
+        "points": 41
+      },
+      {
+        "pos": 6,
+        "name": "Jenzer Motorsport",
+        "points": 37
+      },
+      {
+        "pos": 7,
+        "name": "PHM Racing",
+        "points": 26
+      },
+      {
+        "pos": 8,
+        "name": "Trident Motorsport",
+        "points": 23
+      },
+      {
+        "pos": 9,
+        "name": "Real Racing",
+        "points": 9
+      },
+      {
+        "pos": 10,
+        "name": "AKM Motorsport",
+        "points": 0
+      }
+    ],
     "agt4": [
       {
         "pos": 1,
