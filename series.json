@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T22:23:04.499Z",
+  "generatedAt": "2026-06-01T22:23:33.704Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2582,7 +2582,7 @@
       ],
       "group": "openwheel",
       "region": "americas",
-      "label": "F4 U.S. Championship",
+      "label": "F4 US Championship",
       "short": "F4US",
       "color": "#6366F1",
       "bg": "rgba(99,102,241,0.15)",
