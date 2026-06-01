@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-05-31T23:51:20.736Z",
+  "generatedAt": "2026-06-01T01:04:24.815Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1494,6 +1494,33 @@
       },
       "streamUrl": "https://www.youtube.com/@GTWorld",
       "resultsUrl": "https://www.gt-world-challenge-europe.com/results"
+    },
+    "gt2": {
+      "id": "gt2",
+      "tags": [
+        "sports-car",
+        "gt2",
+        "regional-series",
+        "europe",
+        "sro"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "GT2 European Series",
+      "short": "GT2",
+      "color": "#DC2626",
+      "bg": "rgba(220,38,38,0.15)",
+      "broadcast": {
+        "Global": "YouTube/GTWorld"
+      },
+      "notTelevisedCategories": [
+        "Practice"
+      ],
+      "streamUrl": "https://www.youtube.com/@GTWorld",
+      "resultsUrl": "https://www.gt2europeanseries.com/results",
+      "unstreamedCategories": [
+        "Practice"
+      ]
     },
     "dtm": {
       "id": "dtm",

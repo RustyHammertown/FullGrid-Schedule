@@ -1,7 +1,23 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-31T23:51:22.928Z",
+  "generatedAt": "2026-06-01T01:04:26.460Z",
   "groups": {
+    "gt2": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
     "f1": [
       {
         "label": "Practice",

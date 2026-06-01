@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-31T23:51:17.322Z",
+  "generatedAt": "2026-06-01T01:04:22.408Z",
   "events": [
     {
       "id": 101,
@@ -83401,6 +83401,216 @@
         {
           "name": "Race 3",
           "time": "2026-10-17T07:00:00-05:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5541,
+      "series": "gt2",
+      "name": "Monza",
+      "circuit": "Autodromo Nazionale Monza",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-05-29T11:20:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-05-29T14:50:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-30T10:40:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-30T11:00:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-30T13:25:00+02:00",
+          "duration": 50
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-31T11:15:00+02:00",
+          "duration": 50
+        }
+      ]
+    },
+    {
+      "id": 5542,
+      "series": "gt2",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5543,
+      "series": "gt2",
+      "name": "Misano",
+      "circuit": "Misano World Circuit",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-19T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5544,
+      "series": "gt2",
+      "name": "Zandvoort",
+      "circuit": "Circuit Zandvoort",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5545,
+      "series": "gt2",
+      "name": "Portimão",
+      "circuit": "Algarve International Circuit",
+      "flag": "🇵🇹",
+      "country": "Portugal",
+      "tz": "Europe/Lisbon",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-17T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-18T13:00:00+01:00",
           "tbd": true
         }
       ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-31T23:51:21.841Z",
+  "generatedAt": "2026-06-01T01:04:29.623Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1187,6 +1187,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/GTWorldChallengeEurope/"
+        }
+      ]
+    },
+    "gt2": {
+      "schedule": [
+        {
+          "url": "https://www.gt2europeanseries.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.gt2europeanseries.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.gt2europeanseries.com/standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.gt2europeanseries.com/",
+          "label": "GT2 European Series — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.gt2europeanseries.com/watch-live",
+          "label": "Watch Live & Live Timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gt2europeanseries"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/GT2European"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/gt2europeanseries"
         }
       ]
     },

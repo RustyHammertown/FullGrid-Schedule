@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-31T23:51:25.181Z",
+  "generatedAt": "2026-06-01T01:04:31.967Z",
   "categories": [
     {
       "id": "geography",
@@ -89,6 +89,7 @@
         "indy-nxt-chassis",
         "indycar-chassis",
         "prototype",
+        "gt2",
         "gt3",
         "gt4",
         "tcr",
@@ -174,6 +175,7 @@
     "indy-nxt-chassis": "Indy NXT Chassis",
     "indycar-chassis": "IndyCar Chassis",
     "prototype": "Prototype",
+    "gt2": "GT2",
     "gt3": "GT3",
     "gt4": "GT4",
     "tcr": "TCR",
