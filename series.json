@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-02T00:50:48.221Z",
+  "generatedAt": "2026-06-02T00:54:02.713Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2769,12 +2769,9 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "Global": {
-          "service": "FFSA Academy",
-          "url": "https://www.youtube.com/channel/UCUWV6YsuDBWO5sYxmwSQUQQ/streams"
-        }
+        "Global": "YouTube/ffsa"
       },
-      "streamUrl": "https://www.youtube.com/channel/UCUWV6YsuDBWO5sYxmwSQUQQ",
+      "streamUrl": "https://www.youtube.com/@ffsa",
       "resultsUrl": "https://www.ffsaacademy.org/results-f4/?lang=en",
       "notTelevisedCategories": [
         "Practice",
