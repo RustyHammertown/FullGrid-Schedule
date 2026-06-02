@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T01:24:14.427Z",
+  "generatedAt": "2026-06-02T01:28:11.461Z",
   "flat": {
     "f1": [
       {
@@ -2288,70 +2288,70 @@
         "pos": 1,
         "name": "Rocco Coronel",
         "points": 55,
-        "team": "MP Motorsport",
+        "team": "#23 MP Motorsport",
         "flag": "🇳🇱"
       },
       {
         "pos": 2,
         "name": "Noah Monteiro",
         "points": 43,
-        "team": "Griffin Core",
+        "team": "#81 Griffin Core",
         "flag": "🇵🇹"
       },
       {
         "pos": 3,
         "name": "Aleix Piñera",
         "points": 33,
-        "team": "Tecnicar",
+        "team": "#25 Tecnicar",
         "flag": "🇪🇸"
       },
       {
         "pos": 4,
         "name": "Vivek Kanthan",
         "points": 31,
-        "team": "Griffin Core",
+        "team": "#22 Griffin Core",
         "flag": "🇺🇸"
       },
       {
         "pos": 5,
         "name": "Borys Lyzen",
         "points": 27,
-        "team": "KCL Motorsport",
+        "team": "#21 KCL Motorsport",
         "flag": "🇵🇱"
       },
       {
         "pos": 6,
         "name": "Ty Fisher",
         "points": 22,
-        "team": "Griffin Core",
+        "team": "#37 Griffin Core",
         "flag": "🇨🇦"
       },
       {
         "pos": 7,
         "name": "Kasper Schormans",
         "points": 22,
-        "team": "MP Motorsport",
+        "team": "#40 MP Motorsport",
         "flag": "🇳🇱"
       },
       {
         "pos": 8,
         "name": "Jensen Burnett",
         "points": 12,
-        "team": "KCL Motorsport",
+        "team": "#15 KCL Motorsport",
         "flag": "🇨🇦"
       },
       {
         "pos": 9,
         "name": "Nathan Tye",
         "points": 11,
-        "team": "Drivex",
+        "team": "#46 Drivex",
         "flag": "🇬🇧"
       },
       {
         "pos": 10,
         "name": "Elliot Kaczynski",
         "points": 10,
-        "team": "Drivex",
+        "team": "#44 Drivex",
         "flag": "🇸🇪"
       }
     ],
