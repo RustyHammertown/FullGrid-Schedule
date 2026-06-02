@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T03:27:15.109Z",
+  "generatedAt": "2026-06-02T21:51:53.501Z",
   "flat": {
     "f1": [
       {
@@ -1183,62 +1183,62 @@
       {
         "pos": 1,
         "name": "Aaron Reutzel",
-        "points": 1012,
+        "points": 1071,
         "team": "Clute, TX"
       },
       {
         "pos": 2,
         "name": "Rico Abreu",
-        "points": 1001,
+        "points": 1064,
         "team": "St. Helena, CA"
       },
       {
         "pos": 3,
         "name": "Giovanni Scelzi",
-        "points": 960,
+        "points": 1028,
         "team": "Fresno, CA"
       },
       {
         "pos": 4,
         "name": "Tanner Thorson",
-        "points": 933,
+        "points": 960,
         "team": "Broken Arrow, OK"
       },
       {
         "pos": 5,
         "name": "Tyler Courtney",
-        "points": 894,
+        "points": 943,
         "team": "Indianapolis, IN"
       },
       {
         "pos": 6,
         "name": "Justin Peck",
-        "points": 878,
+        "points": 933,
         "team": "Monrovia, IN"
       },
       {
         "pos": 7,
         "name": "Kerry Madsen",
-        "points": 867,
+        "points": 924,
         "team": "Knoxville, IA"
       },
       {
         "pos": 8,
         "name": "Brent Marks",
-        "points": 769,
+        "points": 841,
         "team": "Myerstown, PA"
       },
       {
         "pos": 9,
-        "name": "Sye Lynch",
-        "points": 759,
-        "team": "Cowansville, PA"
+        "name": "Daison Pursley",
+        "points": 794,
+        "team": "Locust Grove, OK"
       },
       {
         "pos": 10,
-        "name": "Tanner Holmes",
-        "points": 757,
-        "team": "Jacksonville, OR"
+        "name": "Sye Lynch",
+        "points": 792,
+        "team": "Cowansville, PA"
       }
     ],
     "woosc": [
@@ -6667,70 +6667,87 @@
         "entries": [
           {
             "pos": 1,
+            "name": "Andre Castro",
+            "points": 123,
+            "team": "#77 Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
+          },
+          {
+            "pos": 2,
             "name": "Braydon Arthur",
             "points": 93,
             "team": "#4 JMF Motorsports",
             "vehicle": "Toyota GR Corolla TC"
           },
           {
-            "pos": 2,
-            "name": "Andre Castro",
-            "points": 73,
-            "team": "#77 Ricca Autosport",
-            "vehicle": "Hyundai Elantra N1 TC Evo"
-          },
-          {
             "pos": 3,
-            "name": "Dean Lambros",
-            "points": 59,
-            "team": "Skip Barber Racing School"
-          },
-          {
-            "pos": 4,
             "name": "Justin Gravett",
-            "points": 47,
+            "points": 83,
             "team": "Ricca Autosport",
             "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
+            "pos": 4,
+            "name": "Dean Lambros",
+            "points": 81,
+            "team": "Skip Barber Racing School"
+          },
+          {
             "pos": 5,
             "name": "Eric Kunz",
-            "points": 40,
+            "points": 70,
             "team": "Ricca Autosport",
             "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
             "pos": 6,
-            "name": "Mike Lamarra",
-            "points": 30,
-            "team": "Precision Racing LA"
-          },
-          {
-            "pos": 7,
             "name": "Logan Anderson",
-            "points": 21,
+            "points": 33,
             "team": "Skip Barber Racing School"
           },
           {
+            "pos": 7,
+            "name": "Mike Lamarra",
+            "points": 32,
+            "team": "Precision Racing LA"
+          },
+          {
             "pos": 8,
+            "name": "Shelby Mills",
+            "points": 30,
+            "team": "Fawn Group MS by Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
+          },
+          {
+            "pos": 9,
+            "name": "CJ Sepulveda",
+            "points": 28,
+            "team": "Ricca Autosport",
+            "vehicle": "Hyundai Elantra N1 TC Evo"
+          },
+          {
+            "pos": 10,
             "name": "Matan Rosenberg",
             "points": 16,
             "team": "Ricca Autosport",
             "vehicle": "Hyundai Elantra N1 TC Evo"
           },
           {
-            "pos": 9,
-            "name": "Shelby Mills",
-            "points": 14,
-            "team": "Fawn Group MS by Ricca Autosport",
-            "vehicle": "Hyundai Elantra N1 TC Evo"
+            "pos": 11,
+            "name": "Jesse Dorkin",
+            "points": 9
           },
           {
-            "pos": 10,
-            "name": "CJ Sepulveda",
+            "pos": 12,
+            "name": "PJ Groenke",
             "points": 6,
             "team": "Ricca Autosport",
             "vehicle": "Hyundai Elantra N1 TC Evo"
+          },
+          {
+            "pos": 13,
+            "name": "Robert Bellevue",
+            "points": 2
           }
         ]
       },
@@ -7913,7 +7930,7 @@
     "f2": "2026-05-29",
     "dtm": "2026-05-24",
     "arcawest": "2026-05-29",
-    "highlimit": "2026-05-30",
+    "highlimit": "2026-06-01",
     "woosc": "2026-05-29",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
@@ -7960,7 +7977,7 @@
     "wec": "2026-05-09",
     "indynxt": "2026-05-31",
     "vpscc": "2026-05-29",
-    "tcamerica": "2026-05-09",
+    "tcamerica": "2026-06-13",
     "gtwca": "2026-05-09",
     "floracing": "2026-05-08",
     "gtwce": "2026-05-03",
@@ -8286,36 +8303,36 @@
     "tcamerica": [
       {
         "pos": 1,
-        "name": "JMF Motorsports",
-        "points": 93,
-        "vehicle": "Toyota GR Corolla TC"
+        "name": "Ricca Autosport",
+        "points": 123,
+        "vehicle": "Hyundai Elantra N1 TC Evo"
       },
       {
         "pos": 2,
-        "name": "Ricca Autosport",
-        "points": 73,
-        "vehicle": "Hyundai Elantra N1 TC Evo"
+        "name": "JMF Motorsports",
+        "points": 117,
+        "vehicle": "Toyota GR Corolla TC"
       },
       {
         "pos": 3,
         "name": "Skip Barber Racing School",
-        "points": 66
+        "points": 102
       },
       {
         "pos": 4,
-        "name": "Precision Racing LA",
-        "points": 48
+        "name": "Fawn Group MS by Ricca Autosport",
+        "points": 70,
+        "vehicle": "Hyundai Elantra N1 TC Evo"
       },
       {
         "pos": 5,
-        "name": "Fawn Group MS by Ricca Autosport",
-        "points": 40,
-        "vehicle": "Hyundai Elantra N1 TC Evo"
+        "name": "Precision Racing LA",
+        "points": 66
       },
       {
         "pos": 6,
         "name": "DRS",
-        "points": 32
+        "points": 50
       }
     ],
     "gtcupeu": [

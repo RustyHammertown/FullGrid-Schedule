@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T03:27:19.335Z",
+  "generatedAt": "2026-06-02T21:52:00.061Z",
   "groups": {
     "gt2": [
       {
@@ -1494,6 +1494,8 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
           "Qualifying (TBD)"
         ]
       }
