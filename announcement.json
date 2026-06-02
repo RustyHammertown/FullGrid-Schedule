@@ -1,10 +1,9 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-23T01:48:39.924Z",
+  "generatedAt": "2026-06-02T03:17:02.039Z",
   "announcement": {
-    "id": "truck-charlotte-rainout-2026-05-22",
-    "title": "Truck Race Rescheduled",
-    "body": "Rain washed out Friday's NASCAR Craftsman Truck race at Charlotte (North Carolina Education Lottery 200). It's been moved to Saturday, May 23 at 8:00 AM ET.",
-    "series": "truck"
+    "id": "whats-new-1.0.8-2026-06-01",
+    "title": "What's New",
+    "body": "• 5 new series: F4 Italian, F4 French & F4 Spanish, plus the Italian GT family (Sprint, Cup, Endurance, GT4 Italy).\n• Cleaner standings — one Standings section with Drivers / Teams pills.\n• Dirt races now start at the Hot Laps time (High Limit, Lucas Oil)."
   }
 }
