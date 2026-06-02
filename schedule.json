@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T01:35:42.971Z",
+  "generatedAt": "2026-06-02T02:13:13.550Z",
   "events": [
     {
       "id": 101,
@@ -84801,13 +84801,13 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-04-10T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-04-10T12:35:00+02:00",
+          "duration": 30
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-04-10T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-04-10T15:40:00+02:00",
+          "duration": 30
         },
         {
           "name": "Qualifying 1",
