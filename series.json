@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-01T23:50:25.970Z",
+  "generatedAt": "2026-06-02T00:35:04.872Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2744,6 +2744,38 @@
       },
       "streamUrl": "https://www.youtube.com/@Italianf4-Euro4",
       "resultsUrl": "https://www.acisport.it/it/F4/calendario-e-risultati/2026",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
+    },
+    "f4french": {
+      "id": "f4french",
+      "tags": [
+        "open-wheel",
+        "f4-car",
+        "feeder-series",
+        "europe",
+        "fia"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "F4 French Championship",
+      "short": "F4FR",
+      "color": "#0EA5E9",
+      "bg": "rgba(14,165,233,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "FFSA Academy",
+          "url": "https://www.youtube.com/channel/UCUWV6YsuDBWO5sYxmwSQUQQ/streams"
+        }
+      },
+      "streamUrl": "https://www.youtube.com/channel/UCUWV6YsuDBWO5sYxmwSQUQQ",
+      "resultsUrl": "https://www.ffsaacademy.org/results-f4/?lang=en",
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T23:50:27.013Z",
+  "generatedAt": "2026-06-02T00:35:09.550Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3509,6 +3509,46 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/italianf4championship/"
+        }
+      ]
+    },
+    "f4french": {
+      "schedule": [
+        {
+          "url": "https://www.ffsaacademy.org/championnat-de-france-f4/calendrier-f4/?lang=en",
+          "label": "FFSA Academy — official 2026 calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.ffsaacademy.org/results-f4/?lang=en",
+          "label": "FFSA Academy — official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.ffsaacademy.org/results-f4/?lang=en",
+          "label": "FFSA Academy — General Classification"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.ffsaacademy.org/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/ffsaacademy/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/ffsaacademy"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/ffsaacademy/"
         }
       ]
     },

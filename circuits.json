@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T23:50:24.946Z",
+  "generatedAt": "2026-06-02T00:35:11.095Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -155,6 +155,14 @@
       "city": "Monte Carlo",
       "website": "https://www.acm.mc",
       "length_m": 3337
+    },
+    "Circuit de Lédenon": {
+      "lat": 43.9192,
+      "lon": 4.5039,
+      "city": "Lédenon",
+      "region": "Occitanie",
+      "website": "https://www.circuitdeledenon.com",
+      "length_m": 3150
     },
     "Circuit de Nevers Magny-Cours": {
       "lat": 46.8633,

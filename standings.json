@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T23:50:23.889Z",
+  "generatedAt": "2026-06-02T00:35:06.446Z",
   "flat": {
     "f1": [
       {
@@ -2316,6 +2316,98 @@
         "points": 47,
         "team": "#26 Jenzer Motorsport",
         "flag": "🇶🇦"
+      }
+    ],
+    "f4french": [
+      {
+        "pos": 1,
+        "name": "Guillaume Bouzar",
+        "points": 100,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 2,
+        "name": "Thibaut Ramaekers",
+        "points": 53,
+        "flag": "🇧🇪"
+      },
+      {
+        "pos": 3,
+        "name": "Lilian Soares",
+        "points": 53,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 4,
+        "name": "Hugo Herrouin",
+        "points": 52,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 5,
+        "name": "Jack Iliffe",
+        "points": 33,
+        "flag": "🇺🇸"
+      },
+      {
+        "pos": 6,
+        "name": "Oscar Goudchaux",
+        "points": 32,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 7,
+        "name": "Mattheo Dauvergne",
+        "points": 28,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 8,
+        "name": "Kota Tsuchihashi",
+        "points": 27,
+        "flag": "🇯🇵"
+      },
+      {
+        "pos": 9,
+        "name": "Lewis Francis",
+        "points": 24,
+        "flag": "🇦🇺"
+      },
+      {
+        "pos": 10,
+        "name": "Jules Avril",
+        "points": 22,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 11,
+        "name": "Yuval Rosen",
+        "points": 13,
+        "flag": "🇮🇱"
+      },
+      {
+        "pos": 12,
+        "name": "Shane Chandaria",
+        "points": 12,
+        "flag": "🇰🇪"
+      },
+      {
+        "pos": 13,
+        "name": "Tom Dussol",
+        "points": 12,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 14,
+        "name": "Jimmy Helias",
+        "points": 9,
+        "flag": "🇫🇷"
+      },
+      {
+        "pos": 15,
+        "name": "Arthur Eschalier",
+        "points": 8,
+        "flag": "🇫🇷"
       }
     ],
     "pccd": [
@@ -7750,6 +7842,7 @@
     "supercars": "2026-05-24",
     "f4british": "2026-05-31",
     "f4italy": "2026-05-24",
+    "f4french": "2026-05-17",
     "pccd": "2026-05-24",
     "minichallenge": "2026-05-24",
     "minitrophy": "2026-05-24",

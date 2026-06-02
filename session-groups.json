@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T23:50:28.029Z",
+  "generatedAt": "2026-06-02T00:35:08.044Z",
   "groups": {
     "gt2": [
       {
@@ -1897,6 +1897,25 @@
       {
         "label": "Qualifying",
         "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "f4french": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice",
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
           "Qualifying 1",
           "Qualifying 2"
         ]

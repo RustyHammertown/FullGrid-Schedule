@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-01T23:50:22.739Z",
+  "generatedAt": "2026-06-02T00:35:02.700Z",
   "events": [
     {
       "id": 101,
@@ -84562,6 +84562,228 @@
         },
         {
           "name": "Race 2",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5574,
+      "series": "f4french",
+      "name": "Nogaro",
+      "circuit": "Circuit Paul Armagnac",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-03-04T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-03-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-06T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-03-06T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5575,
+      "series": "f4french",
+      "name": "Dijon",
+      "circuit": "Circuit Dijon-Prenois",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-05-15T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-16T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-16T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-17T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-05-17T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5576,
+      "series": "f4french",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-21T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5577,
+      "series": "f4french",
+      "name": "Magny-Cours",
+      "circuit": "Circuit de Nevers Magny-Cours",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-01T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-01T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5578,
+      "series": "f4french",
+      "name": "Lédenon",
+      "circuit": "Circuit de Lédenon",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-09-20T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 5579,
+      "series": "f4french",
+      "name": "Paul-Ricard",
+      "circuit": "Circuit Paul Ricard",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-10-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 3",
           "time": "2026-10-11T14:00:00+02:00",
           "tbd": true
         }
