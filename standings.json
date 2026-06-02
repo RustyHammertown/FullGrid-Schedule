@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T00:35:27.894Z",
+  "generatedAt": "2026-06-02T00:50:17.832Z",
   "flat": {
     "f1": [
       {
@@ -2281,41 +2281,6 @@
         "points": 66,
         "team": "#87 Van Amersfoort Racing",
         "flag": "🇬🇧"
-      },
-      {
-        "pos": 11,
-        "name": "Niccolò Maccagnani",
-        "points": 66,
-        "team": "#19 Prema Racing",
-        "flag": "🇮🇹"
-      },
-      {
-        "pos": 12,
-        "name": "Ludovico Busso",
-        "points": 59,
-        "team": "#29 US Racing",
-        "flag": "🇮🇹"
-      },
-      {
-        "pos": 13,
-        "name": "Oscar Repetto",
-        "points": 51,
-        "team": "#6 PHM Racing",
-        "flag": "🇳🇿"
-      },
-      {
-        "pos": 14,
-        "name": "Knud Nielsen",
-        "points": 48,
-        "team": "#41 Real Racing",
-        "flag": "🇩🇰"
-      },
-      {
-        "pos": 15,
-        "name": "Bader Al Sulaiti",
-        "points": 47,
-        "team": "#26 Jenzer Motorsport",
-        "flag": "🇶🇦"
       }
     ],
     "f4french": [
@@ -2377,36 +2342,6 @@
         "pos": 10,
         "name": "Jules Avril",
         "points": 22,
-        "flag": "🇫🇷"
-      },
-      {
-        "pos": 11,
-        "name": "Yuval Rosen",
-        "points": 13,
-        "flag": "🇮🇱"
-      },
-      {
-        "pos": 12,
-        "name": "Shane Chandaria",
-        "points": 12,
-        "flag": "🇰🇪"
-      },
-      {
-        "pos": 13,
-        "name": "Tom Dussol",
-        "points": 12,
-        "flag": "🇫🇷"
-      },
-      {
-        "pos": 14,
-        "name": "Jimmy Helias",
-        "points": 9,
-        "flag": "🇫🇷"
-      },
-      {
-        "pos": 15,
-        "name": "Arthur Eschalier",
-        "points": 8,
         "flag": "🇫🇷"
       }
     ],
