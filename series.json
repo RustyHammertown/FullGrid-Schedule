@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-02T00:54:37.105Z",
+  "generatedAt": "2026-06-02T01:23:50.408Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2773,6 +2773,35 @@
       },
       "streamUrl": "https://www.youtube.com/@ffsa",
       "resultsUrl": "https://www.ffsaacademy.org/results-f4/?lang=en",
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
+    },
+    "f4spain": {
+      "id": "f4spain",
+      "tags": [
+        "open-wheel",
+        "f4-car",
+        "feeder-series",
+        "europe",
+        "fia"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "F4 Spanish Championship",
+      "short": "F4ES",
+      "color": "#DC2626",
+      "bg": "rgba(220,38,38,0.15)",
+      "broadcast": {
+        "Global": "YouTube/F4SpanishChampionship"
+      },
+      "streamUrl": "https://www.youtube.com/@F4SpanishChampionship",
+      "resultsUrl": "https://f4spain.org/standings/standings-2026/",
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"

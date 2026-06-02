@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T00:54:38.190Z",
+  "generatedAt": "2026-06-02T01:23:56.074Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3549,6 +3549,52 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/ffsaacademy/"
+        }
+      ]
+    },
+    "f4spain": {
+      "schedule": [
+        {
+          "url": "https://f4spain.org/f4s-calendar-2026/",
+          "label": "F4 Spain — official 2026 calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://f4spain.org/standings/standings-2026/",
+          "label": "F4 Spain — standings & results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://f4spain.org/standings/standings-2026/",
+          "label": "F4 Spain — Drivers & Teams standings"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.alkamelsystems.com/f4spain-e3",
+          "label": "Alkamel Systems — live timing"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://f4spain.org/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/f4spanishchampionship/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/F4Spain"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/F4SpanishChampionship/"
         }
       ]
     },

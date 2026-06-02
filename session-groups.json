@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T00:54:39.245Z",
+  "generatedAt": "2026-06-02T01:23:53.894Z",
   "groups": {
     "gt2": [
       {
@@ -1910,6 +1910,25 @@
           "Practice",
           "Free Practice 1",
           "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "f4spain": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Practice"
         ]
       },
       {

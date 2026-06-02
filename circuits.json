@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T00:54:36.009Z",
+  "generatedAt": "2026-06-02T01:23:57.675Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -227,6 +227,14 @@
       "region": "Andalusia",
       "website": "https://www.circuitodejerez.com",
       "length_m": 4423
+    },
+    "Circuito de Navarra": {
+      "lat": 42.5394,
+      "lon": -2.005,
+      "city": "Los Arcos",
+      "region": "Navarre",
+      "website": "https://www.circuitodenavarra.com",
+      "length_m": 3933
     },
     "Circuito del Jarama": {
       "lat": 40.6172,

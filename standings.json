@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-02T00:54:34.927Z",
+  "generatedAt": "2026-06-02T01:23:52.379Z",
   "flat": {
     "f1": [
       {
@@ -2281,6 +2281,78 @@
         "points": 66,
         "team": "#87 Van Amersfoort Racing",
         "flag": "🇬🇧"
+      }
+    ],
+    "f4spain": [
+      {
+        "pos": 1,
+        "name": "Rocco Coronel",
+        "points": 55,
+        "team": "MP Motorsport",
+        "flag": "🇳🇱"
+      },
+      {
+        "pos": 2,
+        "name": "Noah Monteiro",
+        "points": 43,
+        "team": "Griffin Core",
+        "flag": "🇵🇹"
+      },
+      {
+        "pos": 3,
+        "name": "Aleix Piñera",
+        "points": 33,
+        "team": "Tecnicar",
+        "flag": "🇪🇸"
+      },
+      {
+        "pos": 4,
+        "name": "Vivek Kanthan",
+        "points": 31,
+        "team": "Griffin Core",
+        "flag": "🇺🇸"
+      },
+      {
+        "pos": 5,
+        "name": "Borys Lyzen",
+        "points": 27,
+        "team": "KCL Motorsport",
+        "flag": "🇵🇱"
+      },
+      {
+        "pos": 6,
+        "name": "Ty Fisher",
+        "points": 22,
+        "team": "Griffin Core",
+        "flag": "🇨🇦"
+      },
+      {
+        "pos": 7,
+        "name": "Kasper Schormans",
+        "points": 22,
+        "team": "MP Motorsport",
+        "flag": "🇳🇱"
+      },
+      {
+        "pos": 8,
+        "name": "Jensen Burnett",
+        "points": 12,
+        "team": "KCL Motorsport",
+        "flag": "🇨🇦"
+      },
+      {
+        "pos": 9,
+        "name": "Nathan Tye",
+        "points": 11,
+        "team": "Drivex",
+        "flag": "🇬🇧"
+      },
+      {
+        "pos": 10,
+        "name": "Elliot Kaczynski",
+        "points": 10,
+        "team": "Drivex",
+        "flag": "🇸🇪"
       }
     ],
     "pccd": [
@@ -7848,6 +7920,7 @@
     "f4british": "2026-05-31",
     "f4italy": "2026-05-24",
     "f4french": "2026-05-17",
+    "f4spain": "2026-04-12",
     "pccd": "2026-05-24",
     "minichallenge": "2026-05-24",
     "minitrophy": "2026-05-24",
@@ -8045,6 +8118,58 @@
         "pos": 8,
         "name": "RASE Motorsports",
         "points": 14
+      }
+    ],
+    "f4spain": [
+      {
+        "pos": 1,
+        "name": "MP Motorsport",
+        "points": 77
+      },
+      {
+        "pos": 2,
+        "name": "Griffin Core",
+        "points": 70
+      },
+      {
+        "pos": 3,
+        "name": "KCL Motorsport",
+        "points": 39
+      },
+      {
+        "pos": 4,
+        "name": "Tecnicar",
+        "points": 33
+      },
+      {
+        "pos": 5,
+        "name": "Drivex",
+        "points": 21
+      },
+      {
+        "pos": 6,
+        "name": "Campos Racing",
+        "points": 8
+      },
+      {
+        "pos": 7,
+        "name": "T-Code",
+        "points": 8
+      },
+      {
+        "pos": 8,
+        "name": "Monlau Motorsport",
+        "points": 2
+      },
+      {
+        "pos": 9,
+        "name": "TC Racing",
+        "points": 0
+      },
+      {
+        "pos": 10,
+        "name": "G4 Racing",
+        "points": 0
       }
     ],
     "agt4": [
