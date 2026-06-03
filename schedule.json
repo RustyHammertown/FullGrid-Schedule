@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T11:32:03.849Z",
+  "generatedAt": "2026-06-03T15:32:12.263Z",
   "events": [
     {
       "id": 101,
@@ -6948,8 +6948,8 @@
         },
         {
           "name": "MotoGP Race",
-          "time": "2026-06-07T13:00:00+02:00",
-          "laps": 27,
+          "time": "2026-06-07T14:00:00+02:00",
+          "laps": 25,
           "broadcasts": {
             "US": {
               "service": "FS2 / MotoGP VideoPass"
@@ -17281,7 +17281,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T15:35:00-05:00",
+          "time": "2026-06-06T15:30:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17291,7 +17291,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-06T19:05:00-05:00",
+          "time": "2026-06-06T19:00:00-05:00",
           "duration": 45,
           "broadcasts": {
             "US": {
@@ -34235,7 +34235,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-05T14:30:00-04:00",
+          "time": "2026-06-05T14:20:00-04:00",
           "duration": 40
         },
         {
@@ -34849,10 +34849,7 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/FordRacing"
-            },
-            "US": {
-              "service": "Peacock"
+              "service": "YouTube/imsaofficial"
             }
           }
         },
@@ -34862,10 +34859,7 @@
           "duration": 45,
           "broadcasts": {
             "Global": {
-              "service": "YouTube/FordRacing"
-            },
-            "US": {
-              "service": "Peacock"
+              "service": "YouTube/imsaofficial"
             }
           }
         }
@@ -36448,7 +36442,6 @@
           "name": "Practice",
           "time": "2026-03-06T08:50:00+11:00",
           "duration": 45,
-          "resultsUrl": "https://www.fiaformula3.com/Results?raceid=1069",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -36459,7 +36452,6 @@
           "name": "Qualifying",
           "time": "2026-03-06T14:00:00+11:00",
           "duration": 30,
-          "resultsUrl": "https://www.fiaformula3.com/Results?raceid=1069",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -36470,7 +36462,6 @@
           "name": "Sprint Race",
           "time": "2026-03-07T11:15:00+11:00",
           "laps": 17,
-          "resultsUrl": "https://www.fiaformula3.com/Results?raceid=1069",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -36481,7 +36472,6 @@
           "name": "Feature Race",
           "time": "2026-03-08T08:50:00+11:00",
           "laps": 22,
-          "resultsUrl": "https://www.fiaformula3.com/Results?raceid=1069",
           "broadcasts": {
             "US": {
               "service": "Apple TV"
@@ -42902,7 +42892,7 @@
         {
           "name": "Race",
           "time": "2026-06-12T15:00:00-04:00",
-          "laps": 60,
+          "laps": 80,
           "broadcasts": {
             "US": {
               "service": "FS1"
@@ -44211,18 +44201,18 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-06T11:20:00-04:00",
-          "duration": 30
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-06T12:55:00-04:00",
-          "duration": 30
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-06T16:00:00-04:00",
-          "duration": 20
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Race 1",
@@ -44943,16 +44933,6 @@
       "tz": "America/New_York",
       "round": 6,
       "sessions": [
-        {
-          "name": "Practice",
-          "time": "2026-06-06T13:45:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "Global": {
-              "service": "FloRacing"
-            }
-          }
-        },
         {
           "name": "Final Practice",
           "time": "2026-06-06T14:40:00-04:00",
@@ -45975,11 +45955,11 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-03T19:30:00-05:00",
+          "time": "2026-06-03T18:15:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FS1"
+              "service": "FloRacing"
             },
             "Global": {
               "service": "FloRacing"
@@ -45999,7 +45979,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-04T19:30:00-05:00",
+          "time": "2026-06-04T18:15:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -46023,7 +46003,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-05T19:30:00-05:00",
+          "time": "2026-06-05T18:15:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -46047,7 +46027,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-06T19:00:00-05:00",
+          "time": "2026-06-06T18:15:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -46071,7 +46051,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-09T19:30:00-05:00",
+          "time": "2026-06-09T18:15:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -46095,7 +46075,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-11T19:30:00-05:00",
+          "time": "2026-06-11T18:15:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -53865,224 +53845,29 @@
       "round": 9,
       "sessions": [
         {
-          "name": "Pro Stock Qualifying 1",
-          "time": "2026-06-12T17:00:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Motorcycle Qualifying 1",
-          "time": "2026-06-12T17:00:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Top Fuel Qualifying 1",
-          "time": "2026-06-12T18:00:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Funny Car Qualifying 1",
-          "time": "2026-06-12T18:00:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Qualifying 2",
-          "time": "2026-06-12T19:30:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Motorcycle Qualifying 2",
-          "time": "2026-06-12T19:30:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Top Fuel Qualifying 2",
+          "name": "Qualifying Day 1",
           "time": "2026-06-12T20:30:00-04:00",
-          "duration": 45,
+          "duration": 90,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv"
+              "service": "NHRA.tv / FS1"
             }
           }
         },
         {
-          "name": "Funny Car Qualifying 2",
-          "time": "2026-06-12T20:30:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Top Fuel Qualifying 3",
-          "time": "2026-06-13T12:30:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Funny Car Qualifying 3",
-          "time": "2026-06-13T13:05:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Qualifying 3",
-          "time": "2026-06-13T13:45:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Motorcycle Qualifying 3",
-          "time": "2026-06-13T14:15:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Top Fuel Qualifying 4",
+          "name": "Qualifying Day 2",
           "time": "2026-06-13T15:00:00-04:00",
-          "duration": 45,
+          "duration": 90,
           "broadcasts": {
             "US": {
-              "service": "NHRA.tv"
+              "service": "NHRA.tv / FS1"
             }
           }
         },
         {
-          "name": "Funny Car Qualifying 4",
-          "time": "2026-06-13T15:35:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Qualifying 4",
-          "time": "2026-06-13T16:15:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Pro Stock Motorcycle Qualifying 4",
-          "time": "2026-06-13T16:45:00-04:00",
-          "duration": 45,
-          "broadcasts": {
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live",
+          "name": "Eliminations",
           "time": "2026-06-14T12:00:00-04:00",
-          "duration": 240,
-          "broadcasts": {
-            "CA": {
-              "service": "FOX Sports Racing"
-            },
-            "UK": {
-              "service": "NHRA.tv"
-            },
-            "AU": {
-              "service": "NHRA.tv"
-            },
-            "NZ": {
-              "service": "NHRA.tv"
-            },
-            "DE": {
-              "service": "NHRA.tv"
-            },
-            "AT": {
-              "service": "NHRA.tv"
-            },
-            "CH": {
-              "service": "NHRA.tv"
-            },
-            "NL": {
-              "service": "NHRA.tv"
-            },
-            "FR": {
-              "service": "NHRA.tv"
-            },
-            "ES": {
-              "service": "NHRA.tv"
-            },
-            "IT": {
-              "service": "NHRA.tv"
-            },
-            "Nordics": {
-              "service": "NHRA.tv"
-            },
-            "BR": {
-              "service": "NHRA.tv"
-            },
-            "JP": {
-              "service": "NHRA.tv"
-            },
-            "Global": {
-              "service": "NHRA.tv"
-            },
-            "US": {
-              "service": "NHRA.tv"
-            }
-          }
-        },
-        {
-          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast",
-          "time": "2026-06-14T15:00:00-04:00",
-          "duration": 120,
+          "duration": 360,
           "broadcasts": {
             "CA": {
               "service": "FOX Sports Racing"
@@ -56431,17 +56216,17 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-12T09:30:00+10:00",
+          "time": "2026-06-12T10:35:00+10:00",
           "duration": 60
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-12T12:10:00+10:00",
+          "time": "2026-06-12T13:30:00+10:00",
           "duration": 60
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-13T09:00:00+10:00",
+          "time": "2026-06-13T11:05:00+10:00",
           "duration": 20,
           "broadcasts": {
             "Global": {
@@ -56451,7 +56236,7 @@
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-13T09:25:00+10:00",
+          "time": "2026-06-13T11:30:00+10:00",
           "duration": 20,
           "broadcasts": {
             "Global": {
@@ -56461,7 +56246,7 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-13T13:15:00+10:00",
+          "time": "2026-06-13T17:00:00+10:00",
           "duration": 60,
           "broadcasts": {
             "Global": {
@@ -56471,7 +56256,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-14T10:25:00+10:00",
+          "time": "2026-06-14T13:15:00+10:00",
           "duration": 60,
           "broadcasts": {
             "Global": {
@@ -67630,7 +67415,7 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-12T12:20:00-04:00",
+          "time": "2026-06-12T11:50:00-04:00",
           "duration": 25
         },
         {
@@ -74672,7 +74457,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-07T11:45:00+02:00",
+          "time": "2026-06-07T11:55:00+02:00",
           "duration": 30,
           "broadcasts": {
             "US": {
@@ -82793,22 +82578,12 @@
         {
           "name": "Qualifying 1",
           "time": "2026-06-06T11:00:00+02:00",
-          "duration": 20,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTCupOpenSeries"
-            }
-          }
+          "duration": 20
         },
         {
           "name": "Qualifying 2",
           "time": "2026-06-07T09:00:00+02:00",
-          "duration": 20,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTCupOpenSeries"
-            }
-          }
+          "duration": 20
         },
         {
           "name": "Race 1",

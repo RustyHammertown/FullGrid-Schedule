@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T11:32:07.769Z",
+  "generatedAt": "2026-06-03T15:32:13.428Z",
   "flat": {
     "f1": [
       {
@@ -715,61 +715,61 @@
         "pos": 1,
         "name": "Bobby Gossett",
         "points": 970,
-        "team": "#44 BSI Racing"
+        "team": "BSI Racing"
       },
       {
         "pos": 2,
         "name": "Jared Thomas",
         "points": 950,
-        "team": "#96 JTR Motorsports Engineering"
+        "team": "JTR Motorsports Engineering"
       },
       {
         "pos": 3,
         "name": "Justin Adakonis",
         "points": 910,
-        "team": "#23 McCumbee McAleer Racing"
+        "team": "McCumbee McAleer Racing"
       },
       {
         "pos": 4,
         "name": "Tristan McKee",
         "points": 860,
-        "team": "#32 BSI Racing"
+        "team": "BSI Racing"
       },
       {
         "pos": 5,
         "name": "Gresham Wagner",
         "points": 760,
-        "team": "#5 JTR Motorsports Engineering"
+        "team": "JTR Motorsports Engineering"
       },
       {
         "pos": 6,
         "name": "Frankie Barroso",
         "points": 750,
-        "team": "#48 Spark Performance"
+        "team": "Spark Performance"
       },
       {
         "pos": 7,
         "name": "Ethan Tyler",
         "points": 740,
-        "team": "#80 BSI Racing"
+        "team": "BSI Racing"
       },
       {
         "pos": 8,
         "name": "Jeremy Fletcher",
         "points": 660,
-        "team": "#22 McCumbee McAleer Racing"
+        "team": "McCumbee McAleer Racing"
       },
       {
         "pos": 9,
         "name": "Nathan Nicholson",
         "points": 650,
-        "team": "#56 Advanced Autosports"
+        "team": "Advanced Autosports"
       },
       {
         "pos": 10,
         "name": "John Salerno",
         "points": 610,
-        "team": "#34 JTR Motorsports Engineering"
+        "team": "JTR Motorsports Engineering"
       }
     ],
     "dtm": [
@@ -1626,62 +1626,62 @@
     "enascar": [
       {
         "pos": 1,
-        "name": "Steven Wilson",
-        "points": 74,
-        "team": "Spire Motorsports"
+        "name": "Bobby Zalenski",
+        "points": 40,
+        "team": "ERA eSports"
       },
       {
         "pos": 2,
-        "name": "Connor Yeroschak",
-        "points": 62,
-        "team": "Letarte eSports"
-      },
-      {
-        "pos": 3,
         "name": "Christopher M. Hill",
-        "points": 61,
+        "points": 35,
         "team": "William Byron eSports"
       },
       {
+        "pos": 3,
+        "name": "Steven Wilson",
+        "points": 34,
+        "team": "Spire Motorsports"
+      },
+      {
         "pos": 4,
-        "name": "Vicente Salas",
-        "points": 57,
-        "team": "Kanaan eSports"
+        "name": "Tucker Minter",
+        "points": 33,
+        "team": "William Byron eSports"
       },
       {
         "pos": 5,
-        "name": "Seth DeMerchant",
-        "points": 57,
-        "team": "fgrAccel"
+        "name": "Wyatt Tinsley",
+        "points": 32,
+        "team": "Kansas City Pioneers"
       },
       {
         "pos": 6,
-        "name": "Zack Novak",
-        "points": 56,
-        "team": "JR Motorsports"
-      },
-      {
-        "pos": 7,
-        "name": "Bobby Zalenski",
-        "points": 55,
-        "team": "ERA"
-      },
-      {
-        "pos": 8,
         "name": "Donovan Strauss",
-        "points": 55,
+        "points": 31,
         "team": "Williams eSports"
       },
       {
+        "pos": 7,
+        "name": "Seth DeMerchant",
+        "points": 30,
+        "team": "fgrAccel"
+      },
+      {
+        "pos": 8,
+        "name": "Michael Cosey Jr",
+        "points": 29,
+        "team": "ERA eSports"
+      },
+      {
         "pos": 9,
-        "name": "Wyatt Tinsley",
-        "points": 53,
-        "team": "Kansas City Pioneers"
+        "name": "Connor Yeroschak",
+        "points": 28,
+        "team": "Letarte eSports"
       },
       {
         "pos": 10,
         "name": "Blake Reynolds",
-        "points": 52,
+        "points": 27,
         "team": "Channel 199 Sim Racing"
       }
     ],
@@ -7618,58 +7618,58 @@
           {
             "pos": 1,
             "name": "Memo Gidley",
-            "points": 143,
+            "points": 100,
             "team": "#56 SKI Autosports",
-            "vehicle": "Audi R8 LMS GT3 EVO II"
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 2,
-            "name": "Tony Davis",
-            "points": 82,
-            "team": "#004 HP-TECH Motorsport",
-            "vehicle": "Ferrari 296 GT3 Evo"
-          },
-          {
-            "pos": 3,
             "name": "Kyle Washington",
-            "points": 81,
+            "points": 48,
             "team": "#32 GMG Racing",
             "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
+            "pos": 3,
+            "name": "Tony Davis",
+            "points": 42,
+            "team": "#004 HP-TECH Motorsport",
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
             "pos": 4,
             "name": "Ross Chouest",
-            "points": 61,
+            "points": 39,
             "team": "#50 Chouest Povoledo Racing",
             "vehicle": "Chevrolet Corvette Z06 GT3.R"
           },
           {
             "pos": 5,
             "name": "Marc Muzzo",
-            "points": 58,
+            "points": 36,
             "team": "#013 R. Ferri Motorsport",
             "vehicle": "Ferrari 296 GT3"
           },
           {
             "pos": 6,
             "name": "Scott Blind",
-            "points": 50,
+            "points": 34,
             "team": "#45 Ruckus Racing",
             "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 7,
-            "name": "Dave Musial Sr.",
-            "points": 33,
-            "team": "#72 Wright Motorsports",
-            "vehicle": "Porsche 911 GT3 R (992.2)"
-          },
-          {
-            "pos": 8,
             "name": "Jason McCarthy",
             "points": 25,
             "team": "#115 One11 Competition",
             "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 8,
+            "name": "Dave Musial Sr.",
+            "points": 23,
+            "team": "#72 Wright Motorsports",
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 9,
@@ -7680,10 +7680,10 @@
           },
           {
             "pos": 10,
-            "name": "Mirco Schultis",
-            "points": 19,
-            "team": "#70 MISHUMOTORS",
-            "vehicle": "Callaway Corvette C7 GT3-R"
+            "name": "Dan Knox",
+            "points": 16,
+            "team": "#80 Lone Star Racing",
+            "vehicle": "Mercedes-AMG GT3 Evo"
           }
         ]
       },
@@ -7693,30 +7693,23 @@
           {
             "pos": 1,
             "name": "David Lecko",
-            "points": 150,
-            "team": "#89 RacingSupport",
-            "vehicle": "Ginetta G56 GTP8"
+            "points": 100,
+            "team": "RacingSupport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Yousuf Nabi",
             "points": 36,
             "team": "Gotham Motorsports",
-            "vehicle": "Ginetta G56 GTP8"
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
-            "name": "Cory Deeds",
-            "points": 36,
-            "team": "#8 5.2 Motorsports",
-            "vehicle": "Ginetta G56 GTP8"
-          },
-          {
-            "pos": 4,
             "name": "Radu Muntean",
             "points": 0,
             "team": "Gotham Motorsports",
-            "vehicle": "Ginetta G56 GTP8"
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -7726,19 +7719,12 @@
           {
             "pos": 1,
             "name": "Craig Lumsden",
-            "points": 122,
-            "team": "#610 Colorado MotorSport by Flying Lizard",
+            "points": 86,
+            "team": "#610 Flying Lizard Motorsports",
             "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 2,
-            "name": "Jason Bell",
-            "points": 50,
-            "team": "#2 Racers Edge Motorsports",
-            "vehicle": "Aston Martin Vantage AMR GT4 EVO"
-          },
-          {
-            "pos": 3,
             "name": "Jozsef Petkes",
             "points": 50,
             "team": "#83 RCX Motorsport",
@@ -7963,7 +7949,7 @@
     "truck": "2026-05-30",
     "lucasdirt": "2026-05-23",
     "internationalgt": "2026-05-23",
-    "enascar": "2026-06-03",
+    "enascar": "2026-05-19",
     "motogp": "2026-05-31",
     "fe": "2026-05-17",
     "whelen": "2026-05-30",
@@ -7987,7 +7973,7 @@
     "mustangcupau": "2026-05-10",
     "gtwau": "2026-05-10",
     "supercross": "2026-05-10",
-    "gtamerica": "2026-06-03",
+    "gtamerica": "2026-05-10",
     "wec": "2026-05-09",
     "indynxt": "2026-05-31",
     "vpscc": "2026-05-29",
@@ -8451,53 +8437,53 @@
     "enascar": [
       {
         "pos": 1,
-        "name": "Spire Motorsports",
-        "points": 112
+        "name": "ERA eSports",
+        "points": 69
       },
       {
         "pos": 2,
-        "name": "JR Motorsports",
-        "points": 107
+        "name": "William Byron eSports",
+        "points": 68
       },
       {
         "pos": 3,
-        "name": "William Byron eSports",
-        "points": 98
+        "name": "Spire Motorsports",
+        "points": 55
       },
       {
         "pos": 4,
-        "name": "ERA",
-        "points": 96
+        "name": "Kanaan eSports",
+        "points": 49
       },
       {
         "pos": 5,
-        "name": "Letarte eSports",
-        "points": 94
+        "name": "fgrAccel",
+        "points": 47
       },
       {
         "pos": 6,
-        "name": "Kanaan eSports",
-        "points": 94
+        "name": "Channel 199 Sim Racing",
+        "points": 46
       },
       {
         "pos": 7,
-        "name": "fgrAccel",
-        "points": 84
+        "name": "Kansas City Pioneers",
+        "points": 44
       },
       {
         "pos": 8,
-        "name": "Kansas City Pioneers",
-        "points": 83
+        "name": "JR Motorsports",
+        "points": 42
       },
       {
         "pos": 9,
-        "name": "Channel 199 Sim Racing",
-        "points": 77
+        "name": "RFK Racing",
+        "points": 35
       },
       {
         "pos": 10,
         "name": "Williams eSports",
-        "points": 76
+        "points": 32
       }
     ]
   },
@@ -9047,31 +9033,31 @@
           {
             "pos": 1,
             "name": "#56 SKI Autosports",
-            "points": 143,
-            "vehicle": "Audi R8 LMS GT3 EVO II"
+            "points": 100,
+            "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 2,
-            "name": "#004 HP-TECH Motorsport",
-            "points": 82,
-            "vehicle": "Ferrari 296 GT3 Evo"
+            "name": "#32 GMG Racing",
+            "points": 48,
+            "vehicle": "Porsche 911 GT3 R (992.2)"
           },
           {
             "pos": 3,
-            "name": "#32 GMG Racing",
-            "points": 81,
-            "vehicle": "Porsche 911 GT3 R (992.2)"
+            "name": "#004 HP-TECH Motorsport",
+            "points": 42,
+            "vehicle": "Ferrari 296 GT3 Evo"
           },
           {
             "pos": 4,
             "name": "#50 Chouest Povoledo Racing",
-            "points": 61,
+            "points": 39,
             "vehicle": "Chevrolet Corvette Z06 GT3.R"
           },
           {
             "pos": 5,
             "name": "#013 R. Ferri Motorsport",
-            "points": 58,
+            "points": 36,
             "vehicle": "Ferrari 296 GT3"
           }
         ]
@@ -9081,21 +9067,15 @@
         "entries": [
           {
             "pos": 1,
-            "name": "#89 RacingSupport",
-            "points": 150,
-            "vehicle": "Ginetta G56 GTP8"
+            "name": "RacingSupport",
+            "points": 100,
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Gotham Motorsports",
             "points": 36,
-            "vehicle": "Ginetta G56 GTP8"
-          },
-          {
-            "pos": 3,
-            "name": "#8 5.2 Motorsports",
-            "points": 36,
-            "vehicle": "Ginetta G56 GTP8"
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -9104,18 +9084,12 @@
         "entries": [
           {
             "pos": 1,
-            "name": "#610 Colorado MotorSport by Flying Lizard",
-            "points": 122,
+            "name": "#610 Flying Lizard Motorsports",
+            "points": 86,
             "vehicle": "BMW M4 GT4 Evo (G82)"
           },
           {
             "pos": 2,
-            "name": "#2 Racers Edge Motorsports",
-            "points": 50,
-            "vehicle": "Aston Martin Vantage AMR GT4 EVO"
-          },
-          {
-            "pos": 3,
             "name": "#83 RCX Motorsport",
             "points": 50,
             "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
