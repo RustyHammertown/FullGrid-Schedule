@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T16:24:14.430Z",
+  "generatedAt": "2026-06-03T16:49:14.872Z",
   "events": [
     {
       "id": 101,
@@ -45955,7 +45955,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-03T18:15:00-05:00",
+          "time": "2026-06-03T11:50:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
