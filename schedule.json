@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T17:10:56.545Z",
+  "generatedAt": "2026-06-03T17:21:49.883Z",
   "events": [
     {
       "id": 101,
@@ -45979,7 +45979,7 @@
           "duration": 240,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS1"
             },
             "Global": {
               "service": "FloRacing"
