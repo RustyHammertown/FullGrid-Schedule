@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T21:04:19.665Z",
+  "generatedAt": "2026-06-03T21:07:52.517Z",
   "events": [
     {
       "id": 101,
@@ -36437,7 +36437,7 @@
     {
       "id": 820,
       "series": "f3",
-      "name": "Melbourne F3 Round",
+      "name": "Melbourne Round 1",
       "circuit": "Albert Park Circuit",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -36523,7 +36523,7 @@
     {
       "id": 822,
       "series": "f3",
-      "name": "Monaco F3 Round",
+      "name": "Monaco Round 2",
       "circuit": "Circuit de Monaco",
       "flag": "🇲🇨",
       "country": "Monaco",
@@ -36615,7 +36615,7 @@
     {
       "id": 823,
       "series": "f3",
-      "name": "Barcelona F3 Round",
+      "name": "Barcelona Round 3",
       "circuit": "Circuit de Barcelona-Catalunya",
       "flag": "🇪🇸",
       "country": "Spain",
@@ -36697,7 +36697,7 @@
     {
       "id": 824,
       "series": "f3",
-      "name": "Spielberg F3 Round",
+      "name": "Spielberg Round 4",
       "circuit": "Red Bull Ring",
       "flag": "🇦🇹",
       "country": "Austria",
@@ -36779,7 +36779,7 @@
     {
       "id": 825,
       "series": "f3",
-      "name": "Silverstone F3 Round",
+      "name": "Silverstone Round 5",
       "circuit": "Silverstone Circuit",
       "flag": "🇬🇧",
       "country": "United Kingdom",
@@ -36861,7 +36861,7 @@
     {
       "id": 826,
       "series": "f3",
-      "name": "Spa F3 Round",
+      "name": "Spa Round 6",
       "circuit": "Circuit de Spa-Francorchamps",
       "flag": "🇧🇪",
       "country": "Belgium",
@@ -36943,7 +36943,7 @@
     {
       "id": 827,
       "series": "f3",
-      "name": "Hungaroring F3 Round",
+      "name": "Hungaroring Round 7",
       "circuit": "Hungaroring",
       "flag": "🇭🇺",
       "country": "Hungary",
@@ -37025,7 +37025,7 @@
     {
       "id": 828,
       "series": "f3",
-      "name": "Monza F3 Round",
+      "name": "Monza Round 8",
       "circuit": "Autodromo Nazionale Monza",
       "flag": "🇮🇹",
       "country": "Italy",
@@ -37107,7 +37107,7 @@
     {
       "id": 829,
       "series": "f3",
-      "name": "Madrid F3 Round",
+      "name": "Madrid Round 9",
       "circuit": "Circuito de Madrid",
       "flag": "🇪🇸",
       "country": "Spain",
