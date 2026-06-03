@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-03T21:08:39.128Z",
+  "generatedAt": "2026-06-03T23:56:11.339Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1361,7 +1361,7 @@
       ],
       "group": "openwheel",
       "region": "americas",
-      "label": "FR Americas",
+      "label": "FR America",
       "short": "FRA",
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
