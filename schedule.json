@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T01:47:51.106Z",
+  "generatedAt": "2026-06-04T01:56:20.848Z",
   "events": [
     {
       "id": 101,
@@ -83653,6 +83653,21 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-07-03T19:00:00+07:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-03T19:00:00+07:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T19:00:00+07:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-04T19:00:00+07:00",
           "tbd": true
@@ -83674,6 +83689,21 @@
       "tz": "Asia/Kuala_Lumpur",
       "round": 5,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-08-21T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-08-21T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T20:00:00+08:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-22T20:00:00+08:00",
@@ -83701,6 +83731,21 @@
       "tz": "Asia/Singapore",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-09T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T20:00:00+08:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-10T20:00:00+08:00",
@@ -83751,6 +83796,16 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-19T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T21:30:00+09:30",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T21:30:00+09:30",
           "tbd": true
@@ -83772,6 +83827,16 @@
       "tz": "Australia/Brisbane",
       "round": 3,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-21T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T22:00:00+10:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-22T22:00:00+10:00",
@@ -83795,6 +83860,16 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-09-11T21:30:00+09:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T21:30:00+09:30",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-12T21:30:00+09:30",
           "tbd": true
@@ -83816,6 +83891,16 @@
       "tz": "Australia/Sydney",
       "round": 5,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-10-08T23:00:00+11:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-09T23:00:00+11:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-09T23:00:00+11:00",
@@ -83844,6 +83929,16 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-10-23T22:00:00+10:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-24T22:00:00+10:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-10-24T22:00:00+10:00",
           "tbd": true
@@ -83865,6 +83960,16 @@
       "tz": "Australia/Adelaide",
       "round": 7,
       "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-11-26T22:30:00+10:30",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-27T22:30:00+10:30",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-11-27T22:30:00+10:30",
@@ -83952,6 +84057,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
           "tbd": true
@@ -83973,6 +84093,21 @@
       "tz": "Europe/Amsterdam",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-01T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-01T14:00:00+02:00",
@@ -83996,6 +84131,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-09-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-11T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-12T14:00:00+02:00",
           "tbd": true
@@ -84017,6 +84167,21 @@
       "tz": "Europe/Brussels",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-16T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-16T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-17T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-17T14:00:00+02:00",
@@ -84094,6 +84259,16 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-07-03T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T13:00:00+01:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-04T13:00:00+01:00",
           "tbd": true
@@ -84116,6 +84291,16 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-09-04T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T09:00:00-03:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-05T09:00:00-03:00",
           "tbd": true
@@ -84137,6 +84322,16 @@
       "tz": "America/Sao_Paulo",
       "round": 5,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-11-06T09:00:00-03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-07T09:00:00-03:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-11-07T09:00:00-03:00",
@@ -84209,6 +84404,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true
@@ -84230,6 +84440,21 @@
       "tz": "Europe/Paris",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-01T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-01T14:00:00+02:00",
@@ -84253,6 +84478,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true
@@ -84274,6 +84514,21 @@
       "tz": "Europe/Paris",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-10-09T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-10T14:00:00+02:00",
@@ -84351,6 +84606,16 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-06-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-20T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-20T14:00:00+02:00",
           "tbd": true
@@ -84372,6 +84637,16 @@
       "tz": "Europe/Rome",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
@@ -84395,6 +84670,16 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-19T14:00:00+02:00",
           "tbd": true
@@ -84416,6 +84701,16 @@
       "tz": "Europe/Rome",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-10-30T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-31T13:00:00+01:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-31T13:00:00+01:00",
@@ -84478,6 +84773,16 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-07-18T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-18T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-07-18T21:00:00+09:00",
           "tbd": true
@@ -84499,6 +84804,16 @@
       "tz": "Asia/Tokyo",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-08-08T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-08T21:00:00+09:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-08T21:00:00+09:00",
@@ -84522,6 +84837,16 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice",
+          "time": "2026-09-12T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T21:00:00+09:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-12T21:00:00+09:00",
           "tbd": true
@@ -84543,6 +84868,16 @@
       "tz": "Asia/Tokyo",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-09-25T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-25T21:00:00+09:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-09-25T21:00:00+09:00",
@@ -84610,6 +84945,26 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-27T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-27T14:00:00+02:00",
           "tbd": true
@@ -84631,6 +84986,26 @@
       "tz": "Europe/Stockholm",
       "round": 4,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-08-14T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-08-14T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-14T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-14T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-08-14T14:00:00+02:00",
@@ -84654,6 +85029,26 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-28T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-08-28T14:00:00+02:00",
           "tbd": true
@@ -84675,6 +85070,26 @@
       "tz": "Europe/Stockholm",
       "round": 6,
       "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-18T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-09-18T14:00:00+02:00",
