@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:09:26.427Z",
+  "generatedAt": "2026-06-04T02:10:09.654Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1019,7 +1019,7 @@
       "color": "#FF4F00",
       "bg": "rgba(255,79,0,0.15)",
       "broadcast": {
-        "Global": "YouTube/carreracupbenelux"
+        "Global": "YouTube/PorscheCarreraCupBenelux"
       },
       "resultsUrl": "https://racing.porsche.com/series/carrera-cup-benelux",
       "fallbackMinutes": 45
