@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T00:28:39.125Z",
+  "generatedAt": "2026-06-04T01:41:06.316Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2672,6 +2672,85 @@
       "lon": -47.460278,
       "city": "Imperatriz",
       "region": "Maranhão"
+    },
+    "Zhuhai International Circuit": {
+      "lat": 22.368333,
+      "lon": 113.563333,
+      "city": "Zhuhai",
+      "region": "Guangdong",
+      "website": "https://www.zhuhaicircuit.com",
+      "length_m": 4319
+    },
+    "Bangsaen Street Circuit": {
+      "lat": 13.2877,
+      "lon": 100.9176,
+      "city": "Chonburi",
+      "region": "Chonburi",
+      "length_m": 3380
+    },
+    "Circuit Zolder": {
+      "lat": 50.9899,
+      "lon": 5.2569,
+      "city": "Heusden-Zolder",
+      "region": "Limburg",
+      "website": "https://www.circuit-zolder.be",
+      "length_m": 4011
+    },
+    "Autódromo Velo Città": {
+      "lat": -22.2747,
+      "lon": -47.0306,
+      "city": "Mogi Guaçu",
+      "region": "São Paulo",
+      "website": "https://www.velocitta.com.br",
+      "length_m": 3443
+    },
+    "Autodromo Vallelunga Piero Taruffi": {
+      "lat": 42.1577,
+      "lon": 12.3717,
+      "city": "Campagnano di Roma",
+      "region": "Lazio",
+      "website": "https://www.vallelunga.it",
+      "length_m": 4085
+    },
+    "Anderstorp Raceway": {
+      "lat": 57.2647,
+      "lon": 13.6017,
+      "city": "Anderstorp",
+      "region": "Småland",
+      "website": "https://www.anderstorpraceway.se",
+      "length_m": 4025
+    },
+    "Gelleråsen Arena": {
+      "lat": 59.3247,
+      "lon": 14.4783,
+      "city": "Karlskoga",
+      "region": "Värmland",
+      "website": "https://www.gellerasen.com",
+      "length_m": 1972
+    },
+    "Jyllandsringen": {
+      "lat": 56.2147,
+      "lon": 9.6889,
+      "city": "Silkeborg",
+      "region": "Central Denmark",
+      "website": "https://www.jyllandsringen.dk",
+      "length_m": 2300
+    },
+    "Rudskogen Motorsenter": {
+      "lat": 59.3814,
+      "lon": 11.3464,
+      "city": "Rakkestad",
+      "region": "Østfold",
+      "website": "https://www.rudskogen.no",
+      "length_m": 3252
+    },
+    "Mantorp Park": {
+      "lat": 58.3589,
+      "lon": 15.2872,
+      "city": "Mantorp",
+      "region": "Östergötland",
+      "website": "https://www.mantorppark.se",
+      "length_m": 3106
     }
   }
 }

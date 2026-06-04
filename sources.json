@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T00:28:41.332Z",
+  "generatedAt": "2026-06-04T01:41:05.465Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1019,6 +1019,308 @@
       "liveTiming": [
         {
           "url": "https://livetiming.net/pccna/"
+        }
+      ]
+    },
+    "pccasia": {
+      "schedule": [
+        {
+          "url": "https://www.carreracupasia.com/",
+          "label": "Carrera Cup Asia — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Asia",
+          "label": "Wikipedia — 2026 season"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.carreracupasia.com/",
+          "label": "Carrera Cup Asia — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Asia",
+          "label": "Wikipedia — 2026 standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.carreracupasia.com/"
+        }
+      ]
+    },
+    "pccau": {
+      "schedule": [
+        {
+          "url": "https://www.carreracup.com.au/events/",
+          "label": "Carrera Cup Australia — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.carreracup.com.au/results",
+          "label": "Carrera Cup Australia — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.carreracup.com.au/standings/",
+          "label": "Carrera Cup Australia — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.carreracup.com.au/"
+        }
+      ]
+    },
+    "pccbnl": {
+      "schedule": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-benelux",
+          "label": "Carrera Cup Benelux — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Benelux",
+          "label": "Wikipedia — 2026 season"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-benelux",
+          "label": "Carrera Cup Benelux — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Benelux",
+          "label": "Wikipedia — 2026 standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-benelux"
+        }
+      ]
+    },
+    "pccbr": {
+      "schedule": [
+        {
+          "url": "https://www.porschegt3cup.com.br/etapas/",
+          "label": "Porsche Cup Brasil — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.porschegt3cup.com.br/resultados",
+          "label": "Porsche Cup Brasil — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.porschegt3cup.com.br/classificacao",
+          "label": "Porsche Cup Brasil — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.porschegt3cup.com.br/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/porschecupbrasil/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/porschecupbrasil/"
+        }
+      ]
+    },
+    "pccfr": {
+      "schedule": [
+        {
+          "url": "https://porsche-carrera-cup-france.fr/en/",
+          "label": "Carrera Cup France — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://porsche-carrera-cup-france.fr/en/newsroom/actualites/",
+          "label": "Carrera Cup France — results PDFs"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_France",
+          "label": "Wikipedia — 2026 standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://porsche-carrera-cup-france.fr/en/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/carreracupfrance/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/PorscheCarreraCupFrance/"
+        }
+      ]
+    },
+    "pccit": {
+      "schedule": [
+        {
+          "url": "https://www.carreracupitalia.it/gare/",
+          "label": "Carrera Cup Italia — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.carreracupitalia.it/classifiche/",
+          "label": "Carrera Cup Italia — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.carreracupitalia.it/classifiche/",
+          "label": "Carrera Cup Italia — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.carreracupitalia.it/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.carreracupitalia.it/live/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/carreracupitalia/"
+        }
+      ]
+    },
+    "pccjp": {
+      "schedule": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-japan",
+          "label": "Carrera Cup Japan — official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Japan",
+          "label": "Wikipedia — 2026 season"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-japan",
+          "label": "Carrera Cup Japan — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Japan",
+          "label": "Wikipedia — 2026 standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://racing.porsche.com/series/carrera-cup-japan"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/porschecarreracupjapan/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/porschemotorsportjapan/"
+        }
+      ]
+    },
+    "pccscan": {
+      "schedule": [
+        {
+          "url": "https://www.carreracup.se/kalender-2026/",
+          "label": "Carrera Cup Scandinavia — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.carreracup.se/resultat/",
+          "label": "Carrera Cup Scandinavia — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.carreracup.se/poang-2026/",
+          "label": "Carrera Cup Scandinavia — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.carreracup.se/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://racemon.motorsport-events.se/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/carreracupscandinavia/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/carreracup/"
+        }
+      ]
+    },
+    "pccme": {
+      "schedule": [
+        {
+          "url": "https://www.carreracupme.com/season-info",
+          "label": "Carrera Cup Middle East — official"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.carreracupme.com/results",
+          "label": "Carrera Cup Middle East — official"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.carreracupme.com/standings",
+          "label": "Carrera Cup Middle East — official"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.carreracupme.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/carreracupme/"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/CarreraCupME"
         }
       ]
     },

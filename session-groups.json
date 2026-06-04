@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T00:28:42.421Z",
+  "generatedAt": "2026-06-04T01:41:07.071Z",
   "groups": {
     "gt2": [
       {
@@ -232,6 +232,204 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying"
+        ]
+      }
+    ],
+    "pccasia": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccau": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccbnl": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccbr": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccfr": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccit": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccjp": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccscan": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
+        ]
+      }
+    ],
+    "pccme": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warmup"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

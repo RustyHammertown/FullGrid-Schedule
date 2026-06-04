@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T00:28:40.214Z",
+  "generatedAt": "2026-06-04T01:41:04.013Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -957,6 +957,206 @@
         "Practice",
         "Qualifying"
       ]
+    },
+    "pccasia": {
+      "id": "pccasia",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "asia-pacific",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "asiapacific",
+      "label": "Porsche Carrera Cup Asia",
+      "short": "PCCA",
+      "color": "#C8102E",
+      "bg": "rgba(200,16,46,0.15)",
+      "broadcast": {
+        "Global": "YouTube/CarreraCupAsia"
+      },
+      "resultsUrl": "https://www.carreracupasia.com/",
+      "fallbackMinutes": 45
+    },
+    "pccau": {
+      "id": "pccau",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "australia",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "asiapacific",
+      "label": "Porsche Carrera Cup AU",
+      "short": "PCAU",
+      "color": "#00843D",
+      "bg": "rgba(0,132,61,0.15)",
+      "broadcast": {
+        "Australia": "Fox Sports"
+      },
+      "resultsUrl": "https://www.carreracup.com.au/results",
+      "fallbackMinutes": 45
+    },
+    "pccbnl": {
+      "id": "pccbnl",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Porsche Carrera Cup Benelux",
+      "short": "PCBX",
+      "color": "#FF4F00",
+      "bg": "rgba(255,79,0,0.15)",
+      "broadcast": {
+        "Global": "YouTube/carreracupbenelux"
+      },
+      "resultsUrl": "https://racing.porsche.com/series/carrera-cup-benelux",
+      "fallbackMinutes": 45
+    },
+    "pccbr": {
+      "id": "pccbr",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "south-america",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "americas",
+      "label": "Porsche Carrera Cup BR",
+      "short": "PCBR",
+      "color": "#009C3B",
+      "bg": "rgba(0,156,59,0.15)",
+      "broadcast": {
+        "Brazil": "Band",
+        "Global": "YouTube/PorscheCupBrasil"
+      },
+      "resultsUrl": "https://www.porschegt3cup.com.br/resultados",
+      "fallbackMinutes": 45
+    },
+    "pccfr": {
+      "id": "pccfr",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Porsche Carrera Cup FR",
+      "short": "PCFR",
+      "color": "#0055A4",
+      "bg": "rgba(0,85,164,0.15)",
+      "broadcast": {
+        "Global": "YouTube/PorscheFranceOfficiel"
+      },
+      "resultsUrl": "https://porsche-carrera-cup-france.fr/en/",
+      "fallbackMinutes": 45
+    },
+    "pccit": {
+      "id": "pccit",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Porsche Carrera Cup IT",
+      "short": "PCIT",
+      "color": "#008C45",
+      "bg": "rgba(0,140,69,0.15)",
+      "broadcast": {
+        "Italy": "DAZN",
+        "Global": "YouTube/carreracupitaliatv"
+      },
+      "resultsUrl": "https://www.carreracupitalia.it/classifiche/",
+      "fallbackMinutes": 45
+    },
+    "pccjp": {
+      "id": "pccjp",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "asia-pacific",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "asiapacific",
+      "label": "Porsche Carrera Cup JP",
+      "short": "PCJP",
+      "color": "#BC002D",
+      "bg": "rgba(188,0,45,0.15)",
+      "broadcast": {
+        "Global": "YouTube/PorscheMotorsportAsiaPacificEN"
+      },
+      "resultsUrl": "https://racing.porsche.com/series/carrera-cup-japan",
+      "fallbackMinutes": 45
+    },
+    "pccscan": {
+      "id": "pccscan",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Porsche Carrera Cup Scandinavia",
+      "short": "PCSC",
+      "color": "#006AA7",
+      "bg": "rgba(0,106,167,0.15)",
+      "broadcast": {
+        "Global": "Carrera Cup TV"
+      },
+      "resultsUrl": "https://www.carreracup.se/resultat/",
+      "fallbackMinutes": 45
+    },
+    "pccme": {
+      "id": "pccme",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "asia-pacific",
+        "porsche",
+        "porsche-motorsport"
+      ],
+      "group": "sportscar",
+      "region": "asiapacific",
+      "label": "Porsche Carrera Cup ME",
+      "short": "PCME",
+      "color": "#C09A5B",
+      "bg": "rgba(192,154,91,0.15)",
+      "broadcast": {
+        "Global": "YouTube/CarreraCupME"
+      },
+      "resultsUrl": "https://www.carreracupme.com/standings",
+      "fallbackMinutes": 45
     },
     "mustang": {
       "id": "mustang",
