@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T23:25:31.019Z",
+  "generatedAt": "2026-06-04T23:31:30.834Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1416,7 +1416,7 @@
       "color": "#5DCAA5",
       "bg": "rgba(93,202,165,0.15)",
       "broadcast": {
-        "US": "Apple TV",
+        "US": "F1 TV",
         "UK": "Sky Sports F1",
         "AU": "Fox Sports",
         "Global": "F1 TV Premium"
@@ -1445,7 +1445,7 @@
       "color": "#06B6D4",
       "bg": "rgba(6,182,212,0.15)",
       "broadcast": {
-        "US": "Apple TV",
+        "US": "F1 TV",
         "UK": "Sky Sports F1",
         "AU": "Fox Sports",
         "Global": "F1 TV Premium"
