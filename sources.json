@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T23:56:55.040Z",
+  "generatedAt": "2026-06-04T00:14:44.511Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1670,6 +1670,25 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/EuropeanLMS/"
+        }
+      ]
+    },
+    "alms": {
+      "schedule": [
+        {
+          "url": "https://www.asianlemansseries.com/calendar/",
+          "label": "Official calendar — each race page carries the weekend timetable"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.asianlemansseries.com/calendar/2025-2026/race-1-4h-of-sepang/race-results",
+          "label": "Per-race results live under each event page"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.asianlemansseries.com/calendar/2025-2026/teams-championship"
         }
       ]
     },

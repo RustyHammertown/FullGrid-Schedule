@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T23:56:53.007Z",
+  "generatedAt": "2026-06-04T00:14:45.250Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -450,6 +450,14 @@
       "region": "Saxony",
       "website": "https://www.sachsenring.de",
       "length_m": 3671
+    },
+    "Dubai Autodrome": {
+      "lat": 25.0506,
+      "lon": 55.2389,
+      "city": "Dubai",
+      "region": "Dubai",
+      "website": "https://www.dubaiautodrome.com",
+      "length_m": 5390
     },
     "Salzburgring": {
       "lat": 47.8231,

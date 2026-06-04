@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T23:56:56.046Z",
+  "generatedAt": "2026-06-04T00:14:46.016Z",
   "groups": {
     "gt2": [
       {
@@ -1305,6 +1305,25 @@
           "Qualifying LMP3 (TBD)",
           "Qualifying LMP2 Pro/Am (TBD)",
           "Qualifying LMP2 (TBD)"
+        ]
+      }
+    ],
+    "alms": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice 1",
+          "Practice 2",
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying GT",
+          "Qualifying LMP3",
+          "Qualifying LMP2",
+          "Qualifying"
         ]
       }
     ],

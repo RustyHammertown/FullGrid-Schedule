@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-03T23:56:51.949Z",
+  "generatedAt": "2026-06-04T00:14:43.772Z",
   "flat": {
     "f1": [
       {
@@ -3495,6 +3495,203 @@
     ]
   },
   "classes": {
+    "alms": [
+      {
+        "className": "LMP2",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#4 CrowdStrike Racing By APR",
+            "points": 109,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 2,
+            "name": "#47 Cetilar Racing",
+            "points": 81,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 3,
+            "name": "#25 Algarve Pro Racing",
+            "points": 74,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 4,
+            "name": "#3 DKR Engineering",
+            "points": 59,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 5,
+            "name": "#30 RD Limited",
+            "points": 52,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 6,
+            "name": "#20 Algarve Pro Racing",
+            "points": 45,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 7,
+            "name": "#5 United Autosports",
+            "points": 37,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 8,
+            "name": "#49 High Class Racing",
+            "points": 36,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 9,
+            "name": "#64 Nielsen Racing",
+            "points": 28,
+            "vehicle": "Oreca 07"
+          },
+          {
+            "pos": 10,
+            "name": "#6 United Autosports",
+            "points": 28,
+            "vehicle": "Oreca 07"
+          }
+        ]
+      },
+      {
+        "className": "LMP3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#17 CLX Motorsport",
+            "points": 96,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 2,
+            "name": "#13 Inter Europol Competition",
+            "points": 86,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 3,
+            "name": "#71 23Events Racing",
+            "points": 81,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 4,
+            "name": "#29 Forestier Racing by VPS",
+            "points": 80,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 5,
+            "name": "#23 23Events Racing",
+            "points": 56,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 6,
+            "name": "#94 High Class Racing",
+            "points": 54,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 7,
+            "name": "#8 Team Virage",
+            "points": 52,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 8,
+            "name": "#85 R-ACE GP",
+            "points": 42,
+            "vehicle": "Duqueine D09"
+          },
+          {
+            "pos": 9,
+            "name": "#26 Bretton Racing",
+            "points": 36,
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 10,
+            "name": "#1 Team Virage",
+            "points": 10,
+            "vehicle": "Ligier JS P325"
+          }
+        ]
+      },
+      {
+        "className": "GT",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#74 Kessel Racing",
+            "points": 94,
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 2,
+            "name": "#69 TEAM WRT",
+            "points": 70,
+            "vehicle": "BMW M4 GT3"
+          },
+          {
+            "pos": 3,
+            "name": "#9 GetSpeed",
+            "points": 69,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 4,
+            "name": "#10 Manthey",
+            "points": 65,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 5,
+            "name": "#87 Origine Motorsport",
+            "points": 58,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 6,
+            "name": "#56 Ecurie Ecosse Blackthorn",
+            "points": 47,
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          },
+          {
+            "pos": 7,
+            "name": "#21 AF Corse",
+            "points": 43,
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 8,
+            "name": "#92 Manthey",
+            "points": 38,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 9,
+            "name": "#37 QMMF by GetSpeed",
+            "points": 27,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 10,
+            "name": "#54 Vista AF Corse",
+            "points": 24,
+            "vehicle": "Ferrari 296 GT3"
+          }
+        ]
+      }
+    ],
     "f4french": [
       {
         "className": "General",
@@ -7934,7 +8131,8 @@
   },
   "labels": {
     "gtwce": "Team Standings",
-    "elms": "Team Standings"
+    "elms": "Team Standings",
+    "alms": "Team Standings"
   },
   "lastUpdated": {
     "gt2": "2026-05-31",
@@ -8000,6 +8198,7 @@
     "carrera": "2026-05-03",
     "imsa": "2026-05-31",
     "elms": "2026-05-03",
+    "alms": "2026-02-08",
     "trofeo": "2026-05-03",
     "pilot": "2026-05-02",
     "agt4": "2026-04-26",

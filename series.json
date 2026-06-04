@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-03T23:56:54.016Z",
+  "generatedAt": "2026-06-04T00:14:43.033Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2584,6 +2584,33 @@
       },
       "streamUrl": "https://plus.fiawec.com/",
       "resultsUrl": "https://www.europeanlemansseries.com/en/page/results"
+    },
+    "alms": {
+      "id": "alms",
+      "tags": [
+        "sports-car",
+        "prototype",
+        "gt3",
+        "regional-series",
+        "asia-pacific",
+        "ferrari",
+        "bmw",
+        "mercedes-amg",
+        "porsche",
+        "aston-martin",
+        "aco"
+      ],
+      "group": "sportscar",
+      "region": "asiapacific",
+      "label": "Asian Le Mans Series",
+      "short": "ALMS",
+      "color": "#0D9488",
+      "bg": "rgba(13,148,136,0.15)",
+      "broadcast": {
+        "Global": "YouTube/AsianLeMansSeries"
+      },
+      "streamUrl": "https://www.youtube.com/@AsianLeMansSeries/streams",
+      "resultsUrl": "https://www.asianlemansseries.com/calendar/2025-2026/teams-championship"
     },
     "supercars": {
       "id": "supercars",
