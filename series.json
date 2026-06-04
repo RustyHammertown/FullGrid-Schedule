@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:27:04.083Z",
+  "generatedAt": "2026-06-04T02:40:53.634Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -835,8 +835,15 @@
       "broadcast": {
         "US": "Apple TV",
         "UK": "Sky Sports F1",
+        "IE": "Sky Sports F1",
+        "DE": "Sky Deutschland",
+        "IT": "Sky Sport F1",
+        "FR": "Canal+",
+        "NL": "Viaplay / Ziggo Sport",
+        "ES": "DAZN",
+        "IN": "FanCode",
         "AU": "Fox Sports",
-        "Global": "Check local listings"
+        "Global": "F1 TV"
       },
       "resultsUrl": "https://racing.porsche.com/en-US/series/mobil-1-supercup"
     },
