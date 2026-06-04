@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T02:49:58.252Z",
+  "generatedAt": "2026-06-04T02:53:43.983Z",
   "events": [
     {
       "id": 101,
@@ -34575,9 +34575,24 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-25T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-25T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
-          "time": "2026-06-26T12:00:00-04:00",
-          "duration": 40,
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34586,8 +34601,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-27T12:00:00-04:00",
-          "duration": 40,
+          "time": "2026-06-27T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34607,9 +34622,24 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-07-30T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-30T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-31T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
-          "time": "2026-07-31T12:00:00-05:00",
-          "duration": 40,
+          "time": "2026-07-31T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34618,8 +34648,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-08-01T12:00:00-05:00",
-          "duration": 40,
+          "time": "2026-08-01T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34639,9 +34669,24 @@
       "round": 6,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-17T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-17T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
-          "time": "2026-09-18T12:00:00-04:00",
-          "duration": 40,
+          "time": "2026-09-18T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34650,8 +34695,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-09-19T12:00:00-04:00",
-          "duration": 40,
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34671,9 +34716,24 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-30T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-30T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-01T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
-          "time": "2026-10-01T12:00:00-04:00",
-          "duration": 40,
+          "time": "2026-10-01T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34682,8 +34742,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-10-02T12:00:00-04:00",
-          "duration": 40,
+          "time": "2026-10-02T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34703,9 +34763,24 @@
       "round": 8,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-23T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-23T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-24T07:00:00-05:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
-          "time": "2026-10-24T12:00:00-05:00",
-          "duration": 40,
+          "time": "2026-10-24T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
@@ -34714,8 +34789,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-10-25T12:00:00-05:00",
-          "duration": 40,
+          "time": "2026-10-25T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
