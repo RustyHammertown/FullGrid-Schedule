@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T02:59:55.203Z",
+  "generatedAt": "2026-06-04T22:12:49.712Z",
   "groups": {
     "gt2": [
       {
@@ -1099,6 +1099,7 @@
         "sessions": [
           "Practice",
           "Practice 1",
+          "Practice 2",
           "Final Practice",
           "Practice (TBD)"
         ]
@@ -1553,6 +1554,7 @@
           "Practice 1",
           "Practice 2",
           "Practice 3",
+          "Practice 4",
           "Practice (TBD)",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)",
@@ -1565,9 +1567,15 @@
           "Qualifying",
           "Qualifying HYPERCAR",
           "Qualifying LMGT3",
+          "Qualifying LMP2 & LMGT3",
           "Hyperpole",
           "Hyperpole HYPERCAR",
           "Hyperpole LMGT3",
+          "Hyperpole 1 HYPERCAR",
+          "Hyperpole 2 HYPERCAR",
+          "Hyperpole 1 LMP2 & LMGT3",
+          "Hyperpole 2 LMP2 & LMGT3",
+          "Warm-up",
           "Qualifying (TBD)",
           "Hyperpole (TBD)"
         ]

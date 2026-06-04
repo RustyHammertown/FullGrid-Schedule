@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T02:59:50.794Z",
+  "generatedAt": "2026-06-04T22:12:49.033Z",
   "flat": {
     "pccasia": [
       {
@@ -1715,63 +1715,63 @@
     "highlimit": [
       {
         "pos": 1,
-        "name": "Aaron Reutzel",
-        "points": 1071,
-        "team": "Clute, TX"
+        "name": "Rico Abreu",
+        "points": 1123,
+        "team": "St. Helena, CA"
       },
       {
         "pos": 2,
-        "name": "Rico Abreu",
-        "points": 1064,
-        "team": "St. Helena, CA"
+        "name": "Aaron Reutzel",
+        "points": 1122,
+        "team": "Clute, TX"
       },
       {
         "pos": 3,
         "name": "Giovanni Scelzi",
-        "points": 1028,
+        "points": 1091,
         "team": "Fresno, CA"
       },
       {
         "pos": 4,
         "name": "Tanner Thorson",
-        "points": 960,
+        "points": 1021,
         "team": "Broken Arrow, OK"
       },
       {
         "pos": 5,
         "name": "Tyler Courtney",
-        "points": 943,
+        "points": 1008,
         "team": "Indianapolis, IN"
       },
       {
         "pos": 6,
         "name": "Justin Peck",
-        "points": 933,
+        "points": 1001,
         "team": "Monrovia, IN"
       },
       {
         "pos": 7,
         "name": "Kerry Madsen",
-        "points": 924,
+        "points": 977,
         "team": "Knoxville, IA"
       },
       {
         "pos": 8,
         "name": "Brent Marks",
-        "points": 841,
+        "points": 913,
         "team": "Myerstown, PA"
       },
       {
         "pos": 9,
-        "name": "Daison Pursley",
-        "points": 794,
-        "team": "Locust Grove, OK"
+        "name": "Sye Lynch",
+        "points": 841,
+        "team": "Cowansville, PA"
       },
       {
         "pos": 10,
-        "name": "Sye Lynch",
-        "points": 792,
-        "team": "Cowansville, PA"
+        "name": "Tanner Holmes",
+        "points": 831,
+        "team": "Jacksonville, OR"
       }
     ],
     "woosc": [
@@ -5703,72 +5703,93 @@
           {
             "pos": 1,
             "name": "Broc Feeney / Brad Schumacher",
-            "points": 30,
+            "points": 60,
             "team": "#1 Melbourne Performance Centre",
             "vehicle": "Audi R8 LMS Evo II"
           },
           {
             "pos": 2,
-            "name": "Jaxon Evans / Elliott Schutte",
-            "points": 28,
-            "team": "#26 ARGT",
-            "vehicle": "Ferrari 296 GT3"
-          },
-          {
-            "pos": 3,
-            "name": "Paul Lucchitti / Jayden Ojeda",
-            "points": 26,
+            "name": "Jayden Ojeda / Paul Lucchitti",
+            "points": 58,
             "team": "#66 Tigani Motorsport",
             "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
+            "pos": 3,
+            "name": "Jaxon Evans / Elliott Schutte",
+            "points": 53,
+            "team": "#26 ARGT",
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
             "pos": 4,
-            "name": "Steve Brooks / Ryan Wood",
-            "points": 23,
-            "team": "#88 Team BRM",
-            "vehicle": "Audi R8 LMS Evo II"
-          },
-          {
-            "pos": 5,
-            "name": "Shane Smollen / Oscar Targett",
-            "points": 18,
-            "team": "#56 Tigani Motorsport",
-            "vehicle": "Mercedes-AMG GT3 Evo"
-          },
-          {
-            "pos": 6,
             "name": "Thomas Randle / Mark Rosser",
-            "points": 17,
+            "points": 50,
             "team": "#268 Team BRM",
             "vehicle": "Audi R8 LMS Evo II"
           },
           {
-            "pos": 7,
-            "name": "Valentino Astuti / Darren Currie",
-            "points": 16,
-            "team": "#2 Melbourne Performance Centre",
-            "vehicle": "Audi R8 LMS Evo II"
-          },
-          {
-            "pos": 8,
+            "pos": 5,
             "name": "Brendon Leitch / Sergio Pires",
-            "points": 13,
+            "points": 45,
             "team": "#44 Tigani Motorsport",
             "vehicle": "Mercedes-AMG GT3 Evo"
           },
           {
+            "pos": 6,
+            "name": "Ryan Wood / Steve Brooks",
+            "points": 43,
+            "team": "#88 Team BRM",
+            "vehicle": "Audi R8 LMS Evo II"
+          },
+          {
+            "pos": 7,
+            "name": "Oscar Targett / Shane Smollen",
+            "points": 28,
+            "team": "#56 Tigani Motorsport",
+            "vehicle": "Mercedes-AMG GT3 Evo"
+          },
+          {
+            "pos": 8,
+            "name": "Valentino Astuti / Darren Currie",
+            "points": 20,
+            "team": "#2 Melbourne Performance Centre",
+            "vehicle": "Audi R8 LMS Evo II"
+          },
+          {
             "pos": 9,
-            "name": "Josh Buchan / Cameron Campbell",
-            "points": 11,
-            "team": "#23 Zagame Autosport",
+            "name": "Will Davison / Renee Gracie",
+            "points": 16,
+            "team": "#181 OnlyFans Racing",
             "vehicle": "Ferrari 296 GT3"
           },
           {
             "pos": 10,
-            "name": "Geoff Emery / Josh Hunt",
-            "points": 8,
+            "name": "Josh Buchan / Cameron Campbell",
+            "points": 12,
+            "team": "#23 Zagame Autosport",
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 11,
+            "name": "Antonio D'Albero / Adrian Deitz",
+            "points": 10,
+            "team": "Wall Racing",
+            "vehicle": "Lamborghini Huracán GT3 Evo2"
+          },
+          {
+            "pos": 12,
+            "name": "Josh Hunt / Geoff Emery",
+            "points": 9,
             "team": "#15 Volante Rosso Motorsport",
             "vehicle": "McLaren 720S GT3 Evo"
+          },
+          {
+            "pos": 13,
+            "name": "Garnet Patterson / JP Drake",
+            "points": 4,
+            "team": "#666 Audi",
+            "vehicle": "Audi R8 LMS Evo II"
           }
         ]
       },
@@ -5777,24 +5798,38 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Alex Gardner / Lee Stibbs",
+            "name": "Matthew Stoupas / Paul Stokell",
+            "points": 85,
+            "team": "#24 Melbourne Performance Centre",
+            "vehicle": "Audi R8 LMS Evo II"
+          },
+          {
+            "pos": 2,
+            "name": "Alex Gardner / Ben Porter",
+            "points": 77,
+            "team": "#14 Volante Rosso Motorsport",
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          },
+          {
+            "pos": 3,
+            "name": "Nathan Halstead / Luke Youlden",
+            "points": 59,
+            "team": "#71 Tigani Motorsport",
+            "vehicle": "Porsche 911 GT3 R (991)"
+          },
+          {
+            "pos": 4,
+            "name": "Lee Stibbs",
             "points": 44,
             "team": "#14 Volante Rosso Motorsport",
             "vehicle": "Aston Martin Vantage AMR GT3"
           },
           {
-            "pos": 2,
-            "name": "Matthew Stoupas / Paul Stokell",
-            "points": 34,
-            "team": "#24 Melbourne Performance Centre",
-            "vehicle": "Audi R8 LMS Evo II"
-          },
-          {
-            "pos": 3,
-            "name": "Nathan Halstead / Luke Youlden",
-            "points": 25,
-            "team": "#71 Tigani Motorsport",
-            "vehicle": "Porsche 911 GT3 R (991)"
+            "pos": 5,
+            "name": "Ben Porter",
+            "points": 33,
+            "team": "#14 Volante Rosso Motorsport",
+            "vehicle": "Aston Martin Vantage AMR GT3"
           }
         ]
       },
@@ -8684,7 +8719,7 @@
     "f2": "2026-05-29",
     "dtm": "2026-05-24",
     "arcawest": "2026-05-29",
-    "highlimit": "2026-06-01",
+    "highlimit": "2026-06-04",
     "woosc": "2026-05-29",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
@@ -8725,7 +8760,7 @@
     "caterham310r": "2026-05-10",
     "gt4australia": "2026-05-10",
     "mustangcupau": "2026-05-10",
-    "gtwau": "2026-05-10",
+    "gtwau": "2026-06-04",
     "supercross": "2026-05-10",
     "gtamerica": "2026-06-03",
     "wec": "2026-05-09",
@@ -8753,7 +8788,8 @@
     "ctcrc": "2026-05-29",
     "mx5": "2026-03-01",
     "xtrial": "2025-10-04",
-    "promotocross": "2026-05-30"
+    "promotocross": "2026-05-30",
+    "gt4america": "2026-06-04"
   },
   "teamFlat": {
     "f4italy": [
@@ -9979,6 +10015,247 @@
             "name": "#11 MAD Joker by Lone Star Racing",
             "points": 18,
             "vehicle": "Mercedes-AMG GT3 Evo"
+          }
+        ]
+      }
+    ],
+    "gt4america": [
+      {
+        "className": "Silver",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Luca Mars / Spencer Pumpelly",
+            "points": 127,
+            "team": "#028 RS1",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 2,
+            "name": "Tyler Gonzalez / Westin Workman",
+            "points": 113,
+            "team": "#68 RAFA Racing Team",
+            "vehicle": "Toyota Gazoo Racing GR Supra GT4 EVO2"
+          },
+          {
+            "pos": 3,
+            "name": "Bruno Colombo / Josh Green",
+            "points": 82,
+            "team": "#98 Random Vandals Racing",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 4,
+            "name": "Francis Selldorff / Kevin Boehm",
+            "points": 78,
+            "team": "#51 Auto Technic Racing",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 5,
+            "name": "Jimmy Llibre / Yves Baltas",
+            "points": 52,
+            "team": "#7 ACI Motorsports",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 6,
+            "name": "Ashley Freiberg / Loni Unser",
+            "points": 48,
+            "team": "#24 Kellymoss",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 7,
+            "name": "Erika Hoffmann / Paul Bocuse",
+            "points": 44,
+            "team": "#73 Kellymoss",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 8,
+            "name": "Austin Jurs / Joseph Maley",
+            "points": 24,
+            "team": "#131 Advance Motorsports",
+            "vehicle": "McLaren Artura GT4"
+          },
+          {
+            "pos": 9,
+            "name": "Riley Dickinson",
+            "points": 24,
+            "team": "#7 ACI Motorsports",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 10,
+            "name": "Casey Moyer / Clayton Williams",
+            "points": 16,
+            "team": "#137 LAP Motorsports",
+            "vehicle": "Ford Mustang GT4 (S650)"
+          },
+          {
+            "pos": 11,
+            "name": "Jack Parriott",
+            "points": 8,
+            "team": "#73 Kellymoss",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 12,
+            "name": "Jonathan Neudorf",
+            "points": 4,
+            "team": "#131 Advance Motorsports",
+            "vehicle": "McLaren Artura GT4"
+          }
+        ]
+      },
+      {
+        "className": "Pro-Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Kenton Koch / Sam Craven",
+            "points": 125,
+            "team": "#94 Random Vandals Racing",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 2,
+            "name": "Matheus Leist / Matt Travis",
+            "points": 97,
+            "team": "#47 NOLASPORT",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 3,
+            "name": "Damir Hot / Ryan Yardley",
+            "points": 52,
+            "team": "#25 ACI Motorsports",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          },
+          {
+            "pos": 4,
+            "name": "Michael Cooper / Tony Gaples",
+            "points": 48,
+            "team": "#33 Blackdog Racing",
+            "vehicle": "McLaren Artura GT4"
+          },
+          {
+            "pos": 5,
+            "name": "Michael Petramalo / Tyler McQuarrie",
+            "points": 45,
+            "team": "#38 BimmerWorld",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 6,
+            "name": "Gregory Liefooghe / Jonathan Perichon",
+            "points": 43,
+            "team": "#90 Stephen Cameron Racing",
+            "vehicle": "BMW M4 GT4 (G82)"
+          },
+          {
+            "pos": 7,
+            "name": "Karl Forman / Ryan Eversley",
+            "points": 43,
+            "team": "#03 Precision Racing LA",
+            "vehicle": "Toyota Gazoo Racing GR Supra GT4 EVO2"
+          },
+          {
+            "pos": 8,
+            "name": "Stevan McAleer / Roland Krainz",
+            "points": 40,
+            "team": "#19 Auto Technic Racing",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 9,
+            "name": "Allen Patten / Marc Miller",
+            "points": 34,
+            "team": "#39 Dome Motorsport",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
+            "pos": 10,
+            "name": "Eric Filgueiras / Tom Kopczynski",
+            "points": 34,
+            "team": "#52 Kellymoss",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+          }
+        ]
+      },
+      {
+        "className": "Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "James Clay / James Walker Jr.",
+            "points": 99,
+            "team": "#36 BimmerWorld",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 2,
+            "name": "Denny Stripling / Judson Holt",
+            "points": 89,
+            "team": "#188 Random Vandals Racing",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 3,
+            "name": "Anthony Geraci / Kenny Schmied",
+            "points": 69,
+            "team": "#72 RAFA Racing Team",
+            "vehicle": "Toyota Gazoo Racing GR Supra GT4 EVO2"
+          },
+          {
+            "pos": 4,
+            "name": "Kris Wilson / Zach Lumsden",
+            "points": 67,
+            "team": "#413 Colorado Motorsports by Flying Lizard",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 5,
+            "name": "Frankie Muniz / Tyler Stone",
+            "points": 66,
+            "team": "#30 TechSport Racing",
+            "vehicle": "Ford Mustang GT4 (S650)"
+          },
+          {
+            "pos": 6,
+            "name": "Alex Garcia / Michael Garcia",
+            "points": 57,
+            "team": "#21 ACI Motorsports",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 7,
+            "name": "Ed Killeen / Laura Hayes",
+            "points": 45,
+            "team": "#37 Dome Motorsport",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
+            "pos": 8,
+            "name": "Sam Owen / Sean Gibbons",
+            "points": 36,
+            "team": "#5 OGH Motorsports",
+            "vehicle": "McLaren Artura GT4"
+          },
+          {
+            "pos": 9,
+            "name": "Joseph Catania / Lucas Catania",
+            "points": 34,
+            "team": "#17 Rigid Speed Company",
+            "vehicle": "BMW M4 GT4 (G82) EVO"
+          },
+          {
+            "pos": 10,
+            "name": "Muzaffar Gafurov / Ross Poole",
+            "points": 34,
+            "team": "#10 ACI Motorsports",
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
           }
         ]
       }
