@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T02:54:16.194Z",
+  "generatedAt": "2026-06-04T02:58:42.794Z",
   "events": [
     {
       "id": 101,
@@ -34021,6 +34021,21 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-25T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-25T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-06-26T15:55:00-04:00",
           "duration": 50,
@@ -34052,6 +34067,21 @@
       "tz": "America/Chicago",
       "round": 4,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-30T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-30T07:00:00-05:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-31T07:00:00-05:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-07-31T14:55:00-05:00",
@@ -34085,6 +34115,21 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-18T08:00:00-04:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-19T08:00:00-04:00",
+          "tbd": true
+        },
+        {
           "name": "Race 1",
           "time": "2026-09-19T18:40:00-04:00",
           "duration": 50,
@@ -34116,6 +34161,21 @@
       "tz": "Europe/Rome",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-21T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-21T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-22T14:00:00+02:00",
+          "tbd": true
+        },
         {
           "name": "Race 1",
           "time": "2026-10-22T14:00:00+02:00",
