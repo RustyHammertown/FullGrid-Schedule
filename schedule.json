@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T00:18:06.647Z",
+  "generatedAt": "2026-06-04T00:27:56.509Z",
   "events": [
     {
       "id": 101,
@@ -55800,7 +55800,7 @@
           }
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-04-11T15:05:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -55810,7 +55810,7 @@
           }
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-04-11T15:30:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -55820,7 +55820,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2 Pro/Am",
+          "name": "LMP2 Pro/Am Qualifying",
           "time": "2026-04-11T15:55:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -55830,7 +55830,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-04-11T16:20:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -55906,7 +55906,7 @@
           }
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-05-02T15:10:00+02:00",
           "duration": 22,
           "broadcasts": {
@@ -55916,7 +55916,7 @@
           }
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-05-02T15:32:00+02:00",
           "duration": 22,
           "broadcasts": {
@@ -55926,7 +55926,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2 Pro/Am",
+          "name": "LMP2 Pro/Am Qualifying",
           "time": "2026-05-02T15:54:00+02:00",
           "duration": 22,
           "broadcasts": {
@@ -55936,7 +55936,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-05-02T16:16:00+02:00",
           "duration": 22,
           "broadcasts": {
@@ -56012,7 +56012,7 @@
           }
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-07-04T14:55:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -56022,7 +56022,7 @@
           }
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-07-04T15:20:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -56032,7 +56032,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2 Pro/Am",
+          "name": "LMP2 Pro/Am Qualifying",
           "time": "2026-07-04T15:45:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -56042,7 +56042,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-07-04T16:10:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -56108,22 +56108,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP2 Pro/Am",
+          "name": "LMP2 Pro/Am Qualifying",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-08-23T14:00:00+02:00",
           "tbd": true
         },
@@ -56184,22 +56184,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP2 Pro/Am",
+          "name": "LMP2 Pro/Am Qualifying",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-09-13T13:00:00+01:00",
           "tbd": true
         },
@@ -56260,22 +56260,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-10-10T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-10-10T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP2 Pro/Am",
+          "name": "LMP2 Pro/Am Qualifying",
           "time": "2026-10-10T13:00:00+01:00",
           "tbd": true
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-10-10T13:00:00+01:00",
           "tbd": true
         },
@@ -56346,7 +56346,7 @@
           }
         },
         {
-          "name": "Qualifying GT",
+          "name": "GT Qualifying",
           "time": "2025-12-13T09:15:00+08:00",
           "duration": 15,
           "broadcasts": {
@@ -56356,7 +56356,7 @@
           }
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2025-12-13T09:40:00+08:00",
           "duration": 15,
           "broadcasts": {
@@ -56366,7 +56366,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2025-12-13T10:05:00+08:00",
           "duration": 15,
           "broadcasts": {
@@ -56430,7 +56430,7 @@
           }
         },
         {
-          "name": "Qualifying GT",
+          "name": "GT Qualifying",
           "time": "2026-01-31T09:40:00+04:00",
           "duration": 15,
           "broadcasts": {
@@ -56440,7 +56440,7 @@
           }
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-01-31T10:05:00+04:00",
           "duration": 15,
           "broadcasts": {
@@ -56450,7 +56450,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-01-31T10:30:00+04:00",
           "duration": 15,
           "broadcasts": {
@@ -56514,7 +56514,7 @@
           }
         },
         {
-          "name": "Qualifying GT",
+          "name": "GT Qualifying",
           "time": "2026-02-07T10:10:00+04:00",
           "duration": 15,
           "broadcasts": {
@@ -56524,7 +56524,7 @@
           }
         },
         {
-          "name": "Qualifying LMP3",
+          "name": "LMP3 Qualifying",
           "time": "2026-02-07T10:40:00+04:00",
           "duration": 15,
           "broadcasts": {
@@ -56534,7 +56534,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2",
+          "name": "LMP2 Qualifying",
           "time": "2026-02-07T11:15:00+04:00",
           "duration": 15,
           "broadcasts": {

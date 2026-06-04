@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T00:18:11.951Z",
+  "generatedAt": "2026-06-04T00:27:57.914Z",
   "groups": {
     "gt2": [
       {
@@ -1297,14 +1297,10 @@
       {
         "label": "Qualifying",
         "sessions": [
-          "Qualifying LMGT3",
-          "Qualifying LMP3",
-          "Qualifying LMP2 Pro/Am",
-          "Qualifying LMP2",
-          "Qualifying LMGT3 (TBD)",
-          "Qualifying LMP3 (TBD)",
-          "Qualifying LMP2 Pro/Am (TBD)",
-          "Qualifying LMP2 (TBD)"
+          "LMGT3 Qualifying",
+          "LMP3 Qualifying",
+          "LMP2 Pro/Am Qualifying",
+          "LMP2 Qualifying"
         ]
       }
     ],
@@ -1320,9 +1316,9 @@
       {
         "label": "Qualifying",
         "sessions": [
-          "Qualifying GT",
-          "Qualifying LMP3",
-          "Qualifying LMP2",
+          "GT Qualifying",
+          "LMP3 Qualifying",
+          "LMP2 Qualifying",
           "Qualifying"
         ]
       }

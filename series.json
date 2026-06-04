@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T00:18:09.893Z",
+  "generatedAt": "2026-06-04T00:27:57.221Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2575,6 +2575,7 @@
       ],
       "group": "sportscar",
       "region": "europe",
+      "classGrid": true,
       "label": "European Le Mans Series",
       "short": "ELMS",
       "color": "#1E40AF",
@@ -2602,6 +2603,7 @@
       ],
       "group": "sportscar",
       "region": "asiapacific",
+      "classGrid": true,
       "label": "Asian Le Mans Series",
       "short": "ALMS",
       "color": "#0D9488",
