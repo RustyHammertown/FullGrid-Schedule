@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T23:31:30.834Z",
+  "generatedAt": "2026-06-04T23:58:14.271Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1456,6 +1456,32 @@
         "race": 50
       },
       "typicalLapSeconds": 105,
+      "lapBased": true
+    },
+    "f1academy": {
+      "id": "f1academy",
+      "tags": [
+        "open-wheel",
+        "f4-car",
+        "feeder-series",
+        "global",
+        "fia"
+      ],
+      "group": "openwheel",
+      "region": "europe",
+      "label": "F1 Academy",
+      "short": "F1A",
+      "color": "#E6007E",
+      "bg": "rgba(230,0,126,0.15)",
+      "broadcast": {
+        "US": "F1 TV",
+        "UK": "Sky Sports F1",
+        "AU": "Fox Sports",
+        "Global": "F1 TV Premium"
+      },
+      "resultsUrl": "https://www.f1academy.com/Racing-Series/Calendar",
+      "fallbackMinutes": 30,
+      "typicalLapSeconds": 110,
       "lapBased": true
     },
     "fe": {

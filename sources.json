@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T02:59:54.118Z",
+  "generatedAt": "2026-06-04T23:58:15.691Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -677,6 +677,40 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/formula3/"
+        }
+      ]
+    },
+    "f1academy": {
+      "schedule": [
+        {
+          "url": "https://www.f1academy.com/Racing-Series/Calendar",
+          "label": "Official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.f1academy.com/Racing-Series/Calendar",
+          "label": "Per-round results (Results?raceid=N)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.f1academy.com/Racing-Series/Standings/Driver"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.f1academy.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/f1academy/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/f1academy"
         }
       ]
     },

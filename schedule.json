@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T23:31:30.085Z",
+  "generatedAt": "2026-06-04T23:58:12.811Z",
   "events": [
     {
       "id": 101,
@@ -37296,6 +37296,527 @@
           "name": "Feature Race",
           "time": "2026-09-13T09:20:00+02:00",
           "laps": 22,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5700,
+      "series": "f1academy",
+      "name": "Shanghai",
+      "circuit": "Shanghai International Circuit",
+      "flag": "🇨🇳",
+      "country": "China",
+      "tz": "Asia/Shanghai",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-03-13T09:10:00+08:00",
+          "duration": 40,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=22",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-13T14:10:00+08:00",
+          "duration": 30,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=22",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-03-14T13:45:00+08:00",
+          "laps": 13,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=22",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-03-15T10:40:00+08:00",
+          "laps": 13,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=22",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5701,
+      "series": "f1academy",
+      "name": "Montreal",
+      "circuit": "Circuit Gilles Villeneuve",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-22T09:00:00-04:00",
+          "duration": 40,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=24",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-22T18:00:00-04:00",
+          "duration": 30,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=24",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Opening Race",
+          "time": "2026-05-23T09:45:00-04:00",
+          "duration": 30,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=24",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Reverse Grid Race",
+          "time": "2026-05-23T18:05:00-04:00",
+          "duration": 30,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=24",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Feature Race",
+          "time": "2026-05-24T10:45:00-04:00",
+          "duration": 30,
+          "resultsUrl": "https://www.f1academy.com/Racing-Series/Results?raceid=24",
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5702,
+      "series": "f1academy",
+      "name": "Silverstone",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "Great Britain",
+      "tz": "Europe/London",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-07-03T13:00:00+01:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-03T13:00:00+01:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-04T13:00:00+01:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-05T13:00:00+01:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5703,
+      "series": "f1academy",
+      "name": "Zandvoort",
+      "circuit": "Circuit Zandvoort",
+      "flag": "🇳🇱",
+      "country": "Netherlands",
+      "tz": "Europe/Amsterdam",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-21T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-21T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-22T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-23T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5704,
+      "series": "f1academy",
+      "name": "Austin",
+      "circuit": "Circuit of the Americas",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-10-23T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-23T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Opening Race",
+          "time": "2026-10-24T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Reverse Grid Race",
+          "time": "2026-10-24T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Feature Race",
+          "time": "2026-10-25T07:00:00-05:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5705,
+      "series": "f1academy",
+      "name": "Las Vegas",
+      "circuit": "Las Vegas Strip Circuit",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Los_Angeles",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-11-19T04:00:00-08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-20T04:00:00-08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-11-20T04:00:00-08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-11-21T04:00:00-08:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "F1 TV"

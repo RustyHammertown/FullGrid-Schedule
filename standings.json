@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T22:12:49.033Z",
+  "generatedAt": "2026-06-04T23:58:13.589Z",
   "flat": {
     "pccasia": [
       {
@@ -1097,6 +1097,68 @@
         "name": "Mattia Colnaghi",
         "points": 1,
         "team": "MP Motorsport"
+      }
+    ],
+    "f1academy": [
+      {
+        "pos": 1,
+        "name": "Alisha Palmowski",
+        "points": 78,
+        "team": "Campos Racing"
+      },
+      {
+        "pos": 2,
+        "name": "Emma Felbermayr",
+        "points": 53,
+        "team": "Rodin Motorsport"
+      },
+      {
+        "pos": 3,
+        "name": "Megan Bruce",
+        "points": 37,
+        "team": "Campos Racing"
+      },
+      {
+        "pos": 4,
+        "name": "Payton Westcott",
+        "points": 36,
+        "team": "PREMA Racing"
+      },
+      {
+        "pos": 5,
+        "name": "Mathilda Paatz",
+        "points": 35,
+        "team": "PREMA Racing"
+      },
+      {
+        "pos": 6,
+        "name": "Nina Gademan",
+        "points": 30,
+        "team": "MP Motorsport"
+      },
+      {
+        "pos": 7,
+        "name": "Rafaela Ferreira",
+        "points": 27,
+        "team": "Campos Racing"
+      },
+      {
+        "pos": 8,
+        "name": "Ella Lloyd",
+        "points": 23,
+        "team": "Rodin Motorsport"
+      },
+      {
+        "pos": 9,
+        "name": "Alba Larsen",
+        "points": 23,
+        "team": "MP Motorsport"
+      },
+      {
+        "pos": 10,
+        "name": "Natalia Granada",
+        "points": 17,
+        "team": "PREMA Racing"
       }
     ],
     "fe": [
@@ -8792,6 +8854,38 @@
     "gt4america": "2026-06-04"
   },
   "teamFlat": {
+    "f1academy": [
+      {
+        "pos": 1,
+        "name": "Campos Racing",
+        "points": 142
+      },
+      {
+        "pos": 2,
+        "name": "PREMA Racing",
+        "points": 88
+      },
+      {
+        "pos": 3,
+        "name": "Rodin Motorsport",
+        "points": 80
+      },
+      {
+        "pos": 4,
+        "name": "MP Motorsport",
+        "points": 53
+      },
+      {
+        "pos": 5,
+        "name": "ART Grand Prix",
+        "points": 26
+      },
+      {
+        "pos": 6,
+        "name": "Hitech",
+        "points": 1
+      }
+    ],
     "f4italy": [
       {
         "pos": 1,

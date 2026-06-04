@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T22:12:49.712Z",
+  "generatedAt": "2026-06-04T23:58:14.972Z",
   "groups": {
     "gt2": [
       {
@@ -88,6 +88,20 @@
         "label": "Sprint",
         "sessions": [
           "Sprint Race"
+        ]
+      }
+    ],
+    "f1academy": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
         ]
       }
     ],
