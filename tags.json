@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T01:41:38.548Z",
+  "generatedAt": "2026-06-04T01:47:19.212Z",
   "categories": [
     {
       "id": "geography",
@@ -11,6 +11,7 @@
         "south-america",
         "europe",
         "asia-pacific",
+        "middle-east",
         "australia"
       ]
     },
@@ -218,6 +219,7 @@
     "south-america": "South America",
     "europe": "Europe",
     "asia-pacific": "Asia Pacific",
+    "middle-east": "Middle East",
     "australia": "Australia",
     "ferrari": "Ferrari",
     "mercedes-amg": "Mercedes-AMG",
