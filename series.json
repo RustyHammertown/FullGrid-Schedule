@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:10:46.361Z",
+  "generatedAt": "2026-06-04T02:12:23.751Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1041,7 +1041,6 @@
       "color": "#009C3B",
       "bg": "rgba(0,156,59,0.15)",
       "broadcast": {
-        "Brazil": "Band",
         "Global": "YouTube/PorscheCupBrasil"
       },
       "resultsUrl": "https://www.porschegt3cup.com.br/resultados",
