@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-06-04T02:40:54.482Z",
+  "generatedAt": "2026-06-04T02:41:28.660Z",
   "links": {
     "FOX": "https://www.foxone.com/",
     "FS1": "https://www.foxone.com/",
@@ -110,8 +110,6 @@
     "DAZN": "https://www.dazn.com/",
     "ServusTV": "https://www.servustv.com/",
     "Viaplay": "https://viaplay.com/",
-    "Ziggo Sport": "https://www.ziggosport.nl/",
-    "Sky Deutschland": "https://www.sky.de/",
     "SuperSport": "https://supersport.com/",
     "SporTV": "https://sportv.globo.com/",
     "Sportklub": "https://sportklub.rs/",
@@ -139,6 +137,7 @@
     "Douyin": "https://www.douyin.com/",
     "GO Sports Premium": "https://www.go.com.mt/go-sports-premium/",
     "Sky Italia": "https://www.sky.it/",
+    "Sky Deutschland": "https://www.sky.de/",
     "ProSieben": "https://www.prosieben.de/",
     "SPORT1": "https://www.sport1.de/",
     "TT+": "https://ttplus.iomttraces.com/",
@@ -152,6 +151,7 @@
     "L'Équipe": "https://www.lequipe.fr/tv/",
     "Eurosport India": "https://www.eurosport.in/",
     "FanCode": "https://www.fancode.com/",
+    "Ziggo Sport": "https://www.ziggosport.nl/",
     "Sport TV": "https://sporttv.pt/",
     "Foxtel": "https://www.foxtel.com.au/",
     "Seven Network": "https://7plus.com.au/",
