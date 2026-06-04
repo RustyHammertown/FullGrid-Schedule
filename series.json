@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:22:38.560Z",
+  "generatedAt": "2026-06-04T02:24:14.056Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -978,7 +978,15 @@
         "Global": "YouTube/PorscheMotorsportAsiaPacificEN"
       },
       "resultsUrl": "https://www.carreracupasia.com/",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccau": {
       "id": "pccau",
@@ -1000,7 +1008,15 @@
         "Australia": "Fox Sports"
       },
       "resultsUrl": "https://www.carreracup.com.au/results",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccbnl": {
       "id": "pccbnl",
@@ -1022,7 +1038,15 @@
         "Global": "YouTube/PorscheCarreraCupBenelux"
       },
       "resultsUrl": "https://racing.porsche.com/series/carrera-cup-benelux",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccbr": {
       "id": "pccbr",
@@ -1044,7 +1068,15 @@
         "Global": "YouTube/PorscheCupBrasil"
       },
       "resultsUrl": "https://www.porschegt3cup.com.br/resultados",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccfr": {
       "id": "pccfr",
@@ -1066,7 +1098,15 @@
         "Global": "YouTube/PorscheFranceOfficiel"
       },
       "resultsUrl": "https://porsche-carrera-cup-france.fr/en/",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccit": {
       "id": "pccit",
@@ -1089,7 +1129,15 @@
         "Global": "YouTube/carreracupitaliatv"
       },
       "resultsUrl": "https://www.carreracupitalia.it/classifiche/",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccjp": {
       "id": "pccjp",
@@ -1111,7 +1159,15 @@
         "Global": "YouTube/PorscheJapanOfficial"
       },
       "resultsUrl": "https://racing.porsche.com/series/carrera-cup-japan",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccscan": {
       "id": "pccscan",
@@ -1133,7 +1189,15 @@
         "Global": "YouTube/PorscheCarreraCupScandinavia"
       },
       "resultsUrl": "https://www.carreracup.se/resultat/",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "pccme": {
       "id": "pccme",
@@ -1155,7 +1219,13 @@
         "Global": "YouTube/CarreraCupME"
       },
       "resultsUrl": "https://www.carreracupme.com/standings",
-      "fallbackMinutes": 45
+      "notTelevisedCategories": [
+        "Practice"
+      ],
+      "fallbackMinutes": 45,
+      "unstreamedCategories": [
+        "Practice"
+      ]
     },
     "mustang": {
       "id": "mustang",
