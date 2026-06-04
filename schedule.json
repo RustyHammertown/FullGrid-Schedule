@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T22:33:20.209Z",
+  "generatedAt": "2026-06-04T23:25:30.230Z",
   "events": [
     {
       "id": 101,
@@ -75154,7 +75154,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75216,7 +75216,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75278,7 +75278,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75340,7 +75340,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75402,7 +75402,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75464,7 +75464,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75504,7 +75504,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"
@@ -75566,7 +75566,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "Apple TV"
+              "service": "F1 TV"
             },
             "CA": {
               "service": "TSN / RDS"

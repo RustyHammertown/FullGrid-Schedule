@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:59:53.002Z",
+  "generatedAt": "2026-06-04T23:25:31.019Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -833,7 +833,7 @@
       "color": "#1F2937",
       "bg": "rgba(31,41,55,0.15)",
       "broadcast": {
-        "US": "Apple TV",
+        "US": "F1 TV",
         "UK": "Sky Sports F1",
         "IE": "Sky Sports F1",
         "DE": "Sky Deutschland",
