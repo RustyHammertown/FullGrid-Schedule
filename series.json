@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:42:17.415Z",
+  "generatedAt": "2026-06-04T02:49:29.575Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -868,12 +868,14 @@
         "Global": "YouTube/PorscheMotorsportNorthAmerica"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@PorscheSprintChallenge/streams",
       "resultsUrl": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     },
     "pscw": {
@@ -897,12 +899,14 @@
         "Global": "YouTube/PorscheMotorsportNorthAmerica"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@PorscheSprintChallenge/streams",
       "resultsUrl": "https://www.porschesprint.com/",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     },
     "pec": {
@@ -926,12 +930,14 @@
         "Global": "YouTube/PorscheMotorsportNorthAmerica"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@PorscheSprintChallenge/streams",
       "resultsUrl": "https://www.porschesprint.com/",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     },
     "carrera": {
@@ -3136,12 +3142,14 @@
         "Global": "YouTube/OfficialBTCC"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     },
     "pscgb": {
@@ -3583,12 +3591,14 @@
         "Global": "YouTube/PorscheCarreraCupDeutschland"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@PorscheCarreraCupDeutschland/streams",
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     }
   },
