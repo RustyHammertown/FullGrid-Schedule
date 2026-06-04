@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:16:38.885Z",
+  "generatedAt": "2026-06-04T02:19:12.447Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1108,7 +1108,7 @@
       "color": "#BC002D",
       "bg": "rgba(188,0,45,0.15)",
       "broadcast": {
-        "Global": "YouTube/PorscheMotorsportAsiaPacificEN"
+        "Global": "YouTube/PorscheJapanOfficial"
       },
       "resultsUrl": "https://racing.porsche.com/series/carrera-cup-japan",
       "fallbackMinutes": 45
