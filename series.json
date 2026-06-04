@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T01:56:59.439Z",
+  "generatedAt": "2026-06-04T02:08:44.253Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -975,7 +975,7 @@
       "color": "#C8102E",
       "bg": "rgba(200,16,46,0.15)",
       "broadcast": {
-        "Global": "YouTube/CarreraCupAsia"
+        "Global": "YouTube/PorscheMotorsportAsiaPacificEN"
       },
       "resultsUrl": "https://www.carreracupasia.com/",
       "fallbackMinutes": 45
