@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-04T02:24:57.726Z",
+  "generatedAt": "2026-06-04T02:26:27.000Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1099,13 +1099,11 @@
       },
       "resultsUrl": "https://porsche-carrera-cup-france.fr/en/",
       "notTelevisedCategories": [
-        "Practice",
-        "Qualifying"
+        "Practice"
       ],
       "fallbackMinutes": 45,
       "unstreamedCategories": [
-        "Practice",
-        "Qualifying"
+        "Practice"
       ]
     },
     "pccit": {
