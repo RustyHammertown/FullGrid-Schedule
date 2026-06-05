@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-04T23:58:12.811Z",
+  "generatedAt": "2026-06-05T08:42:23.085Z",
   "events": [
     {
       "id": 101,
@@ -33169,7 +33169,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-07T12:10:00-04:00",
+          "time": "2026-06-07T12:15:00-04:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -33640,14 +33640,9 @@
           "duration": 40
         },
         {
-          "name": "Qualifying (GSX)",
+          "name": "Qualifying",
           "time": "2026-06-06T08:50:00-04:00",
-          "duration": 15
-        },
-        {
-          "name": "Qualifying (GTDX/P3)",
-          "time": "2026-06-06T09:10:00-04:00",
-          "duration": 15
+          "duration": 35
         },
         {
           "name": "Race 1",
@@ -42782,8 +42777,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T09:30:00-04:00",
-          "duration": 50,
+          "time": "2026-06-06T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "FOX One"
