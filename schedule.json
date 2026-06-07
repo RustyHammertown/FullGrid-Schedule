@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T13:55:57.713Z",
+  "generatedAt": "2026-06-07T21:30:27.723Z",
   "events": [
     {
       "id": 101,
@@ -19001,13 +19001,13 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-21T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-19T14:00:00-07:00",
+          "duration": 50
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-21T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-20T11:30:00-07:00",
+          "duration": 60
         },
         {
           "name": "Race",
@@ -41363,18 +41363,18 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-20T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-19T12:30:00-07:00",
+          "duration": 50
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-20T10:00:00-07:00",
+          "duration": 60
         },
         {
           "name": "Race",
           "time": "2026-06-20T14:00:00-07:00",
-          "laps": 75,
+          "laps": 60,
           "broadcasts": {
             "US": {
               "service": "The CW"
@@ -42777,8 +42777,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-06T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-06T09:30:00-04:00",
+          "duration": 50,
           "broadcasts": {
             "US": {
               "service": "FOX One"
@@ -42830,19 +42830,24 @@
       "round": 13,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-06-19T05:00:00-07:00",
-          "tbd": true
+          "name": "Practice 1",
+          "time": "2026-06-19T09:00:00-07:00",
+          "duration": 40
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-19T10:00:00-07:00",
+          "duration": 40
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-19T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-19T11:00:00-07:00",
+          "duration": 60
         },
         {
           "name": "Race",
           "time": "2026-06-19T16:00:00-07:00",
-          "laps": 100,
+          "laps": 50,
           "broadcasts": {
             "US": {
               "service": "FS1"
@@ -53407,7 +53412,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-16T18:30:00-05:00",
+          "time": "2026-06-16T19:00:00-05:00",
           "laps": 150,
           "broadcasts": {
             "Global": {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T13:57:11.448Z",
+  "generatedAt": "2026-06-07T21:30:28.472Z",
   "flat": {
     "pccasia": [
       {
@@ -817,72 +817,72 @@
       {
         "pos": 1,
         "name": "Layne Riggs",
-        "points": 458,
+        "points": 497,
         "team": "#34 Front Row Motorsports",
         "vehicle": "Ford F-150"
       },
       {
         "pos": 2,
         "name": "Kaden Honeycutt",
-        "points": 421,
+        "points": 471,
         "team": "#11 Tricon Garage",
         "vehicle": "Toyota Tundra TRD Pro"
       },
       {
         "pos": 3,
-        "name": "Christian Eckes",
-        "points": 365,
-        "team": "#91 McAnally-Hilgemann Racing",
-        "vehicle": "Chevrolet Silverado RST"
-      },
-      {
-        "pos": 4,
         "name": "Chandler Smith",
-        "points": 362,
+        "points": 407,
         "team": "#38 Front Row Motorsports",
         "vehicle": "Ford F-150"
       },
       {
-        "pos": 5,
+        "pos": 4,
         "name": "Gio Ruggiero",
-        "points": 352,
+        "points": 383,
         "team": "#17 Tricon Garage",
         "vehicle": "Toyota Tundra TRD Pro"
       },
       {
+        "pos": 5,
+        "name": "Christian Eckes",
+        "points": 379,
+        "team": "#91 McAnally-Hilgemann Racing",
+        "vehicle": "Chevrolet Silverado RST"
+      },
+      {
         "pos": 6,
-        "name": "Ty Majeski",
-        "points": 309,
-        "team": "#88 ThorSport Racing",
+        "name": "Ben Rhodes",
+        "points": 316,
+        "team": "#99 ThorSport Racing",
         "vehicle": "Ford F-150"
       },
       {
         "pos": 7,
-        "name": "Ben Rhodes",
-        "points": 300,
-        "team": "#99 ThorSport Racing",
+        "name": "Ty Majeski",
+        "points": 312,
+        "team": "#88 ThorSport Racing",
         "vehicle": "Ford F-150"
       },
       {
         "pos": 8,
         "name": "Tyler Ankrum",
-        "points": 256,
+        "points": 283,
         "team": "#18 McAnally-Hilgemann Racing",
         "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 9,
-        "name": "Stewart Friesen",
-        "points": 254,
-        "team": "#52 Halmar Friesen Racing",
-        "vehicle": "Toyota Tundra TRD Pro"
+        "name": "Daniel Hemric",
+        "points": 278,
+        "team": "#19 McAnally-Hilgemann Racing",
+        "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 10,
-        "name": "Daniel Hemric",
-        "points": 254,
-        "team": "#19 McAnally-Hilgemann Racing",
-        "vehicle": "Chevrolet Silverado RST"
+        "name": "Jake Garcia",
+        "points": 278,
+        "team": "#98 ThorSport Racing",
+        "vehicle": "Ford F-150"
       }
     ],
     "indycar": [
@@ -1500,132 +1500,132 @@
       {
         "pos": 1,
         "name": "Stephen Kopcik",
-        "points": 206,
+        "points": 237,
         "team": "#21 Wanick Motorsports"
       },
       {
         "pos": 2,
         "name": "Austin Beers",
-        "points": 196,
+        "points": 229,
         "team": "#64 KLM Motorsports"
       },
       {
         "pos": 3,
-        "name": "Patrick Emerling",
-        "points": 188,
-        "team": "#1 USNEPower Motorsports"
+        "name": "Jon McKennedy",
+        "points": 228,
+        "team": "#79 Jon McKennedy Racing"
       },
       {
         "pos": 4,
+        "name": "Patrick Emerling",
+        "points": 225,
+        "team": "#1 USNEPower Motorsports"
+      },
+      {
+        "pos": 5,
+        "name": "Eric Goodale",
+        "points": 207,
+        "team": "#58 Goodie Racing"
+      },
+      {
+        "pos": 6,
+        "name": "Tyler Rypkema",
+        "points": 201,
+        "team": "#3 Boehler Racing Enterprises"
+      },
+      {
+        "pos": 7,
+        "name": "Tommy Catalano",
+        "points": 198,
+        "team": "#54 Catalano Motorsports"
+      },
+      {
+        "pos": 8,
         "name": "Justin Bonsignore",
         "points": 184,
         "team": "#51 Kenneth Massa Motorsports"
       },
       {
-        "pos": 5,
-        "name": "Jon McKennedy",
-        "points": 180,
-        "team": "#79 Jon McKennedy Racing"
-      },
-      {
-        "pos": 6,
-        "name": "Tommy Catalano",
-        "points": 167,
-        "team": "#54 Catalano Motorsports"
-      },
-      {
-        "pos": 7,
-        "name": "Eric Goodale",
-        "points": 166,
-        "team": "#58 Goodie Racing"
-      },
-      {
-        "pos": 8,
-        "name": "Tyler Rypkema",
-        "points": 159,
-        "team": "#3 Boehler Racing Enterprises"
-      },
-      {
         "pos": 9,
-        "name": "Ron Silk",
-        "points": 158,
-        "team": "#16 Haydt-Yannone Racing"
+        "name": "Matt Hirschman",
+        "points": 183,
+        "team": "#60 PeeDee Motorsports"
       },
       {
         "pos": 10,
-        "name": "Craig Lutz",
-        "points": 158,
-        "team": "#46 Goodie Racing"
+        "name": "Trevor Catalano",
+        "points": 182,
+        "team": "#56 Catalano Motorsports"
       }
     ],
     "arca": [
       {
         "pos": 1,
         "name": "Jake Bollman",
-        "points": 265,
+        "points": 308,
         "team": "#20 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 2,
-        "name": "Ryan Vargas",
-        "points": 248,
-        "team": "#91 Maples Motorsports",
-        "vehicle": "Ford Mustang"
-      },
-      {
-        "pos": 3,
         "name": "Thomas Annunziata",
-        "points": 245,
+        "points": 283,
         "team": "#70 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
+        "pos": 3,
+        "name": "Ryan Vargas",
+        "points": 280,
+        "team": "#91 Maples Motorsports",
+        "vehicle": "Ford Mustang"
+      },
+      {
         "pos": 4,
         "name": "Andy Jankowiak",
-        "points": 234,
+        "points": 263,
         "team": "#71 KLAS Motorsports",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 5,
-        "name": "Jason Kitzmiller",
-        "points": 222,
-        "team": "#97 CR7 Motorsports",
-        "vehicle": "Chevrolet Camaro"
-      },
-      {
-        "pos": 6,
         "name": "Isabella Robusto",
-        "points": 220,
+        "points": 257,
         "team": "#55 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
+        "pos": 6,
+        "name": "Jason Kitzmiller",
+        "points": 243,
+        "team": "#97 CR7 Motorsports",
+        "vehicle": "Chevrolet Camaro"
+      },
+      {
         "pos": 7,
         "name": "Takuma Koga",
-        "points": 206,
+        "points": 232,
         "team": "#12 Fast Track Racing",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 8,
         "name": "Michael Maples",
-        "points": 195,
+        "points": 223,
         "team": "#99 Maples Motorsports",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 9,
         "name": "Bobby Dale Earnhardt",
-        "points": 181,
+        "points": 200,
         "team": "#89 Rise Racing",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 10,
         "name": "Alex Clubb",
-        "points": 172,
+        "points": 195,
         "team": "#03 Clubb Racing Inc.",
         "vehicle": "Ford Mustang"
       }
@@ -1706,70 +1706,70 @@
       {
         "pos": 1,
         "name": "Trevor Huddleston",
-        "points": 270,
+        "points": 313,
         "team": "#50 High Point Racing",
         "vehicle": "Ford Mustang"
       },
       {
         "pos": 2,
         "name": "Mason Massey",
-        "points": 250,
+        "points": 289,
         "team": "#19 Bill McAnally Racing",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 3,
-        "name": "Robbie Kennealy",
-        "points": 232,
-        "team": "#1 Jan's Towing Racing",
-        "vehicle": "Ford Mustang"
-      },
-      {
-        "pos": 4,
-        "name": "Hailie Deegan",
-        "points": 232,
-        "team": "#16 Bill McAnally Racing",
-        "vehicle": "Chevrolet Camaro"
-      },
-      {
-        "pos": 5,
-        "name": "Eric Johnson Jr.",
-        "points": 226,
-        "team": "#5 Jerry Pitts Racing",
-        "vehicle": "Toyota Camry"
-      },
-      {
-        "pos": 6,
         "name": "Cole Denton",
-        "points": 225,
+        "points": 274,
         "team": "#71 Jan's Towing Racing",
         "vehicle": "Ford Mustang"
       },
       {
+        "pos": 4,
+        "name": "Robbie Kennealy",
+        "points": 272,
+        "team": "#1 Jan's Towing Racing",
+        "vehicle": "Ford Mustang"
+      },
+      {
+        "pos": 5,
+        "name": "Hailie Deegan",
+        "points": 262,
+        "team": "#16 Bill McAnally Racing",
+        "vehicle": "Chevrolet Camaro"
+      },
+      {
+        "pos": 6,
+        "name": "Eric Johnson Jr.",
+        "points": 257,
+        "team": "#5 Jerry Pitts Racing",
+        "vehicle": "Toyota Camry"
+      },
+      {
         "pos": 7,
         "name": "Andrew Chapman",
-        "points": 214,
+        "points": 250,
         "team": "#55 High Point Racing",
         "vehicle": "Ford Mustang"
       },
       {
         "pos": 8,
-        "name": "Gavin Ray",
-        "points": 205,
-        "team": "#7 Jerry Pitts Racing",
+        "name": "Mia Lovell",
+        "points": 246,
+        "team": "#15 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 9,
-        "name": "Mia Lovell",
-        "points": 205,
-        "team": "#15 Nitro Motorsports",
+        "name": "Gavin Ray",
+        "points": 242,
+        "team": "#7 Jerry Pitts Racing",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 10,
         "name": "David Smith",
-        "points": 184,
+        "points": 216,
         "team": "#05 Shockwave Motorsports",
         "vehicle": "Chevrolet Camaro"
       }
@@ -8780,7 +8780,7 @@
     "indycar": "2026-05-31",
     "f2": "2026-05-29",
     "dtm": "2026-05-24",
-    "arcawest": "2026-05-29",
+    "arcawest": "2026-06-06",
     "highlimit": "2026-06-04",
     "woosc": "2026-05-29",
     "btcc": "2026-05-29",
@@ -8797,13 +8797,13 @@
     "fiakeuro": "2026-05-24",
     "agtm": "2026-05-24",
     "oreilly": "2026-05-30",
-    "truck": "2026-05-30",
+    "truck": "2026-06-06",
     "lucasdirt": "2026-05-23",
     "internationalgt": "2026-05-23",
     "enascar": "2026-06-03",
     "motogp": "2026-05-31",
     "fe": "2026-05-17",
-    "whelen": "2026-05-30",
+    "whelen": "2026-06-06",
     "woolm": "2026-05-30",
     "f4us": "2026-05-17",
     "framericas": "2026-05-17",
@@ -8815,7 +8815,7 @@
     "gtcupeu": "2026-05-31",
     "nhra": "2026-05-31",
     "ffsatourisme": "2026-05-17",
-    "arca": "2026-05-16",
+    "arca": "2026-06-05",
     "arcaeast": "2026-05-16",
     "igtc": "2026-05-16",
     "wrc": "2026-05-31",
