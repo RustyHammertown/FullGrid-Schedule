@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T21:30:28.472Z",
+  "generatedAt": "2026-06-07T23:50:36.817Z",
   "flat": {
     "pccasia": [
       {
@@ -1365,6 +1365,68 @@
         "name": "John Salerno",
         "points": 610,
         "team": "#34 JTR Motorsports Engineering"
+      }
+    ],
+    "supercup": [
+      {
+        "pos": 1,
+        "name": "Theo Oeverhaus",
+        "points": 25,
+        "team": "Martinet by Alméras"
+      },
+      {
+        "pos": 2,
+        "name": "Andrea Bristot",
+        "points": 20,
+        "team": "Dinamic Motorsport"
+      },
+      {
+        "pos": 3,
+        "name": "Gustav Burton",
+        "points": 17,
+        "team": "Team GP Elite"
+      },
+      {
+        "pos": 4,
+        "name": "Robert de Haan",
+        "points": 14,
+        "team": "BWT Lechner Racing"
+      },
+      {
+        "pos": 5,
+        "name": "Flynt Schuring",
+        "points": 12,
+        "team": "Schumacher CLRT"
+      },
+      {
+        "pos": 6,
+        "name": "Keagan Masters",
+        "points": 10,
+        "team": "Proton Competition"
+      },
+      {
+        "pos": 7,
+        "name": "Jaap van Lagen",
+        "points": 9,
+        "team": "Martinet by Alméras"
+      },
+      {
+        "pos": 8,
+        "name": "Dirk Schouten",
+        "points": 8,
+        "team": "Looping by CarTech"
+      },
+      {
+        "pos": 9,
+        "name": "Matheus Ferreira",
+        "points": 7,
+        "team": "Team GP Elite"
+      },
+      {
+        "pos": 10,
+        "name": "Chester Kieffer",
+        "points": 6,
+        "team": "Schumacher CLRT"
       }
     ],
     "dtm": [
@@ -8849,6 +8911,7 @@
     "nascarcanada": "2026-05-29",
     "ctcrc": "2026-05-29",
     "mx5": "2026-03-01",
+    "supercup": "2026-06-07",
     "xtrial": "2025-10-04",
     "promotocross": "2026-05-30",
     "gt4america": "2026-06-04"

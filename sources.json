@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T13:57:29.828Z",
+  "generatedAt": "2026-06-07T23:50:37.887Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3593,6 +3593,12 @@
         {
           "url": "https://racing.porsche.com/mobil-1-supercup/race-calendar-2026",
           "label": "Official 2026 calendar"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Supercup",
+          "label": "Wikipedia — 2026 standings"
         }
       ],
       "results": [
