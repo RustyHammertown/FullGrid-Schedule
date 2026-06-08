@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-08T00:11:59.501Z",
+  "generatedAt": "2026-06-08T00:15:44.524Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3661,6 +3661,7 @@
   ],
   "removed": [
     "moto2",
-    "moto3"
+    "moto3",
+    "scotlegends"
   ]
 }
