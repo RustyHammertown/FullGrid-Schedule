@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T01:40:47.305Z",
+  "generatedAt": "2026-06-08T08:45:56.703Z",
   "flat": {
     "pccasia": [
       {
@@ -539,43 +539,43 @@
       {
         "pos": 1,
         "name": "Kimi Antonelli",
-        "points": 131,
+        "points": 156,
         "team": "#12 Mercedes",
         "vehicle": "Mercedes W17"
       },
       {
         "pos": 2,
+        "name": "Lewis Hamilton",
+        "points": 90,
+        "team": "#44 Ferrari",
+        "vehicle": "Ferrari SF-26"
+      },
+      {
+        "pos": 3,
         "name": "George Russell",
         "points": 88,
         "team": "#63 Mercedes",
         "vehicle": "Mercedes W17"
       },
       {
-        "pos": 3,
+        "pos": 4,
         "name": "Charles Leclerc",
         "points": 75,
         "team": "#16 Ferrari",
         "vehicle": "Ferrari SF-26"
       },
       {
-        "pos": 4,
-        "name": "Lewis Hamilton",
-        "points": 72,
-        "team": "#44 Ferrari",
-        "vehicle": "Ferrari SF-26"
-      },
-      {
         "pos": 5,
-        "name": "Lando Norris",
-        "points": 58,
-        "team": "#1 McLaren-Mercedes",
+        "name": "Oscar Piastri",
+        "points": 60,
+        "team": "#81 McLaren-Mercedes",
         "vehicle": "McLaren MCL40"
       },
       {
         "pos": 6,
-        "name": "Oscar Piastri",
-        "points": 48,
-        "team": "#81 McLaren-Mercedes",
+        "name": "Lando Norris",
+        "points": 58,
+        "team": "#1 McLaren-Mercedes",
         "vehicle": "McLaren MCL40"
       },
       {
@@ -587,24 +587,24 @@
       },
       {
         "pos": 8,
-        "name": "Pierre Gasly",
-        "points": 20,
-        "team": "#10 Alpine-Mercedes",
-        "vehicle": "Alpine A526"
+        "name": "Isack Hadjar",
+        "points": 29,
+        "team": "#4 Red Bull-Ford",
+        "vehicle": "Red Bull Racing RB22"
       },
       {
         "pos": 9,
-        "name": "Oliver Bearman",
-        "points": 18,
-        "team": "#87 Haas-Ferrari",
-        "vehicle": "Haas VF-26"
+        "name": "Liam Lawson",
+        "points": 26,
+        "team": "#30 Racing Bulls-Red Bull Ford",
+        "vehicle": "Racing Bulls VCARB 03"
       },
       {
         "pos": 10,
-        "name": "Liam Lawson",
-        "points": 16,
-        "team": "#30 Racing Bulls-Red Bull Ford",
-        "vehicle": "Racing Bulls VCARB 03"
+        "name": "Pierre Gasly",
+        "points": 26,
+        "team": "#10 Alpine-Mercedes",
+        "vehicle": "Alpine A526"
       }
     ],
     "nascar": [
@@ -1902,61 +1902,61 @@
       {
         "pos": 1,
         "name": "David Gravel",
-        "points": 3510,
+        "points": 3756,
         "team": "Watertown, CT"
       },
       {
         "pos": 2,
         "name": "Carson Macedo",
-        "points": 3396,
+        "points": 3686,
         "team": "Lemoore, CA"
       },
       {
         "pos": 3,
         "name": "Michael Kofoid",
-        "points": 3384,
+        "points": 3670,
         "team": "Penngrove, CA"
       },
       {
         "pos": 4,
         "name": "Sheldon Haudenschild",
-        "points": 3316,
+        "points": 3612,
         "team": "Wooster, OH"
       },
       {
         "pos": 5,
         "name": "Donny Schatz",
-        "points": 3310,
+        "points": 3542,
         "team": "Fargo, ND"
       },
       {
         "pos": 6,
         "name": "Logan Schuchart",
-        "points": 3240,
+        "points": 3520,
         "team": "Hanover, PA"
       },
       {
         "pos": 7,
         "name": "Garet Williamson",
-        "points": 3076,
+        "points": 3346,
         "team": "Columbia, MO"
       },
       {
         "pos": 8,
         "name": "Cole Macedo",
-        "points": 3050,
+        "points": 3316,
         "team": "Lemoore, CA"
       },
       {
         "pos": 9,
         "name": "Chris Windom",
-        "points": 2990,
+        "points": 3250,
         "team": "Canton, IL"
       },
       {
         "pos": 10,
         "name": "Spencer Bayston",
-        "points": 2972,
+        "points": 3234,
         "team": "Lebanon, IN"
       }
     ],
@@ -8775,14 +8775,14 @@
     "pccscan": "2026-05-31",
     "pccme": "2026-02-01",
     "gt2": "2026-05-31",
-    "f1": "2026-05-29",
+    "f1": "2026-06-07",
     "nascar": "2026-05-31",
     "indycar": "2026-05-31",
     "f2": "2026-05-29",
     "dtm": "2026-05-24",
     "arcawest": "2026-06-06",
     "highlimit": "2026-06-04",
-    "woosc": "2026-05-29",
+    "woosc": "2026-06-07",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
     "f4british": "2026-05-31",
