@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T21:30:29.160Z",
+  "generatedAt": "2026-06-08T00:12:00.162Z",
   "groups": {
     "gt2": [
       {
@@ -2302,15 +2302,6 @@
       }
     ],
     "legendselite": [
-      {
-        "label": "Practice",
-        "sessions": [
-          "Free Practice",
-          "Practice"
-        ]
-      }
-    ],
-    "scotlegends": [
       {
         "label": "Practice",
         "sessions": [

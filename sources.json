@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T23:50:37.887Z",
+  "generatedAt": "2026-06-08T00:12:00.893Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -4293,29 +4293,6 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/legendsracinguk/"
-        }
-      ]
-    },
-    "scotlegends": {
-      "schedule": [
-        {
-          "url": "https://legendsracingeurope.com/",
-          "label": "Legends Racing Europe — official"
-        },
-        {
-          "url": "https://btcc.net/circuit/oulton-park/",
-          "label": "Per-circuit weekend timetables (BTCC Oulton/Knockhill)"
-        }
-      ],
-      "results": [
-        {
-          "url": "https://legendsracingeurope.com/",
-          "label": "Legends Racing Europe — official"
-        }
-      ],
-      "website": [
-        {
-          "url": "https://www.smrc.co.uk/"
         }
       ]
     },
