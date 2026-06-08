@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-08T00:26:10.233Z",
+  "generatedAt": "2026-06-08T00:54:30.824Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3431,32 +3431,6 @@
         "Qualifying"
       ]
     },
-    "ctcrc": {
-      "id": "ctcrc",
-      "tags": [
-        "touring-car",
-        "regional-series",
-        "europe",
-        "motorsport-uk"
-      ],
-      "group": "touring",
-      "region": "europe",
-      "label": "CTCRC Group 1 Touring Cars",
-      "short": "CTCRC",
-      "color": "#0891B2",
-      "bg": "rgba(8,145,178,0.15)",
-      "broadcast": {
-        "Global": "YouTube/ClassicTouringCarRacingClub"
-      },
-      "notTelevisedCategories": [
-        "Practice"
-      ],
-      "streamUrl": "https://classictouringcars.com/",
-      "resultsUrl": "https://classictouringcars.com/",
-      "unstreamedCategories": [
-        "Practice"
-      ]
-    },
     "tcreu": {
       "id": "tcreu",
       "tags": [
@@ -3662,6 +3636,7 @@
   "removed": [
     "moto2",
     "moto3",
-    "scotlegends"
+    "scotlegends",
+    "ctcrc"
   ]
 }

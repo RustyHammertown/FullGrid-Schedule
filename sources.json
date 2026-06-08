@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T00:12:00.893Z",
+  "generatedAt": "2026-06-08T00:54:32.945Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -4293,44 +4293,6 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/legendsracinguk/"
-        }
-      ]
-    },
-    "ctcrc": {
-      "schedule": [
-        {
-          "url": "https://classictouringcars.com/",
-          "label": "CTCRC — official"
-        },
-        {
-          "url": "https://btcc.net/circuit/oulton-park/",
-          "label": "Per-circuit weekend timetables (BTCC Oulton)"
-        }
-      ],
-      "results": [
-        {
-          "url": "https://classictouringcars.com/",
-          "label": "CTCRC — official"
-        }
-      ],
-      "website": [
-        {
-          "url": "https://classictouringcars.com/"
-        }
-      ],
-      "instagram": [
-        {
-          "url": "https://www.instagram.com/ctcrc_official/"
-        }
-      ],
-      "x": [
-        {
-          "url": "https://x.com/ctcrc"
-        }
-      ],
-      "facebook": [
-        {
-          "url": "https://www.facebook.com/ClassicTouringCarRacingClub/"
         }
       ]
     },

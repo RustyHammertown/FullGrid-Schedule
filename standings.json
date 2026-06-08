@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-07T23:50:36.817Z",
+  "generatedAt": "2026-06-08T00:54:31.533Z",
   "flat": {
     "pccasia": [
       {
@@ -3571,68 +3571,6 @@
         "name": "Christopher Bingham",
         "points": 2,
         "team": "Raceworks Motorsport"
-      }
-    ],
-    "ctcrc": [
-      {
-        "pos": 1,
-        "name": "Nic Grindrod",
-        "points": 101,
-        "team": "Class C"
-      },
-      {
-        "pos": 2,
-        "name": "Jonathan Corker",
-        "points": 46,
-        "team": "Class C"
-      },
-      {
-        "pos": 3,
-        "name": "Jared Knight",
-        "points": 46,
-        "team": "Class C"
-      },
-      {
-        "pos": 4,
-        "name": "Malcolm Jeffs",
-        "points": 45,
-        "team": "Class C"
-      },
-      {
-        "pos": 5,
-        "name": "Jerry Bailey",
-        "points": 44,
-        "team": "Class B"
-      },
-      {
-        "pos": 6,
-        "name": "Nick Williamson",
-        "points": 41,
-        "team": "Class B"
-      },
-      {
-        "pos": 7,
-        "name": "Reece Cannell",
-        "points": 34,
-        "team": "Class B"
-      },
-      {
-        "pos": 8,
-        "name": "Tom Harvey",
-        "points": 33,
-        "team": "Class C"
-      },
-      {
-        "pos": 9,
-        "name": "Nic Strong",
-        "points": 28,
-        "team": "Class B"
-      },
-      {
-        "pos": 10,
-        "name": "Neil Philpotts",
-        "points": 26,
-        "team": "Class B"
       }
     ],
     "minimiglia": [
@@ -8909,7 +8847,6 @@
     "gt4european": "2026-04-12",
     "f3": "2026-05-29",
     "nascarcanada": "2026-05-29",
-    "ctcrc": "2026-05-29",
     "mx5": "2026-03-01",
     "supercup": "2026-06-07",
     "xtrial": "2025-10-04",

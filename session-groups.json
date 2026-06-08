@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T00:12:00.162Z",
+  "generatedAt": "2026-06-08T00:54:32.238Z",
   "groups": {
     "gt2": [
       {
@@ -2307,21 +2307,6 @@
         "sessions": [
           "Free Practice",
           "Practice"
-        ]
-      }
-    ],
-    "ctcrc": [
-      {
-        "label": "Practice",
-        "sessions": [
-          "Free Practice",
-          "Practice"
-        ]
-      },
-      {
-        "label": "Qualifying",
-        "sessions": [
-          "Qualifying"
         ]
       }
     ],
