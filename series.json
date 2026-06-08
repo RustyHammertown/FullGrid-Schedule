@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-08T08:45:58.769Z",
+  "generatedAt": "2026-06-08T20:02:49.132Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3595,7 +3595,8 @@
       "\\btest"
     ],
     "qualifying": [
-      "qualif"
+      "qualif",
+      "hyperpole"
     ],
     "sprint": [
       "sprint"
