@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T20:03:21.224Z",
+  "generatedAt": "2026-06-08T20:28:14.971Z",
   "events": [
     {
       "id": 101,
@@ -40308,6 +40308,262 @@
               "service": "FIAWEC+"
             }
           }
+        }
+      ]
+    },
+    {
+      "id": 5706,
+      "series": "c24h",
+      "name": "Michelin 6H Abu Dhabi",
+      "circuit": "Yas Marina Circuit",
+      "flag": "🇦🇪",
+      "country": "United Arab Emirates",
+      "tz": "Asia/Dubai",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-01-09T14:00:00+04:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-01-09T16:30:00+04:00",
+          "duration": 185
+        },
+        {
+          "name": "Race",
+          "time": "2026-01-10T15:00:00+04:00",
+          "duration": 360
+        }
+      ]
+    },
+    {
+      "id": 5707,
+      "series": "c24h",
+      "name": "Michelin 24H Dubai",
+      "circuit": "Dubai Autodrome",
+      "flag": "🇦🇪",
+      "country": "United Arab Emirates",
+      "tz": "Asia/Dubai",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-01-16T10:30:00+04:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-01-16T13:45:00+04:00",
+          "duration": 185
+        },
+        {
+          "name": "Top 10 Shoot-out",
+          "time": "2026-01-16T17:20:00+04:00",
+          "duration": 25
+        },
+        {
+          "name": "Night Practice",
+          "time": "2026-01-16T19:00:00+04:00",
+          "duration": 90
+        },
+        {
+          "name": "Warm-up",
+          "time": "2026-01-17T10:00:00+04:00",
+          "duration": 30
+        },
+        {
+          "name": "Race",
+          "time": "2026-01-17T13:00:00+04:00",
+          "duration": 1440
+        }
+      ]
+    },
+    {
+      "id": 5708,
+      "series": "c24h",
+      "name": "Michelin 12H Mugello",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "flag": "🇮🇹",
+      "country": "Italy",
+      "tz": "Europe/Rome",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-03-20T11:45:00+01:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-20T16:15:00+01:00",
+          "duration": 125
+        },
+        {
+          "name": "Race Part 1",
+          "time": "2026-03-21T12:10:00+01:00",
+          "duration": 330
+        },
+        {
+          "name": "Race Part 2",
+          "time": "2026-03-22T12:00:00+01:00",
+          "duration": 390
+        }
+      ]
+    },
+    {
+      "id": 5709,
+      "series": "c24h",
+      "name": "Michelin 12H Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-04-17T10:45:00+02:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-04-17T15:00:00+02:00",
+          "duration": 130
+        },
+        {
+          "name": "Race Part 1",
+          "time": "2026-04-18T11:30:00+02:00",
+          "duration": 330
+        },
+        {
+          "name": "Race Part 2",
+          "time": "2026-04-19T10:30:00+02:00",
+          "duration": 390
+        }
+      ]
+    },
+    {
+      "id": 5710,
+      "series": "c24h",
+      "name": "Michelin 12H Paul Ricard",
+      "circuit": "Circuit Paul Ricard",
+      "flag": "🇫🇷",
+      "country": "France",
+      "tz": "Europe/Paris",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-06-05T10:50:00+02:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-05T16:30:00+02:00",
+          "duration": 125
+        },
+        {
+          "name": "Race Part 1",
+          "time": "2026-06-06T11:45:00+02:00",
+          "duration": 360
+        },
+        {
+          "name": "Race Part 2",
+          "time": "2026-06-07T11:30:00+02:00",
+          "duration": 360
+        }
+      ]
+    },
+    {
+      "id": 5711,
+      "series": "c24h",
+      "name": "Michelin 12H Nürburgring",
+      "circuit": "Nürburgring GP",
+      "flag": "🇩🇪",
+      "country": "Germany",
+      "tz": "Europe/Berlin",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-07-03T11:45:00+02:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-03T15:25:00+02:00",
+          "duration": 125
+        },
+        {
+          "name": "Race Part 1",
+          "time": "2026-07-04T12:00:00+02:00",
+          "duration": 360
+        },
+        {
+          "name": "Race Part 2",
+          "time": "2026-07-05T12:00:00+02:00",
+          "duration": 360
+        }
+      ]
+    },
+    {
+      "id": 5712,
+      "series": "c24h",
+      "name": "Michelin 24H Barcelona",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag": "🇪🇸",
+      "country": "Spain",
+      "tz": "Europe/Madrid",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-09-18T12:15:00+02:00",
+          "duration": 120
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-18T16:05:00+02:00",
+          "duration": 125
+        },
+        {
+          "name": "Night Practice",
+          "time": "2026-09-18T20:20:00+02:00",
+          "duration": 90
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-19T12:00:00+02:00",
+          "duration": 1440
+        }
+      ]
+    },
+    {
+      "id": 5713,
+      "series": "c24h",
+      "name": "Michelin 8H Qatar",
+      "circuit": "Lusail International Circuit",
+      "flag": "🇶🇦",
+      "country": "Qatar",
+      "tz": "Asia/Qatar",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-12-11T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-12-11T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-12-12T15:00:00+03:00",
+          "tbd": true
         }
       ]
     },

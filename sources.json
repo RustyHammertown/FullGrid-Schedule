@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T20:03:25.804Z",
+  "generatedAt": "2026-06-08T20:28:17.478Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -2083,6 +2083,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/IntercontinentalGTChallenge/"
+        }
+      ]
+    },
+    "c24h": {
+      "schedule": [
+        {
+          "url": "https://www.24hseries.com/races",
+          "label": "Official race calendar"
+        }
+      ],
+      "timetables": [
+        {
+          "url": "https://www.24hseries.com/pdf/time-schedule/michelin-12h-paul-ricard-2026",
+          "label": "Per-event time-schedule PDF (.../pdf/time-schedule/<event-slug>)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.24hseries.com/race-results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.24hseries.com/standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.24hseries.com"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.getraceresults.com/24hseries",
+          "label": "GetRaceResults live timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/24hseries/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/24hseries"
         }
       ]
     },

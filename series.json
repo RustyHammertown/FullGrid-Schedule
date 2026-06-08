@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-08T20:03:24.706Z",
+  "generatedAt": "2026-06-08T20:28:16.004Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1769,6 +1769,38 @@
       "resultsUrl": "https://www.intercontinentalgtchallenge.com/results",
       "unstreamedCategories": [
         "Practice"
+      ]
+    },
+    "c24h": {
+      "id": "c24h",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "gt4",
+        "gt2",
+        "tcr",
+        "europe",
+        "middle-east"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "24H Series",
+      "short": "24H",
+      "color": "#1F6FEB",
+      "bg": "rgba(31,111,235,0.15)",
+      "broadcast": {
+        "Global": "YouTube/24HSeries"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Warmup"
+      ],
+      "streamUrl": "https://www.youtube.com/@24HSeries/streams",
+      "resultsUrl": "https://www.24hseries.com/race-results",
+      "fallbackMinutes": 360,
+      "unstreamedCategories": [
+        "Practice",
+        "Warmup"
       ]
     },
     "gtwce": {
@@ -3575,7 +3607,8 @@
   },
   "categoryOverrides": {
     "Pit Stop Challenge": "Practice",
-    "Qualifying Race": "Race"
+    "Qualifying Race": "Race",
+    "Top 10 Shoot-out": "Qualifying"
   },
   "racePatterns": {
     "race": [

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T20:03:26.896Z",
+  "generatedAt": "2026-06-08T20:28:16.741Z",
   "groups": {
     "gt2": [
       {
@@ -1692,6 +1692,32 @@
           "Warmup",
           "Warm-up (TBD)",
           "Warmup (TBD)"
+        ]
+      }
+    ],
+    "c24h": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Night Practice",
+          "Free Practice (TBD)",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Top 10 Shoot-out",
+          "Qualifying (TBD)"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warm-up",
+          "Warm-up (TBD)"
         ]
       }
     ],
