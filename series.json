@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-08T01:16:28.881Z",
+  "generatedAt": "2026-06-08T01:40:15.167Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -343,7 +343,7 @@
       ],
       "group": "nascar",
       "region": "americas",
-      "label": "O'Reilly Auto Parts Series",
+      "label": "NASCAR O'Reilly Auto Parts Series",
       "short": "ORLY",
       "color": "#4FB849",
       "bg": "rgba(79,184,73,0.15)",
@@ -374,7 +374,7 @@
       ],
       "group": "nascar",
       "region": "americas",
-      "label": "Craftsman Truck Series",
+      "label": "NASCAR Craftsman Truck Series",
       "short": "TRUCK",
       "color": "#C99249",
       "bg": "rgba(201,146,73,0.15)",
