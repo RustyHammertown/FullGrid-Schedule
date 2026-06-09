@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-09T03:25:16.224Z",
+  "generatedAt": "2026-06-09T08:43:46.649Z",
   "events": [
     {
       "id": 101,
@@ -41550,7 +41550,7 @@
     {
       "id": 1017,
       "series": "oreilly",
-      "name": "MillerTech Battery 250",
+      "name": "MillerTech Battery 250 presented by KOA",
       "circuit": "Pocono Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49604,12 +49604,12 @@
         {
           "name": "Race 1",
           "time": "2026-06-13T16:50:00-04:00",
-          "duration": 35
+          "duration": 30
         },
         {
           "name": "Race 2",
           "time": "2026-06-14T11:55:00-04:00",
-          "duration": 35
+          "duration": 30
         }
       ]
     },
@@ -50092,13 +50092,13 @@
       "sessions": [
         {
           "name": "OK Final",
-          "time": "2026-06-14T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-14T16:00:00+02:00",
+          "laps": 24
         },
         {
           "name": "Junior Final",
-          "time": "2026-06-14T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-14T15:00:00+02:00",
+          "laps": 20
         }
       ]
     },
@@ -85811,12 +85811,12 @@
         {
           "name": "Qualifying",
           "time": "2026-06-13T10:00:00-04:00",
-          "duration": 20
+          "duration": 25
         },
         {
           "name": "Race 1",
           "time": "2026-06-13T15:40:00-04:00",
-          "duration": 30,
+          "duration": 35,
           "broadcasts": {
             "Global": {
               "service": "YouTube/F4USChampionship"
@@ -85826,7 +85826,7 @@
         {
           "name": "Race 2",
           "time": "2026-06-14T10:35:00-04:00",
-          "duration": 30,
+          "duration": 35,
           "broadcasts": {
             "Global": {
               "service": "YouTube/F4USChampionship"
