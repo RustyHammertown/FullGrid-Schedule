@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-08T20:28:49.592Z",
+  "generatedAt": "2026-06-09T00:18:39.718Z",
   "flat": {
     "pccasia": [
       {
@@ -4090,6 +4090,233 @@
     ]
   },
   "classes": {
+    "c24h": [
+      {
+        "className": "GT3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Benjamin Paque / Jordan Boisson / Patrick Charlaix",
+            "points": 78
+          },
+          {
+            "pos": 2,
+            "name": "Torsten Kratz / Michael Kroll / Alexander Prinz",
+            "points": 72
+          },
+          {
+            "pos": 2,
+            "name": "Pierre Kaffer / Elia Erhart / Stephane Tribaudini",
+            "points": 72
+          },
+          {
+            "pos": 3,
+            "name": "Kobe de Breucker / Ayrton Redant / Yannick Redant / Ajith Kumar",
+            "points": 66
+          },
+          {
+            "pos": 4,
+            "name": "Patrick Liddy / Adam Osieka",
+            "points": 62
+          },
+          {
+            "pos": 5,
+            "name": "Maro Engel",
+            "points": 60
+          },
+          {
+            "pos": 5,
+            "name": "Maximilian Partl",
+            "points": 60
+          },
+          {
+            "pos": 6,
+            "name": "Manuel Lauck / Jörg Dreisow / Constantin Dressler",
+            "points": 52
+          },
+          {
+            "pos": 6,
+            "name": "Steve Jans / Tanner Harvey",
+            "points": 52
+          },
+          {
+            "pos": 7,
+            "name": "Steven Palette / Simon Balcaen",
+            "points": 44
+          }
+        ]
+      },
+      {
+        "className": "992",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Martin Rump / Conrad Tox Leveau",
+            "points": 116
+          },
+          {
+            "pos": 2,
+            "name": "Ivo Breukers / Rik Breukers / Fabian Danz / Luc Breukers",
+            "points": 100
+          },
+          {
+            "pos": 3,
+            "name": "Ahmed Al-Emadi / Faesal Al Yafei",
+            "points": 76
+          },
+          {
+            "pos": 3,
+            "name": "Sebastien Lajoux",
+            "points": 76
+          },
+          {
+            "pos": 4,
+            "name": "Abdulla Ali Al Khelaifi",
+            "points": 68
+          },
+          {
+            "pos": 5,
+            "name": "Lionel Amrouche",
+            "points": 60
+          },
+          {
+            "pos": 6,
+            "name": "Stephane Perrin / Anthony Vince",
+            "points": 56
+          },
+          {
+            "pos": 7,
+            "name": "Tracy Krohn / Niclas Jönsson / Philip Hamprecht",
+            "points": 54
+          },
+          {
+            "pos": 7,
+            "name": "Ivan Jacoma / Valerio Presezzi / Francesco Fenici",
+            "points": 54
+          },
+          {
+            "pos": 8,
+            "name": "Igor Sorokin / Jonathan Kearney / Steven Gambrell",
+            "points": 52
+          }
+        ]
+      },
+      {
+        "className": "GTX",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Philippe Bonnel",
+            "points": 120
+          },
+          {
+            "pos": 2,
+            "name": "Julien Boillot / Alexandre De Bernardinis",
+            "points": 80
+          },
+          {
+            "pos": 3,
+            "name": "Arnaud Gomez / Olivier Gomez",
+            "points": 40
+          },
+          {
+            "pos": 4,
+            "name": "Roberto Pampanini",
+            "points": 36
+          },
+          {
+            "pos": 4,
+            "name": "Nil Montserrat",
+            "points": 36
+          },
+          {
+            "pos": 4,
+            "name": "Mauro Calamia",
+            "points": 36
+          },
+          {
+            "pos": 4,
+            "name": "Amedeo Pampanini",
+            "points": 36
+          },
+          {
+            "pos": 4,
+            "name": "Manel Lao",
+            "points": 36
+          },
+          {
+            "pos": 4,
+            "name": "Alberto de Martin",
+            "points": 36
+          }
+        ]
+      },
+      {
+        "className": "GT4",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Johan de Rouw / Olivier Huez / Hugo Poppe / Norbert Dekker",
+            "points": 40
+          }
+        ]
+      },
+      {
+        "className": "TCE",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Pia Ohlsson",
+            "points": 116
+          },
+          {
+            "pos": 2,
+            "name": "Filippo Tornaghi / Gino Rocchio",
+            "points": 112
+          },
+          {
+            "pos": 3,
+            "name": "Rafal Gieras",
+            "points": 80
+          },
+          {
+            "pos": 4,
+            "name": "Steven Teirlinck",
+            "points": 76
+          },
+          {
+            "pos": 5,
+            "name": "Thomas Alpiger",
+            "points": 40
+          },
+          {
+            "pos": 6,
+            "name": "Alberto Antonucci / Jens Wulf",
+            "points": 36
+          },
+          {
+            "pos": 7,
+            "name": "Junichi Umemoto / Samuel Hsieh / Lutz Obermann",
+            "points": 32
+          },
+          {
+            "pos": 8,
+            "name": "Colin White / Neale Muston",
+            "points": 28
+          },
+          {
+            "pos": 9,
+            "name": "Robert Gielisse / Pieter van Noordenne / Rogier van der Linde",
+            "points": 24
+          },
+          {
+            "pos": 10,
+            "name": "Kevin Clarke / James Collins / Oliver Smith",
+            "points": 20
+          }
+        ]
+      }
+    ],
     "alms": [
       {
         "className": "LMP2",
@@ -8765,6 +8992,7 @@
     "alms": "Team Standings"
   },
   "lastUpdated": {
+    "c24h": "2026-06-08",
     "pccasia": "2026-05-10",
     "pccau": "2026-03-08",
     "pccbnl": "2026-05-24",
@@ -9373,6 +9601,188 @@
     ]
   },
   "teamClasses": {
+    "c24h": [
+      {
+        "className": "GT3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#28 GetSpeed Team PCX Racing",
+            "points": 78
+          },
+          {
+            "pos": 2,
+            "name": "#11 HOFOR Racing",
+            "points": 72
+          },
+          {
+            "pos": 2,
+            "name": "#18 Sainteloc Junior Team",
+            "points": 72
+          },
+          {
+            "pos": 3,
+            "name": "#93 Ajith RedAnt Racing",
+            "points": 66
+          },
+          {
+            "pos": 4,
+            "name": "#286 GetSpeed Team JR286",
+            "points": 62
+          },
+          {
+            "pos": 5,
+            "name": "#73 Proton Competition",
+            "points": 52
+          },
+          {
+            "pos": 6,
+            "name": "#2 HAAS RT",
+            "points": 44
+          },
+          {
+            "pos": 6,
+            "name": "#65 Viper Niza Racing",
+            "points": 44
+          },
+          {
+            "pos": 6,
+            "name": "#69 Continental Racing by Simpson Motorsport",
+            "points": 44
+          },
+          {
+            "pos": 7,
+            "name": "#77 Optimum Motorsport",
+            "points": 40
+          }
+        ]
+      },
+      {
+        "className": "992",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#921 Mühlner Motorsport",
+            "points": 116
+          },
+          {
+            "pos": 2,
+            "name": "#909 Red Camel-Jordans.nl",
+            "points": 100
+          },
+          {
+            "pos": 3,
+            "name": "#974 QMMF by HRT Performance",
+            "points": 76
+          },
+          {
+            "pos": 4,
+            "name": "#910 Seblajoux Racing",
+            "points": 60
+          },
+          {
+            "pos": 5,
+            "name": "#888 Seblajoux Racing",
+            "points": 56
+          },
+          {
+            "pos": 6,
+            "name": "#907 RPM Racing",
+            "points": 54
+          },
+          {
+            "pos": 6,
+            "name": "#911 The Driving Experiences",
+            "points": 54
+          },
+          {
+            "pos": 7,
+            "name": "#928 HRT Performance",
+            "points": 52
+          },
+          {
+            "pos": 8,
+            "name": "#920 Chazel Technologie Course",
+            "points": 50
+          },
+          {
+            "pos": 9,
+            "name": "#963 Orchid Racing Team",
+            "points": 32
+          },
+          {
+            "pos": 10,
+            "name": "#902 Holmgaard Motorsport",
+            "points": 28
+          }
+        ]
+      },
+      {
+        "className": "GTX",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#701 Vortex",
+            "points": 120
+          },
+          {
+            "pos": 2,
+            "name": "#715 NM Racing",
+            "points": 36
+          },
+          {
+            "pos": 2,
+            "name": "#767 Dinamic Motorsport",
+            "points": 36
+          }
+        ]
+      },
+      {
+        "className": "GT4",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#444 Circuit Toys",
+            "points": 40
+          }
+        ]
+      },
+      {
+        "className": "TCE",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#102 asBest Racing",
+            "points": 116
+          },
+          {
+            "pos": 2,
+            "name": "#114 Not Only Motorsport",
+            "points": 112
+          },
+          {
+            "pos": 3,
+            "name": "#101 asBest Racing",
+            "points": 32
+          },
+          {
+            "pos": 4,
+            "name": "#178 CWS Engineering",
+            "points": 28
+          },
+          {
+            "pos": 5,
+            "name": "#135 JW Raceservice",
+            "points": 24
+          },
+          {
+            "pos": 6,
+            "name": "#133 J-Mec Engineering",
+            "points": 20
+          }
+        ]
+      }
+    ],
     "ffsagt": [
       {
         "className": "GT4 Général",
