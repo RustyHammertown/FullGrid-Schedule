@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-09T00:33:08.321Z",
+  "generatedAt": "2026-06-09T01:58:31.276Z",
   "flat": {
     "pccasia": [
       {
@@ -4167,6 +4167,121 @@
         ]
       },
       {
+        "className": "GT3-P/A",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Benjamin Paque / Jordan Boisson / Patrick Charlaix",
+            "points": 104,
+            "team": "#28 GetSpeed Team PCX Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 2,
+            "name": "Kobe de Breucker / Ayrton Redant / Yannick Redant / Ajith Kumar",
+            "points": 92,
+            "team": "#93 Ajith RedAnt Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 3,
+            "name": "Manuel Lauck / Jörg Dreisow / Constantin Dressler",
+            "points": 84,
+            "team": "#73 Proton Competition",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 4,
+            "name": "Pierre Kaffer / Elia Erhart / Stephane Tribaudini",
+            "points": 76,
+            "team": "#18 Sainteloc Junior Team",
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 5,
+            "name": "Maro Engel",
+            "points": 72,
+            "team": "#28 GetSpeed Team PCX Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 6,
+            "name": "Alfred Renauer",
+            "points": 64,
+            "team": "Herberth Motorsport",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 7,
+            "name": "Max Moritz",
+            "points": 52,
+            "team": "#269 Herberth Motorsport",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 8,
+            "name": "Ryan Dalziel / Oliver Bryant / Dwight Merriman / Jake Hill",
+            "points": 50,
+            "team": "#81 Era Motorsport",
+            "vehicle": "Ferrari 296 GT3"
+          }
+        ]
+      },
+      {
+        "className": "GT3-AM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Torsten Kratz / Michael Kroll / Alexander Prinz",
+            "points": 96,
+            "team": "#11 HOFOR Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 2,
+            "name": "Patrick Liddy / Adam Osieka",
+            "points": 90,
+            "team": "#286 GetSpeed Team JR286",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 3,
+            "name": "Douglas Khoo / Dominic Ang",
+            "points": 80,
+            "team": "#65 Viper Niza Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 4,
+            "name": "Paul Scheuschner / Alex Aka / Vasily Vladykin",
+            "points": 78,
+            "team": "#69 Continental Racing by Simpson Motorsport",
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 5,
+            "name": "Peter Guelinckx",
+            "points": 72,
+            "team": "#21 HAAS RT",
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 6,
+            "name": "Pablo Burguera / Antonio Sainero / Oliver Campos",
+            "points": 70,
+            "team": "#90 E2P Racing",
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          },
+          {
+            "pos": 7,
+            "name": "Thomas Gostner / David Gostner / Manuela Gostner / Corinna Gostner",
+            "points": 54,
+            "team": "#58 MP Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          }
+        ]
+      },
+      {
         "className": "992",
         "entries": [
           {
@@ -4232,6 +4347,65 @@
         ]
       },
       {
+        "className": "992-AM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Sebastien Lajoux",
+            "points": 100,
+            "team": "Seblajoux Racing"
+          },
+          {
+            "pos": 2,
+            "name": "Ahmed Al-Emadi / Faesal Al Yafei",
+            "points": 94,
+            "team": "#974 QMMF by HRT Performance"
+          },
+          {
+            "pos": 3,
+            "name": "Stephane Perrin / Anthony Vince",
+            "points": 82,
+            "team": "#888 Seblajoux Racing"
+          },
+          {
+            "pos": 4,
+            "name": "Abdulla Ali Al Khelaifi",
+            "points": 80,
+            "team": "#974 QMMF by HRT Performance"
+          },
+          {
+            "pos": 5,
+            "name": "Tracy Krohn / Niclas Jönsson / Philip Hamprecht",
+            "points": 76,
+            "team": "#907 RPM Racing"
+          },
+          {
+            "pos": 5,
+            "name": "Ivan Jacoma / Valerio Presezzi / Francesco Fenici",
+            "points": 76,
+            "team": "#911 The Driving Experiences"
+          },
+          {
+            "pos": 6,
+            "name": "Lionel Amrouche",
+            "points": 74,
+            "team": "#910 Seblajoux Racing"
+          },
+          {
+            "pos": 7,
+            "name": "Igor Sorokin / Jonathan Kearney / Steven Gambrell",
+            "points": 72,
+            "team": "#928 HRT Performance"
+          },
+          {
+            "pos": 8,
+            "name": "Jean-Paul Dominici / Jean-Mathieu Leandri / Antoni de Barn",
+            "points": 68,
+            "team": "#920 Chazel Technologie Course"
+          }
+        ]
+      },
+      {
         "className": "GTX",
         "entries": [
           {
@@ -4285,6 +4459,73 @@
       },
       {
         "className": "TCE",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Pia Ohlsson",
+            "points": 116,
+            "team": "#102 asBest Racing",
+            "vehicle": "Seat León Cup Racer"
+          },
+          {
+            "pos": 2,
+            "name": "Filippo Tornaghi / Gino Rocchio",
+            "points": 112,
+            "team": "#114 Not Only Motorsport",
+            "vehicle": "Ligier JS2 R"
+          },
+          {
+            "pos": 3,
+            "name": "Rafal Gieras",
+            "points": 80
+          },
+          {
+            "pos": 4,
+            "name": "Steven Teirlinck",
+            "points": 76
+          },
+          {
+            "pos": 5,
+            "name": "Thomas Alpiger",
+            "points": 40
+          },
+          {
+            "pos": 6,
+            "name": "Alberto Antonucci / Jens Wulf",
+            "points": 36
+          },
+          {
+            "pos": 7,
+            "name": "Junichi Umemoto / Samuel Hsieh / Lutz Obermann",
+            "points": 32,
+            "team": "#101 asBest Racing",
+            "vehicle": "Cupra TCR"
+          },
+          {
+            "pos": 8,
+            "name": "Colin White / Neale Muston",
+            "points": 28,
+            "team": "#178 CWS Engineering",
+            "vehicle": "Ginetta G56"
+          },
+          {
+            "pos": 9,
+            "name": "Robert Gielisse / Pieter van Noordenne / Rogier van der Linde",
+            "points": 24,
+            "team": "#135 JW Raceservice",
+            "vehicle": "Audi RS3 LMS"
+          },
+          {
+            "pos": 10,
+            "name": "Kevin Clarke / James Collins / Oliver Smith",
+            "points": 20,
+            "team": "#133 J-Mec Engineering",
+            "vehicle": "BMW M3 (E46)"
+          }
+        ]
+      },
+      {
+        "className": "TCX",
         "entries": [
           {
             "pos": 1,
@@ -9702,6 +9943,142 @@
         ]
       },
       {
+        "className": "GT3-P/A",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#28 GetSpeed Team PCX Racing",
+            "points": 104,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 2,
+            "name": "#93 Ajith RedAnt Racing",
+            "points": 92,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 3,
+            "name": "#73 Proton Competition",
+            "points": 84,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 4,
+            "name": "#18 Sainteloc Junior Team",
+            "points": 76,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 5,
+            "name": "#269 Herberth Motorsport",
+            "points": 52,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 6,
+            "name": "#81 Era Motorsport",
+            "points": 50,
+            "vehicle": "Ferrari 296 GT3"
+          },
+          {
+            "pos": 7,
+            "name": "#91 Herberth Motorsport",
+            "points": 36,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 8,
+            "name": "#2 HAAS RT",
+            "points": 20,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 9,
+            "name": "#72 Juta Racing",
+            "points": 18,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 10,
+            "name": "#40 Comtoyou Racing",
+            "points": 0,
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          }
+        ]
+      },
+      {
+        "className": "GT3-AM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#11 HOFOR Racing",
+            "points": 96,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 2,
+            "name": "#286 GetSpeed Team JR286",
+            "points": 90,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 3,
+            "name": "#65 Viper Niza Racing",
+            "points": 80,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 4,
+            "name": "#69 Continental Racing by Simpson Motorsport",
+            "points": 78,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 5,
+            "name": "#21 HAAS RT",
+            "points": 72,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 6,
+            "name": "#90 E2P Racing",
+            "points": 70,
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          },
+          {
+            "pos": 7,
+            "name": "#58 MP Racing",
+            "points": 54,
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 8,
+            "name": "#2 HAAS RT",
+            "points": 40,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 8,
+            "name": "#44 ARC Bratislava",
+            "points": 40,
+            "vehicle": "Lamborghini Huracán GT3 Evo2"
+          },
+          {
+            "pos": 9,
+            "name": "#71 Juta Racing",
+            "points": 20,
+            "vehicle": "Audi R8 LMS GT3 Evo II"
+          },
+          {
+            "pos": 10,
+            "name": "#41 Comtoyou Racing",
+            "points": 16,
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          }
+        ]
+      },
+      {
         "className": "992",
         "entries": [
           {
@@ -9762,6 +10139,71 @@
         ]
       },
       {
+        "className": "992-AM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#974 QMMF by HRT Performance",
+            "points": 94
+          },
+          {
+            "pos": 2,
+            "name": "#888 Seblajoux Racing",
+            "points": 82
+          },
+          {
+            "pos": 3,
+            "name": "#907 RPM Racing",
+            "points": 76
+          },
+          {
+            "pos": 3,
+            "name": "#911 The Driving Experiences",
+            "points": 76
+          },
+          {
+            "pos": 4,
+            "name": "#910 Seblajoux Racing",
+            "points": 74
+          },
+          {
+            "pos": 5,
+            "name": "#928 HRT Performance",
+            "points": 72
+          },
+          {
+            "pos": 6,
+            "name": "#920 Chazel Technologie Course",
+            "points": 68
+          },
+          {
+            "pos": 7,
+            "name": "#902 Holmgaard Motorsport",
+            "points": 32
+          },
+          {
+            "pos": 8,
+            "name": "#930 HRT Performance",
+            "points": 28
+          },
+          {
+            "pos": 9,
+            "name": "#925 Van Berlo Motorsport by CP Motorsport",
+            "points": 18
+          },
+          {
+            "pos": 10,
+            "name": "#935 Crubilé Sport",
+            "points": 16
+          },
+          {
+            "pos": 10,
+            "name": "#994 Chazel Technologie Course",
+            "points": 16
+          }
+        ]
+      },
+      {
         "className": "GTX",
         "entries": [
           {
@@ -9797,6 +10239,47 @@
       },
       {
         "className": "TCE",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#102 asBest Racing",
+            "points": 116,
+            "vehicle": "Seat León Cup Racer"
+          },
+          {
+            "pos": 2,
+            "name": "#114 Not Only Motorsport",
+            "points": 112,
+            "vehicle": "Ligier JS2 R"
+          },
+          {
+            "pos": 3,
+            "name": "#101 asBest Racing",
+            "points": 32,
+            "vehicle": "Cupra TCR"
+          },
+          {
+            "pos": 4,
+            "name": "#178 CWS Engineering",
+            "points": 28,
+            "vehicle": "Ginetta G56"
+          },
+          {
+            "pos": 5,
+            "name": "#135 JW Raceservice",
+            "points": 24,
+            "vehicle": "Audi RS3 LMS"
+          },
+          {
+            "pos": 6,
+            "name": "#133 J-Mec Engineering",
+            "points": 20,
+            "vehicle": "BMW M3 (E46)"
+          }
+        ]
+      },
+      {
+        "className": "TCX",
         "entries": [
           {
             "pos": 1,
