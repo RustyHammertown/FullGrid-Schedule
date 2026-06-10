@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T22:07:02.834Z",
+  "generatedAt": "2026-06-10T22:18:41.767Z",
   "events": [
     {
       "id": 101,
@@ -32436,17 +32436,17 @@
       "round": 5,
       "sessions": [
         {
-          "name": "GTP, GTD PRO Practice 1",
+          "name": "GTP · GTD Pro Practice 1",
           "time": "2026-05-29T08:00:00-04:00",
           "duration": 90
         },
         {
-          "name": "GTP, GTD PRO Practice 2",
+          "name": "GTP · GTD Pro Practice 2",
           "time": "2026-05-29T11:30:00-04:00",
           "duration": 120
         },
         {
-          "name": "GTD PRO Qualifying",
+          "name": "GTD Pro Qualifying",
           "time": "2026-05-29T16:50:00-04:00",
           "duration": 15,
           "broadcasts": {
@@ -32466,12 +32466,12 @@
           }
         },
         {
-          "name": "GTP, GTD PRO Practice 3",
+          "name": "GTP · GTD Pro Practice 3",
           "time": "2026-05-30T11:10:00-04:00",
           "duration": 20
         },
         {
-          "name": "GTP, GTD PRO Race",
+          "name": "GTP · GTD Pro Race",
           "time": "2026-05-30T16:10:00-04:00",
           "duration": 100,
           "broadcasts": {
@@ -39569,7 +39569,7 @@
           }
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-05-08T15:20:00+02:00",
           "duration": 15,
           "broadcasts": {
@@ -39579,7 +39579,7 @@
           }
         },
         {
-          "name": "HYPERCAR Hyperpole",
+          "name": "Hypercar Hyperpole",
           "time": "2026-05-08T15:45:00+02:00",
           "duration": 12,
           "broadcasts": {
@@ -39763,7 +39763,7 @@
           }
         },
         {
-          "name": "LMP2 & LMGT3 Qualifying",
+          "name": "LMP2 · LMGT3 Qualifying",
           "time": "2026-06-10T18:45:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -39818,7 +39818,7 @@
           }
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-06-10T19:30:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -39928,7 +39928,7 @@
           }
         },
         {
-          "name": "LMP2 & LMGT3 Hyperpole 1",
+          "name": "LMP2 · LMGT3 Hyperpole 1",
           "time": "2026-06-11T20:00:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -39983,7 +39983,7 @@
           }
         },
         {
-          "name": "LMP2 & LMGT3 Hyperpole 2",
+          "name": "LMP2 · LMGT3 Hyperpole 2",
           "time": "2026-06-11T20:35:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -40038,7 +40038,7 @@
           }
         },
         {
-          "name": "HYPERCAR Hyperpole 1",
+          "name": "Hypercar Hyperpole 1",
           "time": "2026-06-11T21:05:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -40093,7 +40093,7 @@
           }
         },
         {
-          "name": "HYPERCAR Hyperpole 2",
+          "name": "Hypercar Hyperpole 2",
           "time": "2026-06-11T21:40:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -40359,12 +40359,12 @@
           "tbd": true
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-07-12T09:00:00-03:00",
           "tbd": true
         },
         {
-          "name": "HYPERCAR Hyperpole",
+          "name": "Hypercar Hyperpole",
           "time": "2026-07-12T09:00:00-03:00",
           "tbd": true
         },
@@ -40458,12 +40458,12 @@
           "tbd": true
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-09-06T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "HYPERCAR Hyperpole",
+          "name": "Hypercar Hyperpole",
           "time": "2026-09-06T07:00:00-05:00",
           "tbd": true
         },
@@ -40557,12 +40557,12 @@
           "tbd": true
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-09-27T21:00:00+09:00",
           "tbd": true
         },
         {
-          "name": "HYPERCAR Hyperpole",
+          "name": "Hypercar Hyperpole",
           "time": "2026-09-27T21:00:00+09:00",
           "tbd": true
         },
@@ -40656,12 +40656,12 @@
           "tbd": true
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "HYPERCAR Hyperpole",
+          "name": "Hypercar Hyperpole",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true
         },
@@ -40755,12 +40755,12 @@
           "tbd": true
         },
         {
-          "name": "HYPERCAR Qualifying",
+          "name": "Hypercar Qualifying",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "HYPERCAR Hyperpole",
+          "name": "Hypercar Hyperpole",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true
         },
@@ -55104,7 +55104,7 @@
           }
         },
         {
-          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live",
+          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Live",
           "time": "2026-05-31T11:00:00-04:00",
           "duration": 300,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73877",
@@ -55115,7 +55115,7 @@
           }
         },
         {
-          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast",
+          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Broadcast",
           "time": "2026-05-31T15:00:00-04:00",
           "duration": 120,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73877",
@@ -55540,7 +55540,7 @@
           }
         },
         {
-          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live",
+          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Live",
           "time": "2026-06-14T12:00:00-04:00",
           "duration": 240,
           "broadcasts": {
@@ -55595,7 +55595,7 @@
           }
         },
         {
-          "name": "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast",
+          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Broadcast",
           "time": "2026-06-14T15:00:00-04:00",
           "duration": 120,
           "broadcasts": {

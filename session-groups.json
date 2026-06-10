@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T22:07:06.912Z",
+  "generatedAt": "2026-06-10T22:18:44.559Z",
   "groups": {
     "gt2": [
       {
@@ -1580,32 +1580,32 @@
           "Qualifying",
           "Hyperpole",
           "Warm-up",
-          "HYPERCAR Qualifying",
-          "HYPERCAR Hyperpole",
-          "HYPERCAR Hyperpole 1",
-          "HYPERCAR Hyperpole 2",
+          "Hypercar Qualifying",
+          "Hypercar Hyperpole",
+          "Hypercar Hyperpole 1",
+          "Hypercar Hyperpole 2",
           "LMGT3 Qualifying",
           "LMGT3 Hyperpole",
-          "LMP2 & LMGT3 Qualifying",
-          "LMP2 & LMGT3 Hyperpole 1",
-          "LMP2 & LMGT3 Hyperpole 2"
+          "LMP2 · LMGT3 Qualifying",
+          "LMP2 · LMGT3 Hyperpole 1",
+          "LMP2 · LMGT3 Hyperpole 2"
         ]
       },
       {
         "label": "Hypercar",
         "sessions": [
-          "HYPERCAR Qualifying",
-          "HYPERCAR Hyperpole",
-          "HYPERCAR Hyperpole 1",
-          "HYPERCAR Hyperpole 2"
+          "Hypercar Qualifying",
+          "Hypercar Hyperpole",
+          "Hypercar Hyperpole 1",
+          "Hypercar Hyperpole 2"
         ]
       },
       {
         "label": "LMP2",
         "sessions": [
-          "LMP2 & LMGT3 Qualifying",
-          "LMP2 & LMGT3 Hyperpole 1",
-          "LMP2 & LMGT3 Hyperpole 2"
+          "LMP2 · LMGT3 Qualifying",
+          "LMP2 · LMGT3 Hyperpole 1",
+          "LMP2 · LMGT3 Hyperpole 2"
         ]
       },
       {
@@ -1613,9 +1613,9 @@
         "sessions": [
           "LMGT3 Qualifying",
           "LMGT3 Hyperpole",
-          "LMP2 & LMGT3 Qualifying",
-          "LMP2 & LMGT3 Hyperpole 1",
-          "LMP2 & LMGT3 Hyperpole 2"
+          "LMP2 · LMGT3 Qualifying",
+          "LMP2 · LMGT3 Hyperpole 1",
+          "LMP2 · LMGT3 Hyperpole 2"
         ]
       }
     ],
@@ -1631,12 +1631,12 @@
           "Practice 1 (TBD)",
           "Practice 2 (TBD)",
           "Practice 3 (TBD)",
-          "GTP, GTD PRO Practice 1",
-          "GTP, GTD PRO Practice 2",
-          "GTP, GTD PRO Practice 3",
-          "GTP, LMP2, GTD PRO, GTD Practice 1",
-          "GTP, LMP2, GTD PRO, GTD Practice 2",
-          "GTP, LMP2, GTD PRO, GTD Practice 3"
+          "GTP · GTD Pro Practice 1",
+          "GTP · GTD Pro Practice 2",
+          "GTP · GTD Pro Practice 3",
+          "GTP · LMP2 · GTD Pro · GTD Practice 1",
+          "GTP · LMP2 · GTD Pro · GTD Practice 2",
+          "GTP · LMP2 · GTD Pro · GTD Practice 3"
         ]
       },
       {
@@ -1646,7 +1646,7 @@
           "Qualifying (TBD)",
           "GTP Qualifying",
           "LMP2 Qualifying",
-          "GTD PRO Qualifying",
+          "GTD Pro Qualifying",
           "GTD Qualifying"
         ]
       },
@@ -1663,9 +1663,9 @@
         ]
       },
       {
-        "label": "GTD PRO",
+        "label": "GTD Pro",
         "sessions": [
-          "GTD PRO Qualifying"
+          "GTD Pro Qualifying"
         ]
       },
       {
@@ -1989,13 +1989,13 @@
       {
         "label": "Eliminations Live",
         "sessions": [
-          "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Live"
+          "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Live"
         ]
       },
       {
         "label": "Eliminations Broadcast",
         "sessions": [
-          "Top Fuel, Funny Car, Pro Stock, Pro Stock Motorcycle Eliminations Broadcast"
+          "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Broadcast"
         ]
       },
       {
