@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T18:40:44.752Z",
+  "generatedAt": "2026-06-10T22:06:37.306Z",
   "events": [
     {
       "id": 101,
@@ -39549,7 +39549,7 @@
           }
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-05-08T14:30:00+02:00",
           "duration": 15,
           "broadcasts": {
@@ -39559,7 +39559,7 @@
           }
         },
         {
-          "name": "Hyperpole LMGT3",
+          "name": "LMGT3 Hyperpole",
           "time": "2026-05-08T14:55:00+02:00",
           "duration": 12,
           "broadcasts": {
@@ -39569,7 +39569,7 @@
           }
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-05-08T15:20:00+02:00",
           "duration": 15,
           "broadcasts": {
@@ -39579,7 +39579,7 @@
           }
         },
         {
-          "name": "Hyperpole HYPERCAR",
+          "name": "HYPERCAR Hyperpole",
           "time": "2026-05-08T15:45:00+02:00",
           "duration": 12,
           "broadcasts": {
@@ -39763,7 +39763,7 @@
           }
         },
         {
-          "name": "Qualifying LMP2 & LMGT3",
+          "name": "LMP2 & LMGT3 Qualifying",
           "time": "2026-06-10T18:45:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -39818,7 +39818,7 @@
           }
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-06-10T19:30:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -39928,7 +39928,7 @@
           }
         },
         {
-          "name": "Hyperpole 1 LMP2 & LMGT3",
+          "name": "LMP2 & LMGT3 Hyperpole 1",
           "time": "2026-06-11T20:00:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -39983,7 +39983,7 @@
           }
         },
         {
-          "name": "Hyperpole 2 LMP2 & LMGT3",
+          "name": "LMP2 & LMGT3 Hyperpole 2",
           "time": "2026-06-11T20:35:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -40038,7 +40038,7 @@
           }
         },
         {
-          "name": "Hyperpole 1 HYPERCAR",
+          "name": "HYPERCAR Hyperpole 1",
           "time": "2026-06-11T21:05:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -40093,7 +40093,7 @@
           }
         },
         {
-          "name": "Hyperpole 2 HYPERCAR",
+          "name": "HYPERCAR Hyperpole 2",
           "time": "2026-06-11T21:40:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -40349,22 +40349,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-07-12T09:00:00-03:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole LMGT3",
+          "name": "LMGT3 Hyperpole",
           "time": "2026-07-12T09:00:00-03:00",
           "tbd": true
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-07-12T09:00:00-03:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole HYPERCAR",
+          "name": "HYPERCAR Hyperpole",
           "time": "2026-07-12T09:00:00-03:00",
           "tbd": true
         },
@@ -40448,22 +40448,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-09-06T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole LMGT3",
+          "name": "LMGT3 Hyperpole",
           "time": "2026-09-06T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-09-06T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole HYPERCAR",
+          "name": "HYPERCAR Hyperpole",
           "time": "2026-09-06T07:00:00-05:00",
           "tbd": true
         },
@@ -40547,22 +40547,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-09-27T21:00:00+09:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole LMGT3",
+          "name": "LMGT3 Hyperpole",
           "time": "2026-09-27T21:00:00+09:00",
           "tbd": true
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-09-27T21:00:00+09:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole HYPERCAR",
+          "name": "HYPERCAR Hyperpole",
           "time": "2026-09-27T21:00:00+09:00",
           "tbd": true
         },
@@ -40646,22 +40646,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole LMGT3",
+          "name": "LMGT3 Hyperpole",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole HYPERCAR",
+          "name": "HYPERCAR Hyperpole",
           "time": "2026-10-24T15:00:00+03:00",
           "tbd": true
         },
@@ -40745,22 +40745,22 @@
           "tbd": true
         },
         {
-          "name": "Qualifying LMGT3",
+          "name": "LMGT3 Qualifying",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole LMGT3",
+          "name": "LMGT3 Hyperpole",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "Qualifying HYPERCAR",
+          "name": "HYPERCAR Qualifying",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true
         },
         {
-          "name": "Hyperpole HYPERCAR",
+          "name": "HYPERCAR Hyperpole",
           "time": "2026-11-07T15:00:00+03:00",
           "tbd": true
         },

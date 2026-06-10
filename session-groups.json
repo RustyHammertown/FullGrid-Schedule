@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T18:40:50.135Z",
+  "generatedAt": "2026-06-10T22:06:40.272Z",
   "groups": {
     "gt2": [
       {
@@ -1571,30 +1571,51 @@
           "Practice 1",
           "Practice 2",
           "Practice 3",
-          "Practice 4",
-          "Practice (TBD)",
-          "Practice 1 (TBD)",
-          "Practice 2 (TBD)",
-          "Practice 3 (TBD)"
+          "Practice 4"
         ]
       },
       {
         "label": "Qualifying",
         "sessions": [
           "Qualifying",
-          "Qualifying HYPERCAR",
-          "Qualifying LMGT3",
-          "Qualifying LMP2 & LMGT3",
           "Hyperpole",
-          "Hyperpole HYPERCAR",
-          "Hyperpole LMGT3",
-          "Hyperpole 1 HYPERCAR",
-          "Hyperpole 2 HYPERCAR",
-          "Hyperpole 1 LMP2 & LMGT3",
-          "Hyperpole 2 LMP2 & LMGT3",
           "Warm-up",
-          "Qualifying (TBD)",
-          "Hyperpole (TBD)"
+          "HYPERCAR Qualifying",
+          "HYPERCAR Hyperpole",
+          "HYPERCAR Hyperpole 1",
+          "HYPERCAR Hyperpole 2",
+          "LMGT3 Qualifying",
+          "LMGT3 Hyperpole",
+          "LMP2 & LMGT3 Qualifying",
+          "LMP2 & LMGT3 Hyperpole 1",
+          "LMP2 & LMGT3 Hyperpole 2"
+        ]
+      },
+      {
+        "label": "Hypercar",
+        "sessions": [
+          "HYPERCAR Qualifying",
+          "HYPERCAR Hyperpole",
+          "HYPERCAR Hyperpole 1",
+          "HYPERCAR Hyperpole 2"
+        ]
+      },
+      {
+        "label": "LMP2",
+        "sessions": [
+          "LMP2 & LMGT3 Qualifying",
+          "LMP2 & LMGT3 Hyperpole 1",
+          "LMP2 & LMGT3 Hyperpole 2"
+        ]
+      },
+      {
+        "label": "LMGT3",
+        "sessions": [
+          "LMGT3 Qualifying",
+          "LMGT3 Hyperpole",
+          "LMP2 & LMGT3 Qualifying",
+          "LMP2 & LMGT3 Hyperpole 1",
+          "LMP2 & LMGT3 Hyperpole 2"
         ]
       }
     ],
