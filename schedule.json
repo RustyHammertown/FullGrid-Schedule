@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T12:49:52.992Z",
+  "generatedAt": "2026-06-10T12:51:55.066Z",
   "events": [
     {
       "id": 101,
@@ -39658,7 +39658,7 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39668,7 +39668,7 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39678,7 +39678,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39688,7 +39688,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39698,7 +39698,7 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39708,7 +39708,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39718,7 +39718,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39728,7 +39728,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39738,7 +39738,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39748,7 +39748,7 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
@@ -39758,7 +39758,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max"
+              "service": "HBO Max / FIAWEC+"
             }
           }
         },
