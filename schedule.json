@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T12:52:22.734Z",
+  "generatedAt": "2026-06-10T13:07:41.514Z",
   "events": [
     {
       "id": 101,
@@ -39658,7 +39658,52 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39668,7 +39713,52 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39678,7 +39768,52 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39688,7 +39823,52 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39698,7 +39878,52 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39708,7 +39933,52 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "L'Équipe / Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39718,7 +39988,52 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "L'Équipe / Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39728,7 +40043,52 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "L'Équipe / Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39738,7 +40098,52 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "L'Équipe / Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39748,7 +40153,52 @@
           "duration": 120,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39758,7 +40208,52 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "HBO Max / FIAWEC+"
+              "service": "truTV / HBO Max"
+            },
+            "UK": {
+              "service": "TNT Sports"
+            },
+            "FR": {
+              "service": "Eurosport"
+            },
+            "DE": {
+              "service": "Eurosport"
+            },
+            "AT": {
+              "service": "Eurosport"
+            },
+            "CH": {
+              "service": "Eurosport"
+            },
+            "ES": {
+              "service": "Eurosport"
+            },
+            "IT": {
+              "service": "Eurosport"
+            },
+            "NL": {
+              "service": "Eurosport"
+            },
+            "Nordics": {
+              "service": "Eurosport"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
+            },
+            "Global": {
+              "service": "FIAWEC+"
             }
           }
         },
@@ -39780,7 +40275,7 @@
               "service": "Stan Sport"
             },
             "DE": {
-              "service": "Eurosport"
+              "service": "RTL Nitro"
             },
             "AT": {
               "service": "Eurosport"
@@ -39795,7 +40290,7 @@
               "service": "Eurosport"
             },
             "IT": {
-              "service": "Eurosport"
+              "service": "Discovery Turbo"
             },
             "NL": {
               "service": "Eurosport"
@@ -39811,6 +40306,18 @@
             },
             "Global": {
               "service": "FIAWEC+"
+            },
+            "KR": {
+              "service": "SPOTV"
+            },
+            "CN": {
+              "service": "Tencent"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "SEA": {
+              "service": "beIN Sports"
             }
           }
         }
