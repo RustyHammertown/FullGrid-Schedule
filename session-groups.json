@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T13:08:19.100Z",
+  "generatedAt": "2026-06-10T13:49:07.247Z",
   "groups": {
     "gt2": [
       {
@@ -617,6 +617,7 @@
       {
         "label": "Practice",
         "sessions": [
+          "Test Session",
           "Practice 1",
           "Practice 2"
         ]

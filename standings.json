@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T13:08:15.012Z",
+  "generatedAt": "2026-06-10T13:49:05.006Z",
   "flat": {
     "pccasia": [
       {
@@ -1840,61 +1840,61 @@
       {
         "pos": 1,
         "name": "Rico Abreu",
-        "points": 1123,
+        "points": 1326,
         "team": "St. Helena, CA"
       },
       {
         "pos": 2,
         "name": "Aaron Reutzel",
-        "points": 1122,
+        "points": 1287,
         "team": "Clute, TX"
       },
       {
         "pos": 3,
         "name": "Giovanni Scelzi",
-        "points": 1091,
+        "points": 1238,
         "team": "Fresno, CA"
       },
       {
         "pos": 4,
         "name": "Tanner Thorson",
-        "points": 1021,
+        "points": 1187,
         "team": "Broken Arrow, OK"
       },
       {
         "pos": 5,
-        "name": "Tyler Courtney",
-        "points": 1008,
-        "team": "Indianapolis, IN"
+        "name": "Justin Peck",
+        "points": 1167,
+        "team": "Monrovia, IN"
       },
       {
         "pos": 6,
-        "name": "Justin Peck",
-        "points": 1001,
-        "team": "Monrovia, IN"
+        "name": "Tyler Courtney",
+        "points": 1147,
+        "team": "Indianapolis, IN"
       },
       {
         "pos": 7,
         "name": "Kerry Madsen",
-        "points": 977,
+        "points": 1110,
         "team": "Knoxville, IA"
       },
       {
         "pos": 8,
         "name": "Brent Marks",
-        "points": 913,
+        "points": 1102,
         "team": "Myerstown, PA"
       },
       {
         "pos": 9,
-        "name": "Sye Lynch",
-        "points": 841,
-        "team": "Cowansville, PA"
+        "name": "Daison Pursley",
+        "points": 984,
+        "team": "Locust Grove, OK"
       },
       {
         "pos": 10,
         "name": "Tanner Holmes",
-        "points": 831,
+        "points": 982,
         "team": "Jacksonville, OR"
       }
     ],
@@ -8247,56 +8247,56 @@
           {
             "pos": 1,
             "name": "Zachary Bradford",
-            "points": 199.5,
+            "points": 302.5,
             "team": "#14 ZRB Motorsports"
           },
           {
             "pos": 2,
             "name": "Kurt Kropp",
-            "points": 165,
+            "points": 238.5,
             "team": "#641 Extreme Velocity Motorsports"
           },
           {
             "pos": 3,
             "name": "Joe Rizzo",
-            "points": 129,
+            "points": 222,
             "team": "#24 BGB Motorsports"
           },
           {
             "pos": 4,
+            "name": "Jeff Afflerbach",
+            "points": 175,
+            "team": "#10 ZOTZ Racing"
+          },
+          {
+            "pos": 5,
             "name": "Richard Walker",
             "points": 105,
             "team": "#67 Extreme Velocity Motorsports"
           },
           {
-            "pos": 5,
+            "pos": 6,
             "name": "Jeff Lindstrom",
             "points": 102,
             "team": "#26 ZOTZ Racing"
           },
           {
-            "pos": 6,
+            "pos": 7,
             "name": "Coleman Hall",
             "points": 99.5,
             "team": "#79 Sean Creech Motorsports"
           },
           {
-            "pos": 7,
-            "name": "Jeff Afflerbach",
-            "points": 88.5,
-            "team": "#10 ZOTZ Racing"
-          },
-          {
             "pos": 8,
-            "name": "Ryan Camp",
-            "points": 87.5,
-            "team": "#9 Extreme Velocity Motorsports"
-          },
-          {
-            "pos": 9,
             "name": "Jason Alexander",
             "points": 87,
             "team": "#27 Eksten Autoworks"
+          },
+          {
+            "pos": 9,
+            "name": "Ryan Camp",
+            "points": 87.5,
+            "team": "#9 Extreme Velocity Motorsports"
           },
           {
             "pos": 10,
@@ -9284,7 +9284,7 @@
     "f2": "2026-05-29",
     "dtm": "2026-05-24",
     "arcawest": "2026-06-06",
-    "highlimit": "2026-06-04",
+    "highlimit": "2026-06-09",
     "woosc": "2026-06-07",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
@@ -9302,7 +9302,7 @@
     "oreilly": "2026-05-30",
     "truck": "2026-06-06",
     "lucasdirt": "2026-05-23",
-    "internationalgt": "2026-05-23",
+    "internationalgt": "2026-06-09",
     "enascar": "2026-06-03",
     "motogp": "2026-05-31",
     "fe": "2026-05-17",

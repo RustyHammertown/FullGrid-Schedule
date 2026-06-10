@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-10T13:08:13.851Z",
+  "generatedAt": "2026-06-10T13:49:04.232Z",
   "events": [
     {
       "id": 101,
@@ -65507,6 +65507,11 @@
       "tz": "America/New_York",
       "round": 4,
       "sessions": [
+        {
+          "name": "Test Session",
+          "time": "2026-06-11T08:45:00-04:00",
+          "duration": 90
+        },
         {
           "name": "Practice 1",
           "time": "2026-06-11T13:45:00-04:00",
