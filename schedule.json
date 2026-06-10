@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-09T08:43:46.649Z",
+  "generatedAt": "2026-06-10T12:49:30.622Z",
   "events": [
     {
       "id": 101,
@@ -39657,8 +39657,8 @@
           "time": "2026-06-10T14:00:00+02:00",
           "duration": 120,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39667,8 +39667,8 @@
           "time": "2026-06-10T22:00:00+02:00",
           "duration": 120,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39677,8 +39677,8 @@
           "time": "2026-06-10T18:45:00+02:00",
           "duration": 45,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39687,8 +39687,8 @@
           "time": "2026-06-10T19:30:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39697,8 +39697,8 @@
           "time": "2026-06-11T14:45:00+02:00",
           "duration": 120,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39707,8 +39707,8 @@
           "time": "2026-06-11T20:00:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39717,8 +39717,8 @@
           "time": "2026-06-11T20:35:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39727,8 +39727,8 @@
           "time": "2026-06-11T21:05:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39737,8 +39737,8 @@
           "time": "2026-06-11T21:40:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39747,8 +39747,8 @@
           "time": "2026-06-11T23:00:00+02:00",
           "duration": 120,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
@@ -39757,8 +39757,8 @@
           "time": "2026-06-13T12:00:00+02:00",
           "duration": 30,
           "broadcasts": {
-            "Global": {
-              "service": "FIAWEC+"
+            "US": {
+              "service": "HBO Max"
             }
           }
         },
