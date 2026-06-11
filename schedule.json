@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-11T16:39:45.246Z",
+  "generatedAt": "2026-06-11T17:40:12.214Z",
   "events": [
     {
       "id": 101,
@@ -35194,7 +35194,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -35244,7 +35244,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -35289,7 +35289,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -35344,7 +35344,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -35389,7 +35389,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -35434,7 +35434,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -35479,7 +35479,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65378,7 +65378,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65391,7 +65391,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65436,7 +65436,7 @@
           "duration": 180,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65491,7 +65491,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65504,7 +65504,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65564,7 +65564,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65577,7 +65577,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65622,7 +65622,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65635,7 +65635,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65680,7 +65680,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65693,7 +65693,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65738,7 +65738,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -65751,7 +65751,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66168,7 +66168,7 @@
           "duration": 30,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66181,7 +66181,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66226,7 +66226,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66239,7 +66239,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66284,7 +66284,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66297,7 +66297,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66342,7 +66342,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66355,7 +66355,7 @@
           "duration": 35,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66400,7 +66400,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66413,7 +66413,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66458,7 +66458,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66471,7 +66471,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66516,7 +66516,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66529,7 +66529,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66944,7 +66944,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -66957,7 +66957,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67002,7 +67002,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67015,7 +67015,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67060,7 +67060,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67073,7 +67073,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67118,7 +67118,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67131,7 +67131,7 @@
           "duration": 40,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67176,7 +67176,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67189,7 +67189,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67234,7 +67234,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67247,7 +67247,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67292,7 +67292,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67305,7 +67305,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67350,7 +67350,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67373,7 +67373,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67418,7 +67418,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67441,7 +67441,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67486,7 +67486,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67509,7 +67509,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67564,7 +67564,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67577,7 +67577,7 @@
           "duration": 45,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67632,7 +67632,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67645,7 +67645,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67700,7 +67700,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67713,7 +67713,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67768,7 +67768,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
@@ -67781,7 +67781,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "FS1 / YouTube/GTWorld"
+              "service": "YouTube/GTWorld"
             },
             "Global": {
               "service": "YouTube/GTWorld"
