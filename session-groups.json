@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-11T03:58:24.513Z",
+  "generatedAt": "2026-06-11T08:47:45.315Z",
   "groups": {
     "gt2": [
       {
@@ -1771,6 +1771,8 @@
         "sessions": [
           "Practice 1",
           "Practice 2",
+          "Bronze Practice",
+          "Free Practice 2",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)"
         ]
