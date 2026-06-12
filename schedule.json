@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T19:59:42.609Z",
+  "generatedAt": "2026-06-12T20:05:05.160Z",
   "events": [
     {
       "id": 101,
@@ -69186,22 +69186,34 @@
         {
           "name": "Race 1",
           "time": "2026-06-12T15:15:00-04:00",
-          "duration": 30
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Race 2",
           "time": "2026-06-13T08:30:00-04:00",
-          "duration": 30
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Race 3",
           "time": "2026-06-13T13:50:00-04:00",
-          "duration": 30
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Enduro",
           "time": "2026-06-14T08:00:00-04:00",
-          "duration": 60
+          "duration": 60,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         }
       ]
     },
