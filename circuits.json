@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T15:39:53.427Z",
+  "generatedAt": "2026-06-12T16:24:10.410Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2751,6 +2751,34 @@
       "region": "Östergötland",
       "website": "https://www.mantorppark.se",
       "length_m": 3106
+    },
+    "MetLife Stadium": {
+      "lat": 40.8135,
+      "lon": -74.0745,
+      "city": "East Rutherford",
+      "region": "New Jersey",
+      "website": "https://www.metlifestadium.com"
+    },
+    "Mercedes-Benz Stadium": {
+      "lat": 33.7554,
+      "lon": -84.4009,
+      "city": "Atlanta",
+      "region": "Georgia",
+      "website": "https://mercedesbenzstadium.com"
+    },
+    "Hard Rock Stadium": {
+      "lat": 25.958,
+      "lon": -80.2389,
+      "city": "Miami Gardens",
+      "region": "Florida",
+      "website": "https://www.hardrockstadium.com"
+    },
+    "SoFi Stadium": {
+      "lat": 33.9535,
+      "lon": -118.3392,
+      "city": "Inglewood",
+      "region": "California",
+      "website": "https://www.sofistadium.com"
     }
   }
 }

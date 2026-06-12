@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-06-12T15:39:57.617Z",
+  "generatedAt": "2026-06-12T16:24:15.097Z",
   "groups": [
     {
       "id": "bikes",
@@ -71,6 +71,11 @@
     {
       "id": "esports",
       "label": "eSports",
+      "regional": false
+    },
+    {
+      "id": "special",
+      "label": "Special Events",
       "regional": false
     },
     {

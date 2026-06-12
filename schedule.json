@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T15:39:51.118Z",
+  "generatedAt": "2026-06-12T16:24:07.872Z",
   "events": [
     {
       "id": 101,
@@ -88358,6 +88358,132 @@
           "name": "Race 3",
           "time": "2026-11-08T13:00:00+01:00",
           "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9001,
+      "series": "worldcup",
+      "name": "Brazil vs Morocco",
+      "circuit": "MetLife Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Match",
+          "time": "2026-06-13T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9002,
+      "series": "worldcup",
+      "name": "Germany vs Curaçao",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Match",
+          "time": "2026-06-14T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9003,
+      "series": "worldcup",
+      "name": "Netherlands vs Japan",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Match",
+          "time": "2026-06-14T15:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9004,
+      "series": "worldcup",
+      "name": "Spain vs Cape Verde",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Match",
+          "time": "2026-06-15T12:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9005,
+      "series": "worldcup",
+      "name": "Saudi Arabia vs Uruguay",
+      "circuit": "Hard Rock Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Match",
+          "time": "2026-06-15T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9006,
+      "series": "worldcup",
+      "name": "Iran vs New Zealand",
+      "circuit": "SoFi Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Match",
+          "time": "2026-06-15T18:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
         }
       ]
     }
