@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T16:49:41.245Z",
+  "generatedAt": "2026-06-12T16:52:23.326Z",
   "events": [
     {
       "id": 101,
@@ -88364,9 +88364,9 @@
     {
       "id": 9001,
       "series": "worldcup",
-      "name": "Mexico vs South Africa",
+      "name": "🇲🇽 Mexico vs 🇿🇦 South Africa",
       "circuit": "Estadio Azteca",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -88385,9 +88385,9 @@
     {
       "id": 9002,
       "series": "worldcup",
-      "name": "South Korea vs Czechia",
+      "name": "🇰🇷 South Korea vs 🇨🇿 Czechia",
       "circuit": "Estadio Akron",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -88406,9 +88406,9 @@
     {
       "id": 9003,
       "series": "worldcup",
-      "name": "Canada vs Bosnia and Herzegovina",
+      "name": "🇨🇦 Canada vs 🇧🇦 Bosnia and Herzegovina",
       "circuit": "BMO Field",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
       "sessions": [
@@ -88427,9 +88427,9 @@
     {
       "id": 9004,
       "series": "worldcup",
-      "name": "United States vs Paraguay",
+      "name": "🇺🇸 United States vs 🇵🇾 Paraguay",
       "circuit": "SoFi Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88448,9 +88448,9 @@
     {
       "id": 9005,
       "series": "worldcup",
-      "name": "Qatar vs Switzerland",
+      "name": "🇶🇦 Qatar vs 🇨🇭 Switzerland",
       "circuit": "Levi's Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88469,9 +88469,9 @@
     {
       "id": 9006,
       "series": "worldcup",
-      "name": "Brazil vs Morocco",
+      "name": "🇧🇷 Brazil vs 🇲🇦 Morocco",
       "circuit": "MetLife Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88490,9 +88490,9 @@
     {
       "id": 9007,
       "series": "worldcup",
-      "name": "Haiti vs Scotland",
+      "name": "🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland",
       "circuit": "Gillette Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88511,9 +88511,9 @@
     {
       "id": 9008,
       "series": "worldcup",
-      "name": "Australia vs Turkey",
+      "name": "🇦🇺 Australia vs 🇹🇷 Turkey",
       "circuit": "BC Place",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
       "sessions": [
@@ -88532,9 +88532,9 @@
     {
       "id": 9009,
       "series": "worldcup",
-      "name": "Germany vs Curaçao",
+      "name": "🇩🇪 Germany vs 🇨🇼 Curaçao",
       "circuit": "NRG Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -88553,9 +88553,9 @@
     {
       "id": 9010,
       "series": "worldcup",
-      "name": "Netherlands vs Japan",
+      "name": "🇳🇱 Netherlands vs 🇯🇵 Japan",
       "circuit": "AT&T Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -88574,9 +88574,9 @@
     {
       "id": 9011,
       "series": "worldcup",
-      "name": "Ivory Coast vs Ecuador",
+      "name": "🇨🇮 Ivory Coast vs 🇪🇨 Ecuador",
       "circuit": "Lincoln Financial Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88595,9 +88595,9 @@
     {
       "id": 9012,
       "series": "worldcup",
-      "name": "Sweden vs Tunisia",
+      "name": "🇸🇪 Sweden vs 🇹🇳 Tunisia",
       "circuit": "Estadio BBVA",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Monterrey",
       "sessions": [
@@ -88616,9 +88616,9 @@
     {
       "id": 9013,
       "series": "worldcup",
-      "name": "Belgium vs Egypt",
+      "name": "🇧🇪 Belgium vs 🇪🇬 Egypt",
       "circuit": "Lumen Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88637,9 +88637,9 @@
     {
       "id": 9014,
       "series": "worldcup",
-      "name": "Spain vs Cape Verde",
+      "name": "🇪🇸 Spain vs 🇨🇻 Cape Verde",
       "circuit": "Mercedes-Benz Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88658,9 +88658,9 @@
     {
       "id": 9015,
       "series": "worldcup",
-      "name": "Iran vs New Zealand",
+      "name": "🇮🇷 Iran vs 🇳🇿 New Zealand",
       "circuit": "SoFi Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88679,9 +88679,9 @@
     {
       "id": 9016,
       "series": "worldcup",
-      "name": "Saudi Arabia vs Uruguay",
+      "name": "🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay",
       "circuit": "Hard Rock Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88700,9 +88700,9 @@
     {
       "id": 9017,
       "series": "worldcup",
-      "name": "France vs Senegal",
+      "name": "🇫🇷 France vs 🇸🇳 Senegal",
       "circuit": "MetLife Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88721,9 +88721,9 @@
     {
       "id": 9018,
       "series": "worldcup",
-      "name": "Iraq vs Norway",
+      "name": "🇮🇶 Iraq vs 🇳🇴 Norway",
       "circuit": "Gillette Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88742,9 +88742,9 @@
     {
       "id": 9019,
       "series": "worldcup",
-      "name": "Argentina vs Algeria",
+      "name": "🇦🇷 Argentina vs 🇩🇿 Algeria",
       "circuit": "Arrowhead Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -88763,9 +88763,9 @@
     {
       "id": 9020,
       "series": "worldcup",
-      "name": "Austria vs Jordan",
+      "name": "🇦🇹 Austria vs 🇯🇴 Jordan",
       "circuit": "Levi's Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88784,9 +88784,9 @@
     {
       "id": 9021,
       "series": "worldcup",
-      "name": "Portugal vs DR Congo",
+      "name": "🇵🇹 Portugal vs 🇨🇩 DR Congo",
       "circuit": "NRG Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -88805,9 +88805,9 @@
     {
       "id": 9022,
       "series": "worldcup",
-      "name": "England vs Croatia",
+      "name": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia",
       "circuit": "AT&T Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -88826,9 +88826,9 @@
     {
       "id": 9023,
       "series": "worldcup",
-      "name": "Ghana vs Panama",
+      "name": "🇬🇭 Ghana vs 🇵🇦 Panama",
       "circuit": "BMO Field",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
       "sessions": [
@@ -88847,9 +88847,9 @@
     {
       "id": 9024,
       "series": "worldcup",
-      "name": "Uzbekistan vs Colombia",
+      "name": "🇺🇿 Uzbekistan vs 🇨🇴 Colombia",
       "circuit": "Estadio Azteca",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -88868,9 +88868,9 @@
     {
       "id": 9025,
       "series": "worldcup",
-      "name": "Czechia vs South Africa",
+      "name": "🇨🇿 Czechia vs 🇿🇦 South Africa",
       "circuit": "Mercedes-Benz Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88889,9 +88889,9 @@
     {
       "id": 9026,
       "series": "worldcup",
-      "name": "Switzerland vs Bosnia and Herzegovina",
+      "name": "🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina",
       "circuit": "SoFi Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88910,9 +88910,9 @@
     {
       "id": 9027,
       "series": "worldcup",
-      "name": "Canada vs Qatar",
+      "name": "🇨🇦 Canada vs 🇶🇦 Qatar",
       "circuit": "BC Place",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
       "sessions": [
@@ -88931,9 +88931,9 @@
     {
       "id": 9028,
       "series": "worldcup",
-      "name": "Mexico vs South Korea",
+      "name": "🇲🇽 Mexico vs 🇰🇷 South Korea",
       "circuit": "Estadio Akron",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -88952,9 +88952,9 @@
     {
       "id": 9029,
       "series": "worldcup",
-      "name": "United States vs Australia",
+      "name": "🇺🇸 United States vs 🇦🇺 Australia",
       "circuit": "Lumen Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -88973,9 +88973,9 @@
     {
       "id": 9030,
       "series": "worldcup",
-      "name": "Scotland vs Morocco",
+      "name": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco",
       "circuit": "Gillette Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -88994,9 +88994,9 @@
     {
       "id": 9031,
       "series": "worldcup",
-      "name": "Turkey vs Paraguay",
+      "name": "🇹🇷 Turkey vs 🇵🇾 Paraguay",
       "circuit": "Levi's Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89015,9 +89015,9 @@
     {
       "id": 9032,
       "series": "worldcup",
-      "name": "Brazil vs Haiti",
+      "name": "🇧🇷 Brazil vs 🇭🇹 Haiti",
       "circuit": "Lincoln Financial Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89036,9 +89036,9 @@
     {
       "id": 9033,
       "series": "worldcup",
-      "name": "Netherlands vs Sweden",
+      "name": "🇳🇱 Netherlands vs 🇸🇪 Sweden",
       "circuit": "NRG Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89057,9 +89057,9 @@
     {
       "id": 9034,
       "series": "worldcup",
-      "name": "Germany vs Ivory Coast",
+      "name": "🇩🇪 Germany vs 🇨🇮 Ivory Coast",
       "circuit": "BMO Field",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
       "sessions": [
@@ -89078,9 +89078,9 @@
     {
       "id": 9035,
       "series": "worldcup",
-      "name": "Ecuador vs Curaçao",
+      "name": "🇪🇨 Ecuador vs 🇨🇼 Curaçao",
       "circuit": "Arrowhead Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89099,9 +89099,9 @@
     {
       "id": 9036,
       "series": "worldcup",
-      "name": "Tunisia vs Japan",
+      "name": "🇹🇳 Tunisia vs 🇯🇵 Japan",
       "circuit": "Estadio BBVA",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Monterrey",
       "sessions": [
@@ -89120,9 +89120,9 @@
     {
       "id": 9037,
       "series": "worldcup",
-      "name": "Belgium vs Iran",
+      "name": "🇧🇪 Belgium vs 🇮🇷 Iran",
       "circuit": "SoFi Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89141,9 +89141,9 @@
     {
       "id": 9038,
       "series": "worldcup",
-      "name": "Spain vs Saudi Arabia",
+      "name": "🇪🇸 Spain vs 🇸🇦 Saudi Arabia",
       "circuit": "Mercedes-Benz Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89162,9 +89162,9 @@
     {
       "id": 9039,
       "series": "worldcup",
-      "name": "New Zealand vs Egypt",
+      "name": "🇳🇿 New Zealand vs 🇪🇬 Egypt",
       "circuit": "BC Place",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
       "sessions": [
@@ -89183,9 +89183,9 @@
     {
       "id": 9040,
       "series": "worldcup",
-      "name": "Uruguay vs Cape Verde",
+      "name": "🇺🇾 Uruguay vs 🇨🇻 Cape Verde",
       "circuit": "Hard Rock Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89204,9 +89204,9 @@
     {
       "id": 9041,
       "series": "worldcup",
-      "name": "Argentina vs Austria",
+      "name": "🇦🇷 Argentina vs 🇦🇹 Austria",
       "circuit": "AT&T Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89225,9 +89225,9 @@
     {
       "id": 9042,
       "series": "worldcup",
-      "name": "France vs Iraq",
+      "name": "🇫🇷 France vs 🇮🇶 Iraq",
       "circuit": "Lincoln Financial Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89246,9 +89246,9 @@
     {
       "id": 9043,
       "series": "worldcup",
-      "name": "Norway vs Senegal",
+      "name": "🇳🇴 Norway vs 🇸🇳 Senegal",
       "circuit": "MetLife Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89267,9 +89267,9 @@
     {
       "id": 9044,
       "series": "worldcup",
-      "name": "Jordan vs Algeria",
+      "name": "🇯🇴 Jordan vs 🇩🇿 Algeria",
       "circuit": "Levi's Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89288,9 +89288,9 @@
     {
       "id": 9045,
       "series": "worldcup",
-      "name": "Portugal vs Uzbekistan",
+      "name": "🇵🇹 Portugal vs 🇺🇿 Uzbekistan",
       "circuit": "NRG Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89309,9 +89309,9 @@
     {
       "id": 9046,
       "series": "worldcup",
-      "name": "England vs Ghana",
+      "name": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana",
       "circuit": "Gillette Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89330,9 +89330,9 @@
     {
       "id": 9047,
       "series": "worldcup",
-      "name": "Panama vs Croatia",
+      "name": "🇵🇦 Panama vs 🇭🇷 Croatia",
       "circuit": "BMO Field",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
       "sessions": [
@@ -89351,9 +89351,9 @@
     {
       "id": 9048,
       "series": "worldcup",
-      "name": "Colombia vs DR Congo",
+      "name": "🇨🇴 Colombia vs 🇨🇩 DR Congo",
       "circuit": "Estadio Akron",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -89372,9 +89372,9 @@
     {
       "id": 9049,
       "series": "worldcup",
-      "name": "Switzerland vs Canada",
+      "name": "🇨🇭 Switzerland vs 🇨🇦 Canada",
       "circuit": "BC Place",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
       "sessions": [
@@ -89393,9 +89393,9 @@
     {
       "id": 9050,
       "series": "worldcup",
-      "name": "Bosnia and Herzegovina vs Qatar",
+      "name": "🇧🇦 Bosnia and Herzegovina vs 🇶🇦 Qatar",
       "circuit": "Lumen Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89414,9 +89414,9 @@
     {
       "id": 9051,
       "series": "worldcup",
-      "name": "Scotland vs Brazil",
+      "name": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil",
       "circuit": "Hard Rock Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89435,9 +89435,9 @@
     {
       "id": 9052,
       "series": "worldcup",
-      "name": "Morocco vs Haiti",
+      "name": "🇲🇦 Morocco vs 🇭🇹 Haiti",
       "circuit": "Mercedes-Benz Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89456,9 +89456,9 @@
     {
       "id": 9053,
       "series": "worldcup",
-      "name": "Czechia vs Mexico",
+      "name": "🇨🇿 Czechia vs 🇲🇽 Mexico",
       "circuit": "Estadio Azteca",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -89477,9 +89477,9 @@
     {
       "id": 9054,
       "series": "worldcup",
-      "name": "South Africa vs South Korea",
+      "name": "🇿🇦 South Africa vs 🇰🇷 South Korea",
       "circuit": "Estadio BBVA",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Monterrey",
       "sessions": [
@@ -89498,9 +89498,9 @@
     {
       "id": 9055,
       "series": "worldcup",
-      "name": "Curaçao vs Ivory Coast",
+      "name": "🇨🇼 Curaçao vs 🇨🇮 Ivory Coast",
       "circuit": "Lincoln Financial Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89519,9 +89519,9 @@
     {
       "id": 9056,
       "series": "worldcup",
-      "name": "Ecuador vs Germany",
+      "name": "🇪🇨 Ecuador vs 🇩🇪 Germany",
       "circuit": "MetLife Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89540,9 +89540,9 @@
     {
       "id": 9057,
       "series": "worldcup",
-      "name": "Japan vs Sweden",
+      "name": "🇯🇵 Japan vs 🇸🇪 Sweden",
       "circuit": "AT&T Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89561,9 +89561,9 @@
     {
       "id": 9058,
       "series": "worldcup",
-      "name": "Tunisia vs Netherlands",
+      "name": "🇹🇳 Tunisia vs 🇳🇱 Netherlands",
       "circuit": "Arrowhead Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89582,9 +89582,9 @@
     {
       "id": 9059,
       "series": "worldcup",
-      "name": "Turkey vs United States",
+      "name": "🇹🇷 Turkey vs 🇺🇸 United States",
       "circuit": "SoFi Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89603,9 +89603,9 @@
     {
       "id": 9060,
       "series": "worldcup",
-      "name": "Paraguay vs Australia",
+      "name": "🇵🇾 Paraguay vs 🇦🇺 Australia",
       "circuit": "Levi's Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89624,9 +89624,9 @@
     {
       "id": 9061,
       "series": "worldcup",
-      "name": "Norway vs France",
+      "name": "🇳🇴 Norway vs 🇫🇷 France",
       "circuit": "Gillette Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89645,9 +89645,9 @@
     {
       "id": 9062,
       "series": "worldcup",
-      "name": "Senegal vs Iraq",
+      "name": "🇸🇳 Senegal vs 🇮🇶 Iraq",
       "circuit": "BMO Field",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
       "sessions": [
@@ -89666,9 +89666,9 @@
     {
       "id": 9063,
       "series": "worldcup",
-      "name": "Uruguay vs Spain",
+      "name": "🇺🇾 Uruguay vs 🇪🇸 Spain",
       "circuit": "Estadio Akron",
-      "flag": "🇲🇽",
+      "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
       "sessions": [
@@ -89687,9 +89687,9 @@
     {
       "id": 9064,
       "series": "worldcup",
-      "name": "Cape Verde vs Saudi Arabia",
+      "name": "🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia",
       "circuit": "NRG Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89708,9 +89708,9 @@
     {
       "id": 9065,
       "series": "worldcup",
-      "name": "Egypt vs Iran",
+      "name": "🇪🇬 Egypt vs 🇮🇷 Iran",
       "circuit": "Lumen Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
       "sessions": [
@@ -89729,9 +89729,9 @@
     {
       "id": 9066,
       "series": "worldcup",
-      "name": "New Zealand vs Belgium",
+      "name": "🇳🇿 New Zealand vs 🇧🇪 Belgium",
       "circuit": "BC Place",
-      "flag": "🇨🇦",
+      "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
       "sessions": [
@@ -89750,9 +89750,9 @@
     {
       "id": 9067,
       "series": "worldcup",
-      "name": "Panama vs England",
+      "name": "🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
       "circuit": "MetLife Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89771,9 +89771,9 @@
     {
       "id": 9068,
       "series": "worldcup",
-      "name": "Croatia vs Ghana",
+      "name": "🇭🇷 Croatia vs 🇬🇭 Ghana",
       "circuit": "Lincoln Financial Field",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89792,9 +89792,9 @@
     {
       "id": 9069,
       "series": "worldcup",
-      "name": "Colombia vs Portugal",
+      "name": "🇨🇴 Colombia vs 🇵🇹 Portugal",
       "circuit": "Hard Rock Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89813,9 +89813,9 @@
     {
       "id": 9070,
       "series": "worldcup",
-      "name": "DR Congo vs Uzbekistan",
+      "name": "🇨🇩 DR Congo vs 🇺🇿 Uzbekistan",
       "circuit": "Mercedes-Benz Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/New_York",
       "sessions": [
@@ -89834,9 +89834,9 @@
     {
       "id": 9071,
       "series": "worldcup",
-      "name": "Algeria vs Austria",
+      "name": "🇩🇿 Algeria vs 🇦🇹 Austria",
       "circuit": "Arrowhead Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
@@ -89855,9 +89855,9 @@
     {
       "id": 9072,
       "series": "worldcup",
-      "name": "Jordan vs Argentina",
+      "name": "🇯🇴 Jordan vs 🇦🇷 Argentina",
       "circuit": "AT&T Stadium",
-      "flag": "🇺🇸",
+      "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
       "sessions": [
