@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T20:24:20.739Z",
+  "generatedAt": "2026-06-12T21:44:32.203Z",
   "events": [
     {
       "id": 101,
@@ -88352,6 +88352,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "Mexico",
+        "South Africa"
+      ],
       "sessions": [
         {
           "name": "Group A Match",
@@ -88373,6 +88377,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "South Korea",
+        "Czechia"
+      ],
       "sessions": [
         {
           "name": "Group A Match",
@@ -88394,6 +88402,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
+      "teams": [
+        "Canada",
+        "Bosnia and Herzegovina"
+      ],
       "sessions": [
         {
           "name": "Group B Match",
@@ -88415,6 +88427,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "United States",
+        "Paraguay"
+      ],
       "sessions": [
         {
           "name": "Group D Match",
@@ -88436,6 +88452,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Qatar",
+        "Switzerland"
+      ],
       "sessions": [
         {
           "name": "Group B Match",
@@ -88457,6 +88477,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
       "sessions": [
         {
           "name": "Group C Match",
@@ -88478,6 +88502,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
       "sessions": [
         {
           "name": "Group C Match",
@@ -88499,6 +88527,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
+      "teams": [
+        "Australia",
+        "Turkey"
+      ],
       "sessions": [
         {
           "name": "Group D Match",
@@ -88520,6 +88552,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Germany",
+        "Curaçao"
+      ],
       "sessions": [
         {
           "name": "Group E Match",
@@ -88541,6 +88577,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Netherlands",
+        "Japan"
+      ],
       "sessions": [
         {
           "name": "Group F Match",
@@ -88562,6 +88602,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Ivory Coast",
+        "Ecuador"
+      ],
       "sessions": [
         {
           "name": "Group E Match",
@@ -88583,6 +88627,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Monterrey",
+      "teams": [
+        "Sweden",
+        "Tunisia"
+      ],
       "sessions": [
         {
           "name": "Group F Match",
@@ -88604,6 +88652,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Belgium",
+        "Egypt"
+      ],
       "sessions": [
         {
           "name": "Group G Match",
@@ -88625,6 +88677,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Spain",
+        "Cape Verde"
+      ],
       "sessions": [
         {
           "name": "Group H Match",
@@ -88646,6 +88702,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Iran",
+        "New Zealand"
+      ],
       "sessions": [
         {
           "name": "Group G Match",
@@ -88667,6 +88727,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Saudi Arabia",
+        "Uruguay"
+      ],
       "sessions": [
         {
           "name": "Group H Match",
@@ -88688,6 +88752,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "France",
+        "Senegal"
+      ],
       "sessions": [
         {
           "name": "Group I Match",
@@ -88709,6 +88777,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Iraq",
+        "Norway"
+      ],
       "sessions": [
         {
           "name": "Group I Match",
@@ -88730,6 +88802,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Argentina",
+        "Algeria"
+      ],
       "sessions": [
         {
           "name": "Group J Match",
@@ -88751,6 +88827,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Austria",
+        "Jordan"
+      ],
       "sessions": [
         {
           "name": "Group J Match",
@@ -88772,6 +88852,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Portugal",
+        "DR Congo"
+      ],
       "sessions": [
         {
           "name": "Group K Match",
@@ -88793,6 +88877,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "England",
+        "Croatia"
+      ],
       "sessions": [
         {
           "name": "Group L Match",
@@ -88814,6 +88902,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
+      "teams": [
+        "Ghana",
+        "Panama"
+      ],
       "sessions": [
         {
           "name": "Group L Match",
@@ -88835,6 +88927,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "Uzbekistan",
+        "Colombia"
+      ],
       "sessions": [
         {
           "name": "Group K Match",
@@ -88856,6 +88952,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Czechia",
+        "South Africa"
+      ],
       "sessions": [
         {
           "name": "Group A Match",
@@ -88877,6 +88977,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Switzerland",
+        "Bosnia and Herzegovina"
+      ],
       "sessions": [
         {
           "name": "Group B Match",
@@ -88898,6 +89002,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
+      "teams": [
+        "Canada",
+        "Qatar"
+      ],
       "sessions": [
         {
           "name": "Group B Match",
@@ -88919,6 +89027,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "Mexico",
+        "South Korea"
+      ],
       "sessions": [
         {
           "name": "Group A Match",
@@ -88940,6 +89052,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "United States",
+        "Australia"
+      ],
       "sessions": [
         {
           "name": "Group D Match",
@@ -88961,6 +89077,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Scotland",
+        "Morocco"
+      ],
       "sessions": [
         {
           "name": "Group C Match",
@@ -88982,6 +89102,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Turkey",
+        "Paraguay"
+      ],
       "sessions": [
         {
           "name": "Group D Match",
@@ -89003,6 +89127,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Brazil",
+        "Haiti"
+      ],
       "sessions": [
         {
           "name": "Group C Match",
@@ -89024,6 +89152,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Netherlands",
+        "Sweden"
+      ],
       "sessions": [
         {
           "name": "Group F Match",
@@ -89045,6 +89177,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
+      "teams": [
+        "Germany",
+        "Ivory Coast"
+      ],
       "sessions": [
         {
           "name": "Group E Match",
@@ -89066,6 +89202,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Ecuador",
+        "Curaçao"
+      ],
       "sessions": [
         {
           "name": "Group E Match",
@@ -89087,6 +89227,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Monterrey",
+      "teams": [
+        "Tunisia",
+        "Japan"
+      ],
       "sessions": [
         {
           "name": "Group F Match",
@@ -89108,6 +89252,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Belgium",
+        "Iran"
+      ],
       "sessions": [
         {
           "name": "Group G Match",
@@ -89129,6 +89277,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Spain",
+        "Saudi Arabia"
+      ],
       "sessions": [
         {
           "name": "Group H Match",
@@ -89150,6 +89302,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
+      "teams": [
+        "New Zealand",
+        "Egypt"
+      ],
       "sessions": [
         {
           "name": "Group G Match",
@@ -89171,6 +89327,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Uruguay",
+        "Cape Verde"
+      ],
       "sessions": [
         {
           "name": "Group H Match",
@@ -89192,6 +89352,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Argentina",
+        "Austria"
+      ],
       "sessions": [
         {
           "name": "Group J Match",
@@ -89213,6 +89377,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "France",
+        "Iraq"
+      ],
       "sessions": [
         {
           "name": "Group I Match",
@@ -89234,6 +89402,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Norway",
+        "Senegal"
+      ],
       "sessions": [
         {
           "name": "Group I Match",
@@ -89255,6 +89427,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Jordan",
+        "Algeria"
+      ],
       "sessions": [
         {
           "name": "Group J Match",
@@ -89276,6 +89452,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Portugal",
+        "Uzbekistan"
+      ],
       "sessions": [
         {
           "name": "Group K Match",
@@ -89297,6 +89477,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "England",
+        "Ghana"
+      ],
       "sessions": [
         {
           "name": "Group L Match",
@@ -89318,6 +89502,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
+      "teams": [
+        "Panama",
+        "Croatia"
+      ],
       "sessions": [
         {
           "name": "Group L Match",
@@ -89339,6 +89527,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "Colombia",
+        "DR Congo"
+      ],
       "sessions": [
         {
           "name": "Group K Match",
@@ -89360,6 +89552,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
+      "teams": [
+        "Switzerland",
+        "Canada"
+      ],
       "sessions": [
         {
           "name": "Group B Match",
@@ -89381,6 +89577,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Bosnia and Herzegovina",
+        "Qatar"
+      ],
       "sessions": [
         {
           "name": "Group B Match",
@@ -89402,6 +89602,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Scotland",
+        "Brazil"
+      ],
       "sessions": [
         {
           "name": "Group C Match",
@@ -89423,6 +89627,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Morocco",
+        "Haiti"
+      ],
       "sessions": [
         {
           "name": "Group C Match",
@@ -89444,6 +89652,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "Czechia",
+        "Mexico"
+      ],
       "sessions": [
         {
           "name": "Group A Match",
@@ -89465,6 +89677,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Monterrey",
+      "teams": [
+        "South Africa",
+        "South Korea"
+      ],
       "sessions": [
         {
           "name": "Group A Match",
@@ -89486,6 +89702,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Curaçao",
+        "Ivory Coast"
+      ],
       "sessions": [
         {
           "name": "Group E Match",
@@ -89507,6 +89727,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Ecuador",
+        "Germany"
+      ],
       "sessions": [
         {
           "name": "Group E Match",
@@ -89528,6 +89752,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Japan",
+        "Sweden"
+      ],
       "sessions": [
         {
           "name": "Group F Match",
@@ -89549,6 +89777,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Tunisia",
+        "Netherlands"
+      ],
       "sessions": [
         {
           "name": "Group F Match",
@@ -89570,6 +89802,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Turkey",
+        "United States"
+      ],
       "sessions": [
         {
           "name": "Group D Match",
@@ -89591,6 +89827,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Paraguay",
+        "Australia"
+      ],
       "sessions": [
         {
           "name": "Group D Match",
@@ -89612,6 +89852,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Norway",
+        "France"
+      ],
       "sessions": [
         {
           "name": "Group I Match",
@@ -89633,6 +89877,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Toronto",
+      "teams": [
+        "Senegal",
+        "Iraq"
+      ],
       "sessions": [
         {
           "name": "Group I Match",
@@ -89654,6 +89902,10 @@
       "flag": "",
       "country": "Mexico",
       "tz": "America/Mexico_City",
+      "teams": [
+        "Uruguay",
+        "Spain"
+      ],
       "sessions": [
         {
           "name": "Group H Match",
@@ -89675,6 +89927,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Cape Verde",
+        "Saudi Arabia"
+      ],
       "sessions": [
         {
           "name": "Group H Match",
@@ -89696,6 +89952,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Los_Angeles",
+      "teams": [
+        "Egypt",
+        "Iran"
+      ],
       "sessions": [
         {
           "name": "Group G Match",
@@ -89717,6 +89977,10 @@
       "flag": "",
       "country": "Canada",
       "tz": "America/Vancouver",
+      "teams": [
+        "New Zealand",
+        "Belgium"
+      ],
       "sessions": [
         {
           "name": "Group G Match",
@@ -89738,6 +90002,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Panama",
+        "England"
+      ],
       "sessions": [
         {
           "name": "Group L Match",
@@ -89759,6 +90027,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Croatia",
+        "Ghana"
+      ],
       "sessions": [
         {
           "name": "Group L Match",
@@ -89780,6 +90052,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "Colombia",
+        "Portugal"
+      ],
       "sessions": [
         {
           "name": "Group K Match",
@@ -89801,6 +90077,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/New_York",
+      "teams": [
+        "DR Congo",
+        "Uzbekistan"
+      ],
       "sessions": [
         {
           "name": "Group K Match",
@@ -89822,6 +90102,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Algeria",
+        "Austria"
+      ],
       "sessions": [
         {
           "name": "Group J Match",
@@ -89843,6 +90127,10 @@
       "flag": "",
       "country": "USA",
       "tz": "America/Chicago",
+      "teams": [
+        "Jordan",
+        "Argentina"
+      ],
       "sessions": [
         {
           "name": "Group J Match",
