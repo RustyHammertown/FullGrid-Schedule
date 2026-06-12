@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-12T16:55:55.507Z",
+  "generatedAt": "2026-06-12T17:11:28.439Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3623,8 +3623,8 @@
         "north-america"
       ],
       "group": "special",
-      "label": "World Cup",
-      "short": "World Cup",
+      "label": "World Cup 2026",
+      "short": "World Cup 2026",
       "color": "#15803D",
       "bg": "rgba(21,128,61,0.15)",
       "broadcast": {
