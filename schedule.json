@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T17:20:48.345Z",
+  "generatedAt": "2026-06-12T19:46:28.185Z",
   "events": [
     {
       "id": 101,
@@ -69137,17 +69137,17 @@
           "duration": 25
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-05-21T17:10:00-04:00",
           "duration": 30
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-05-22T09:35:00-04:00",
           "duration": 30
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-05-22T14:00:00-04:00",
           "duration": 30
         },
@@ -69174,22 +69174,27 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-06-11T10:00:00-04:00",
+          "duration": 30
+        },
+        {
           "name": "Qualifying",
           "time": "2026-06-12T09:35:00-04:00",
           "duration": 25
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-06-12T15:15:00-04:00",
           "duration": 30
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-06-13T08:30:00-04:00",
           "duration": 30
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-06-13T13:50:00-04:00",
           "duration": 30
         },
@@ -69221,17 +69226,17 @@
           "tbd": true
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-06-27T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-06-27T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-06-27T07:00:00-05:00",
           "tbd": true
         },
@@ -69263,17 +69268,17 @@
           "tbd": true
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-07-18T08:00:00-04:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-07-18T08:00:00-04:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-07-18T08:00:00-04:00",
           "tbd": true
         },
@@ -69305,17 +69310,17 @@
           "tbd": true
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true
         },
@@ -69347,17 +69352,17 @@
           "tbd": true
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-10-03T05:00:00-07:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-10-03T05:00:00-07:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-10-03T05:00:00-07:00",
           "tbd": true
         },
@@ -69389,17 +69394,17 @@
           "tbd": true
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-10-17T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-10-17T07:00:00-05:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-10-17T07:00:00-05:00",
           "tbd": true
         },
@@ -69431,17 +69436,17 @@
           "tbd": true
         },
         {
-          "name": "Sprint Race 1",
+          "name": "Race 1",
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 2",
+          "name": "Race 2",
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true
         },
         {
-          "name": "Sprint Race 3",
+          "name": "Race 3",
           "time": "2026-11-07T06:00:00-06:00",
           "tbd": true
         },
