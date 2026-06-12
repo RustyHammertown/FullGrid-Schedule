@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-12T17:11:28.439Z",
+  "generatedAt": "2026-06-12T17:12:43.778Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3620,7 +3620,8 @@
     "worldcup": {
       "id": "worldcup",
       "tags": [
-        "north-america"
+        "north-america",
+        "special-event"
       ],
       "group": "special",
       "label": "World Cup 2026",

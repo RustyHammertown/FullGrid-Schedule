@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T17:11:32.476Z",
+  "generatedAt": "2026-06-12T17:12:48.179Z",
   "categories": [
     {
       "id": "geography",
@@ -139,7 +139,8 @@
         "national-series",
         "regional-series",
         "feeder-series",
-        "support-series"
+        "support-series",
+        "special-event"
       ]
     }
   ],
@@ -216,6 +217,7 @@
     "wsc": "WSC",
     "global": "Global",
     "north-america": "North America",
+    "special-event": "Special Event",
     "south-america": "South America",
     "europe": "Europe",
     "asia-pacific": "Asia Pacific",
