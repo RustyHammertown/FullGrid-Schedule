@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T20:10:36.861Z",
+  "generatedAt": "2026-06-12T20:19:35.169Z",
   "events": [
     {
       "id": 101,
@@ -72505,18 +72505,8 @@
           }
         },
         {
-          "name": "Mission GT Enduro",
-          "time": "2026-06-13T11:55:00-04:00",
-          "duration": 60,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/imsaofficial"
-            }
-          }
-        },
-        {
           "name": "Classic Grp A/B Race 1",
-          "time": "2026-06-13T14:00:00-04:00",
+          "time": "2026-06-13T13:00:00-04:00",
           "duration": 42,
           "broadcasts": {
             "Global": {
@@ -72526,7 +72516,7 @@
         },
         {
           "name": "Classic Grp C Race 1",
-          "time": "2026-06-13T15:00:00-04:00",
+          "time": "2026-06-13T14:00:00-04:00",
           "duration": 42,
           "broadcasts": {
             "Global": {
@@ -72536,7 +72526,7 @@
         },
         {
           "name": "Classic Grp D Race 1",
-          "time": "2026-06-13T16:00:00-04:00",
+          "time": "2026-06-13T15:00:00-04:00",
           "duration": 42,
           "broadcasts": {
             "Global": {
@@ -72546,7 +72536,7 @@
         },
         {
           "name": "Classic Grp A/B Race 2",
-          "time": "2026-06-13T17:00:00-04:00",
+          "time": "2026-06-13T16:00:00-04:00",
           "duration": 42,
           "broadcasts": {
             "Global": {
@@ -72556,7 +72546,7 @@
         },
         {
           "name": "Classic Grp C Race 2",
-          "time": "2026-06-13T18:00:00-04:00",
+          "time": "2026-06-13T17:00:00-04:00",
           "duration": 42,
           "broadcasts": {
             "Global": {
@@ -72566,7 +72556,7 @@
         },
         {
           "name": "Classic Grp D Race 2",
-          "time": "2026-06-13T19:00:00-04:00",
+          "time": "2026-06-13T18:00:00-04:00",
           "duration": 42,
           "broadcasts": {
             "Global": {
@@ -72585,7 +72575,7 @@
           }
         },
         {
-          "name": "Grand Prix Classics Race 1",
+          "name": "Legacy Racers Race 1",
           "time": "2026-06-14T08:25:00-04:00",
           "duration": 20,
           "broadcasts": {
@@ -72595,7 +72585,7 @@
           }
         },
         {
-          "name": "Legacy Racers Race 1",
+          "name": "Vintage Cup Race 1",
           "time": "2026-06-14T08:50:00-04:00",
           "duration": 20,
           "broadcasts": {
@@ -72625,7 +72615,7 @@
           }
         },
         {
-          "name": "Vintage Cup Race 1",
+          "name": "Grand Prix Classics Race 1",
           "time": "2026-06-14T10:10:00-04:00",
           "duration": 20,
           "broadcasts": {
@@ -72635,7 +72625,7 @@
           }
         },
         {
-          "name": "B.R.M Modern Enduro",
+          "name": "B.R.M Legacy/Modern Enduro",
           "time": "2026-06-14T10:40:00-04:00",
           "duration": 60,
           "broadcasts": {
@@ -72645,7 +72635,7 @@
           }
         },
         {
-          "name": "Prototype Challenge Sprint 2",
+          "name": "Prototype Challenge Sprint Race 2",
           "time": "2026-06-14T11:50:00-04:00",
           "duration": 30,
           "broadcasts": {
@@ -72665,7 +72655,7 @@
           }
         },
         {
-          "name": "Prototype Challenge Enduro",
+          "name": "Mission GT Enduro",
           "time": "2026-06-14T13:45:00-04:00",
           "duration": 60,
           "broadcasts": {
@@ -72685,7 +72675,7 @@
           }
         },
         {
-          "name": "B.R.M Legacy Enduro",
+          "name": "Prototype Challenge Enduro",
           "time": "2026-06-14T15:20:00-04:00",
           "duration": 60,
           "broadcasts": {
@@ -72695,7 +72685,7 @@
           }
         },
         {
-          "name": "Mission GT Race 2",
+          "name": "Grand Prix Classics 4C Race 2",
           "time": "2026-06-14T16:30:00-04:00",
           "duration": 20,
           "broadcasts": {
@@ -72705,7 +72695,7 @@
           }
         },
         {
-          "name": "Grand Prix Classics 4C Race 2",
+          "name": "Mission GT Race 2",
           "time": "2026-06-14T16:55:00-04:00",
           "duration": 20,
           "broadcasts": {
