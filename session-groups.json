@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T14:22:27.672Z",
+  "generatedAt": "2026-06-12T14:34:50.632Z",
   "groups": {
     "gt2": [
       {
@@ -1282,7 +1282,8 @@
           "KZ Qualifying",
           "KZ Qualifying Heats",
           "KZ2 Qualifying",
-          "KZ2 Qualifying Heats"
+          "KZ2 Qualifying Heats",
+          "KZ2 Qualifying Heats (Day 2)"
         ]
       },
       {
@@ -1342,6 +1343,7 @@
           "KZ2 Free Practice",
           "KZ2 Qualifying",
           "KZ2 Qualifying Heats",
+          "KZ2 Qualifying Heats (Day 2)",
           "KZ2 Warm-up",
           "KZ2 Warm-up Super Heat",
           "KZ2 Super Heat A",

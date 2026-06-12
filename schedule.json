@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T14:22:22.247Z",
+  "generatedAt": "2026-06-12T14:34:45.305Z",
   "events": [
     {
       "id": 101,
@@ -50332,6 +50332,15 @@
           "name": "OK Qualifying Heats",
           "time": "2026-04-10T13:55:00+02:00",
           "duration": 170,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results23.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "OK Qualifying Heats (Day 2)",
+          "time": "2026-04-11T10:45:00+02:00",
+          "duration": 395,
           "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results23.pdf"
         },
         {
@@ -50380,6 +50389,15 @@
           "name": "Junior Qualifying Heats",
           "time": "2026-04-10T14:15:00+02:00",
           "duration": 185,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results55.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Junior Qualifying Heats (Day 2)",
+          "time": "2026-04-11T10:25:00+02:00",
+          "duration": 395,
           "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results55.pdf"
         },
         {
@@ -50440,6 +50458,15 @@
           "name": "OK Qualifying Heats",
           "time": "2026-05-08T15:15:00+02:00",
           "duration": 235,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results82.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "OK Qualifying Heats (Day 2)",
+          "time": "2026-05-09T11:20:00+02:00",
+          "duration": 410,
           "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results82.pdf"
         },
         {
@@ -50488,6 +50515,15 @@
           "name": "Junior Qualifying Heats",
           "time": "2026-05-08T14:55:00+02:00",
           "duration": 235,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results114.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Junior Qualifying Heats (Day 2)",
+          "time": "2026-05-09T11:00:00+02:00",
+          "duration": 410,
           "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results114.pdf"
         },
         {
@@ -50584,6 +50620,15 @@
           "name": "KZ2 Qualifying Heats",
           "time": "2026-05-22T16:55:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results42.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "KZ2 Qualifying Heats (Day 2)",
+          "time": "2026-05-23T10:40:00+02:00",
+          "duration": 445,
           "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results42.pdf"
         },
         {
@@ -50655,12 +50700,18 @@
         {
           "name": "Junior Qualifying Heats",
           "time": "2026-06-12T14:35:00+02:00",
-          "duration": 235
+          "duration": 235,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "OK Qualifying Heats",
           "time": "2026-06-12T14:55:00+02:00",
-          "duration": 235
+          "duration": 235,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Junior Warm-up",
