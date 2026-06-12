@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T03:02:56.514Z",
+  "generatedAt": "2026-06-12T08:48:51.381Z",
   "flat": {
     "pccasia": [
       {
@@ -611,72 +611,72 @@
       {
         "pos": 1,
         "name": "Tyler Reddick",
-        "points": 657,
+        "points": 669,
         "team": "#45 23XI Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 2,
         "name": "Denny Hamlin",
-        "points": 560,
+        "points": 618,
         "team": "#11 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 3,
         "name": "Ryan Blaney",
-        "points": 483,
+        "points": 512,
         "team": "#12 Team Penske",
         "vehicle": "Ford Mustang Dark Horse"
       },
       {
         "pos": 4,
         "name": "Chase Elliott",
-        "points": 460,
+        "points": 482,
         "team": "#9 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 5,
         "name": "Ty Gibbs",
-        "points": 449,
+        "points": 470,
         "team": "#54 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 6,
         "name": "Kyle Larson",
-        "points": 409,
+        "points": 453,
         "team": "#5 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 7,
-        "name": "Christopher Bell",
-        "points": 399,
-        "team": "#20 Joe Gibbs Racing",
-        "vehicle": "Toyota Camry XSE"
+        "name": "Carson Hocevar",
+        "points": 428,
+        "team": "#77 Spire Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 8,
         "name": "Chris Buescher",
-        "points": 393,
+        "points": 424,
         "team": "#17 RFK Racing",
         "vehicle": "Ford Mustang Dark Horse"
       },
       {
         "pos": 9,
-        "name": "Carson Hocevar",
-        "points": 383,
-        "team": "#77 Spire Motorsports",
+        "name": "Daniel Suárez",
+        "points": 418,
+        "team": "#7 Spire Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 10,
-        "name": "Daniel Suárez",
-        "points": 378,
-        "team": "#7 Spire Motorsports",
-        "vehicle": "Chevrolet Camaro ZL1"
+        "name": "Christopher Bell",
+        "points": 410,
+        "team": "#20 Joe Gibbs Racing",
+        "vehicle": "Toyota Camry XSE"
       }
     ],
     "oreilly": [
