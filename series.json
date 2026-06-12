@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-12T14:34:48.559Z",
+  "generatedAt": "2026-06-12T15:24:52.414Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2398,12 +2398,14 @@
         "Global": "YouTube/GTWorld"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld/streams",
       "resultsUrl": "https://www.gt4-america.com/results",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     },
     "gt4australia": {
