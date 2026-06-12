@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T20:05:09.358Z",
+  "generatedAt": "2026-06-12T20:10:41.617Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3144,6 +3144,12 @@
         {
           "url": "https://www.hsrrace.com/standings/",
           "label": "Per-championship points standings (PDFs)"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.alkamelsystems.com/hsr",
+          "label": "Alkamel Systems — live timing & scoring"
         }
       ],
       "website": [
