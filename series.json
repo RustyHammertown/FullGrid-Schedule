@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-12T17:12:43.778Z",
+  "generatedAt": "2026-06-12T17:20:51.628Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -419,12 +419,20 @@
       "color": "#1E40AF",
       "bg": "rgba(30,64,175,0.15)",
       "broadcast": {
-        "Global": "FloRacing"
+        "US": "FS1"
       },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
       "fallbackMinutes": 90,
       "typicalLapSeconds": 45,
-      "lapBased": true
+      "lapBased": true,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "arcaeast": {
       "id": "arcaeast",
