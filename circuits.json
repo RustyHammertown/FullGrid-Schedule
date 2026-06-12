@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T16:24:10.410Z",
+  "generatedAt": "2026-06-12T16:45:27.530Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2779,6 +2779,53 @@
       "city": "Inglewood",
       "region": "California",
       "website": "https://www.sofistadium.com"
+    },
+    "Estadio Azteca": {
+      "lat": 19.3029,
+      "lon": -99.1505,
+      "city": "Mexico City"
+    },
+    "Estadio Akron": {
+      "lat": 20.6819,
+      "lon": -103.4628,
+      "city": "Zapopan",
+      "region": "Jalisco"
+    },
+    "Estadio BBVA": {
+      "lat": 25.6694,
+      "lon": -100.2444,
+      "city": "Guadalupe",
+      "region": "Nuevo León"
+    },
+    "BC Place": {
+      "lat": 49.2767,
+      "lon": -123.1119,
+      "city": "Vancouver",
+      "region": "British Columbia"
+    },
+    "BMO Field": {
+      "lat": 43.6332,
+      "lon": -79.4185,
+      "city": "Toronto",
+      "region": "Ontario"
+    },
+    "Arrowhead Stadium": {
+      "lat": 39.0489,
+      "lon": -94.4839,
+      "city": "Kansas City",
+      "region": "Missouri"
+    },
+    "Gillette Stadium": {
+      "lat": 42.0909,
+      "lon": -71.2643,
+      "city": "Foxborough",
+      "region": "Massachusetts"
+    },
+    "Levi's Stadium": {
+      "lat": 37.403,
+      "lon": -121.9698,
+      "city": "Santa Clara",
+      "region": "California"
     }
   }
 }

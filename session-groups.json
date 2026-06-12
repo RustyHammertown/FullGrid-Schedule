@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T16:24:13.919Z",
+  "generatedAt": "2026-06-12T16:45:30.448Z",
   "groups": {
     "gt2": [
       {
@@ -3195,6 +3195,80 @@
         "label": "HSCA",
         "sessions": [
           "HSCA Sprint"
+        ]
+      }
+    ],
+    "worldcup": [
+      {
+        "label": "Group A",
+        "sessions": [
+          "Group A Match"
+        ]
+      },
+      {
+        "label": "Group B",
+        "sessions": [
+          "Group B Match"
+        ]
+      },
+      {
+        "label": "Group C",
+        "sessions": [
+          "Group C Match"
+        ]
+      },
+      {
+        "label": "Group D",
+        "sessions": [
+          "Group D Match"
+        ]
+      },
+      {
+        "label": "Group E",
+        "sessions": [
+          "Group E Match"
+        ]
+      },
+      {
+        "label": "Group F",
+        "sessions": [
+          "Group F Match"
+        ]
+      },
+      {
+        "label": "Group G",
+        "sessions": [
+          "Group G Match"
+        ]
+      },
+      {
+        "label": "Group H",
+        "sessions": [
+          "Group H Match"
+        ]
+      },
+      {
+        "label": "Group I",
+        "sessions": [
+          "Group I Match"
+        ]
+      },
+      {
+        "label": "Group J",
+        "sessions": [
+          "Group J Match"
+        ]
+      },
+      {
+        "label": "Group K",
+        "sessions": [
+          "Group K Match"
+        ]
+      },
+      {
+        "label": "Group L",
+        "sessions": [
+          "Group L Match"
         ]
       }
     ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T16:24:09.219Z",
+  "generatedAt": "2026-06-12T16:45:26.519Z",
   "flat": {
     "pccasia": [
       {
@@ -9256,6 +9256,356 @@
             "name": "Seth Henry / Wyatt Foster",
             "points": 40,
             "team": "#44 Kaizen Autosport"
+          }
+        ]
+      }
+    ],
+    "worldcup": [
+      {
+        "className": "Group A",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Mexico",
+            "points": 3,
+            "vehicle": "GD +2 · GF 2"
+          },
+          {
+            "pos": 2,
+            "name": "South Korea",
+            "points": 3,
+            "vehicle": "GD +1 · GF 2"
+          },
+          {
+            "pos": 3,
+            "name": "Czechia",
+            "points": 0,
+            "vehicle": "GD -1 · GF 1"
+          },
+          {
+            "pos": 4,
+            "name": "South Africa",
+            "points": 0,
+            "vehicle": "GD -2 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group B",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Bosnia and Herzegovina",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Canada",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Qatar",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Switzerland",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group C",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Brazil",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Haiti",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Morocco",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Scotland",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group D",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Australia",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Paraguay",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Turkey",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "United States",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group E",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Curaçao",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Ecuador",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Germany",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Ivory Coast",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group F",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Japan",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Netherlands",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Sweden",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Tunisia",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group G",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Belgium",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Egypt",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Iran",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "New Zealand",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group H",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Cape Verde",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Saudi Arabia",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Spain",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Uruguay",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group I",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "France",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Iraq",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Norway",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Senegal",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group J",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Algeria",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "Argentina",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Austria",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Jordan",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group K",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Colombia",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "DR Congo",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Portugal",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Uzbekistan",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          }
+        ]
+      },
+      {
+        "className": "Group L",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Croatia",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 2,
+            "name": "England",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 3,
+            "name": "Ghana",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Panama",
+            "points": 0,
+            "vehicle": "GD 0 · GF 0"
           }
         ]
       }

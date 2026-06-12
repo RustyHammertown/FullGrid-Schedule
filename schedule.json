@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T16:24:07.872Z",
+  "generatedAt": "2026-06-12T16:45:25.383Z",
   "events": [
     {
       "id": 101,
@@ -88364,15 +88364,15 @@
     {
       "id": 9001,
       "series": "worldcup",
-      "name": "Brazil vs Morocco",
-      "circuit": "MetLife Stadium",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/New_York",
+      "name": "Mexico vs South Africa",
+      "circuit": "Estadio Azteca",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
       "sessions": [
         {
-          "name": "Match",
-          "time": "2026-06-13T18:00:00-04:00",
+          "name": "Group A Match",
+          "time": "2026-06-11T13:00:00-06:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -88385,15 +88385,15 @@
     {
       "id": 9002,
       "series": "worldcup",
-      "name": "Germany vs Curaçao",
-      "circuit": "NRG Stadium",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/Chicago",
+      "name": "South Korea vs Czechia",
+      "circuit": "Estadio Akron",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
       "sessions": [
         {
-          "name": "Match",
-          "time": "2026-06-14T12:00:00-05:00",
+          "name": "Group A Match",
+          "time": "2026-06-11T20:00:00-06:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -88406,15 +88406,15 @@
     {
       "id": 9003,
       "series": "worldcup",
-      "name": "Netherlands vs Japan",
-      "circuit": "AT&T Stadium",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/Chicago",
+      "name": "Canada vs Bosnia and Herzegovina",
+      "circuit": "BMO Field",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
       "sessions": [
         {
-          "name": "Match",
-          "time": "2026-06-14T15:00:00-05:00",
+          "name": "Group B Match",
+          "time": "2026-06-12T15:00:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -88427,15 +88427,15 @@
     {
       "id": 9004,
       "series": "worldcup",
-      "name": "Spain vs Cape Verde",
-      "circuit": "Mercedes-Benz Stadium",
+      "name": "United States vs Paraguay",
+      "circuit": "SoFi Stadium",
       "flag": "🇺🇸",
       "country": "USA",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "sessions": [
         {
-          "name": "Match",
-          "time": "2026-06-15T12:00:00-04:00",
+          "name": "Group D Match",
+          "time": "2026-06-12T18:00:00-07:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -88448,15 +88448,15 @@
     {
       "id": 9005,
       "series": "worldcup",
-      "name": "Saudi Arabia vs Uruguay",
-      "circuit": "Hard Rock Stadium",
+      "name": "Qatar vs Switzerland",
+      "circuit": "Levi's Stadium",
       "flag": "🇺🇸",
       "country": "USA",
-      "tz": "America/New_York",
+      "tz": "America/Los_Angeles",
       "sessions": [
         {
-          "name": "Match",
-          "time": "2026-06-15T18:00:00-04:00",
+          "name": "Group B Match",
+          "time": "2026-06-13T12:00:00-07:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -88469,6 +88469,195 @@
     {
       "id": 9006,
       "series": "worldcup",
+      "name": "Brazil vs Morocco",
+      "circuit": "MetLife Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group C Match",
+          "time": "2026-06-13T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9007,
+      "series": "worldcup",
+      "name": "Haiti vs Scotland",
+      "circuit": "Gillette Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group C Match",
+          "time": "2026-06-13T21:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9008,
+      "series": "worldcup",
+      "name": "Australia vs Turkey",
+      "circuit": "BC Place",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "sessions": [
+        {
+          "name": "Group D Match",
+          "time": "2026-06-13T21:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9009,
+      "series": "worldcup",
+      "name": "Germany vs Curaçao",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group E Match",
+          "time": "2026-06-14T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9010,
+      "series": "worldcup",
+      "name": "Netherlands vs Japan",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group F Match",
+          "time": "2026-06-14T15:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9011,
+      "series": "worldcup",
+      "name": "Ivory Coast vs Ecuador",
+      "circuit": "Lincoln Financial Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group E Match",
+          "time": "2026-06-14T19:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9012,
+      "series": "worldcup",
+      "name": "Sweden vs Tunisia",
+      "circuit": "Estadio BBVA",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Monterrey",
+      "sessions": [
+        {
+          "name": "Group F Match",
+          "time": "2026-06-14T20:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9013,
+      "series": "worldcup",
+      "name": "Belgium vs Egypt",
+      "circuit": "Lumen Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group G Match",
+          "time": "2026-06-15T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9014,
+      "series": "worldcup",
+      "name": "Spain vs Cape Verde",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group H Match",
+          "time": "2026-06-15T12:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9015,
+      "series": "worldcup",
       "name": "Iran vs New Zealand",
       "circuit": "SoFi Stadium",
       "flag": "🇺🇸",
@@ -88476,8 +88665,1205 @@
       "tz": "America/Los_Angeles",
       "sessions": [
         {
-          "name": "Match",
+          "name": "Group G Match",
           "time": "2026-06-15T18:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9016,
+      "series": "worldcup",
+      "name": "Saudi Arabia vs Uruguay",
+      "circuit": "Hard Rock Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group H Match",
+          "time": "2026-06-15T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9017,
+      "series": "worldcup",
+      "name": "France vs Senegal",
+      "circuit": "MetLife Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group I Match",
+          "time": "2026-06-16T15:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9018,
+      "series": "worldcup",
+      "name": "Iraq vs Norway",
+      "circuit": "Gillette Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group I Match",
+          "time": "2026-06-16T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9019,
+      "series": "worldcup",
+      "name": "Argentina vs Algeria",
+      "circuit": "Arrowhead Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group J Match",
+          "time": "2026-06-16T20:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9020,
+      "series": "worldcup",
+      "name": "Austria vs Jordan",
+      "circuit": "Levi's Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group J Match",
+          "time": "2026-06-16T21:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9021,
+      "series": "worldcup",
+      "name": "Portugal vs DR Congo",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group K Match",
+          "time": "2026-06-17T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9022,
+      "series": "worldcup",
+      "name": "England vs Croatia",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group L Match",
+          "time": "2026-06-17T15:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9023,
+      "series": "worldcup",
+      "name": "Ghana vs Panama",
+      "circuit": "BMO Field",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Group L Match",
+          "time": "2026-06-17T19:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9024,
+      "series": "worldcup",
+      "name": "Uzbekistan vs Colombia",
+      "circuit": "Estadio Azteca",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "sessions": [
+        {
+          "name": "Group K Match",
+          "time": "2026-06-17T20:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9025,
+      "series": "worldcup",
+      "name": "Czechia vs South Africa",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group A Match",
+          "time": "2026-06-18T12:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9026,
+      "series": "worldcup",
+      "name": "Switzerland vs Bosnia and Herzegovina",
+      "circuit": "SoFi Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group B Match",
+          "time": "2026-06-18T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9027,
+      "series": "worldcup",
+      "name": "Canada vs Qatar",
+      "circuit": "BC Place",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "sessions": [
+        {
+          "name": "Group B Match",
+          "time": "2026-06-18T15:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9028,
+      "series": "worldcup",
+      "name": "Mexico vs South Korea",
+      "circuit": "Estadio Akron",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "sessions": [
+        {
+          "name": "Group A Match",
+          "time": "2026-06-18T19:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9029,
+      "series": "worldcup",
+      "name": "United States vs Australia",
+      "circuit": "Lumen Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group D Match",
+          "time": "2026-06-19T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9030,
+      "series": "worldcup",
+      "name": "Scotland vs Morocco",
+      "circuit": "Gillette Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group C Match",
+          "time": "2026-06-19T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9031,
+      "series": "worldcup",
+      "name": "Turkey vs Paraguay",
+      "circuit": "Levi's Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group D Match",
+          "time": "2026-06-19T20:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9032,
+      "series": "worldcup",
+      "name": "Brazil vs Haiti",
+      "circuit": "Lincoln Financial Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group C Match",
+          "time": "2026-06-19T20:30:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9033,
+      "series": "worldcup",
+      "name": "Netherlands vs Sweden",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group F Match",
+          "time": "2026-06-20T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9034,
+      "series": "worldcup",
+      "name": "Germany vs Ivory Coast",
+      "circuit": "BMO Field",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Group E Match",
+          "time": "2026-06-20T16:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9035,
+      "series": "worldcup",
+      "name": "Ecuador vs Curaçao",
+      "circuit": "Arrowhead Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group E Match",
+          "time": "2026-06-20T19:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9036,
+      "series": "worldcup",
+      "name": "Tunisia vs Japan",
+      "circuit": "Estadio BBVA",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Monterrey",
+      "sessions": [
+        {
+          "name": "Group F Match",
+          "time": "2026-06-20T22:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9037,
+      "series": "worldcup",
+      "name": "Belgium vs Iran",
+      "circuit": "SoFi Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group G Match",
+          "time": "2026-06-21T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9038,
+      "series": "worldcup",
+      "name": "Spain vs Saudi Arabia",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group H Match",
+          "time": "2026-06-21T12:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9039,
+      "series": "worldcup",
+      "name": "New Zealand vs Egypt",
+      "circuit": "BC Place",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "sessions": [
+        {
+          "name": "Group G Match",
+          "time": "2026-06-21T18:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9040,
+      "series": "worldcup",
+      "name": "Uruguay vs Cape Verde",
+      "circuit": "Hard Rock Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group H Match",
+          "time": "2026-06-21T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9041,
+      "series": "worldcup",
+      "name": "Argentina vs Austria",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group J Match",
+          "time": "2026-06-22T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9042,
+      "series": "worldcup",
+      "name": "France vs Iraq",
+      "circuit": "Lincoln Financial Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group I Match",
+          "time": "2026-06-22T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9043,
+      "series": "worldcup",
+      "name": "Norway vs Senegal",
+      "circuit": "MetLife Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group I Match",
+          "time": "2026-06-22T20:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9044,
+      "series": "worldcup",
+      "name": "Jordan vs Algeria",
+      "circuit": "Levi's Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group J Match",
+          "time": "2026-06-22T20:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9045,
+      "series": "worldcup",
+      "name": "Portugal vs Uzbekistan",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group K Match",
+          "time": "2026-06-23T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9046,
+      "series": "worldcup",
+      "name": "England vs Ghana",
+      "circuit": "Gillette Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group L Match",
+          "time": "2026-06-23T16:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9047,
+      "series": "worldcup",
+      "name": "Panama vs Croatia",
+      "circuit": "BMO Field",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Group L Match",
+          "time": "2026-06-23T19:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9048,
+      "series": "worldcup",
+      "name": "Colombia vs DR Congo",
+      "circuit": "Estadio Akron",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "sessions": [
+        {
+          "name": "Group K Match",
+          "time": "2026-06-23T20:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9049,
+      "series": "worldcup",
+      "name": "Switzerland vs Canada",
+      "circuit": "BC Place",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "sessions": [
+        {
+          "name": "Group B Match",
+          "time": "2026-06-24T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9050,
+      "series": "worldcup",
+      "name": "Bosnia and Herzegovina vs Qatar",
+      "circuit": "Lumen Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group B Match",
+          "time": "2026-06-24T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9051,
+      "series": "worldcup",
+      "name": "Scotland vs Brazil",
+      "circuit": "Hard Rock Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group C Match",
+          "time": "2026-06-24T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9052,
+      "series": "worldcup",
+      "name": "Morocco vs Haiti",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group C Match",
+          "time": "2026-06-24T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9053,
+      "series": "worldcup",
+      "name": "Czechia vs Mexico",
+      "circuit": "Estadio Azteca",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "sessions": [
+        {
+          "name": "Group A Match",
+          "time": "2026-06-24T19:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9054,
+      "series": "worldcup",
+      "name": "South Africa vs South Korea",
+      "circuit": "Estadio BBVA",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Monterrey",
+      "sessions": [
+        {
+          "name": "Group A Match",
+          "time": "2026-06-24T19:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9055,
+      "series": "worldcup",
+      "name": "Curaçao vs Ivory Coast",
+      "circuit": "Lincoln Financial Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group E Match",
+          "time": "2026-06-25T16:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9056,
+      "series": "worldcup",
+      "name": "Ecuador vs Germany",
+      "circuit": "MetLife Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group E Match",
+          "time": "2026-06-25T16:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9057,
+      "series": "worldcup",
+      "name": "Japan vs Sweden",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group F Match",
+          "time": "2026-06-25T18:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9058,
+      "series": "worldcup",
+      "name": "Tunisia vs Netherlands",
+      "circuit": "Arrowhead Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group F Match",
+          "time": "2026-06-25T18:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9059,
+      "series": "worldcup",
+      "name": "Turkey vs United States",
+      "circuit": "SoFi Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group D Match",
+          "time": "2026-06-25T19:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9060,
+      "series": "worldcup",
+      "name": "Paraguay vs Australia",
+      "circuit": "Levi's Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group D Match",
+          "time": "2026-06-25T19:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9061,
+      "series": "worldcup",
+      "name": "Norway vs France",
+      "circuit": "Gillette Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group I Match",
+          "time": "2026-06-26T15:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9062,
+      "series": "worldcup",
+      "name": "Senegal vs Iraq",
+      "circuit": "BMO Field",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Group I Match",
+          "time": "2026-06-26T15:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9063,
+      "series": "worldcup",
+      "name": "Uruguay vs Spain",
+      "circuit": "Estadio Akron",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "sessions": [
+        {
+          "name": "Group H Match",
+          "time": "2026-06-26T18:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9064,
+      "series": "worldcup",
+      "name": "Cape Verde vs Saudi Arabia",
+      "circuit": "NRG Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group H Match",
+          "time": "2026-06-26T19:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9065,
+      "series": "worldcup",
+      "name": "Egypt vs Iran",
+      "circuit": "Lumen Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Group G Match",
+          "time": "2026-06-26T20:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9066,
+      "series": "worldcup",
+      "name": "New Zealand vs Belgium",
+      "circuit": "BC Place",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "sessions": [
+        {
+          "name": "Group G Match",
+          "time": "2026-06-26T20:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9067,
+      "series": "worldcup",
+      "name": "Panama vs England",
+      "circuit": "MetLife Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group L Match",
+          "time": "2026-06-27T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9068,
+      "series": "worldcup",
+      "name": "Croatia vs Ghana",
+      "circuit": "Lincoln Financial Field",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group L Match",
+          "time": "2026-06-27T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9069,
+      "series": "worldcup",
+      "name": "Colombia vs Portugal",
+      "circuit": "Hard Rock Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group K Match",
+          "time": "2026-06-27T19:30:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9070,
+      "series": "worldcup",
+      "name": "DR Congo vs Uzbekistan",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Group K Match",
+          "time": "2026-06-27T19:30:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9071,
+      "series": "worldcup",
+      "name": "Algeria vs Austria",
+      "circuit": "Arrowhead Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group J Match",
+          "time": "2026-06-27T21:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9072,
+      "series": "worldcup",
+      "name": "Jordan vs Argentina",
+      "circuit": "AT&T Stadium",
+      "flag": "🇺🇸",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Group J Match",
+          "time": "2026-06-27T21:00:00-05:00",
           "duration": 120,
           "broadcasts": {
             "US": {
