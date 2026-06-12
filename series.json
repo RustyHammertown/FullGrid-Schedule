@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-12T08:48:53.533Z",
+  "generatedAt": "2026-06-12T13:19:55.700Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2127,13 +2127,15 @@
         "Global": "YouTube/fiakartingchampionship9818"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Warmup"
       ],
       "streamUrl": "https://www.youtube.com/@fiakartingchampionship9818/streams",
       "resultsUrl": "https://www.fiakarting.com/competition-list",
       "classGrid": true,
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Warmup"
       ]
     },
     "fiakwc": {

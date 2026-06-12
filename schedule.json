@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T08:48:50.081Z",
+  "generatedAt": "2026-06-12T13:19:52.461Z",
   "events": [
     {
       "id": 101,
@@ -50323,7 +50323,10 @@
           "name": "OK Qualifying",
           "time": "2026-04-10T11:01:00+02:00",
           "duration": 90,
-          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results7.pdf"
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/ok_results7.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "OK Qualifying Heats",
@@ -50368,7 +50371,10 @@
           "name": "Junior Qualifying",
           "time": "2026-04-10T10:40:00+02:00",
           "duration": 90,
-          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results39.pdf"
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/World%20Circuit%20La%20Conca%20-%20Muro%20Leccese/junior_results39.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Junior Qualifying Heats",
@@ -50425,7 +50431,10 @@
           "name": "OK Qualifying",
           "time": "2026-05-08T12:09:00+02:00",
           "duration": 66,
-          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results63.pdf"
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/ok_results63.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "OK Qualifying Heats",
@@ -50470,7 +50479,10 @@
           "name": "Junior Qualifying",
           "time": "2026-05-08T11:54:00+02:00",
           "duration": 66,
-          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results95.pdf"
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Kartodromo%20Internacional%20Lucas%20Guerrero%20-%20Chiva-Valencia/junior_results95.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Junior Qualifying Heats",
@@ -50516,7 +50528,7 @@
       "flag": "🇧🇪",
       "country": "Belgium",
       "tz": "Europe/Brussels",
-      "round": 1,
+      "round": 3,
       "sessions": [
         {
           "name": "KZ Free Practice",
@@ -50526,7 +50538,10 @@
         {
           "name": "KZ Qualifying",
           "time": "2026-05-22T14:35:00+02:00",
-          "duration": 8
+          "duration": 8,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "KZ Qualifying Heats",
@@ -50560,7 +50575,10 @@
           "name": "KZ2 Qualifying",
           "time": "2026-05-22T14:50:00+02:00",
           "duration": 36,
-          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results26.pdf"
+          "resultsUrl": "https://backend.fiakarting.com/sites/default/files/xml_folder/2026/Karting%20Genk/kz2_results26.pdf",
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "KZ2 Qualifying Heats",
@@ -50606,7 +50624,7 @@
       "flag": "🇩🇪",
       "country": "Germany",
       "tz": "Europe/Berlin",
-      "round": 3,
+      "round": 4,
       "sessions": [
         {
           "name": "Junior Free Practice",
@@ -50621,12 +50639,18 @@
         {
           "name": "Junior Qualifying",
           "time": "2026-06-12T11:20:00+02:00",
-          "duration": 60
+          "duration": 60,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "OK Qualifying",
           "time": "2026-06-12T11:35:00+02:00",
-          "duration": 60
+          "duration": 60,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Junior Qualifying Heats",
@@ -50698,7 +50722,7 @@
       "flag": "🇮🇹",
       "country": "Italy",
       "tz": "Europe/Rome",
-      "round": 2,
+      "round": 5,
       "sessions": [
         {
           "name": "KZ Final",
@@ -50720,7 +50744,7 @@
       "flag": "🇸🇪",
       "country": "Sweden",
       "tz": "Europe/Stockholm",
-      "round": 4,
+      "round": 6,
       "sessions": [
         {
           "name": "OK Final",
