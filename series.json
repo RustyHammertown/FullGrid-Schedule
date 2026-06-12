@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-12T19:46:31.929Z",
+  "generatedAt": "2026-06-12T19:59:46.036Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1681,13 +1681,13 @@
       "color": "#0EA5E9",
       "bg": "rgba(14,165,233,0.15)",
       "broadcast": {
-        "Global": "YouTube/SpeedTourTV"
+        "Global": "YouTube/racingamericatv"
       },
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
-      "streamUrl": "https://www.youtube.com/@SpeedTourTV/streams",
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://www.framericas.com/pages/2026-results",
       "unstreamedCategories": [
         "Practice",
@@ -2587,13 +2587,13 @@
       "color": "#CA8A04",
       "bg": "rgba(202,138,4,0.15)",
       "broadcast": {
-        "Global": "YouTube/SpeedTourTV"
+        "Global": "YouTube/racingamericatv"
       },
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
-      "streamUrl": "https://www.youtube.com/@SpeedTourTV/streams",
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://internationalgt.net/race-results/",
       "unstreamedCategories": [
         "Practice",
@@ -2614,13 +2614,13 @@
       "color": "#0D9488",
       "bg": "rgba(13,148,136,0.15)",
       "broadcast": {
-        "Global": "YouTube/SpeedTourTV"
+        "Global": "YouTube/racingamericatv"
       },
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
-      "streamUrl": "https://www.youtube.com/@SpeedTourTV/streams",
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://svra.com/race-results/",
       "unstreamedCategories": [
         "Practice",
@@ -2643,13 +2643,13 @@
       "color": "#7E22CE",
       "bg": "rgba(126,34,206,0.15)",
       "broadcast": {
-        "Global": "YouTube/SpeedTourTV"
+        "Global": "YouTube/racingamericatv"
       },
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"
       ],
-      "streamUrl": "https://www.youtube.com/@SpeedTourTV/streams",
+      "streamUrl": "https://www.youtube.com/@racingamericatv/streams",
       "resultsUrl": "https://svra.com/race-results/",
       "classGrid": true,
       "unstreamedCategories": [
