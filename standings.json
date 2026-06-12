@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T16:45:26.519Z",
+  "generatedAt": "2026-06-12T16:49:42.355Z",
   "flat": {
     "pccasia": [
       {
@@ -9614,7 +9614,8 @@
   "labels": {
     "gtwce": "Team Standings",
     "elms": "Team Standings",
-    "alms": "Team Standings"
+    "alms": "Team Standings",
+    "worldcup": "Team Standings"
   },
   "lastUpdated": {
     "c24h": "2026-06-08",
