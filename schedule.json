@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T17:38:42.104Z",
+  "generatedAt": "2026-06-13T17:46:57.885Z",
   "events": [
     {
       "id": 101,
@@ -50675,24 +50675,14 @@
           }
         },
         {
-          "name": "Junior Warm-up",
-          "time": "2026-06-13T08:50:00+02:00",
-          "duration": 45
-        },
-        {
-          "name": "OK Warm-up",
-          "time": "2026-06-13T09:00:00+02:00",
-          "duration": 45
-        },
-        {
           "name": "Junior Qualifying Heats (Day 2)",
-          "time": "2026-06-13T11:00:00+02:00",
-          "duration": 415
+          "time": "2026-06-13T09:00:00+02:00",
+          "duration": 555
         },
         {
           "name": "OK Qualifying Heats (Day 2)",
-          "time": "2026-06-13T11:20:00+02:00",
-          "duration": 415
+          "time": "2026-06-13T09:20:00+02:00",
+          "duration": 535
         },
         {
           "name": "Junior Warm-up Super Heat",
