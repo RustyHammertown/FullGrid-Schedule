@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:29:43.580Z",
+  "generatedAt": "2026-06-13T19:55:44.420Z",
   "groups": {
     "gt2": [
       {
@@ -601,7 +601,10 @@
         "label": "Practice",
         "sessions": [
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {
@@ -667,7 +670,9 @@
         "label": "Practice",
         "sessions": [
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {
