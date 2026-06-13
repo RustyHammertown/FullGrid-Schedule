@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:24:00.812Z",
+  "generatedAt": "2026-06-13T19:29:38.224Z",
   "events": [
     {
       "id": 101,
@@ -69956,9 +69956,7 @@
           "time": "2026-06-13T08:00:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -69966,9 +69964,7 @@
           "time": "2026-06-13T13:50:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -69976,9 +69972,7 @@
           "time": "2026-06-14T13:30:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -69996,9 +69990,7 @@
           "time": "2026-06-13T12:00:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70006,9 +69998,7 @@
           "time": "2026-06-13T18:05:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70016,9 +70006,7 @@
           "time": "2026-06-14T15:25:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70036,9 +70024,7 @@
           "time": "2026-06-13T09:30:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70046,9 +70032,7 @@
           "time": "2026-06-13T15:05:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70056,9 +70040,7 @@
           "time": "2026-06-14T11:20:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70076,9 +70058,7 @@
           "time": "2026-06-13T10:30:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70086,9 +70066,7 @@
           "time": "2026-06-13T16:20:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         },
         {
@@ -70096,9 +70074,7 @@
           "time": "2026-06-14T10:00:00-04:00",
           "duration": 25,
           "broadcasts": {
-            "Global": {
-              "service": "YouTube/racingamericatv"
-            }
+            "Global": "Not Televised"
           }
         }
       ]
