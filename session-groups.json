@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T20:22:42.513Z",
+  "generatedAt": "2026-06-13T20:32:05.685Z",
   "groups": {
     "gt2": [
       {
@@ -639,6 +639,20 @@
         "label": "Warmup",
         "sessions": [
           "Warm Up"
+        ]
+      },
+      {
+        "label": "GT3",
+        "sessions": [
+          "GT3 Qualifying 1",
+          "GT3 Qualifying 2"
+        ]
+      },
+      {
+        "label": "GT4",
+        "sessions": [
+          "GT4 Qualifying 1",
+          "GT4 Qualifying 2"
         ]
       }
     ],

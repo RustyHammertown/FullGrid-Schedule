@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-13T20:22:40.468Z",
+  "generatedAt": "2026-06-13T20:32:03.506Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1864,6 +1864,7 @@
       "short": "British GT",
       "color": "#1D4ED8",
       "bg": "rgba(29,78,216,0.15)",
+      "classGrid": true,
       "broadcast": {
         "Global": "YouTube/GTWorld"
       },
@@ -3723,6 +3724,7 @@
       "Warm-up",
       "Super Heat",
       "Practice",
+      "Pre-Qualifying",
       "Hyperpole",
       "Qualifying",
       "Sprint",
