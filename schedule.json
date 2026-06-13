@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T18:29:55.684Z",
+  "generatedAt": "2026-06-13T18:36:13.750Z",
   "events": [
     {
       "id": 101,
@@ -50633,66 +50633,48 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Junior Free Practice",
+          "name": "Free Practice",
           "time": "2026-06-12T09:10:00+02:00",
-          "duration": 70
+          "duration": 85
         },
         {
-          "name": "OK Free Practice",
-          "time": "2026-06-12T09:25:00+02:00",
-          "duration": 70
-        },
-        {
-          "name": "Junior Qualifying",
+          "name": "Qualifying Practice",
           "time": "2026-06-12T11:20:00+02:00",
-          "duration": 66,
+          "duration": 81,
           "broadcasts": {
             "Global": "Not Televised"
           }
         },
         {
-          "name": "OK Qualifying",
-          "time": "2026-06-12T11:35:00+02:00",
-          "duration": 66,
-          "broadcasts": {
-            "Global": "Not Televised"
-          }
-        },
-        {
-          "name": "Junior Qualifying Heats",
+          "name": "Qualifying Heats 1",
           "time": "2026-06-12T14:35:00+02:00",
-          "duration": 167,
+          "duration": 115,
           "broadcasts": {
             "Global": "Not Televised"
           }
         },
         {
-          "name": "OK Qualifying Heats",
-          "time": "2026-06-12T14:55:00+02:00",
-          "duration": 167,
+          "name": "Qualifying Heats 2",
+          "time": "2026-06-12T17:10:00+02:00",
+          "duration": 35,
           "broadcasts": {
             "Global": "Not Televised"
           }
         },
         {
-          "name": "Junior Qualifying Heats (Day 2)",
+          "name": "Qualifying Heats 3",
           "time": "2026-06-13T09:00:00+02:00",
-          "duration": 547
+          "duration": 275
         },
         {
-          "name": "OK Qualifying Heats (Day 2)",
-          "time": "2026-06-13T09:20:00+02:00",
-          "duration": 547
+          "name": "Qualifying Heats 4",
+          "time": "2026-06-13T15:15:00+02:00",
+          "duration": 195
         },
         {
-          "name": "Junior Warm-up Super Heat",
+          "name": "Warm Up",
           "time": "2026-06-14T08:30:00+02:00",
-          "duration": 40
-        },
-        {
-          "name": "OK Warm-up Super Heat",
-          "time": "2026-06-14T08:45:00+02:00",
-          "duration": 40
+          "duration": 55
         },
         {
           "name": "Junior Super Heat A",
