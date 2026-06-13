@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T17:34:34.081Z",
+  "generatedAt": "2026-06-13T17:38:43.364Z",
   "flat": {
     "pccasia": [
       {
@@ -9300,16 +9300,16 @@
           {
             "pos": 1,
             "name": "Bosnia and Herzegovina",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 2,
             "name": "Canada",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 3,
@@ -9365,14 +9365,14 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Australia",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "USA",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +3 · GF 4"
           },
           {
             "pos": 2,
-            "name": "Paraguay",
+            "name": "Australia",
             "points": 0,
             "team": "0W 0D 0L",
             "vehicle": "GD 0 · GF 0"
@@ -9386,10 +9386,10 @@
           },
           {
             "pos": 4,
-            "name": "United States",
+            "name": "Paraguay",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -3 · GF 1"
           }
         ]
       },
