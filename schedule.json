@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T18:49:39.713Z",
+  "generatedAt": "2026-06-13T18:53:48.248Z",
   "events": [
     {
       "id": 101,
@@ -50635,12 +50635,12 @@
         {
           "name": "OK · Junior Free Practice",
           "time": "2026-06-12T09:10:00+02:00",
-          "duration": 85
+          "duration": 75
         },
         {
           "name": "OK · Junior Qualifying Practice",
           "time": "2026-06-12T11:20:00+02:00",
-          "duration": 81,
+          "duration": 75,
           "broadcasts": {
             "Global": "Not Televised"
           }
@@ -50648,7 +50648,7 @@
         {
           "name": "OK · Junior Qualifying Heats 1",
           "time": "2026-06-12T14:35:00+02:00",
-          "duration": 115,
+          "duration": 100,
           "broadcasts": {
             "Global": "Not Televised"
           }
@@ -50656,7 +50656,7 @@
         {
           "name": "OK · Junior Qualifying Heats 2",
           "time": "2026-06-12T17:10:00+02:00",
-          "duration": 35,
+          "duration": 20,
           "broadcasts": {
             "Global": "Not Televised"
           }
@@ -50664,17 +50664,17 @@
         {
           "name": "OK · Junior Qualifying Heats 3",
           "time": "2026-06-13T09:00:00+02:00",
-          "duration": 275
+          "duration": 260
         },
         {
           "name": "OK · Junior Qualifying Heats 4",
           "time": "2026-06-13T15:15:00+02:00",
-          "duration": 195
+          "duration": 180
         },
         {
           "name": "OK · Junior Warm-up",
           "time": "2026-06-14T08:30:00+02:00",
-          "duration": 55
+          "duration": 45
         },
         {
           "name": "Junior Super Heat A",
