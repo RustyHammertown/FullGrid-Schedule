@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:55:39.137Z",
+  "generatedAt": "2026-06-13T20:22:37.223Z",
   "events": [
     {
       "id": 101,
@@ -65357,6 +65357,323 @@
               "service": "YouTube/GTWorld"
             }
           }
+        }
+      ]
+    },
+    {
+      "id": 3050,
+      "series": "britishgt",
+      "name": "Silverstone 500",
+      "circuit": "Silverstone Circuit",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-04-25T09:30:00+01:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-04-25T12:15:00+01:00",
+          "duration": 60
+        },
+        {
+          "name": "GT3 Qualifying 1",
+          "time": "2026-04-25T15:45:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-04-25T15:59:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-04-25T16:13:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-04-25T16:28:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Warm Up",
+          "time": "2026-04-26T09:40:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Race",
+          "time": "2026-04-26T13:00:00+01:00",
+          "duration": 180
+        }
+      ]
+    },
+    {
+      "id": 3051,
+      "series": "britishgt",
+      "name": "Oulton Park",
+      "circuit": "Oulton Park",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-05-23T09:30:00+01:00",
+          "duration": 60
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-05-23T12:00:00+01:00",
+          "duration": 60
+        },
+        {
+          "name": "GT3 Qualifying 1",
+          "time": "2026-05-23T15:35:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-05-23T15:49:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-05-23T16:03:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-05-23T16:18:00+01:00",
+          "duration": 10
+        },
+        {
+          "name": "Warm Up",
+          "time": "2026-05-25T09:15:00+01:00",
+          "duration": 15
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-05-25T11:05:00+01:00",
+          "duration": 60
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-05-25T15:45:00+01:00",
+          "duration": 60
+        }
+      ]
+    },
+    {
+      "id": 3052,
+      "series": "britishgt",
+      "name": "Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag": "🇧🇪",
+      "country": "Belgium",
+      "tz": "Europe/Brussels",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Free Practice 1",
+          "time": "2026-06-20T09:00:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-20T13:10:00+02:00",
+          "duration": 60
+        },
+        {
+          "name": "GT3 Qualifying 1",
+          "time": "2026-06-20T18:35:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-06-20T18:45:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-06-20T19:15:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-06-20T19:25:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-21T14:20:00+02:00",
+          "duration": 120
+        }
+      ]
+    },
+    {
+      "id": 3053,
+      "series": "britishgt",
+      "name": "Snetterton",
+      "circuit": "Snetterton",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT3 Qualifying 1",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Warm Up",
+          "time": "2026-08-16T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-08-15T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-08-16T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 3054,
+      "series": "britishgt",
+      "name": "Donington Park",
+      "circuit": "Donington Park",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-09-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-09-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT3 Qualifying 1",
+          "time": "2026-09-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-09-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-09-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-09-05T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Warm Up",
+          "time": "2026-09-06T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-06T13:00:00+01:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 3055,
+      "series": "britishgt",
+      "name": "Brands Hatch",
+      "circuit": "Brands Hatch",
+      "flag": "🇬🇧",
+      "country": "United Kingdom",
+      "tz": "Europe/London",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Free Practice",
+          "time": "2026-09-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Pre-Qualifying",
+          "time": "2026-09-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT3 Qualifying 1",
+          "time": "2026-09-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-09-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-09-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-09-26T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Warm Up",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-27T13:00:00+01:00",
+          "tbd": true
         }
       ]
     },

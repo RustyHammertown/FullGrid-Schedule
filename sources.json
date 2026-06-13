@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:55:43.406Z",
+  "generatedAt": "2026-06-13T20:22:41.499Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -1523,6 +1523,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/GTWorldChallengeEurope/"
+        }
+      ]
+    },
+    "britishgt": {
+      "schedule": [
+        {
+          "url": "https://www.britishgt.com/calendar",
+          "label": "Official calendar (per-event timetable PDFs)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.britishgt.com/results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.britishgt.com/standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.britishgt.com/",
+          "label": "British GT Championship — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.tsl-timing.com/Results/bf3gt",
+          "label": "TSL Timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/british_gt"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/britishgt"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/BritishGT"
         }
       ]
     },

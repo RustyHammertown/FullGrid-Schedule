@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:55:40.301Z",
+  "generatedAt": "2026-06-13T20:22:38.395Z",
   "flat": {
     "pccasia": [
       {
@@ -4090,6 +4090,158 @@
     ]
   },
   "classes": {
+    "britishgt": [
+      {
+        "className": "GT3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Andrew Howard / Ross Gunn",
+            "points": 54,
+            "vehicle": "Aston Martin Vantage AMR GT3 Evo",
+            "team": "#7 Beechdean Motorsport"
+          },
+          {
+            "pos": 2,
+            "name": "Jonathon Beeson / Charles Clark",
+            "points": 47.5,
+            "vehicle": "BMW M4 GT3 Evo",
+            "team": "#44 Century Motorsport"
+          },
+          {
+            "pos": 3,
+            "name": "Morgan Tillbrook / Ben Barnicoat",
+            "points": 46,
+            "vehicle": "McLaren 720S GT3 Evo",
+            "team": "#77 Optimum Motorsport"
+          },
+          {
+            "pos": 4,
+            "name": "Alex Martin / Jarrod Waberski",
+            "points": 42.5,
+            "vehicle": "Lamborghini Huracán GT3 Evo 2",
+            "team": "#78 Barwell Motorsport"
+          },
+          {
+            "pos": 5,
+            "name": "Rob Collard / Hugo Cook",
+            "points": 37,
+            "vehicle": "Lamborghini Huracán GT3 Evo 2",
+            "team": "#63 Barwell Motorsport"
+          },
+          {
+            "pos": 6,
+            "name": "Simon Orange / Marcus Clutton",
+            "points": 29,
+            "vehicle": "McLaren 720S GT3 Evo",
+            "team": "#67 Orange Racing powered by JMH"
+          },
+          {
+            "pos": 7,
+            "name": "Marc Warren / Jack Brown",
+            "points": 24.5,
+            "vehicle": "McLaren 720S GT3 Evo",
+            "team": "#90 Optimum Motorsport"
+          },
+          {
+            "pos": 8,
+            "name": "Kevin Tse / Ben Green",
+            "points": 23,
+            "vehicle": "Mercedes-AMG GT3 Evo",
+            "team": "#18 2 Seas Motorsport"
+          },
+          {
+            "pos": 9,
+            "name": "Mark Smith / Martin Plowman",
+            "points": 21,
+            "vehicle": "McLaren 720S GT3 Evo",
+            "team": "#9 Paddock Motorsport"
+          },
+          {
+            "pos": 10,
+            "name": "Aaron Walker / Andrew Gilbert",
+            "points": 17,
+            "vehicle": "Mercedes-AMG GT3 Evo",
+            "team": "#15 2 Seas Motorsport"
+          }
+        ]
+      },
+      {
+        "className": "GT4",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Thomas Holland / Hadley Simpson",
+            "points": 67.5,
+            "vehicle": "Ginetta G56 GT4 Evo",
+            "team": "#74 Innovation Racing"
+          },
+          {
+            "pos": 2,
+            "name": "Will Orton / Jessica Hawkins",
+            "points": 63,
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo",
+            "team": "#21 MK Racing"
+          },
+          {
+            "pos": 3,
+            "name": "Jack Collins / Branden Templeton",
+            "points": 55,
+            "vehicle": "BMW M4 GT4 Evo",
+            "team": "#24 Century Motorsport"
+          },
+          {
+            "pos": 4,
+            "name": "Daniel Lavery / Darren Turner",
+            "points": 31,
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo",
+            "team": "#27 Grange Racing with FSR"
+          },
+          {
+            "pos": 5,
+            "name": "Luke Shaw / Jack Mitchell",
+            "points": 25,
+            "vehicle": "Ginetta G56 GT4 Evo",
+            "team": "#42"
+          },
+          {
+            "pos": 6,
+            "name": "Luca Hopkinson / Josh Stanton",
+            "points": 22.5,
+            "vehicle": "McLaren Artura GT4",
+            "team": "#59 Optimum Motorsport"
+          },
+          {
+            "pos": 7,
+            "name": "Revie Lake / Blake Angliss",
+            "points": 22,
+            "vehicle": "McLaren Artura GT4",
+            "team": "#84 Mahiki Racing"
+          },
+          {
+            "pos": 8,
+            "name": "John Hartshorne / Ronan Pearson",
+            "points": 20,
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo",
+            "team": "#97 GBR Stratton Motorsport"
+          },
+          {
+            "pos": 9,
+            "name": "Ian Duggan / Tom Bradshaw",
+            "points": 18,
+            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport",
+            "team": "#8 Toro Verde GT"
+          },
+          {
+            "pos": 10,
+            "name": "Ernie Graham / Colin Turkington",
+            "points": 13,
+            "vehicle": "BMW M4 GT4 Evo",
+            "team": "#61 WSR Flexifly"
+          }
+        ]
+      }
+    ],
     "c24h": [
       {
         "className": "GT3",
@@ -9696,6 +9848,7 @@
     "minitrophy": "2026-05-24",
     "pccgb": "2026-05-24",
     "gt3revival": "2026-05-24",
+    "britishgt": "2026-05-25",
     "fiakeuro": "2026-05-24",
     "agtm": "2026-05-24",
     "oreilly": "2026-05-30",

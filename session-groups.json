@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:55:44.420Z",
+  "generatedAt": "2026-06-13T20:22:42.513Z",
   "groups": {
     "gt2": [
       {
@@ -613,6 +613,32 @@
           "Qualifying",
           "Qualifying 1",
           "Qualifying 2"
+        ]
+      }
+    ],
+    "britishgt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Pre-Qualifying",
+          "GT3 Qualifying 1",
+          "GT3 Qualifying 2",
+          "GT4 Qualifying 1",
+          "GT4 Qualifying 2"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warm Up"
         ]
       }
     ],

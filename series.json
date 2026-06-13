@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-13T19:55:42.369Z",
+  "generatedAt": "2026-06-13T20:22:40.468Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1841,6 +1841,40 @@
       },
       "streamUrl": "https://www.youtube.com/@GTWorld/streams",
       "resultsUrl": "https://www.gt-world-challenge-europe.com/results"
+    },
+    "britishgt": {
+      "id": "britishgt",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "gt4",
+        "regional-series",
+        "europe",
+        "aston-martin",
+        "bmw",
+        "mclaren",
+        "lamborghini",
+        "mercedes-amg",
+        "porsche",
+        "sro"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "British GT Championship",
+      "short": "British GT",
+      "color": "#1D4ED8",
+      "bg": "rgba(29,78,216,0.15)",
+      "broadcast": {
+        "Global": "YouTube/GTWorld"
+      },
+      "notTelevisedCategories": [
+        "Practice"
+      ],
+      "streamUrl": "https://www.youtube.com/@GTWorld/streams",
+      "resultsUrl": "https://www.britishgt.com/results",
+      "unstreamedCategories": [
+        "Practice"
+      ]
     },
     "gt2": {
       "id": "gt2",
