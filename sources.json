@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T08:52:13.803Z",
+  "generatedAt": "2026-06-13T17:34:37.179Z",
   "sources": {
     "f1": {
       "schedule": [
@@ -3171,6 +3171,32 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/HSRrace"
+        }
+      ]
+    },
+    "worldcup": {
+      "schedule": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+          "label": "FIFA World Cup 2026 — fixtures (Wikipedia)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_group_stage",
+          "label": "Group standings + results (Wikipedia)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+          "label": "FIFA World Cup 2026 (Wikipedia)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+          "label": "FIFA — official"
         }
       ]
     },
