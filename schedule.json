@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T20:43:55.071Z",
+  "generatedAt": "2026-06-13T21:08:56.905Z",
   "events": [
     {
       "id": 101,
@@ -7729,8 +7729,8 @@
         },
         {
           "name": "Moto2 Practice 1",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-19T09:50:00+02:00",
+          "duration": 40,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7739,13 +7739,18 @@
         },
         {
           "name": "Moto2 Practice",
-          "time": "2026-06-21T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-19T14:05:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
         },
         {
           "name": "Moto2 Practice 2",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-20T09:25:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7754,8 +7759,8 @@
         },
         {
           "name": "Moto2 Qualifying 1",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-20T13:40:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7764,8 +7769,8 @@
         },
         {
           "name": "Moto2 Qualifying 2",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-20T14:05:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7925,8 +7930,8 @@
         },
         {
           "name": "Moto3 Practice 1",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-19T09:00:00+02:00",
+          "duration": 40,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7935,13 +7940,18 @@
         },
         {
           "name": "Moto3 Practice",
-          "time": "2026-06-21T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-19T13:15:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
         },
         {
           "name": "Moto3 Practice 2",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-20T08:40:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7950,8 +7960,8 @@
         },
         {
           "name": "Moto3 Qualifying 1",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-20T12:45:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7960,8 +7970,8 @@
         },
         {
           "name": "Moto3 Qualifying 2",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-20T13:10:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -85322,24 +85332,29 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-06-19T21:30:00+09:30",
-          "tbd": true
+          "name": "Practice 1",
+          "time": "2026-06-19T09:40:00+09:30",
+          "duration": 25
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-19T15:10:00+09:30",
+          "duration": 25
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T21:30:00+09:30",
-          "tbd": true
+          "time": "2026-06-20T08:45:00+09:30",
+          "duration": 30
         },
         {
           "name": "Race 1",
-          "time": "2026-06-20T21:30:00+09:30",
-          "tbd": true
+          "time": "2026-06-20T12:55:00+09:30",
+          "duration": 45
         },
         {
           "name": "Race 2",
-          "time": "2026-06-21T21:30:00+09:30",
-          "tbd": true
+          "time": "2026-06-21T12:15:00+09:30",
+          "duration": 45
         }
       ]
     },
@@ -86133,23 +86148,23 @@
       "sessions": [
         {
           "name": "Free Practice",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-19T15:40:00+02:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-20T10:10:00+02:00",
+          "duration": 40
         },
         {
           "name": "Race 1",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-20T16:45:00+02:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-06-21T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-21T12:30:00+02:00",
+          "duration": 30
         }
       ]
     },
