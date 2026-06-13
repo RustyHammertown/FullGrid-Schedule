@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T18:56:58.203Z",
+  "generatedAt": "2026-06-13T19:02:16.059Z",
   "events": [
     {
       "id": 101,
@@ -50635,7 +50635,7 @@
         {
           "name": "OK · Junior Free Practice",
           "time": "2026-06-12T09:10:00+02:00",
-          "duration": 90
+          "duration": 85
         },
         {
           "name": "OK · Junior Qualifying Practice",
