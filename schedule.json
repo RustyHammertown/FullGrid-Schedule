@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T19:02:16.059Z",
+  "generatedAt": "2026-06-13T19:24:00.812Z",
   "events": [
     {
       "id": 101,
@@ -50719,6 +50719,44 @@
       "round": 5,
       "sessions": [
         {
+          "name": "KZ · KZ2 Free Practice",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ · KZ2 Qualifying Practice",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ · KZ2 Qualifying Heats",
+          "time": "2026-07-03T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "KZ · KZ2 Qualifying Heats (Day 2)",
+          "time": "2026-07-04T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ · KZ2 Warm-up",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ Super Heat",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "KZ2 Super Heat",
+          "time": "2026-07-05T14:00:00+02:00",
+          "tbd": true
+        },
+        {
           "name": "KZ Final",
           "time": "2026-07-05T14:00:00+02:00",
           "tbd": true
@@ -50741,12 +50779,60 @@
       "round": 6,
       "sessions": [
         {
-          "name": "OK Final",
+          "name": "OK · Junior Free Practice",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK · Junior Qualifying Practice",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK · Junior Qualifying Heats",
+          "time": "2026-07-31T14:00:00+02:00",
+          "tbd": true,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "OK · Junior Qualifying Heats (Day 2)",
+          "time": "2026-08-01T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK · Junior Warm-up",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Super Heat A",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK Super Heat A",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "Junior Super Heat B",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK Super Heat B",
           "time": "2026-08-02T14:00:00+02:00",
           "tbd": true
         },
         {
           "name": "Junior Final",
+          "time": "2026-08-02T14:00:00+02:00",
+          "tbd": true
+        },
+        {
+          "name": "OK Final",
           "time": "2026-08-02T14:00:00+02:00",
           "tbd": true
         }
