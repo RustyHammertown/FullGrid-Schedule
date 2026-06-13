@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T01:11:05.438Z",
+  "generatedAt": "2026-06-13T08:52:10.845Z",
   "flat": {
     "pccasia": [
       {
@@ -1624,70 +1624,70 @@
       {
         "pos": 1,
         "name": "Jake Bollman",
-        "points": 308,
+        "points": 348,
         "team": "#20 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 2,
         "name": "Thomas Annunziata",
-        "points": 283,
+        "points": 321,
         "team": "#70 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 3,
         "name": "Ryan Vargas",
-        "points": 280,
+        "points": 315,
         "team": "#91 Maples Motorsports",
         "vehicle": "Ford Mustang"
       },
       {
         "pos": 4,
+        "name": "Isabella Robusto",
+        "points": 288,
+        "team": "#55 Nitro Motorsports",
+        "vehicle": "Toyota Camry"
+      },
+      {
+        "pos": 5,
+        "name": "Jason Kitzmiller",
+        "points": 278,
+        "team": "#97 CR7 Motorsports",
+        "vehicle": "Chevrolet Camaro"
+      },
+      {
+        "pos": 6,
+        "name": "Takuma Koga",
+        "points": 264,
+        "team": "#12 Fast Track Racing",
+        "vehicle": "Toyota Camry"
+      },
+      {
+        "pos": 7,
         "name": "Andy Jankowiak",
         "points": 263,
         "team": "#71 KLAS Motorsports",
         "vehicle": "Chevrolet Camaro"
       },
       {
-        "pos": 5,
-        "name": "Isabella Robusto",
-        "points": 257,
-        "team": "#55 Nitro Motorsports",
-        "vehicle": "Toyota Camry"
-      },
-      {
-        "pos": 6,
-        "name": "Jason Kitzmiller",
-        "points": 243,
-        "team": "#97 CR7 Motorsports",
-        "vehicle": "Chevrolet Camaro"
-      },
-      {
-        "pos": 7,
-        "name": "Takuma Koga",
-        "points": 232,
-        "team": "#12 Fast Track Racing",
-        "vehicle": "Toyota Camry"
-      },
-      {
         "pos": 8,
         "name": "Michael Maples",
-        "points": 223,
+        "points": 249,
         "team": "#99 Maples Motorsports",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 9,
-        "name": "Bobby Dale Earnhardt",
-        "points": 200,
-        "team": "#89 Rise Racing",
-        "vehicle": "Chevrolet Camaro"
+        "name": "Gio Ruggiero",
+        "points": 231,
+        "team": "#18 Joe Gibbs Racing",
+        "vehicle": "Toyota Camry"
       },
       {
         "pos": 10,
         "name": "Alex Clubb",
-        "points": 195,
+        "points": 224,
         "team": "#03 Clubb Racing Inc.",
         "vehicle": "Ford Mustang"
       }
@@ -1902,61 +1902,61 @@
       {
         "pos": 1,
         "name": "David Gravel",
-        "points": 3756,
+        "points": 3898,
         "team": "Watertown, CT"
       },
       {
         "pos": 2,
         "name": "Carson Macedo",
-        "points": 3686,
+        "points": 3816,
         "team": "Lemoore, CA"
       },
       {
         "pos": 3,
         "name": "Michael Kofoid",
-        "points": 3670,
+        "points": 3802,
         "team": "Penngrove, CA"
       },
       {
         "pos": 4,
         "name": "Sheldon Haudenschild",
-        "points": 3612,
+        "points": 3758,
         "team": "Wooster, OH"
       },
       {
         "pos": 5,
         "name": "Donny Schatz",
-        "points": 3542,
+        "points": 3664,
         "team": "Fargo, ND"
       },
       {
         "pos": 6,
         "name": "Logan Schuchart",
-        "points": 3520,
+        "points": 3664,
         "team": "Hanover, PA"
       },
       {
         "pos": 7,
         "name": "Garet Williamson",
-        "points": 3346,
+        "points": 3462,
         "team": "Columbia, MO"
       },
       {
         "pos": 8,
         "name": "Cole Macedo",
-        "points": 3316,
+        "points": 3442,
         "team": "Lemoore, CA"
       },
       {
         "pos": 9,
         "name": "Chris Windom",
-        "points": 3250,
+        "points": 3354,
         "team": "Canton, IL"
       },
       {
         "pos": 10,
         "name": "Spencer Bayston",
-        "points": 3234,
+        "points": 3344,
         "team": "Lebanon, IN"
       }
     ],
@@ -6115,63 +6115,63 @@
           {
             "pos": 1,
             "name": "Óscar Tunjo",
-            "points": 1950,
+            "points": 2650,
             "team": "#1 Gebhardt Motorsport",
             "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 2,
-            "name": "Brian Thienes",
-            "points": 1700,
-            "team": "#77 Forte Racing",
-            "vehicle": "Ligier JS P320"
-          },
-          {
-            "pos": 3,
             "name": "Danny Soufi",
-            "points": 1600,
+            "points": 2240,
             "team": "#11 Gebhardt Motorsport",
             "vehicle": "Duqueine M30-D08"
           },
           {
+            "pos": 3,
+            "name": "Brian Thienes",
+            "points": 2160,
+            "team": "#77 Forte Racing",
+            "vehicle": "Ligier JS P320"
+          },
+          {
             "pos": 4,
             "name": "Travis Hill",
-            "points": 1510,
+            "points": 2060,
             "team": "#2 Shopify Racing powered by TWOth",
             "vehicle": "Ligier JS P325"
           },
           {
             "pos": 5,
             "name": "Farhan Siddiqi",
-            "points": 1410,
+            "points": 1900,
             "team": "#87 FastMD with Remstar",
             "vehicle": "Duqueine M30-D08"
           },
           {
             "pos": 6,
+            "name": "Lincoln Day",
+            "points": 1390,
+            "team": "#95 Toney Driver Development",
+            "vehicle": "Ligier JS P325"
+          },
+          {
+            "pos": 7,
             "name": "Wyatt Brichacek",
             "points": 1300,
             "team": "#30 Toney Driver Development",
             "vehicle": "Ligier JS P325"
           },
           {
-            "pos": 7,
+            "pos": 8,
             "name": "Mirco Schultis",
             "points": 1000,
             "team": "#70 Mishumotors",
             "vehicle": "Ligier JS P320"
           },
           {
-            "pos": 8,
+            "pos": 9,
             "name": "Titus Sherlock",
             "points": 990,
-            "team": "#95 Toney Driver Development",
-            "vehicle": "Ligier JS P325"
-          },
-          {
-            "pos": 9,
-            "name": "Lincoln Day",
-            "points": 830,
             "team": "#95 Toney Driver Development",
             "vehicle": "Ligier JS P325"
           },
@@ -9684,7 +9684,7 @@
     "dtm": "2026-05-24",
     "arcawest": "2026-06-06",
     "highlimit": "2026-06-09",
-    "woosc": "2026-06-07",
+    "woosc": "2026-06-12",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
     "f4british": "2026-05-31",
@@ -9717,7 +9717,7 @@
     "gtcupeu": "2026-05-31",
     "nhra": "2026-05-31",
     "ffsatourisme": "2026-05-17",
-    "arca": "2026-06-05",
+    "arca": "2026-06-13",
     "arcaeast": "2026-05-16",
     "igtc": "2026-05-16",
     "wrc": "2026-05-31",
@@ -9729,7 +9729,7 @@
     "gtamerica": "2026-06-03",
     "wec": "2026-05-09",
     "indynxt": "2026-05-31",
-    "vpscc": "2026-05-29",
+    "vpscc": "2026-06-13",
     "tcamerica": "2026-06-13",
     "gtwca": "2026-05-09",
     "floracing": "2026-05-08",
