@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T21:19:42.049Z",
+  "generatedAt": "2026-06-13T21:49:07.435Z",
   "events": [
     {
       "id": 101,
@@ -50099,42 +50099,27 @@
         {
           "name": "Practice",
           "time": "2026-06-19T09:30:00-04:00",
-          "duration": 25,
-          "broadcasts": {
-            "Global": "Not Televised"
-          }
+          "duration": 25
         },
         {
           "name": "Qualifying",
           "time": "2026-06-19T15:05:00-04:00",
-          "duration": 25,
-          "broadcasts": {
-            "Global": "Not Televised"
-          }
+          "duration": 25
         },
         {
           "name": "Race 1",
           "time": "2026-06-20T13:25:00-04:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": "Not Televised"
-          }
+          "duration": 35
         },
         {
           "name": "Race 2",
           "time": "2026-06-21T08:00:00-04:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": "Not Televised"
-          }
+          "duration": 35
         },
         {
           "name": "Race 3",
           "time": "2026-06-21T12:10:00-04:00",
-          "duration": 30,
-          "broadcasts": {
-            "Global": "Not Televised"
-          }
+          "duration": 35
         }
       ]
     },
