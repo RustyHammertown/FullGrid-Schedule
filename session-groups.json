@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T18:43:26.145Z",
+  "generatedAt": "2026-06-13T18:49:45.121Z",
   "groups": {
     "gt2": [
       {
@@ -1264,8 +1264,8 @@
       {
         "label": "Practice",
         "sessions": [
-          "OK/Junior Free Practice",
-          "OK/Junior Qualifying Practice",
+          "OK · Junior Free Practice",
+          "OK · Junior Qualifying Practice",
           "OK Free Practice",
           "Junior Free Practice",
           "KZ Free Practice",
@@ -1275,10 +1275,10 @@
       {
         "label": "Qualifying",
         "sessions": [
-          "OK/Junior Qualifying Heats 1",
-          "OK/Junior Qualifying Heats 2",
-          "OK/Junior Qualifying Heats 3",
-          "OK/Junior Qualifying Heats 4",
+          "OK · Junior Qualifying Heats 1",
+          "OK · Junior Qualifying Heats 2",
+          "OK · Junior Qualifying Heats 3",
+          "OK · Junior Qualifying Heats 4",
           "OK Qualifying",
           "OK Qualifying Heats",
           "OK Qualifying Heats (Day 2)",
@@ -1295,7 +1295,7 @@
       {
         "label": "Warmup",
         "sessions": [
-          "OK/Junior Warm-up",
+          "OK · Junior Warm-up",
           "OK Warm-up",
           "OK Warm-up Super Heat",
           "Junior Warm-up",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T18:43:20.689Z",
+  "generatedAt": "2026-06-13T18:49:39.713Z",
   "events": [
     {
       "id": 101,
@@ -50633,12 +50633,12 @@
       "round": 4,
       "sessions": [
         {
-          "name": "OK/Junior Free Practice",
+          "name": "OK · Junior Free Practice",
           "time": "2026-06-12T09:10:00+02:00",
           "duration": 85
         },
         {
-          "name": "OK/Junior Qualifying Practice",
+          "name": "OK · Junior Qualifying Practice",
           "time": "2026-06-12T11:20:00+02:00",
           "duration": 81,
           "broadcasts": {
@@ -50646,7 +50646,7 @@
           }
         },
         {
-          "name": "OK/Junior Qualifying Heats 1",
+          "name": "OK · Junior Qualifying Heats 1",
           "time": "2026-06-12T14:35:00+02:00",
           "duration": 115,
           "broadcasts": {
@@ -50654,7 +50654,7 @@
           }
         },
         {
-          "name": "OK/Junior Qualifying Heats 2",
+          "name": "OK · Junior Qualifying Heats 2",
           "time": "2026-06-12T17:10:00+02:00",
           "duration": 35,
           "broadcasts": {
@@ -50662,17 +50662,17 @@
           }
         },
         {
-          "name": "OK/Junior Qualifying Heats 3",
+          "name": "OK · Junior Qualifying Heats 3",
           "time": "2026-06-13T09:00:00+02:00",
           "duration": 275
         },
         {
-          "name": "OK/Junior Qualifying Heats 4",
+          "name": "OK · Junior Qualifying Heats 4",
           "time": "2026-06-13T15:15:00+02:00",
           "duration": 195
         },
         {
-          "name": "OK/Junior Warm-up",
+          "name": "OK · Junior Warm-up",
           "time": "2026-06-14T08:30:00+02:00",
           "duration": 55
         },
