@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-14T01:10:21.852Z",
+  "generatedAt": "2026-06-14T02:47:57.093Z",
   "flat": {
     "pccasia": [
       {
@@ -10508,6 +10508,73 @@
     ]
   },
   "teamClasses": {
+    "wec": [
+      {
+        "className": "LMGT3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "#92 The Bend Manthey",
+            "points": 30,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 2,
+            "name": "#10 Garage 59",
+            "points": 26,
+            "vehicle": "McLaren 720S GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "#69 Team WRT",
+            "points": 25,
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "#33 TF Sport",
+            "points": 22,
+            "vehicle": "Chevrolet Corvette Z06 GT3.R"
+          },
+          {
+            "pos": 5,
+            "name": "#21 Vista AF Corse",
+            "points": 20,
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
+            "pos": 6,
+            "name": "#27 Heart of Racing Team",
+            "points": 18,
+            "vehicle": "Aston Martin Vantage GT3 Evo"
+          },
+          {
+            "pos": 7,
+            "name": "#91 Manthey DK Engineering",
+            "points": 18,
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 8,
+            "name": "#58 Garage 59",
+            "points": 16,
+            "vehicle": "McLaren 720S GT3 Evo"
+          },
+          {
+            "pos": 9,
+            "name": "#32 Team WRT",
+            "points": 10,
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 10,
+            "name": "#87 Akkodis ASP Team",
+            "points": 8,
+            "vehicle": "Lexus RC F GT3"
+          }
+        ]
+      }
+    ],
     "c24h": [
       {
         "className": "GT3",
@@ -11936,6 +12003,53 @@
   },
   "manufacturerFlat": {},
   "manufacturerClasses": {
+    "wec": [
+      {
+        "className": "Hypercar",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "BMW",
+            "points": 59
+          },
+          {
+            "pos": 2,
+            "name": "Toyota",
+            "points": 52
+          },
+          {
+            "pos": 3,
+            "name": "Ferrari",
+            "points": 42
+          },
+          {
+            "pos": 4,
+            "name": "Aston Martin",
+            "points": 14
+          },
+          {
+            "pos": 5,
+            "name": "Alpine",
+            "points": 14
+          },
+          {
+            "pos": 6,
+            "name": "Peugeot",
+            "points": 9
+          },
+          {
+            "pos": 7,
+            "name": "Cadillac",
+            "points": 8
+          },
+          {
+            "pos": 8,
+            "name": "Genesis",
+            "points": 6
+          }
+        ]
+      }
+    ],
     "imsa": [
       {
         "className": "GTP",
