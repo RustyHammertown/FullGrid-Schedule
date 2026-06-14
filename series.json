@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-14T14:23:36.562Z",
+  "generatedAt": "2026-06-14T20:02:04.691Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -99,8 +99,7 @@
       },
       "resultsUrl": "https://www.formula1.com/en/results/2026/races",
       "fallbackMinutes": 110,
-      "typicalLapSeconds": 95,
-      "lapBased": true
+      "typicalLapSeconds": 95
     },
     "motogp": {
       "id": "motogp",
@@ -131,7 +130,6 @@
         "race": 50
       },
       "typicalLapSeconds": 100,
-      "lapBased": true,
       "classGrid": true
     },
     "supercross": {
@@ -269,8 +267,7 @@
       },
       "resultsUrl": "https://www.indycar.com/Stats/Race-Results",
       "fallbackMinutes": 130,
-      "typicalLapSeconds": 90,
-      "lapBased": true
+      "typicalLapSeconds": 90
     },
     "nascar": {
       "id": "nascar",
@@ -327,8 +324,7 @@
       },
       "resultsUrl": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
       "fallbackMinutes": 200,
-      "typicalLapSeconds": 60,
-      "lapBased": true
+      "typicalLapSeconds": 60
     },
     "oreilly": {
       "id": "oreilly",
@@ -358,8 +354,7 @@
       },
       "resultsUrl": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule",
       "fallbackMinutes": 150,
-      "typicalLapSeconds": 55,
-      "lapBased": true
+      "typicalLapSeconds": 55
     },
     "truck": {
       "id": "truck",
@@ -397,8 +392,7 @@
       },
       "resultsUrl": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule",
       "fallbackMinutes": 120,
-      "typicalLapSeconds": 55,
-      "lapBased": true
+      "typicalLapSeconds": 55
     },
     "arca": {
       "id": "arca",
@@ -428,7 +422,6 @@
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
       "fallbackMinutes": 90,
       "typicalLapSeconds": 45,
-      "lapBased": true,
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -510,7 +503,6 @@
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
       "fallbackMinutes": 90,
       "typicalLapSeconds": 35,
-      "lapBased": true,
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -542,7 +534,6 @@
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
       "fallbackMinutes": 75,
       "typicalLapSeconds": 25,
-      "lapBased": true,
       "unstreamedCategories": [
         "Practice",
         "Qualifying",
@@ -1434,8 +1425,7 @@
         "sprint": 50,
         "race": 65
       },
-      "typicalLapSeconds": 100,
-      "lapBased": true
+      "typicalLapSeconds": 100
     },
     "f3": {
       "id": "f3",
@@ -1463,8 +1453,7 @@
         "sprint": 40,
         "race": 50
       },
-      "typicalLapSeconds": 105,
-      "lapBased": true
+      "typicalLapSeconds": 105
     },
     "f1academy": {
       "id": "f1academy",
@@ -1489,8 +1478,7 @@
       },
       "resultsUrl": "https://www.f1academy.com/Racing-Series/Calendar",
       "fallbackMinutes": 30,
-      "typicalLapSeconds": 110,
-      "lapBased": true
+      "typicalLapSeconds": 110
     },
     "fe": {
       "id": "fe",
@@ -1715,8 +1703,7 @@
       "streamUrl": "https://www.youtube.com/@iRacingOfficial/streams",
       "resultsUrl": "https://www.enascar.com/",
       "fallbackMinutes": 90,
-      "typicalLapSeconds": 40,
-      "lapBased": true
+      "typicalLapSeconds": 40
     },
     "nhra": {
       "id": "nhra",
@@ -3028,6 +3015,7 @@
       "short": "SCAR",
       "color": "#FACC15",
       "bg": "rgba(250,204,21,0.15)",
+      "typicalLapSeconds": 80,
       "broadcast": {
         "AU": "Fox Sports / Kayo Sports",
         "NZ": "Sky Sport NZ",
@@ -3254,6 +3242,7 @@
       "short": "PCCGB",
       "color": "#B91C1C",
       "bg": "rgba(185,28,28,0.15)",
+      "typicalLapSeconds": 75,
       "broadcast": {
         "UK": "ITV4 / ITVX",
         "Global": "YouTube/OfficialBTCC"
