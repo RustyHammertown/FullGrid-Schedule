@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-14T02:48:34.868Z",
+  "generatedAt": "2026-06-14T09:19:59.582Z",
   "groups": {
     "gt2": [
       {
@@ -629,6 +629,7 @@
         "label": "Qualifying",
         "sessions": [
           "Pre-Qualifying",
+          "Qualifying",
           "GT3 Qualifying 1",
           "GT3 Qualifying 2",
           "GT4 Qualifying 1",
@@ -792,6 +793,7 @@
           "Practice",
           "TA/GT Practice",
           "TA2 Practice",
+          "TA/TAC/GT Practice",
           "TA/GT Testing 1",
           "TA/GT Testing 2",
           "TA2 Testing 1",
@@ -803,7 +805,11 @@
         "sessions": [
           "Qualifying",
           "TA/GT Qualifying",
-          "TA2 Qualifying"
+          "TA2 Qualifying",
+          "TA2 Pro/Am Qualifying",
+          "TA2 Pro Qualifying",
+          "TA/GT1/TAC Qualifying",
+          "XGT/SGT/GT Qualifying"
         ]
       }
     ],
@@ -1010,7 +1016,9 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying 1",
-          "Qualifying 2"
+          "Qualifying 2",
+          "Qualify Driver 1",
+          "Qualify Driver 2"
         ]
       }
     ],
@@ -1491,13 +1499,16 @@
         "label": "Practice",
         "sessions": [
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {
         "label": "Qualifying",
         "sessions": [
-          "Qualifying"
+          "Qualifying",
+          "Qualifying 1"
         ]
       }
     ],
@@ -1522,7 +1533,9 @@
         "label": "Practice",
         "sessions": [
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {
