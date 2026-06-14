@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-14T20:02:39.485Z",
+  "generatedAt": "2026-06-14T20:38:33.228Z",
   "events": [
     {
       "id": 101,
@@ -19024,12 +19024,22 @@
         {
           "name": "Practice",
           "time": "2026-06-19T14:00:00-07:00",
-          "duration": 50
+          "duration": 50,
+          "broadcasts": {
+            "US": {
+              "service": "Prime Video"
+            }
+          }
         },
         {
           "name": "Qualifying",
           "time": "2026-06-20T11:30:00-07:00",
-          "duration": 60
+          "duration": 60,
+          "broadcasts": {
+            "US": {
+              "service": "Prime Video"
+            }
+          }
         },
         {
           "name": "Race",
