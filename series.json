@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-14T13:52:41.143Z",
+  "generatedAt": "2026-06-14T14:23:02.909Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2144,6 +2144,7 @@
       "short": "IOM TT",
       "color": "#E94E1B",
       "bg": "rgba(233,78,27,0.15)",
+      "typicalLapSeconds": 1140,
       "broadcast": {
         "UK": "ITV4",
         "Global": "TT+"
@@ -2166,6 +2167,7 @@
       "short": "Euro Kart",
       "color": "#0B6BCB",
       "bg": "rgba(11,107,203,0.15)",
+      "typicalLapSeconds": 55,
       "broadcast": {
         "Global": "YouTube/fiakartingchampionship9818"
       },
@@ -2195,6 +2197,7 @@
       "short": "World Kart",
       "color": "#C2410C",
       "bg": "rgba(194,65,12,0.15)",
+      "typicalLapSeconds": 55,
       "broadcast": {
         "Global": "YouTube/fiakartingchampionship9818"
       },
