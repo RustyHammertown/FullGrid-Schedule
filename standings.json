@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T22:16:53.960Z",
+  "generatedAt": "2026-06-14T01:09:36.599Z",
   "flat": {
     "pccasia": [
       {
@@ -1231,78 +1231,6 @@
         "points": 43,
         "team": "#21 Mahindra Racing",
         "vehicle": "Mahindra M12Electro"
-      }
-    ],
-    "wec": [
-      {
-        "pos": 1,
-        "name": "Frijns / Rast",
-        "points": 35,
-        "team": "#20 BMW M Team WRT",
-        "vehicle": "BMW M Hybrid V8"
-      },
-      {
-        "pos": 2,
-        "name": "Buemi / Hartley / Hirakawa",
-        "points": 26,
-        "team": "#8 Toyota Racing",
-        "vehicle": "Toyota GR010 Hybrid"
-      },
-      {
-        "pos": 3,
-        "name": "van der Linde",
-        "points": 25,
-        "team": "#20 BMW M Team WRT",
-        "vehicle": "BMW M Hybrid V8"
-      },
-      {
-        "pos": 4,
-        "name": "Conway / Kobayashi",
-        "points": 25,
-        "team": "#7 Toyota Racing",
-        "vehicle": "Toyota GR010 Hybrid"
-      },
-      {
-        "pos": 5,
-        "name": "Magnussen / Marciello",
-        "points": 24,
-        "team": "#15 BMW M Team WRT",
-        "vehicle": "BMW M Hybrid V8"
-      },
-      {
-        "pos": 6,
-        "name": "Fuoco / Molina / Nielsen",
-        "points": 23,
-        "team": "#50 Ferrari AF Corse",
-        "vehicle": "Ferrari 499P"
-      },
-      {
-        "pos": 7,
-        "name": "Calado / Giovinazzi / Pier Guidi",
-        "points": 19,
-        "team": "#51 Ferrari AF Corse",
-        "vehicle": "Ferrari 499P"
-      },
-      {
-        "pos": 8,
-        "name": "Félix da Costa / Habsburg / Milesi",
-        "points": 12,
-        "team": "#35 Alpine Endurance",
-        "vehicle": "Alpine A424"
-      },
-      {
-        "pos": 9,
-        "name": "Bamber / Bourdais",
-        "points": 4,
-        "team": "#38 Cadillac Hertz Team Jota",
-        "vehicle": "Cadillac V-Series.R"
-      },
-      {
-        "pos": 10,
-        "name": "Gamble / Tincknell",
-        "points": 2,
-        "team": "#007 Aston Martin THOR",
-        "vehicle": "Aston Martin Valkyrie LMH"
       }
     ],
     "mx5": [
@@ -7141,6 +7069,158 @@
             "points": 853,
             "vehicle": "Corvette Z06 GT3.R",
             "team": "#13 13 Autosport"
+          }
+        ]
+      }
+    ],
+    "wec": [
+      {
+        "className": "Hypercar",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Frijns / Rast",
+            "points": 35,
+            "team": "#20 BMW M Team WRT",
+            "vehicle": "BMW M Hybrid V8"
+          },
+          {
+            "pos": 2,
+            "name": "Buemi / Hartley / Hirakawa",
+            "points": 26,
+            "team": "#8 Toyota Racing",
+            "vehicle": "Toyota GR010 Hybrid"
+          },
+          {
+            "pos": 3,
+            "name": "van der Linde",
+            "points": 25,
+            "team": "#20 BMW M Team WRT",
+            "vehicle": "BMW M Hybrid V8"
+          },
+          {
+            "pos": 4,
+            "name": "Conway / Kobayashi / de Vries",
+            "points": 25,
+            "team": "#7 Toyota Racing",
+            "vehicle": "Toyota GR010 Hybrid"
+          },
+          {
+            "pos": 5,
+            "name": "Magnussen / Marciello",
+            "points": 25,
+            "team": "#15 BMW M Team WRT",
+            "vehicle": "BMW M Hybrid V8"
+          },
+          {
+            "pos": 6,
+            "name": "Fuoco / Molina / Nielsen",
+            "points": 23,
+            "team": "#50 Ferrari AF Corse",
+            "vehicle": "Ferrari 499P"
+          },
+          {
+            "pos": 7,
+            "name": "Calado / Giovinazzi / Pier Guidi",
+            "points": 19,
+            "team": "#51 Ferrari AF Corse",
+            "vehicle": "Ferrari 499P"
+          },
+          {
+            "pos": 8,
+            "name": "Vanthoor",
+            "points": 19,
+            "team": "#15 BMW M Team WRT",
+            "vehicle": "BMW M Hybrid V8"
+          },
+          {
+            "pos": 9,
+            "name": "Gamble / Tincknell",
+            "points": 14,
+            "team": "#007 Aston Martin THOR Team",
+            "vehicle": "Aston Martin Valkyrie LMH"
+          },
+          {
+            "pos": 10,
+            "name": "Félix da Costa / Habsburg / Milesi",
+            "points": 12,
+            "team": "#35 Alpine Endurance Team",
+            "vehicle": "Alpine A424"
+          }
+        ]
+      },
+      {
+        "className": "LMGT3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Lietz / Pera / Shahin",
+            "points": 30,
+            "team": "#92 The Bend Manthey",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 2,
+            "name": "Au / Fleming / Kirchhöfer",
+            "points": 26,
+            "team": "#10 Garage 59",
+            "vehicle": "McLaren 720S GT3 Evo"
+          },
+          {
+            "pos": 3,
+            "name": "Harper / McIntosh / Thompson",
+            "points": 25,
+            "team": "#69 Team WRT",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "Catsburg / Edgar / McDonald",
+            "points": 22,
+            "team": "#33 TF Sport",
+            "vehicle": "Chevrolet Corvette Z06 GT3.R"
+          },
+          {
+            "pos": 5,
+            "name": "Hériau / Mann / Rovera",
+            "points": 20,
+            "team": "#21 Vista AF Corse",
+            "vehicle": "Ferrari 296 GT3 Evo"
+          },
+          {
+            "pos": 6,
+            "name": "Drudi / James / Robichon",
+            "points": 19,
+            "team": "#27 Heart of Racing Team",
+            "vehicle": "Aston Martin Vantage GT3 Evo"
+          },
+          {
+            "pos": 7,
+            "name": "Boguslavskiy / Cottingham / Güven",
+            "points": 18,
+            "team": "#91 Manthey DK Engineering",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 8,
+            "name": "Gehrsitz / Goethe / West",
+            "points": 16,
+            "team": "#58 Garage 59",
+            "vehicle": "McLaren 720S GT3 Evo"
+          },
+          {
+            "pos": 9,
+            "name": "Farfus / Gelael / Leung",
+            "points": 10,
+            "team": "#32 Team WRT",
+            "vehicle": "BMW M4 GT3 Evo"
+          },
+          {
+            "pos": 10,
+            "name": "López / Schmid / Umbrărescu",
+            "points": 8,
+            "team": "#87 Akkodis ASP Team",
+            "vehicle": "Lexus RC F GT3"
           }
         ]
       }
