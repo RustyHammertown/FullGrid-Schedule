@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T03:07:07.823Z",
+  "generatedAt": "2026-06-15T09:14:03.624Z",
   "flat": {
     "pccasia": [
       {
@@ -2387,62 +2387,62 @@
     "indynxt": [
       {
         "pos": 1,
-        "name": "Enzo Fittipaldi",
-        "points": 266,
-        "team": "HMD Motorsports"
+        "name": "Nikita Johnson",
+        "points": 285,
+        "team": "Cape/ECR"
       },
       {
         "pos": 2,
-        "name": "Nikita Johnson",
-        "points": 259,
-        "team": "Cape/ECR"
+        "name": "Enzo Fittipaldi",
+        "points": 283,
+        "team": "HMD Motorsports"
       },
       {
         "pos": 3,
         "name": "Tymek Kucharczyk",
-        "points": 258,
+        "points": 280,
         "team": "HMD Motorsports"
       },
       {
         "pos": 4,
         "name": "Max Taylor",
-        "points": 228,
+        "points": 258,
         "team": "Andretti Global"
       },
       {
         "pos": 5,
-        "name": "Lochie Hughes",
-        "points": 176,
-        "team": "Andretti Global"
+        "name": "Myles Rowe",
+        "points": 212,
+        "team": "Abel/Force Indy"
       },
       {
         "pos": 6,
         "name": "Alessandro de Tullio",
-        "points": 171,
+        "points": 211,
         "team": "A.J. Foyt Racing"
       },
       {
         "pos": 7,
-        "name": "Myles Rowe",
-        "points": 159,
-        "team": "Abel/Force Indy"
+        "name": "Lochie Hughes",
+        "points": 206,
+        "team": "Andretti Global"
       },
       {
         "pos": 8,
         "name": "Juan Manuel Correa",
-        "points": 156,
+        "points": 172,
         "team": "Cusick Morgan"
       },
       {
         "pos": 9,
         "name": "Sebastian Murray",
-        "points": 148,
+        "points": 166,
         "team": "Andretti Global"
       },
       {
         "pos": 10,
         "name": "Jordan Missig",
-        "points": 140,
+        "points": 160,
         "team": "Abel Motorsports"
       }
     ],
@@ -10073,28 +10073,28 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Curaçao",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Germany",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +6 · GF 7"
           },
           {
             "pos": 2,
-            "name": "Ecuador",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Ivory Coast",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +1 · GF 1"
           },
           {
             "pos": 3,
-            "name": "Germany",
+            "name": "Ecuador",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -1 · GF 0"
           },
           {
             "pos": 4,
-            "name": "Ivory Coast",
+            "name": "Curaçao",
             "points": 0,
             "team": "0W 0D 0L",
             "vehicle": "GD 0 · GF 0"
@@ -10106,31 +10106,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Japan",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Sweden",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +4 · GF 5"
           },
           {
             "pos": 2,
-            "name": "Netherlands",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Japan",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 2"
           },
           {
             "pos": 3,
-            "name": "Sweden",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Netherlands",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 2"
           },
           {
             "pos": 4,
             "name": "Tunisia",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -4 · GF 1"
           }
         ]
       },
@@ -10406,7 +10406,7 @@
     "supercross": "2026-05-10",
     "gtamerica": "2026-06-03",
     "wec": "2026-05-09",
-    "indynxt": "2026-05-31",
+    "indynxt": "2026-06-07",
     "vpscc": "2026-06-13",
     "tcamerica": "2026-06-13",
     "gtwca": "2026-05-09",

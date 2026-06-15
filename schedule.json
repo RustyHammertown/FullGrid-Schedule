@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T03:07:06.675Z",
+  "generatedAt": "2026-06-15T09:14:02.418Z",
   "events": [
     {
       "id": 101,
@@ -17405,7 +17405,7 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-19T15:00:00-05:00",
+          "time": "2026-06-19T15:05:00-05:00",
           "duration": 75,
           "broadcasts": {
             "US": {
@@ -17415,7 +17415,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-20T10:00:00-05:00",
+          "time": "2026-06-20T10:05:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17425,7 +17425,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T13:00:00-05:00",
+          "time": "2026-06-20T13:05:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17435,7 +17435,7 @@
         },
         {
           "name": "Warmup",
-          "time": "2026-06-21T10:00:00-05:00",
+          "time": "2026-06-21T10:05:00-05:00",
           "duration": 30,
           "broadcasts": {
             "US": {
@@ -17445,7 +17445,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T13:00:00-05:00",
+          "time": "2026-06-21T13:20:00-05:00",
           "laps": 55,
           "broadcasts": {
             "US": {
@@ -33926,7 +33926,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T10:35:00-04:00",
+          "time": "2026-06-21T10:30:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -63263,12 +63263,12 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice 1",
+          "name": "Free Practice 1",
           "time": "2026-06-19T11:40:00+02:00",
           "duration": 55
         },
         {
-          "name": "Practice 2",
+          "name": "Free Practice 2",
           "time": "2026-06-19T16:10:00+02:00",
           "duration": 45
         },
@@ -66073,6 +66073,11 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Qualifying",
+          "time": "2026-06-19T18:35:00+02:00",
+          "duration": 75
+        },
+        {
           "name": "Free Practice 1",
           "time": "2026-06-20T09:00:00+02:00",
           "duration": 60
@@ -66081,11 +66086,6 @@
           "name": "Free Practice 2",
           "time": "2026-06-20T13:10:00+02:00",
           "duration": 60
-        },
-        {
-          "name": "Qualifying",
-          "time": "2026-06-20T18:35:00+02:00",
-          "duration": 75
         },
         {
           "name": "Race",
@@ -78783,9 +78783,93 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-06-21T21:30:00+09:30",
-          "tbd": true,
+          "name": "Race 1",
+          "time": "2026-06-19T17:00:00+09:30",
+          "laps": 32,
+          "broadcasts": {
+            "US": {
+              "service": "SuperView"
+            },
+            "CA": {
+              "service": "SuperView"
+            },
+            "UK": {
+              "service": "SuperView"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "SuperView"
+            },
+            "Global": {
+              "service": "SuperView"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-06-20T15:20:00+09:30",
+          "laps": 32,
+          "broadcasts": {
+            "US": {
+              "service": "SuperView"
+            },
+            "CA": {
+              "service": "SuperView"
+            },
+            "UK": {
+              "service": "SuperView"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "SuperView"
+            },
+            "Global": {
+              "service": "SuperView"
+            }
+          }
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-06-21T11:30:00+09:30",
+          "laps": 32,
+          "broadcasts": {
+            "US": {
+              "service": "SuperView"
+            },
+            "CA": {
+              "service": "SuperView"
+            },
+            "UK": {
+              "service": "SuperView"
+            },
+            "AU": {
+              "service": "Fox Sports / Kayo Sports"
+            },
+            "NZ": {
+              "service": "Sky Sport NZ"
+            },
+            "DE": {
+              "service": "SuperView"
+            },
+            "Global": {
+              "service": "SuperView"
+            }
+          }
+        },
+        {
+          "name": "Race 4",
+          "time": "2026-06-21T14:40:00+09:30",
+          "laps": 32,
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -88034,7 +88118,7 @@
         },
         {
           "name": "Race 2 (Groups A-B)",
-          "time": "2026-06-20T17:30:00+02:00",
+          "time": "2026-06-20T16:30:00+02:00",
           "duration": 25
         },
         {
@@ -88577,7 +88661,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T13:30:00+02:00",
+          "time": "2026-06-20T13:20:00+02:00",
           "duration": 112
         },
         {
