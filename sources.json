@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T02:07:44.327Z",
+  "generatedAt": "2026-06-15T02:35:27.369Z",
   "sources": {
+    "fdjapan": {
+      "schedule": [
+        {
+          "url": "https://formulad.jp/",
+          "label": "Formula Drift Japan — schedule (FDJ/FDJ2/FDJ3) + per-round time schedules (JP)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://formulad.jp/2026-fdj-standings/",
+          "label": "FD Japan — round results / point rankings (FDJ)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://formulad.jp/2026-fdj-standings/",
+          "label": "FD Japan — FDJ standings"
+        },
+        {
+          "url": "https://formulad.jp/2026-fdj2-standings/",
+          "label": "FD Japan — FDJ2 standings"
+        },
+        {
+          "url": "https://formulad.jp/2026-fdj3-standings/",
+          "label": "FD Japan — FDJ3 standings"
+        }
+      ]
+    },
     "formuladrift": {
       "schedule": [
         {

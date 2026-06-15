@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T02:07:41.081Z",
+  "generatedAt": "2026-06-15T02:35:23.705Z",
   "flat": {
     "pccasia": [
       {
@@ -4260,6 +4260,203 @@
             "name": "Nik Jimenez",
             "points": 10,
             "team": "#360"
+          }
+        ]
+      }
+    ],
+    "fdjapan": [
+      {
+        "className": "FDJ",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Connor Xia",
+            "points": 140,
+            "team": "#18"
+          },
+          {
+            "pos": 2,
+            "name": "Wataru Masuyama",
+            "points": 137,
+            "team": "#530"
+          },
+          {
+            "pos": 3,
+            "name": "Naoki Nakamura",
+            "points": 125,
+            "team": "#999"
+          },
+          {
+            "pos": 4,
+            "name": "Masanori Kohashi",
+            "points": 120,
+            "team": "#4"
+          },
+          {
+            "pos": 5,
+            "name": "Yukio Fausto",
+            "points": 119,
+            "team": "#555"
+          },
+          {
+            "pos": 6,
+            "name": "Ryuma",
+            "points": 106,
+            "team": "#131"
+          },
+          {
+            "pos": 7,
+            "name": "Mingming",
+            "points": 103,
+            "team": "#100"
+          },
+          {
+            "pos": 8,
+            "name": "Yusuke Kusaba",
+            "points": 103,
+            "team": "#77"
+          },
+          {
+            "pos": 9,
+            "name": "Kiyofumi Hamada",
+            "points": 87,
+            "team": "#9"
+          },
+          {
+            "pos": 10,
+            "name": "Koudai Sobagiri",
+            "points": 85,
+            "team": "#31"
+          }
+        ]
+      },
+      {
+        "className": "FDJ2",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Riki Nakamura",
+            "points": 189,
+            "team": "#1"
+          },
+          {
+            "pos": 2,
+            "name": "Jayce",
+            "points": 186,
+            "team": "#23"
+          },
+          {
+            "pos": 3,
+            "name": "Shoei Tokuyama",
+            "points": 108,
+            "team": "#151"
+          },
+          {
+            "pos": 4,
+            "name": "Eita Uehara",
+            "points": 107,
+            "team": "#831"
+          },
+          {
+            "pos": 5,
+            "name": "Manato Mogi",
+            "points": 106,
+            "team": "#270"
+          },
+          {
+            "pos": 6,
+            "name": "Hinato",
+            "points": 102,
+            "team": "#620"
+          },
+          {
+            "pos": 7,
+            "name": "Toshihiko Mizuno",
+            "points": 102,
+            "team": "#104"
+          },
+          {
+            "pos": 8,
+            "name": "Kazuyuki Tomite",
+            "points": 85,
+            "team": "#210"
+          },
+          {
+            "pos": 9,
+            "name": "Tomoyuki Kitashiba",
+            "points": 85,
+            "team": "#48"
+          },
+          {
+            "pos": 10,
+            "name": "Ryusuke Aoki",
+            "points": 72,
+            "team": "#109"
+          }
+        ]
+      },
+      {
+        "className": "FDJ3",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Souta Notsu",
+            "points": 164,
+            "team": "#80"
+          },
+          {
+            "pos": 2,
+            "name": "Muneo Miyachi",
+            "points": 125,
+            "team": "#670"
+          },
+          {
+            "pos": 3,
+            "name": "Ricky Peres",
+            "points": 107,
+            "team": "#70"
+          },
+          {
+            "pos": 4,
+            "name": "Douglas Ozaki",
+            "points": 106,
+            "team": "#107"
+          },
+          {
+            "pos": 5,
+            "name": "Ryu Funabashi",
+            "points": 104,
+            "team": "#64"
+          },
+          {
+            "pos": 6,
+            "name": "Seika",
+            "points": 90,
+            "team": "#19"
+          },
+          {
+            "pos": 7,
+            "name": "Issa Minakawa",
+            "points": 87,
+            "team": "#135"
+          },
+          {
+            "pos": 8,
+            "name": "Yuto Saito",
+            "points": 86,
+            "team": "#67"
+          },
+          {
+            "pos": 9,
+            "name": "Ryo Kato",
+            "points": 66,
+            "team": "#345"
+          },
+          {
+            "pos": 10,
+            "name": "Buyu Nakazawa",
+            "points": 44,
+            "team": "#157"
           }
         ]
       }
@@ -10145,6 +10342,7 @@
   },
   "lastUpdated": {
     "formuladrift": "2026-05-30",
+    "fdjapan": "2026-05-31",
     "c24h": "2026-06-08",
     "pccasia": "2026-05-10",
     "pccau": "2026-03-08",

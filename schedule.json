@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T02:07:39.845Z",
+  "generatedAt": "2026-06-15T02:35:22.869Z",
   "events": [
     {
       "id": 101,
@@ -91442,6 +91442,484 @@
         {
           "name": "PRO Top 16",
           "time": "2026-10-24T05:00:00-07:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9100,
+      "series": "fdjapan",
+      "name": "Fuji (FDJ R1)",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ Qualifying",
+          "time": "2026-04-25T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 32",
+          "time": "2026-04-26T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 16",
+          "time": "2026-04-26T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9101,
+      "series": "fdjapan",
+      "name": "Suzuka Twin (FDJ R2)",
+      "circuit": "Suzuka Twin Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ Qualifying",
+          "time": "2026-05-16T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 32",
+          "time": "2026-05-17T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 16",
+          "time": "2026-05-17T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9102,
+      "series": "fdjapan",
+      "name": "Ebisu (FDJ R3)",
+      "circuit": "Ebisu Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ Practice",
+          "time": "2026-06-13T08:15:00+09:00",
+          "duration": 180
+        },
+        {
+          "name": "FDJ Qualifying",
+          "time": "2026-06-13T12:30:00+09:00",
+          "duration": 180
+        },
+        {
+          "name": "FDJ Top 32",
+          "time": "2026-06-14T09:45:00+09:00",
+          "duration": 150
+        },
+        {
+          "name": "FDJ Top 16",
+          "time": "2026-06-14T13:10:00+09:00",
+          "duration": 180
+        }
+      ]
+    },
+    {
+      "id": 9103,
+      "series": "fdjapan",
+      "name": "Sportsland SUGO (FDJ R4)",
+      "circuit": "Sportsland SUGO",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ Qualifying",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 32",
+          "time": "2026-07-12T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 16",
+          "time": "2026-07-12T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9104,
+      "series": "fdjapan",
+      "name": "Okuibuki (FDJ R5)",
+      "circuit": "Okuibuki Motorpark",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ Qualifying",
+          "time": "2026-09-05T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 32",
+          "time": "2026-09-06T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 16",
+          "time": "2026-09-06T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9105,
+      "series": "fdjapan",
+      "name": "Okayama (FDJ R6)",
+      "circuit": "Okayama International Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ Qualifying",
+          "time": "2026-10-03T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 32",
+          "time": "2026-10-04T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ Top 16",
+          "time": "2026-10-04T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9106,
+      "series": "fdjapan",
+      "name": "Fuji (FDJ2 R1)",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ2 Qualifying",
+          "time": "2026-04-24T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 32",
+          "time": "2026-04-25T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 16",
+          "time": "2026-04-25T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9107,
+      "series": "fdjapan",
+      "name": "Suzuka Twin (FDJ2 R2)",
+      "circuit": "Suzuka Twin Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ2 Qualifying",
+          "time": "2026-05-23T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 32",
+          "time": "2026-05-24T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 16",
+          "time": "2026-05-24T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9108,
+      "series": "fdjapan",
+      "name": "Ebisu (FDJ2 R3)",
+      "circuit": "Ebisu Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ2 Practice",
+          "time": "2026-06-20T08:15:00+09:00",
+          "duration": 225
+        },
+        {
+          "name": "FDJ2 Qualifying",
+          "time": "2026-06-20T13:00:00+09:00",
+          "duration": 180
+        },
+        {
+          "name": "FDJ2 Top 32",
+          "time": "2026-06-21T09:40:00+09:00",
+          "duration": 140
+        },
+        {
+          "name": "FDJ2 Top 16",
+          "time": "2026-06-21T13:10:00+09:00",
+          "duration": 160
+        }
+      ]
+    },
+    {
+      "id": 9109,
+      "series": "fdjapan",
+      "name": "Sportsland SUGO (FDJ2 R4)",
+      "circuit": "Sportsland SUGO",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ2 Qualifying",
+          "time": "2026-07-10T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 32",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 16",
+          "time": "2026-07-11T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9110,
+      "series": "fdjapan",
+      "name": "Okuibuki (FDJ2 R5)",
+      "circuit": "Okuibuki Motorpark",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ2 Qualifying",
+          "time": "2026-09-12T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 32",
+          "time": "2026-09-13T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 16",
+          "time": "2026-09-13T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9111,
+      "series": "fdjapan",
+      "name": "Okayama (FDJ2 R6)",
+      "circuit": "Okayama International Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ2 Qualifying",
+          "time": "2026-10-02T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 32",
+          "time": "2026-10-03T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ2 Top 16",
+          "time": "2026-10-03T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9112,
+      "series": "fdjapan",
+      "name": "Fuji Drift Park (FDJ3 R1)",
+      "circuit": "Fuji Speedway Drift Park",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ3 Qualifying",
+          "time": "2026-04-29T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 32",
+          "time": "2026-04-29T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 16",
+          "time": "2026-04-29T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9113,
+      "series": "fdjapan",
+      "name": "Suzuka Twin (FDJ3 R2)",
+      "circuit": "Suzuka Twin Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ3 Qualifying",
+          "time": "2026-05-31T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 32",
+          "time": "2026-05-31T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 16",
+          "time": "2026-05-31T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9114,
+      "series": "fdjapan",
+      "name": "Ebisu (FDJ3 R3)",
+      "circuit": "Ebisu Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ3 Qualifying",
+          "time": "2026-07-05T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 32",
+          "time": "2026-07-05T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 16",
+          "time": "2026-07-05T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9115,
+      "series": "fdjapan",
+      "name": "Okuibuki (FDJ3 R4)",
+      "circuit": "Okuibuki Motorpark",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ3 Qualifying",
+          "time": "2026-09-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 32",
+          "time": "2026-09-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 16",
+          "time": "2026-09-20T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9116,
+      "series": "fdjapan",
+      "name": "Fuji Drift Park (FDJ3 R5)",
+      "circuit": "Fuji Speedway Drift Park",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ3 Qualifying",
+          "time": "2026-10-18T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 32",
+          "time": "2026-10-18T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 16",
+          "time": "2026-10-18T21:00:00+09:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9117,
+      "series": "fdjapan",
+      "name": "Tsukuruma Nasu (FDJ3 R6)",
+      "circuit": "Tsukuruma Circuit Nasu",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "sessions": [
+        {
+          "name": "FDJ3 Qualifying",
+          "time": "2026-11-01T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 32",
+          "time": "2026-11-01T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "FDJ3 Top 16",
+          "time": "2026-11-01T21:00:00+09:00",
           "tbd": true
         }
       ]

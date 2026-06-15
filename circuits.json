@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T02:07:42.148Z",
+  "generatedAt": "2026-06-15T02:35:25.111Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2408,6 +2408,40 @@
       "region": "Miyagi",
       "website": "https://www.sportsland-sugo.co.jp",
       "length_m": 3704
+    },
+    "Suzuka Twin Circuit": {
+      "lat": 34.8094,
+      "lon": 136.556,
+      "city": "Suzuka",
+      "region": "Mie",
+      "website": "https://www.suzuka-twin.com"
+    },
+    "Ebisu Circuit": {
+      "lat": 37.6478,
+      "lon": 140.4517,
+      "city": "Nihonmatsu",
+      "region": "Fukushima",
+      "website": "https://www.ebisu-circuit.com"
+    },
+    "Okuibuki Motorpark": {
+      "lat": 35.4138,
+      "lon": 136.403,
+      "city": "Maibara",
+      "region": "Shiga",
+      "website": "https://www.okuibuki.co.jp"
+    },
+    "Fuji Speedway Drift Park": {
+      "lat": 35.3717,
+      "lon": 138.9258,
+      "city": "Oyama",
+      "region": "Shizuoka",
+      "website": "https://www.fsw.tv"
+    },
+    "Tsukuruma Circuit Nasu": {
+      "lat": 36.97,
+      "lon": 140.04,
+      "city": "Nasu",
+      "region": "Tochigi"
     },
     "Circuit Paul Armagnac": {
       "lat": 43.7694,

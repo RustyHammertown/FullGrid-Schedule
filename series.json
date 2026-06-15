@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-15T02:07:43.197Z",
+  "generatedAt": "2026-06-15T02:35:24.392Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2222,6 +2222,35 @@
       ],
       "streamUrl": "https://www.youtube.com/@formuladrift/streams",
       "resultsUrl": "https://www.formulad.com/standings/2026/pro",
+      "classGrid": true,
+      "unstreamedCategories": [
+        "Practice",
+        "Warmup"
+      ]
+    },
+    "fdjapan": {
+      "id": "fdjapan",
+      "tags": [
+        "drift-car",
+        "asia-pacific",
+        "national-series"
+      ],
+      "group": "drift",
+      "region": "asiapacific",
+      "label": "Formula Drift Japan",
+      "short": "FDJ",
+      "color": "#E11D2A",
+      "bg": "rgba(225,29,42,0.15)",
+      "broadcast": {
+        "Global": "YouTube/formuladrift",
+        "JP": "YouTube/FORMULADRIFTJAPAN"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Warmup"
+      ],
+      "streamUrl": "https://www.youtube.com/@FORMULADRIFTJAPAN/streams",
+      "resultsUrl": "https://formulad.jp/2026-fdj-standings/",
       "classGrid": true,
       "unstreamedCategories": [
         "Practice",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T02:07:45.397Z",
+  "generatedAt": "2026-06-15T02:35:25.810Z",
   "groups": {
     "formuladrift": [
       {
@@ -21,6 +21,35 @@
           "PROSPEC Seeding Bracket",
           "PROSPEC Top 32",
           "PROSPEC Top 16"
+        ]
+      }
+    ],
+    "fdjapan": [
+      {
+        "label": "FDJ",
+        "sessions": [
+          "FDJ Practice",
+          "FDJ Qualifying",
+          "FDJ Top 32",
+          "FDJ Top 16"
+        ]
+      },
+      {
+        "label": "FDJ2",
+        "sessions": [
+          "FDJ2 Practice",
+          "FDJ2 Qualifying",
+          "FDJ2 Top 32",
+          "FDJ2 Top 16"
+        ]
+      },
+      {
+        "label": "FDJ3",
+        "sessions": [
+          "FDJ3 Practice",
+          "FDJ3 Qualifying",
+          "FDJ3 Top 32",
+          "FDJ3 Top 16"
         ]
       }
     ],
