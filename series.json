@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-15T01:55:38.310Z",
+  "generatedAt": "2026-06-15T02:07:07.683Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2214,16 +2214,13 @@
       "color": "#E11D2A",
       "bg": "rgba(225,29,42,0.15)",
       "broadcast": {
-        "Global": {
-          "service": "Formula DRIFT",
-          "url": "https://www.formulad.com/live"
-        }
+        "Global": "YouTube/formuladrift"
       },
       "notTelevisedCategories": [
         "Practice",
         "Warmup"
       ],
-      "streamUrl": "https://www.formulad.com/live",
+      "streamUrl": "https://www.youtube.com/@formuladrift/streams",
       "resultsUrl": "https://www.formulad.com/standings/2026/pro",
       "classGrid": true,
       "unstreamedCategories": [
