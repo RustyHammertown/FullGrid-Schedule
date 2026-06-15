@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-15T02:35:51.515Z",
+  "generatedAt": "2026-06-15T03:06:35.658Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2237,7 +2237,7 @@
       ],
       "group": "drift",
       "region": "asiapacific",
-      "label": "Formula Drift Japan",
+      "label": "Formula DRIFT Japan",
       "short": "FDJ",
       "color": "#E11D2A",
       "bg": "rgba(225,29,42,0.15)",
