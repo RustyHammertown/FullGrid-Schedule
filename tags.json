@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T01:02:41.121Z",
+  "generatedAt": "2026-06-15T01:55:03.124Z",
   "categories": [
     {
       "id": "geography",
@@ -61,7 +61,8 @@
         "karting",
         "rally",
         "sports-car",
-        "touring-car"
+        "touring-car",
+        "drift-car"
       ]
     },
     {
@@ -155,6 +156,7 @@
     "rally": "Rally",
     "sports-car": "Sports Car",
     "touring-car": "Touring Car",
+    "drift-car": "Drift Car",
     "450cc": "450cc",
     "250cc": "250cc",
     "trials": "Trials",

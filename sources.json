@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T01:02:38.094Z",
+  "generatedAt": "2026-06-15T01:55:02.408Z",
   "sources": {
+    "formuladrift": {
+      "schedule": [
+        {
+          "url": "https://www.formulad.com/schedule",
+          "label": "Formula DRIFT — 2026 schedule + per-round timetables"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.formulad.com/standings/2026/pro",
+          "label": "Formula DRIFT — round results (PRO)"
+        },
+        {
+          "url": "https://www.formulad.com/standings/2026/prospec",
+          "label": "Formula DRIFT — round results (PROSPEC)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.formulad.com/standings/2026/pro",
+          "label": "Formula DRIFT — PRO standings"
+        },
+        {
+          "url": "https://www.formulad.com/standings/2026/prospec",
+          "label": "Formula DRIFT — PROSPEC standings"
+        }
+      ]
+    },
     "f1": {
       "schedule": [
         {

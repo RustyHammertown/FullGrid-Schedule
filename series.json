@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-15T01:02:37.061Z",
+  "generatedAt": "2026-06-15T01:54:59.460Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -2200,6 +2200,37 @@
         "Warmup"
       ]
     },
+    "formuladrift": {
+      "id": "formuladrift",
+      "tags": [
+        "drift-car",
+        "north-america",
+        "national-series"
+      ],
+      "group": "drift",
+      "region": "americas",
+      "label": "Formula DRIFT",
+      "short": "FD",
+      "color": "#E11D2A",
+      "bg": "rgba(225,29,42,0.15)",
+      "broadcast": {
+        "Global": {
+          "service": "Formula DRIFT",
+          "url": "https://www.formulad.com/live"
+        }
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Warmup"
+      ],
+      "streamUrl": "https://www.formulad.com/live",
+      "resultsUrl": "https://www.formulad.com/standings/2026/pro",
+      "classGrid": true,
+      "unstreamedCategories": [
+        "Practice",
+        "Warmup"
+      ]
+    },
     "fiakwcup": {
       "id": "fiakwcup",
       "tags": [
@@ -3685,7 +3716,8 @@
       "main event",
       "a-main",
       "a main",
-      "\\bfinal\\b"
+      "\\bfinal\\b",
+      "top \\d+"
     ],
     "practice": [
       "\\bpractice\\b",
@@ -3694,7 +3726,8 @@
     ],
     "qualifying": [
       "qualif",
-      "hyperpole"
+      "hyperpole",
+      "seeding"
     ],
     "sprint": [
       "sprint"
@@ -3726,6 +3759,8 @@
       "Race",
       "SS\\d+",
       "Eliminations",
+      "Seeding Bracket",
+      "Top \\d+",
       "Match"
     ]
   },

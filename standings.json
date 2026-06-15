@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T01:02:34.953Z",
+  "generatedAt": "2026-06-15T01:54:58.734Z",
   "flat": {
     "pccasia": [
       {
@@ -4132,6 +4132,138 @@
     ]
   },
   "classes": {
+    "formuladrift": [
+      {
+        "className": "PRO",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Aurimas Bakchis",
+            "points": 106,
+            "team": "#723"
+          },
+          {
+            "pos": 2,
+            "name": "James Deane",
+            "points": 98,
+            "team": "#130"
+          },
+          {
+            "pos": 3,
+            "name": "Branden Sorensen",
+            "points": 84,
+            "team": "#513"
+          },
+          {
+            "pos": 4,
+            "name": "Fredric Aasbo",
+            "points": 74,
+            "team": "#151"
+          },
+          {
+            "pos": 5,
+            "name": "Conor Shanahan",
+            "points": 73,
+            "team": "#79"
+          },
+          {
+            "pos": 6,
+            "name": "Jack Shanahan",
+            "points": 65,
+            "team": "#59"
+          },
+          {
+            "pos": 7,
+            "name": "Dylan Hughes",
+            "points": 63,
+            "team": "#129"
+          },
+          {
+            "pos": 8,
+            "name": "Chris Forsberg",
+            "points": 57,
+            "team": "#64"
+          },
+          {
+            "pos": 9,
+            "name": "Cole Richards",
+            "points": 55,
+            "team": "#11"
+          },
+          {
+            "pos": 10,
+            "name": "Vaughn Gittin Jr",
+            "points": 51,
+            "team": "#25"
+          }
+        ]
+      },
+      {
+        "className": "PROSPEC",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Cory Talaska",
+            "points": 50,
+            "team": "#116"
+          },
+          {
+            "pos": 2,
+            "name": "Jason Webb",
+            "points": 43,
+            "team": "#45"
+          },
+          {
+            "pos": 3,
+            "name": "Dmitriy Brutskiy",
+            "points": 30,
+            "team": "#85"
+          },
+          {
+            "pos": 4,
+            "name": "Joshua (Jerry) Johnson",
+            "points": 30,
+            "team": "#97"
+          },
+          {
+            "pos": 5,
+            "name": "Sam Maghmoumi",
+            "points": 29,
+            "team": "#22"
+          },
+          {
+            "pos": 6,
+            "name": "Tyler Mayer",
+            "points": 26,
+            "team": "#133"
+          },
+          {
+            "pos": 7,
+            "name": "Dustyn Farrell",
+            "points": 26,
+            "team": "#160"
+          },
+          {
+            "pos": 8,
+            "name": "Braden Lons",
+            "points": 22,
+            "team": "#13"
+          },
+          {
+            "pos": 9,
+            "name": "Camren Sorensen",
+            "points": 20,
+            "team": "#514"
+          },
+          {
+            "pos": 10,
+            "name": "Nik Jimenez",
+            "points": 10,
+            "team": "#360"
+          }
+        ]
+      }
+    ],
     "britishgt": [
       {
         "className": "GT3",
@@ -10012,6 +10144,7 @@
     "worldcup": "Team Standings"
   },
   "lastUpdated": {
+    "formuladrift": "2026-05-30",
     "c24h": "2026-06-08",
     "pccasia": "2026-05-10",
     "pccau": "2026-03-08",

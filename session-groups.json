@@ -1,7 +1,29 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T01:02:39.101Z",
+  "generatedAt": "2026-06-15T01:55:00.890Z",
   "groups": {
+    "formuladrift": [
+      {
+        "label": "PRO",
+        "sessions": [
+          "PRO Practice",
+          "PRO Warm-up",
+          "PRO Qualifying",
+          "PRO Top 32",
+          "PRO Top 16"
+        ]
+      },
+      {
+        "label": "PROSPEC",
+        "sessions": [
+          "PROSPEC Practice",
+          "PROSPEC Warm-up",
+          "PROSPEC Seeding Bracket",
+          "PROSPEC Top 32",
+          "PROSPEC Top 16"
+        ]
+      }
+    ],
     "gt2": [
       {
         "label": "Practice",
