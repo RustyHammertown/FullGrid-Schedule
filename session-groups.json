@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T09:14:07.804Z",
+  "generatedAt": "2026-06-16T20:57:24.088Z",
   "groups": {
     "formuladrift": [
       {
@@ -1586,6 +1586,7 @@
           "Practice 1",
           "Practice 2",
           "Free Practice 1",
+          "Free Practice Trophy",
           "Free Practice 2"
         ]
       },

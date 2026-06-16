@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T09:14:03.624Z",
+  "generatedAt": "2026-06-16T20:57:20.129Z",
   "flat": {
     "pccasia": [
       {
@@ -300,63 +300,147 @@
     "pccit": [
       {
         "pos": 1,
+        "name": "Gianmarco Quaresmini",
+        "points": 90,
+        "team": "Prima Ghinzani Motorsport"
+      },
+      {
+        "pos": 2,
+        "name": "Larry Ten Voorde",
+        "points": 52,
+        "team": "Team Q8 Hi Perform"
+      },
+      {
+        "pos": 3,
         "name": "Andrea Bristot",
         "points": 89,
         "team": "Dinamic Motorsport"
       },
       {
-        "pos": 2,
+        "pos": 4,
         "name": "Pietro Delli Guanti",
         "points": 74,
         "team": "Team Q8 Hi Perform"
       },
       {
-        "pos": 3,
-        "name": "Gianmarco Quaresmini",
-        "points": 58,
-        "team": "Prima Ghinzani Motorsport"
+        "pos": 5,
+        "name": "Diego Bertonelli",
+        "points": 50,
+        "team": "BeDriver"
       },
       {
-        "pos": 4,
+        "pos": 6,
+        "name": "Aldo Festante",
+        "points": 56,
+        "team": "Target Competition"
+      },
+      {
+        "pos": 7,
         "name": "Harley Haughton",
         "points": 56,
         "team": "Enrico Fulgenzi Racing"
       },
       {
-        "pos": 5,
+        "pos": 8,
         "name": "Senna Van Soelen",
         "points": 48,
         "team": "Target Competition"
       },
       {
-        "pos": 6,
-        "name": "Aldo Festante",
-        "points": 41,
-        "team": "Target Competition"
+        "pos": 9,
+        "name": "Giorgio Amati",
+        "points": 38,
+        "team": "Prima Ghinzani Motorsport"
       },
       {
-        "pos": 7,
+        "pos": 10,
         "name": "Marco Butti",
         "points": 32,
         "team": "The Driving Experiences"
       },
       {
-        "pos": 8,
+        "pos": 11,
         "name": "Lirim Zendeli",
         "points": 30,
         "team": "BeDriver"
       },
       {
-        "pos": 9,
-        "name": "Diego Bertonelli",
-        "points": 29,
-        "team": "BeDriver"
+        "pos": 12,
+        "name": "Benedetto Strignano",
+        "points": 28,
+        "team": ""
       },
       {
-        "pos": 10,
-        "name": "Giorgio Amati",
-        "points": 21,
-        "team": "Prima Ghinzani Motorsport"
+        "pos": 13,
+        "name": "Leonardo Caglioni",
+        "points": 18,
+        "team": ""
+      },
+      {
+        "pos": 14,
+        "name": "Lodovico Laurini",
+        "points": 16,
+        "team": ""
+      },
+      {
+        "pos": 15,
+        "name": "Keagan Masters",
+        "points": 20,
+        "team": ""
+      },
+      {
+        "pos": 16,
+        "name": "Riccardo Agostini",
+        "points": 12,
+        "team": ""
+      },
+      {
+        "pos": 17,
+        "name": "Alberto Cerqui",
+        "points": 12,
+        "team": ""
+      },
+      {
+        "pos": 18,
+        "name": "Andrea Fontana",
+        "points": 9,
+        "team": ""
+      },
+      {
+        "pos": 19,
+        "name": "Simone Iaquinta",
+        "points": 9,
+        "team": ""
+      },
+      {
+        "pos": 20,
+        "name": "Jorge Lorenzo",
+        "points": 8,
+        "team": ""
+      },
+      {
+        "pos": 21,
+        "name": "Kang Ling",
+        "points": 6,
+        "team": ""
+      },
+      {
+        "pos": 22,
+        "name": "Artem Slutskii",
+        "points": 3,
+        "team": ""
+      },
+      {
+        "pos": 23,
+        "name": "Anthony Imperato",
+        "points": 2,
+        "team": ""
+      },
+      {
+        "pos": 24,
+        "name": "Matteo Malucelli",
+        "points": 1,
+        "team": ""
       }
     ],
     "pccjp": [
@@ -4271,62 +4355,62 @@
           {
             "pos": 1,
             "name": "Connor Xia",
-            "points": 140,
+            "points": 211,
             "team": "#18"
           },
           {
             "pos": 2,
-            "name": "Wataru Masuyama",
-            "points": 137,
-            "team": "#530"
+            "name": "Koudai Sobagiri",
+            "points": 189,
+            "team": "#31"
           },
           {
             "pos": 3,
-            "name": "Naoki Nakamura",
-            "points": 125,
-            "team": "#999"
+            "name": "Ryuma",
+            "points": 175,
+            "team": "#131"
           },
           {
             "pos": 4,
-            "name": "Masanori Kohashi",
-            "points": 120,
-            "team": "#4"
+            "name": "Wataru Masuyama",
+            "points": 173,
+            "team": "#530"
           },
           {
             "pos": 5,
             "name": "Yukio Fausto",
-            "points": 119,
+            "points": 153,
             "team": "#555"
           },
           {
             "pos": 6,
-            "name": "Ryuma",
-            "points": 106,
-            "team": "#131"
+            "name": "Masanori Kohashi",
+            "points": 138,
+            "team": "#4"
           },
           {
             "pos": 7,
-            "name": "Mingming",
-            "points": 103,
-            "team": "#100"
-          },
-          {
-            "pos": 8,
             "name": "Yusuke Kusaba",
-            "points": 103,
+            "points": 138,
             "team": "#77"
           },
           {
+            "pos": 8,
+            "name": "Naoki Nakamura",
+            "points": 126,
+            "team": "#999"
+          },
+          {
             "pos": 9,
-            "name": "Kiyofumi Hamada",
-            "points": 87,
-            "team": "#9"
+            "name": "Kazumi Takahashi",
+            "points": 123,
+            "team": "#36"
           },
           {
             "pos": 10,
-            "name": "Koudai Sobagiri",
-            "points": 85,
-            "team": "#31"
+            "name": "Ken Gushi",
+            "points": 122,
+            "team": "#21"
           }
         ]
       },
@@ -10342,14 +10426,14 @@
   },
   "lastUpdated": {
     "formuladrift": "2026-05-30",
-    "fdjapan": "2026-05-31",
+    "fdjapan": "2026-06-16",
     "c24h": "2026-06-08",
     "pccasia": "2026-05-10",
     "pccau": "2026-03-08",
     "pccbnl": "2026-05-24",
     "pccbr": "2026-03-29",
     "pccfr": "2026-05-17",
-    "pccit": "2026-05-10",
+    "pccit": "2026-06-16",
     "pccjp": "2026-05-17",
     "pccscan": "2026-05-31",
     "pccme": "2026-02-01",

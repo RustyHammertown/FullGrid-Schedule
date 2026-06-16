@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T09:14:02.418Z",
+  "generatedAt": "2026-06-16T20:57:18.981Z",
   "events": [
     {
       "id": 101,
@@ -17405,7 +17405,7 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-19T15:05:00-05:00",
+          "time": "2026-06-19T16:00:00-05:00",
           "duration": 75,
           "broadcasts": {
             "US": {
@@ -17415,7 +17415,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-20T10:05:00-05:00",
+          "time": "2026-06-20T11:00:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17425,7 +17425,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T13:05:00-05:00",
+          "time": "2026-06-20T14:00:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17435,7 +17435,7 @@
         },
         {
           "name": "Warmup",
-          "time": "2026-06-21T10:05:00-05:00",
+          "time": "2026-06-21T11:00:00-05:00",
           "duration": 30,
           "broadcasts": {
             "US": {
@@ -17445,7 +17445,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T13:20:00-05:00",
+          "time": "2026-06-21T14:00:00-05:00",
           "laps": 55,
           "broadcasts": {
             "US": {
@@ -19070,8 +19070,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-28T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-06-27T11:00:00-07:00",
+          "duration": 50,
           "broadcasts": {
             "US": {
               "service": "TNT"
@@ -19080,8 +19080,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-28T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-06-27T12:10:00-07:00",
+          "duration": 60,
           "broadcasts": {
             "US": {
               "service": "TNT"
@@ -39068,22 +39068,22 @@
         {
           "name": "Practice 1",
           "time": "2026-06-19T03:30:00+08:00",
-          "duration": 40
+          "duration": 55
         },
         {
           "name": "Practice 2",
           "time": "2026-06-19T19:30:00+08:00",
-          "duration": 30
+          "duration": 55
         },
         {
           "name": "Qualifying",
           "time": "2026-06-19T21:40:00+08:00",
-          "duration": 60
+          "duration": 68
         },
         {
           "name": "Race",
           "time": "2026-06-20T02:05:00+08:00",
-          "duration": 50,
+          "duration": 55,
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -42413,13 +42413,23 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-27T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-26T13:00:00-07:00",
+          "duration": 50,
+          "broadcasts": {
+            "US": {
+              "service": "CW App"
+            }
+          }
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T05:00:00-07:00",
-          "tbd": true
+          "time": "2026-06-26T14:05:00-07:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "CW App"
+            }
+          }
         },
         {
           "name": "Race",
@@ -44719,7 +44729,7 @@
         {
           "name": "Race",
           "time": "2026-06-20T18:30:00-04:00",
-          "laps": 150,
+          "laps": 200,
           "broadcasts": {
             "US": {
               "service": "FS2"
@@ -47279,7 +47289,7 @@
     {
       "id": 1509,
       "series": "whelen",
-      "name": "Riverhead Building Supply 150",
+      "name": "GAF 150",
       "circuit": "Stafford Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -64485,6 +64495,11 @@
           "duration": 60
         },
         {
+          "name": "Free Practice Trophy",
+          "time": "2026-06-19T09:05:00+02:00",
+          "duration": 25
+        },
+        {
           "name": "Free Practice 2",
           "time": "2026-06-19T13:30:00+02:00",
           "duration": 60
@@ -65083,7 +65098,7 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-19T14:40:00+02:00",
+          "time": "2026-06-19T15:20:00+02:00",
           "duration": 25
         },
         {
@@ -66073,14 +66088,14 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Qualifying",
-          "time": "2026-06-19T18:35:00+02:00",
-          "duration": 75
+          "name": "Free Practice 1",
+          "time": "2026-06-19T09:00:00+02:00",
+          "duration": 60
         },
         {
-          "name": "Free Practice 1",
-          "time": "2026-06-20T09:00:00+02:00",
-          "duration": 60
+          "name": "Qualifying",
+          "time": "2026-06-20T18:35:00+02:00",
+          "duration": 75
         },
         {
           "name": "Free Practice 2",
@@ -82504,23 +82519,43 @@
       "sessions": [
         {
           "name": "Qualifying",
-          "time": "2026-06-21T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-06-21T10:45:00+01:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/MINIChallengeUK"
+            }
+          }
         },
         {
           "name": "Race 1",
-          "time": "2026-06-21T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-06-21T15:10:00+01:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/MINIChallengeUK"
+            }
+          }
         },
         {
           "name": "Race 2",
-          "time": "2026-06-21T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-06-22T09:00:00+01:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/MINIChallengeUK"
+            }
+          }
         },
         {
           "name": "Race 3",
-          "time": "2026-06-21T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-06-22T12:05:00+01:00",
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/MINIChallengeUK"
+            }
+          }
         }
       ]
     },
@@ -88651,7 +88686,7 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-19T10:00:00+02:00",
+          "time": "2026-06-19T11:22:00+02:00",
           "duration": 50
         },
         {
