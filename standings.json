@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-16T21:24:53.294Z",
+  "generatedAt": "2026-06-16T23:32:41.325Z",
   "flat": {
     "pccasia": [
       {
@@ -119,6 +119,46 @@
         "pos": 10,
         "name": "David Russell",
         "points": 70
+      },
+      {
+        "pos": 11,
+        "name": "Lockie Bloxsom",
+        "points": 65
+      },
+      {
+        "pos": 12,
+        "name": "Diesel Thomas",
+        "points": 59
+      },
+      {
+        "pos": 13,
+        "name": "Dean Fiore",
+        "points": 39
+      },
+      {
+        "pos": 14,
+        "name": "Tom Bewley",
+        "points": 39
+      },
+      {
+        "pos": 15,
+        "name": "Ryan Casha",
+        "points": 35
+      },
+      {
+        "pos": 16,
+        "name": "Josh Thomas",
+        "points": 32
+      },
+      {
+        "pos": 17,
+        "name": "Amar Sharma",
+        "points": 31
+      },
+      {
+        "pos": 18,
+        "name": "Dale Wood",
+        "points": 23
       }
     ],
     "pccbnl": [
@@ -10224,30 +10264,30 @@
           {
             "pos": 1,
             "name": "Belgium",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 2,
-            "name": "Egypt",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Iran",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 2"
           },
           {
             "pos": 3,
-            "name": "Iran",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Egypt",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 4,
             "name": "New Zealand",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 2"
           }
         ]
       },
@@ -10256,30 +10296,30 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Cape Verde",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Saudi Arabia",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
-            "pos": 2,
-            "name": "Saudi Arabia",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "pos": 1,
+            "name": "Uruguay",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 3,
             "name": "Spain",
-            "points": 0,
-            "team": "0W 0D 0L",
+            "points": 1,
+            "team": "0W 1D 0L",
             "vehicle": "GD 0 · GF 0"
           },
           {
-            "pos": 4,
-            "name": "Uruguay",
-            "points": 0,
-            "team": "0W 0D 0L",
+            "pos": 3,
+            "name": "Cape Verde",
+            "points": 1,
+            "team": "0W 1D 0L",
             "vehicle": "GD 0 · GF 0"
           }
         ]
@@ -10290,30 +10330,30 @@
           {
             "pos": 1,
             "name": "France",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +2 · GF 3"
           },
           {
             "pos": 2,
-            "name": "Iraq",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Norway",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +1 · GF 2"
           },
           {
             "pos": 3,
-            "name": "Norway",
+            "name": "Senegal",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -2 · GF 1"
           },
           {
             "pos": 4,
-            "name": "Senegal",
+            "name": "Iraq",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -1 · GF 1"
           }
         ]
       },

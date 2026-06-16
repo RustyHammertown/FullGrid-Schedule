@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-16T21:24:52.522Z",
+  "generatedAt": "2026-06-16T23:32:40.151Z",
   "events": [
     {
       "id": 101,
@@ -17405,7 +17405,7 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-19T16:00:00-05:00",
+          "time": "2026-06-19T15:00:00-05:00",
           "duration": 75,
           "broadcasts": {
             "US": {
@@ -17415,7 +17415,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-20T11:00:00-05:00",
+          "time": "2026-06-20T10:00:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17425,7 +17425,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T14:00:00-05:00",
+          "time": "2026-06-20T13:00:00-05:00",
           "duration": 60,
           "broadcasts": {
             "US": {
@@ -17435,7 +17435,7 @@
         },
         {
           "name": "Warmup",
-          "time": "2026-06-21T11:00:00-05:00",
+          "time": "2026-06-21T10:00:00-05:00",
           "duration": 30,
           "broadcasts": {
             "US": {
@@ -17445,7 +17445,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T14:00:00-05:00",
+          "time": "2026-06-21T13:00:00-05:00",
           "laps": 55,
           "broadcasts": {
             "US": {
@@ -33926,7 +33926,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T10:30:00-04:00",
+          "time": "2026-06-21T10:35:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -39058,7 +39058,7 @@
     {
       "id": 811,
       "series": "fe",
-      "name": "Sanya E-Prix",
+      "name": "Lianxin Sanya E-Prix",
       "circuit": "Haitang Bay Circuit",
       "flag": "🇨🇳",
       "country": "China",
@@ -39066,12 +39066,12 @@
       "round": 11,
       "sessions": [
         {
-          "name": "Practice 1",
+          "name": "Free Practice 1",
           "time": "2026-06-19T03:30:00+08:00",
           "duration": 55
         },
         {
-          "name": "Practice 2",
+          "name": "Free Practice 2",
           "time": "2026-06-19T19:30:00+08:00",
           "duration": 55
         },
@@ -42367,7 +42367,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "CW App"
+              "service": "The CW"
             }
           }
         },
@@ -43852,7 +43852,12 @@
         {
           "name": "Qualifying",
           "time": "2026-06-19T11:00:00-07:00",
-          "duration": 60
+          "duration": 60,
+          "broadcasts": {
+            "US": {
+              "service": "FS2"
+            }
+          }
         },
         {
           "name": "Race",
@@ -52072,7 +52077,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-17T18:00:00-05:00",
+          "time": "2026-06-17T19:00:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -60484,8 +60489,8 @@
       "sessions": [
         {
           "name": "250 Moto 1",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-20T13:00:00-04:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -60506,8 +60511,8 @@
         },
         {
           "name": "450 Moto 1",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-20T13:00:00-04:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -60528,8 +60533,8 @@
         },
         {
           "name": "250 Moto 2",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-20T13:00:00-04:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -60550,8 +60555,8 @@
         },
         {
           "name": "450 Moto 2",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true,
+          "time": "2026-06-20T13:00:00-04:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -63273,12 +63278,12 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice 1",
+          "name": "Free Practice 1",
           "time": "2026-06-19T11:40:00+02:00",
           "duration": 55
         },
         {
-          "name": "Practice 2",
+          "name": "Free Practice 2",
           "time": "2026-06-19T16:10:00+02:00",
           "duration": 45
         },
@@ -65098,7 +65103,7 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-19T15:20:00+02:00",
+          "time": "2026-06-19T14:40:00+02:00",
           "duration": 25
         },
         {
@@ -66089,7 +66094,7 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-19T09:00:00+02:00",
+          "time": "2026-06-20T09:00:00+02:00",
           "duration": 60
         },
         {
@@ -71000,7 +71005,7 @@
         },
         {
           "name": "Grp 1/1b/3/4 Sprint 2",
-          "time": "2026-06-20T13:50:00-04:00",
+          "time": "2026-06-20T14:10:00-04:00",
           "duration": 25,
           "broadcasts": {
             "Global": {
@@ -71050,7 +71055,7 @@
         },
         {
           "name": "Grp 9/11a Sprint 3",
-          "time": "2026-06-21T09:15:00-04:00",
+          "time": "2026-06-21T09:35:00-04:00",
           "duration": 25,
           "broadcasts": {
             "Global": {
@@ -71090,7 +71095,7 @@
         },
         {
           "name": "Grp 10 Sprint 3",
-          "time": "2026-06-21T11:15:00-04:00",
+          "time": "2026-06-21T11:35:00-04:00",
           "duration": 25,
           "broadcasts": {
             "Global": {
@@ -71105,7 +71110,7 @@
         },
         {
           "name": "Grp 5a/7/11b Qualifying",
-          "time": "2026-06-19T15:40:00-04:00",
+          "time": "2026-06-19T15:35:00-04:00",
           "duration": 25
         },
         {
@@ -71145,7 +71150,7 @@
         },
         {
           "name": "Grp 6/8/12 Qualifying",
-          "time": "2026-06-19T17:30:00-04:00",
+          "time": "2026-06-19T17:25:00-04:00",
           "duration": 25
         },
         {
@@ -88138,7 +88143,7 @@
         },
         {
           "name": "Qualifying (Group 1)",
-          "time": "2026-06-19T16:45:00+02:00",
+          "time": "2026-06-19T17:10:00+02:00",
           "duration": 20
         },
         {
@@ -88153,7 +88158,7 @@
         },
         {
           "name": "Race 2 (Groups A-B)",
-          "time": "2026-06-20T16:30:00+02:00",
+          "time": "2026-06-20T17:30:00+02:00",
           "duration": 25
         },
         {
@@ -88686,7 +88691,7 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-19T11:22:00+02:00",
+          "time": "2026-06-19T10:00:00+02:00",
           "duration": 50
         },
         {
@@ -88696,7 +88701,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T13:20:00+02:00",
+          "time": "2026-06-20T13:30:00+02:00",
           "duration": 112
         },
         {
@@ -89257,29 +89262,39 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Free Practice",
-          "time": "2026-06-19T14:00:00+02:00",
-          "tbd": true
+          "name": "Free Practice 1",
+          "time": "2026-06-19T13:15:00+02:00",
+          "duration": 30
         },
         {
-          "name": "Qualifying",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true
+          "name": "Free Practice 2",
+          "time": "2026-06-19T17:05:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-20T09:00:00+02:00",
+          "duration": 20
         },
         {
           "name": "Race 1",
-          "time": "2026-06-20T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-20T12:20:00+02:00",
+          "duration": 25
         },
         {
           "name": "Race 2",
-          "time": "2026-06-21T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-20T16:25:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-21T09:00:00+02:00",
+          "duration": 20
         },
         {
           "name": "Race 3",
-          "time": "2026-06-21T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-21T12:50:00+02:00",
+          "duration": 25
         }
       ]
     },
