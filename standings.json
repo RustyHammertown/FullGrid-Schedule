@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-17T03:50:44.684Z",
+  "generatedAt": "2026-06-17T08:41:29.252Z",
   "flat": {
     "pccasia": [
       {
@@ -10370,16 +10370,16 @@
           {
             "pos": 2,
             "name": "Austria",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +2 · GF 3"
           },
           {
-            "pos": 2,
+            "pos": 3,
             "name": "Jordan",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -2 · GF 1"
           },
           {
             "pos": 4,
