@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-17T02:42:59.994Z",
+  "generatedAt": "2026-06-17T02:54:25.474Z",
   "events": [
     {
       "id": 101,
@@ -77133,38 +77133,38 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-19T08:30:00-04:00",
+          "duration": 30
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-19T12:35:00-04:00",
+          "duration": 30
         },
         {
           "name": "Practice 3",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-19T15:55:00-04:00",
+          "duration": 30
         },
         {
           "name": "Miles Cup Qualifying",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-20T08:30:00-04:00",
+          "duration": 15
         },
         {
           "name": "Parnelli Cup Qualifying",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-20T16:50:00-04:00",
+          "duration": 15
         },
         {
           "name": "Miles Cup Race",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-20T12:45:00-04:00",
+          "duration": 45
         },
         {
           "name": "Parnelli Cup Race",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-21T08:30:00-04:00",
+          "duration": 45
         }
       ]
     },
