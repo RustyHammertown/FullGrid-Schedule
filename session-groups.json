@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-17T03:05:30.401Z",
+  "generatedAt": "2026-06-17T03:22:07.660Z",
   "groups": {
     "formuladrift": [
       {
@@ -517,7 +517,11 @@
         "label": "Practice",
         "sessions": [
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Cayman Practice 1",
+          "Cayman Practice 2",
+          "GT3 Cup Practice 1",
+          "GT3 Cup Practice 2"
         ]
       },
       {
@@ -525,7 +529,10 @@
         "sessions": [
           "Qualifying 1",
           "Qualifying 2",
-          "Qualifying"
+          "Qualifying",
+          "Cayman Qualifying",
+          "GT3 Cup Qualifying Group A",
+          "GT3 Cup Qualifying Group B"
         ]
       }
     ],

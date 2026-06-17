@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-17T03:05:28.113Z",
+  "generatedAt": "2026-06-17T03:22:05.753Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -870,6 +870,7 @@
         "Practice",
         "Qualifying"
       ],
+      "classGrid": true,
       "streamUrl": "https://www.youtube.com/@PorscheSprintChallenge/streams",
       "resultsUrl": "https://racing.porsche.com/en-US/series/sprint-challenge-north-america",
       "unstreamedCategories": [
