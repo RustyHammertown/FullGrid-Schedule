@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-17T03:22:03.755Z",
+  "generatedAt": "2026-06-17T03:50:44.684Z",
   "flat": {
     "pccasia": [
       {
@@ -10220,8 +10220,8 @@
             "pos": 4,
             "name": "Curaçao",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -6 · GF 1"
           }
         ]
       },
@@ -10263,17 +10263,24 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Belgium",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
-          },
-          {
-            "pos": 2,
             "name": "Iran",
             "points": 1,
             "team": "0W 1D 0L",
             "vehicle": "GD 0 · GF 2"
+          },
+          {
+            "pos": 1,
+            "name": "New Zealand",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 2"
+          },
+          {
+            "pos": 3,
+            "name": "Belgium",
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 3,
@@ -10281,13 +10288,6 @@
             "points": 1,
             "team": "0W 1D 0L",
             "vehicle": "GD 0 · GF 1"
-          },
-          {
-            "pos": 4,
-            "name": "New Zealand",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 2"
           }
         ]
       },
@@ -10329,17 +10329,17 @@
         "entries": [
           {
             "pos": 1,
+            "name": "Norway",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +3 · GF 4"
+          },
+          {
+            "pos": 2,
             "name": "France",
             "points": 3,
             "team": "1W 0D 0L",
             "vehicle": "GD +2 · GF 3"
-          },
-          {
-            "pos": 2,
-            "name": "Norway",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +1 · GF 2"
           },
           {
             "pos": 3,
@@ -10353,7 +10353,7 @@
             "name": "Iraq",
             "points": 0,
             "team": "0W 0D 1L",
-            "vehicle": "GD -1 · GF 1"
+            "vehicle": "GD -3 · GF 1"
           }
         ]
       },
@@ -10362,31 +10362,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Algeria",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Argentina",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +3 · GF 3"
           },
           {
             "pos": 2,
-            "name": "Argentina",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
-          },
-          {
-            "pos": 3,
             "name": "Austria",
             "points": 0,
             "team": "0W 0D 0L",
             "vehicle": "GD 0 · GF 0"
           },
           {
-            "pos": 4,
+            "pos": 2,
             "name": "Jordan",
             "points": 0,
             "team": "0W 0D 0L",
             "vehicle": "GD 0 · GF 0"
+          },
+          {
+            "pos": 4,
+            "name": "Algeria",
+            "points": 0,
+            "team": "0W 0D 1L",
+            "vehicle": "GD -3 · GF 0"
           }
         ]
       },
