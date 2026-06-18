@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T01:07:58.743Z",
+  "generatedAt": "2026-06-18T08:40:12.165Z",
   "events": [
     {
       "id": 101,
@@ -47063,22 +47063,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
-        },
-        {
-          "name": "Final Practice",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-29T11:00:00-04:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-20T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-29T13:20:00-04:00",
+          "duration": 20
         },
         {
           "name": "Race",
-          "time": "2026-06-20T20:00:00-04:00",
+          "time": "2026-06-29T14:30:00-04:00",
           "laps": 200,
           "broadcasts": {
             "US": {
@@ -52101,7 +52096,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-18T18:00:00-05:00",
+          "time": "2026-06-18T19:00:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
