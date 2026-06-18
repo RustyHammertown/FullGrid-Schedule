@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T13:08:46.911Z",
+  "generatedAt": "2026-06-18T19:26:29.365Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -3298,6 +3298,40 @@
         {
           "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
           "label": "FIFA — official"
+        }
+      ]
+    },
+    "pgatour": {
+      "schedule": [
+        {
+          "url": "https://www.pgatour.com/schedule",
+          "label": "PGA Tour — 2026 schedule"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_PGA_Tour",
+          "label": "Season overview + venues (Wikipedia)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.pgatour.com/fedexcup",
+          "label": "FedExCup standings — official"
+        },
+        {
+          "url": "https://www.espn.com/golf/stats/player/_/table/general/sort/cupPoints/dir/desc",
+          "label": "FedExCup points (ESPN mirror)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.pgatour.com/leaderboard",
+          "label": "PGA Tour — leaderboards"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.pgatour.com/",
+          "label": "PGA Tour — official"
         }
       ]
     },

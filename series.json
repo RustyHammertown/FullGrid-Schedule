@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-18T13:08:45.906Z",
+  "generatedAt": "2026-06-18T19:26:26.086Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3726,6 +3726,22 @@
       },
       "resultsUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
       "classGrid": true
+    },
+    "pgatour": {
+      "id": "pgatour",
+      "tags": [
+        "special-event",
+        "north-america"
+      ],
+      "group": "special",
+      "label": "PGA Tour",
+      "short": "PGA Tour",
+      "color": "#0B4DA2",
+      "bg": "rgba(11,77,162,0.15)",
+      "broadcast": {
+        "US": "Golf Channel, CBS, NBC"
+      },
+      "resultsUrl": "https://www.pgatour.com/leaderboard"
     }
   },
   "categoryOverrides": {

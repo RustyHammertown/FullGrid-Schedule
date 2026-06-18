@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T13:08:42.800Z",
+  "generatedAt": "2026-06-18T19:26:24.448Z",
   "events": [
     {
       "id": 101,
@@ -92090,6 +92090,1842 @@
           "name": "FDJ3 Top 16",
           "time": "2026-11-01T21:00:00+09:00",
           "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9701,
+      "series": "pgatour",
+      "name": "Sony Open in Hawaii",
+      "circuit": "Waialae Country Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "Pacific/Honolulu",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-01-15T12:00:00-10:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-01-16T12:00:00-10:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-01-17T12:00:00-10:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-01-18T12:00:00-10:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9702,
+      "series": "pgatour",
+      "name": "The American Express",
+      "circuit": "PGA West (Stadium Course)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-01-22T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-01-23T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-01-24T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-01-25T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9703,
+      "series": "pgatour",
+      "name": "Farmers Insurance Open",
+      "circuit": "Torrey Pines (South Course)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-01-28T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-01-29T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-01-30T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-01-31T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9704,
+      "series": "pgatour",
+      "name": "WM Phoenix Open",
+      "circuit": "TPC Scottsdale",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Phoenix",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-02-05T12:00:00-07:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-02-06T12:00:00-07:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-02-07T12:00:00-07:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-02-08T12:00:00-07:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9705,
+      "series": "pgatour",
+      "name": "AT&T Pebble Beach Pro-Am",
+      "circuit": "Pebble Beach Golf Links",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-02-12T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-02-13T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-02-14T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-02-15T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9706,
+      "series": "pgatour",
+      "name": "The Genesis Invitational",
+      "circuit": "Riviera Country Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-02-19T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-02-20T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-02-21T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-02-22T12:00:00-08:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9707,
+      "series": "pgatour",
+      "name": "Cognizant Classic in The Palm Beaches",
+      "circuit": "PGA National (Champion Course)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-02-26T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-02-27T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-02-28T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-03-01T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9708,
+      "series": "pgatour",
+      "name": "Arnold Palmer Invitational presented by Mastercard",
+      "circuit": "Bay Hill Club & Lodge",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-03-05T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-03-06T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-03-07T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-03-08T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9709,
+      "series": "pgatour",
+      "name": "Puerto Rico Open",
+      "circuit": "Grand Reserve Country Club",
+      "flag": "🇵🇷",
+      "country": "Puerto Rico",
+      "tz": "America/Puerto_Rico",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-03-05T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-03-06T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-03-07T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-03-08T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9710,
+      "series": "pgatour",
+      "name": "The Players Championship",
+      "circuit": "TPC Sawgrass (Stadium Course)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-03-12T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-03-13T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-03-14T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-03-15T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9711,
+      "series": "pgatour",
+      "name": "Valspar Championship",
+      "circuit": "Innisbrook (Copperhead Course)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-03-19T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-03-20T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-03-21T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-03-22T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9712,
+      "series": "pgatour",
+      "name": "Texas Children's Houston Open",
+      "circuit": "Memorial Park Golf Course",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-03-26T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-03-27T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-03-28T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-03-29T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9713,
+      "series": "pgatour",
+      "name": "Valero Texas Open",
+      "circuit": "TPC San Antonio (Oaks Course)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-04-02T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-04-03T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-04-04T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-04-05T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9714,
+      "series": "pgatour",
+      "name": "Masters Tournament",
+      "circuit": "Augusta National Golf Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-04-09T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "ESPN"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-04-10T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "ESPN"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-04-11T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-04-12T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9715,
+      "series": "pgatour",
+      "name": "RBC Heritage",
+      "circuit": "Harbour Town Golf Links",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-04-16T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-04-17T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-04-18T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-04-19T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9716,
+      "series": "pgatour",
+      "name": "Zurich Classic of New Orleans",
+      "circuit": "TPC Louisiana",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-04-23T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-04-24T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-04-25T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-04-26T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9717,
+      "series": "pgatour",
+      "name": "Cadillac Championship",
+      "circuit": "Trump National Doral (Blue Monster)",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-04-30T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-05-01T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-05-02T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-05-03T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9718,
+      "series": "pgatour",
+      "name": "Truist Championship",
+      "circuit": "Quail Hollow Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-05-07T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-05-08T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-05-09T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-05-10T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9719,
+      "series": "pgatour",
+      "name": "Myrtle Beach Classic",
+      "circuit": "The Dunes Golf & Beach Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-05-07T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-05-08T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-05-09T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-05-10T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9720,
+      "series": "pgatour",
+      "name": "PGA Championship",
+      "circuit": "Aronimink Golf Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-05-14T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "ESPN"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-05-15T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "ESPN"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-05-16T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-05-17T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9721,
+      "series": "pgatour",
+      "name": "THE CJ CUP Byron Nelson",
+      "circuit": "TPC Craig Ranch",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-05-21T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-05-22T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-05-23T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-05-24T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9722,
+      "series": "pgatour",
+      "name": "Charles Schwab Challenge",
+      "circuit": "Colonial Country Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-05-28T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-05-29T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-05-30T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-05-31T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9723,
+      "series": "pgatour",
+      "name": "the Memorial Tournament presented by Workday",
+      "circuit": "Muirfield Village Golf Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-06-04T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-06-05T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-06-06T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-06-07T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9724,
+      "series": "pgatour",
+      "name": "RBC Canadian Open",
+      "circuit": "TPC Toronto at Osprey Valley",
+      "flag": "🇨🇦",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-06-11T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-06-12T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-06-13T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-06-14T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9725,
+      "series": "pgatour",
+      "name": "U.S. Open",
+      "circuit": "Shinnecock Hills Golf Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-06-18T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "USA Network"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-06-19T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-06-20T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-06-21T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9726,
+      "series": "pgatour",
+      "name": "Travelers Championship",
+      "circuit": "TPC River Highlands",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-06-25T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-06-26T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-06-27T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-06-28T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9727,
+      "series": "pgatour",
+      "name": "John Deere Classic",
+      "circuit": "TPC Deere Run",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-07-02T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-07-03T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-07-04T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-07-05T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9728,
+      "series": "pgatour",
+      "name": "Genesis Scottish Open",
+      "circuit": "The Renaissance Club",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "country": "Scotland",
+      "tz": "Europe/London",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-07-09T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-07-10T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-07-11T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-07-12T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9729,
+      "series": "pgatour",
+      "name": "ISCO Championship",
+      "circuit": "Hurstbourne Country Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Kentucky/Louisville",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-07-09T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-07-10T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-07-11T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-07-12T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9730,
+      "series": "pgatour",
+      "name": "The Open Championship",
+      "circuit": "Royal Birkdale",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "country": "England",
+      "tz": "Europe/London",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-07-16T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "USA Network"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-07-17T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "USA Network"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-07-18T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-07-19T12:00:00+01:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "NBC"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9731,
+      "series": "pgatour",
+      "name": "3M Open",
+      "circuit": "TPC Twin Cities",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-07-23T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-07-24T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-07-25T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-07-26T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9732,
+      "series": "pgatour",
+      "name": "Rocket Classic",
+      "circuit": "Detroit Golf Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Detroit",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-07-30T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-07-31T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-08-01T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-08-02T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9733,
+      "series": "pgatour",
+      "name": "Wyndham Championship",
+      "circuit": "Sedgefield Country Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-08-06T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-08-07T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-08-08T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-08-09T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9734,
+      "series": "pgatour",
+      "name": "FedEx St. Jude Championship",
+      "circuit": "TPC Southwind",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-08-13T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-08-14T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-08-15T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-08-16T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9735,
+      "series": "pgatour",
+      "name": "BMW Championship",
+      "circuit": "Bellerive Country Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-08-20T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-08-21T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-08-22T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-08-23T12:00:00-05:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9736,
+      "series": "pgatour",
+      "name": "Tour Championship",
+      "circuit": "East Lake Golf Club",
+      "flag": "🇺🇸",
+      "country": "United States",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round 1",
+          "time": "2026-08-27T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 2",
+          "time": "2026-08-28T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "Golf Channel"
+            }
+          }
+        },
+        {
+          "name": "Round 3",
+          "time": "2026-08-29T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
+        },
+        {
+          "name": "Round 4",
+          "time": "2026-08-30T12:00:00-04:00",
+          "duration": 360,
+          "broadcasts": {
+            "US": {
+              "service": "CBS"
+            }
+          }
         }
       ]
     }

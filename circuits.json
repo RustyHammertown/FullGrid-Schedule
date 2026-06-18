@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T13:08:44.922Z",
+  "generatedAt": "2026-06-18T19:26:26.863Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2874,6 +2874,258 @@
       "lon": -121.9698,
       "city": "Santa Clara",
       "region": "California"
+    },
+    "Waialae Country Club": {
+      "lat": 21.272,
+      "lon": -157.775,
+      "city": "Honolulu",
+      "region": "Hawaii",
+      "website": "https://waialaecc.com"
+    },
+    "PGA West (Stadium Course)": {
+      "lat": 33.6433,
+      "lon": -116.26751,
+      "city": "La Quinta",
+      "region": "California",
+      "website": "https://www.pgawest.com/golf"
+    },
+    "Torrey Pines (South Course)": {
+      "lat": 32.9045,
+      "lon": -117.2454,
+      "city": "San Diego",
+      "region": "California",
+      "website": "https://www.sandiego.gov/park-and-recreation/golf/torreypines"
+    },
+    "TPC Scottsdale": {
+      "lat": 33.63604,
+      "lon": -111.8978,
+      "city": "Scottsdale",
+      "region": "Arizona",
+      "website": "https://tpc.com/scottsdale"
+    },
+    "Pebble Beach Golf Links": {
+      "lat": 36.56861,
+      "lon": -121.95056,
+      "city": "Pebble Beach",
+      "region": "California",
+      "website": "https://www.pebblebeach.com"
+    },
+    "Riviera Country Club": {
+      "lat": 34.04534,
+      "lon": -118.50245,
+      "city": "Pacific Palisades",
+      "region": "California",
+      "website": "https://www.therivieracountryclub.com"
+    },
+    "PGA National (Champion Course)": {
+      "lat": 26.829,
+      "lon": -80.141,
+      "city": "Palm Beach Gardens",
+      "region": "Florida",
+      "website": "https://www.pgaresort.com"
+    },
+    "Bay Hill Club & Lodge": {
+      "lat": 28.458,
+      "lon": -81.511,
+      "city": "Orlando",
+      "region": "Florida",
+      "website": "https://www.bayhill.com"
+    },
+    "Grand Reserve Country Club": {
+      "lat": 18.41102,
+      "lon": -65.79948,
+      "city": "Río Grande",
+      "region": "Puerto Rico",
+      "website": "https://www.grandreservegolfclub.com"
+    },
+    "TPC Sawgrass (Stadium Course)": {
+      "lat": 30.1981,
+      "lon": -81.3939,
+      "city": "Ponte Vedra Beach",
+      "region": "Florida",
+      "website": "https://tpc.com/sawgrass"
+    },
+    "Innisbrook (Copperhead Course)": {
+      "lat": 28.1061,
+      "lon": -82.74,
+      "city": "Palm Harbor",
+      "region": "Florida",
+      "website": "https://www.innisbrookgolfresort.com"
+    },
+    "Memorial Park Golf Course": {
+      "lat": 29.765,
+      "lon": -95.4411,
+      "city": "Houston",
+      "region": "Texas",
+      "website": "https://www.memorialparkgolf.com"
+    },
+    "TPC San Antonio (Oaks Course)": {
+      "lat": 29.665,
+      "lon": -98.4,
+      "city": "San Antonio",
+      "region": "Texas",
+      "website": "https://tpc.com/sanantonio"
+    },
+    "Augusta National Golf Club": {
+      "lat": 33.5025,
+      "lon": -82.02,
+      "city": "Augusta",
+      "region": "Georgia",
+      "website": "https://www.masters.com"
+    },
+    "Harbour Town Golf Links": {
+      "lat": 32.1361,
+      "lon": -80.81,
+      "city": "Hilton Head Island",
+      "region": "South Carolina",
+      "website": "https://www.seapines.com"
+    },
+    "TPC Louisiana": {
+      "lat": 29.9019,
+      "lon": -90.19,
+      "city": "Avondale",
+      "region": "Louisiana",
+      "website": "https://tpc.com/louisiana"
+    },
+    "Trump National Doral (Blue Monster)": {
+      "lat": 25.8194,
+      "lon": -80.3428,
+      "city": "Doral",
+      "region": "Florida",
+      "website": "https://www.trumphotels.com/miami"
+    },
+    "Quail Hollow Club": {
+      "lat": 35.1161,
+      "lon": -80.8419,
+      "city": "Charlotte",
+      "region": "North Carolina",
+      "website": "https://www.quailhollowclub.com"
+    },
+    "The Dunes Golf & Beach Club": {
+      "lat": 33.762,
+      "lon": -78.796,
+      "city": "Myrtle Beach",
+      "region": "South Carolina",
+      "website": "https://www.thedunesclub.com"
+    },
+    "Aronimink Golf Club": {
+      "lat": 40.01111,
+      "lon": -75.40889,
+      "city": "Newtown Square",
+      "region": "Pennsylvania",
+      "website": "https://www.aronimink.org"
+    },
+    "TPC Craig Ranch": {
+      "lat": 33.14054,
+      "lon": -96.72187,
+      "city": "McKinney",
+      "region": "Texas",
+      "website": "https://www.invitedclubs.com/clubs/tpc-craig-ranch"
+    },
+    "Colonial Country Club": {
+      "lat": 32.717,
+      "lon": -97.373,
+      "city": "Fort Worth",
+      "region": "Texas",
+      "website": "https://www.colonialfw.com"
+    },
+    "Muirfield Village Golf Club": {
+      "lat": 40.1405,
+      "lon": -83.1414,
+      "city": "Dublin",
+      "region": "Ohio",
+      "website": "https://www.mvgc.org"
+    },
+    "TPC Toronto at Osprey Valley": {
+      "lat": 43.84025,
+      "lon": -80.04133,
+      "city": "Caledon",
+      "region": "Ontario",
+      "website": "https://www.ospreyvalley.com"
+    },
+    "Shinnecock Hills Golf Club": {
+      "lat": 40.894,
+      "lon": -72.44,
+      "city": "Southampton",
+      "region": "New York",
+      "website": "https://www.shinnecockhillsgolfclub.org"
+    },
+    "TPC River Highlands": {
+      "lat": 41.632,
+      "lon": -72.639,
+      "city": "Cromwell",
+      "region": "Connecticut",
+      "website": "https://tpc.com/riverhighlands"
+    },
+    "TPC Deere Run": {
+      "lat": 41.478,
+      "lon": -90.392,
+      "city": "Silvis",
+      "region": "Illinois",
+      "website": "https://tpc.com/deererun"
+    },
+    "The Renaissance Club": {
+      "lat": 56.0514,
+      "lon": -2.8092,
+      "city": "North Berwick",
+      "region": "Scotland",
+      "website": "https://www.trcaa.com"
+    },
+    "Hurstbourne Country Club": {
+      "lat": 38.248,
+      "lon": -85.585,
+      "city": "Louisville",
+      "region": "Kentucky",
+      "website": "https://www.hurstbournecc.com"
+    },
+    "Royal Birkdale": {
+      "lat": 53.622,
+      "lon": -3.033,
+      "city": "Southport",
+      "region": "England",
+      "website": "https://www.royalbirkdale.com"
+    },
+    "TPC Twin Cities": {
+      "lat": 45.177,
+      "lon": -93.213,
+      "city": "Blaine",
+      "region": "Minnesota",
+      "website": "https://tpc.com/twincities"
+    },
+    "Detroit Golf Club": {
+      "lat": 42.4264,
+      "lon": -83.1264,
+      "city": "Detroit",
+      "region": "Michigan",
+      "website": "https://www.detroitgolfclub.org"
+    },
+    "Sedgefield Country Club": {
+      "lat": 36.014,
+      "lon": -79.887,
+      "city": "Greensboro",
+      "region": "North Carolina",
+      "website": "https://www.sedgefieldcc.com"
+    },
+    "TPC Southwind": {
+      "lat": 35.057,
+      "lon": -89.779,
+      "city": "Memphis",
+      "region": "Tennessee",
+      "website": "https://tpc.com/southwind"
+    },
+    "Bellerive Country Club": {
+      "lat": 38.66,
+      "lon": -90.483,
+      "city": "Town and Country",
+      "region": "Missouri",
+      "website": "https://www.bellerivecc.org"
+    },
+    "East Lake Golf Club": {
+      "lat": 33.743,
+      "lon": -84.303,
+      "city": "Atlanta",
+      "region": "Georgia",
+      "website": "https://eastlakegolfclub.com"
     }
   }
 }

@@ -1,7 +1,99 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T13:08:43.925Z",
+  "generatedAt": "2026-06-18T19:26:25.263Z",
   "flat": {
+    "pgatour": [
+      {
+        "pos": 1,
+        "name": "Matt Fitzpatrick",
+        "points": 2817,
+        "team": "England"
+      },
+      {
+        "pos": 2,
+        "name": "Scottie Scheffler",
+        "points": 2811,
+        "team": "United States"
+      },
+      {
+        "pos": 3,
+        "name": "Cameron Young",
+        "points": 2556,
+        "team": "United States"
+      },
+      {
+        "pos": 4,
+        "name": "Si Woo Kim",
+        "points": 1844,
+        "team": "South Korea"
+      },
+      {
+        "pos": 5,
+        "name": "Collin Morikawa",
+        "points": 1761,
+        "team": "United States"
+      },
+      {
+        "pos": 6,
+        "name": "Ludvig Åberg",
+        "points": 1698,
+        "team": "Sweden"
+      },
+      {
+        "pos": 7,
+        "name": "Rory McIlroy",
+        "points": 1603,
+        "team": "Northern Ireland"
+      },
+      {
+        "pos": 8,
+        "name": "Jacob Bridgeman",
+        "points": 1600,
+        "team": "United States"
+      },
+      {
+        "pos": 9,
+        "name": "Chris Gotterup",
+        "points": 1589,
+        "team": "United States"
+      },
+      {
+        "pos": 10,
+        "name": "Tommy Fleetwood",
+        "points": 1491,
+        "team": "England"
+      },
+      {
+        "pos": 11,
+        "name": "Russell Henley",
+        "points": 1388,
+        "team": "United States"
+      },
+      {
+        "pos": 12,
+        "name": "Akshay Bhatia",
+        "points": 1371,
+        "team": "United States"
+      },
+      {
+        "pos": 13,
+        "name": "Kristoffer Reitan",
+        "points": 1364,
+        "team": "Norway"
+      },
+      {
+        "pos": 14,
+        "name": "Xander Schauffele",
+        "points": 1299,
+        "team": "United States"
+      },
+      {
+        "pos": 15,
+        "name": "Alex Smalley",
+        "points": 1226,
+        "team": "United States"
+      }
+    ],
     "pccasia": [
       {
         "pos": 1,
@@ -10462,9 +10554,11 @@
     "gtwce": "Team Standings",
     "elms": "Team Standings",
     "alms": "Team Standings",
-    "worldcup": "Team Standings"
+    "worldcup": "Team Standings",
+    "pgatour": "FedExCup Standings"
   },
   "lastUpdated": {
+    "pgatour": "2026-06-08",
     "formuladrift": "2026-05-30",
     "fdjapan": "2026-06-16",
     "c24h": "2026-06-08",
