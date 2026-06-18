@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T19:26:57.151Z",
+  "generatedAt": "2026-06-18T19:42:16.662Z",
   "events": [
     {
       "id": 101,
@@ -92104,8 +92104,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-01-15T12:00:00-10:00",
-          "duration": 360,
+          "time": "2026-01-15T14:00:00-10:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92114,8 +92114,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-01-16T12:00:00-10:00",
-          "duration": 360,
+          "time": "2026-01-16T14:00:00-10:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92124,8 +92124,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-01-17T12:00:00-10:00",
-          "duration": 360,
+          "time": "2026-01-17T14:00:00-10:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92134,8 +92134,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-01-18T12:00:00-10:00",
-          "duration": 360,
+          "time": "2026-01-18T14:00:00-10:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92155,8 +92155,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-01-22T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-22T13:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92165,8 +92165,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-01-23T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-23T13:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92175,8 +92175,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-01-24T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-24T13:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92185,8 +92185,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-01-25T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-25T13:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92206,8 +92206,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-01-28T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-29T12:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92216,8 +92216,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-01-29T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-30T12:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92226,8 +92226,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-01-30T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-01-31T12:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92236,8 +92236,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-01-31T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-02-01T12:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92257,8 +92257,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-02-05T12:00:00-07:00",
-          "duration": 360,
+          "time": "2026-02-05T13:30:00-07:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92267,8 +92267,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-02-06T12:00:00-07:00",
-          "duration": 360,
+          "time": "2026-02-06T13:30:00-07:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92277,8 +92277,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-02-07T12:00:00-07:00",
-          "duration": 360,
+          "time": "2026-02-07T13:00:00-07:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92287,8 +92287,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-02-08T12:00:00-07:00",
-          "duration": 360,
+          "time": "2026-02-08T13:00:00-07:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92309,7 +92309,7 @@
         {
           "name": "Round 1",
           "time": "2026-02-12T12:00:00-08:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92319,7 +92319,7 @@
         {
           "name": "Round 2",
           "time": "2026-02-13T12:00:00-08:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92329,7 +92329,7 @@
         {
           "name": "Round 3",
           "time": "2026-02-14T12:00:00-08:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92339,7 +92339,7 @@
         {
           "name": "Round 4",
           "time": "2026-02-15T12:00:00-08:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92359,8 +92359,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-02-19T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-02-19T13:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92369,8 +92369,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-02-20T12:00:00-08:00",
-          "duration": 360,
+          "time": "2026-02-20T13:00:00-08:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92380,7 +92380,7 @@
         {
           "name": "Round 3",
           "time": "2026-02-21T12:00:00-08:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92390,7 +92390,7 @@
         {
           "name": "Round 4",
           "time": "2026-02-22T12:00:00-08:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92410,8 +92410,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-02-26T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-02-26T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92420,8 +92420,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-02-27T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-02-27T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92430,8 +92430,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-02-28T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-02-28T15:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92440,8 +92440,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-03-01T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-01T15:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92461,8 +92461,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-03-05T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-05T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92471,8 +92471,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-03-06T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-06T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92481,8 +92481,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-03-07T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-07T14:30:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92491,8 +92491,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-03-08T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-08T14:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92512,8 +92512,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-03-05T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-05T11:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92522,8 +92522,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-03-06T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-06T11:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92532,8 +92532,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-03-07T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-07T15:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92542,8 +92542,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-03-08T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-08T14:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92563,8 +92563,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-03-12T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-12T13:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92573,8 +92573,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-03-13T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-13T13:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92583,8 +92583,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-03-14T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-14T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92593,8 +92593,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-03-15T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-15T13:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92614,8 +92614,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-03-19T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-19T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92624,8 +92624,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-03-20T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-20T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92634,8 +92634,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-03-21T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-21T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92644,8 +92644,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-03-22T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-03-22T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92665,8 +92665,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-03-26T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-26T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92675,8 +92675,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-03-27T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-27T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92685,8 +92685,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-03-28T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-28T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92695,8 +92695,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-03-29T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-03-29T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92716,8 +92716,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-04-02T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-02T15:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92726,8 +92726,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-04-03T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-03T15:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92736,8 +92736,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-04-04T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-04T14:30:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92746,8 +92746,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-04-05T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-05T13:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -92767,8 +92767,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-04-09T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-09T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "ESPN"
@@ -92777,8 +92777,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-04-10T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-10T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "ESPN"
@@ -92787,8 +92787,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-04-11T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-11T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92797,8 +92797,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-04-12T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-12T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92818,8 +92818,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-04-16T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-16T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92828,8 +92828,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-04-17T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-17T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92838,8 +92838,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-04-18T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-18T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92848,8 +92848,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-04-19T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-19T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92869,8 +92869,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-04-23T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-23T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92879,8 +92879,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-04-24T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-24T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92889,8 +92889,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-04-25T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-25T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92899,8 +92899,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-04-26T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-04-26T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92920,8 +92920,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-04-30T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-04-30T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92930,8 +92930,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-05-01T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-01T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92940,8 +92940,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-05-02T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-02T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92950,8 +92950,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-05-03T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-03T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -92971,8 +92971,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-05-07T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-07T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92981,8 +92981,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-05-08T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-08T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -92991,8 +92991,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-05-09T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-09T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93001,8 +93001,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-05-10T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-10T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93022,8 +93022,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-05-07T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-07T10:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93032,8 +93032,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-05-08T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-08T10:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93042,8 +93042,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-05-09T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-09T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93052,8 +93052,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-05-10T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-10T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93074,7 +93074,7 @@
         {
           "name": "Round 1",
           "time": "2026-05-14T12:00:00-04:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "ESPN"
@@ -93084,7 +93084,7 @@
         {
           "name": "Round 2",
           "time": "2026-05-15T12:00:00-04:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "ESPN"
@@ -93093,8 +93093,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-05-16T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-16T13:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93103,8 +93103,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-05-17T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-05-17T13:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93124,8 +93124,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-05-21T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-21T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93134,8 +93134,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-05-22T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-22T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93144,8 +93144,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-05-23T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-23T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93154,8 +93154,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-05-24T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-24T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93175,8 +93175,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-05-28T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-28T15:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93185,8 +93185,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-05-29T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-29T15:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93195,8 +93195,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-05-30T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-30T14:30:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93205,8 +93205,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-05-31T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-05-31T14:00:00-05:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93226,8 +93226,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-06-04T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-04T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93236,8 +93236,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-06-05T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-05T14:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93246,8 +93246,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-06-06T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-06T14:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93256,8 +93256,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-06-07T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-07T14:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93277,8 +93277,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-06-11T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-11T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93287,8 +93287,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-06-12T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-12T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93297,8 +93297,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-06-13T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-13T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93307,8 +93307,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-06-14T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-14T15:00:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93328,8 +93328,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-06-18T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-18T06:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "USA Network"
@@ -93338,8 +93338,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-06-19T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-19T13:30:00-04:00",
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93349,7 +93349,7 @@
         {
           "name": "Round 3",
           "time": "2026-06-20T12:00:00-04:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93359,7 +93359,7 @@
         {
           "name": "Round 4",
           "time": "2026-06-21T12:00:00-04:00",
-          "duration": 360,
+          "duration": 240,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93379,8 +93379,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-06-25T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-25T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93389,8 +93389,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-06-26T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-26T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93399,8 +93399,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-06-27T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-27T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93409,8 +93409,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-06-28T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-06-28T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93430,8 +93430,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-07-02T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-02T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93440,8 +93440,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-07-03T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-03T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93450,8 +93450,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-07-04T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-04T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93460,8 +93460,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-07-05T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-05T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93481,8 +93481,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-07-09T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-09T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93491,8 +93491,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-07-10T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-10T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93501,8 +93501,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-07-11T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-11T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93511,8 +93511,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-07-12T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-12T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93532,8 +93532,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-07-09T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-07-09T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93542,8 +93542,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-07-10T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-07-10T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93552,8 +93552,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-07-11T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-07-11T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93562,8 +93562,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-07-12T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-07-12T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93583,8 +93583,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-07-16T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-16T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "USA Network"
@@ -93593,8 +93593,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-07-17T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-17T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "USA Network"
@@ -93603,8 +93603,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-07-18T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-18T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93613,8 +93613,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-07-19T12:00:00+01:00",
-          "duration": 360,
+          "time": "2026-07-19T13:00:00+01:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "NBC"
@@ -93634,8 +93634,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-07-23T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-23T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93644,8 +93644,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-07-24T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-24T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93654,8 +93654,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-07-25T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-25T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93664,8 +93664,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-07-26T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-07-26T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93685,8 +93685,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-07-30T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-07-30T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93695,8 +93695,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-07-31T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-07-31T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93705,8 +93705,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-08-01T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-01T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93715,8 +93715,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-08-02T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-02T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93736,8 +93736,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-08-06T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-06T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93746,8 +93746,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-08-07T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-07T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93756,8 +93756,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-08-08T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-08T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93766,8 +93766,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-08-09T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-09T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93787,8 +93787,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-08-13T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-13T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93797,8 +93797,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-08-14T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-14T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93807,8 +93807,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-08-15T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-15T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93817,8 +93817,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-08-16T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-16T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93838,8 +93838,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-08-20T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-20T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93848,8 +93848,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-08-21T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-21T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93858,8 +93858,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-08-22T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-22T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93868,8 +93868,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-08-23T12:00:00-05:00",
-          "duration": 360,
+          "time": "2026-08-23T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93889,8 +93889,8 @@
       "sessions": [
         {
           "name": "Round 1",
-          "time": "2026-08-27T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-27T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93899,8 +93899,8 @@
         },
         {
           "name": "Round 2",
-          "time": "2026-08-28T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-28T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "Golf Channel"
@@ -93909,8 +93909,8 @@
         },
         {
           "name": "Round 3",
-          "time": "2026-08-29T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-29T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
@@ -93919,8 +93919,8 @@
         },
         {
           "name": "Round 4",
-          "time": "2026-08-30T12:00:00-04:00",
-          "duration": 360,
+          "time": "2026-08-30T08:00:00-04:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "CBS"
