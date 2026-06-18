@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T19:42:58.214Z",
+  "generatedAt": "2026-06-18T19:49:55.249Z",
   "flat": {
     "pgatour": [
       {
@@ -62,36 +62,6 @@
         "name": "Tommy Fleetwood",
         "points": 1491,
         "team": "England"
-      },
-      {
-        "pos": 11,
-        "name": "Russell Henley",
-        "points": 1388,
-        "team": "United States"
-      },
-      {
-        "pos": 12,
-        "name": "Akshay Bhatia",
-        "points": 1371,
-        "team": "United States"
-      },
-      {
-        "pos": 13,
-        "name": "Kristoffer Reitan",
-        "points": 1364,
-        "team": "Norway"
-      },
-      {
-        "pos": 14,
-        "name": "Xander Schauffele",
-        "points": 1299,
-        "team": "United States"
-      },
-      {
-        "pos": 15,
-        "name": "Alex Smalley",
-        "points": 1226,
-        "team": "United States"
       }
     ],
     "pccasia": [
