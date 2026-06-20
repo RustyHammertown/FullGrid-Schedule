@@ -1,67 +1,67 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T19:50:36.255Z",
+  "generatedAt": "2026-06-20T16:40:16.792Z",
   "flat": {
     "pgatour": [
       {
         "pos": 1,
         "name": "Matt Fitzpatrick",
-        "points": 2817,
+        "points": 3185.65,
         "team": "England"
       },
       {
         "pos": 2,
         "name": "Scottie Scheffler",
-        "points": 2811,
+        "points": 2903.106,
         "team": "United States"
       },
       {
         "pos": 3,
         "name": "Cameron Young",
-        "points": 2556,
+        "points": 2579.449,
         "team": "United States"
       },
       {
         "pos": 4,
-        "name": "Si Woo Kim",
-        "points": 1844,
-        "team": "South Korea"
+        "name": "Collin Morikawa",
+        "points": 2035.5,
+        "team": "United States"
       },
       {
         "pos": 5,
-        "name": "Collin Morikawa",
-        "points": 1761,
+        "name": "Wyndham Clark",
+        "points": 1911.144,
         "team": "United States"
       },
       {
         "pos": 6,
-        "name": "Ludvig Åberg",
-        "points": 1698,
-        "team": "Sweden"
+        "name": "Si Woo Kim",
+        "points": 1843.5,
+        "team": "South Korea"
       },
       {
         "pos": 7,
-        "name": "Rory McIlroy",
-        "points": 1603,
-        "team": "Northern Ireland"
+        "name": "Ludvig Åberg",
+        "points": 1740.469,
+        "team": "Sweden"
       },
       {
         "pos": 8,
-        "name": "Jacob Bridgeman",
-        "points": 1600,
-        "team": "United States"
+        "name": "Rory McIlroy",
+        "points": 1695.198,
+        "team": "Northern Ireland"
       },
       {
         "pos": 9,
-        "name": "Chris Gotterup",
-        "points": 1589,
+        "name": "Xander Schauffele",
+        "points": 1668.097,
         "team": "United States"
       },
       {
         "pos": 10,
-        "name": "Tommy Fleetwood",
-        "points": 1491,
-        "team": "England"
+        "name": "Jacob Bridgeman",
+        "points": 1606.95,
+        "team": "United States"
       }
     ],
     "pccasia": [
@@ -402,145 +402,139 @@
     "pccit": [
       {
         "pos": 1,
-        "name": "Gianmarco Quaresmini",
-        "points": 90,
-        "team": "Prima Ghinzani Motorsport"
-      },
-      {
-        "pos": 2,
-        "name": "Larry Ten Voorde",
-        "points": 52,
-        "team": "Team Q8 Hi Perform"
-      },
-      {
-        "pos": 3,
         "name": "Andrea Bristot",
         "points": 89,
         "team": "Dinamic Motorsport"
       },
       {
-        "pos": 4,
+        "pos": 2,
         "name": "Pietro Delli Guanti",
         "points": 74,
         "team": "Team Q8 Hi Perform"
       },
       {
-        "pos": 5,
-        "name": "Diego Bertonelli",
-        "points": 50,
-        "team": "BeDriver"
+        "pos": 3,
+        "name": "Gianmarco Quaresmini",
+        "points": 58,
+        "team": "Prima Ghinzani Motorsport"
       },
       {
-        "pos": 6,
-        "name": "Aldo Festante",
-        "points": 56,
-        "team": "Target Competition"
-      },
-      {
-        "pos": 7,
+        "pos": 4,
         "name": "Harley Haughton",
         "points": 56,
         "team": "Enrico Fulgenzi Racing"
       },
       {
-        "pos": 8,
+        "pos": 5,
         "name": "Senna Van Soelen",
         "points": 48,
         "team": "Target Competition"
       },
       {
-        "pos": 9,
-        "name": "Giorgio Amati",
-        "points": 38,
-        "team": "Prima Ghinzani Motorsport"
+        "pos": 6,
+        "name": "Aldo Festante",
+        "points": 41,
+        "team": "Target Competition"
       },
       {
-        "pos": 10,
+        "pos": 7,
         "name": "Marco Butti",
         "points": 32,
         "team": "The Driving Experiences"
       },
       {
-        "pos": 11,
+        "pos": 8,
         "name": "Lirim Zendeli",
         "points": 30,
         "team": "BeDriver"
       },
       {
-        "pos": 12,
-        "name": "Benedetto Strignano",
-        "points": 28,
+        "pos": 9,
+        "name": "Diego Bertonelli",
+        "points": 29,
+        "team": "BeDriver"
+      },
+      {
+        "pos": 10,
+        "name": "Giorgio Amati",
+        "points": 21,
+        "team": "Prima Ghinzani Motorsport"
+      },
+      {
+        "pos": 11,
+        "name": "Cristian Bertuca",
+        "points": 19,
         "team": ""
       },
       {
-        "pos": 13,
-        "name": "Leonardo Caglioni",
+        "pos": 12,
+        "name": "Nathan Schaap",
         "points": 18,
         "team": ""
       },
       {
+        "pos": 13,
+        "name": "Filippo Fant",
+        "points": 17,
+        "team": ""
+      },
+      {
         "pos": 14,
-        "name": "Lodovico Laurini",
-        "points": 16,
+        "name": "Alberto Cerqui",
+        "points": 11,
         "team": ""
       },
       {
         "pos": 15,
-        "name": "Keagan Masters",
-        "points": 20,
+        "name": "Nicolas Taylor",
+        "points": 9,
         "team": ""
       },
       {
         "pos": 16,
-        "name": "Riccardo Agostini",
-        "points": 12,
+        "name": "Callum Voisin",
+        "points": 7,
         "team": ""
       },
       {
         "pos": 17,
-        "name": "Alberto Cerqui",
-        "points": 12,
+        "name": "Ermanno Quintieri",
+        "points": 5,
         "team": ""
       },
       {
         "pos": 18,
-        "name": "Andrea Fontana",
-        "points": 9,
+        "name": "Luciano Martinez",
+        "points": 4,
         "team": ""
       },
       {
-        "pos": 19,
-        "name": "Simone Iaquinta",
-        "points": 9,
+        "pos": 18,
+        "name": "Lorenzo Cheli",
+        "points": 4,
         "team": ""
       },
       {
-        "pos": 20,
-        "name": "Jorge Lorenzo",
-        "points": 8,
+        "pos": 18,
+        "name": "Andrea D'Amico",
+        "points": 4,
         "team": ""
       },
       {
-        "pos": 21,
-        "name": "Kang Ling",
-        "points": 6,
+        "pos": 18,
+        "name": "Benjamin Berta",
+        "points": 4,
         "team": ""
       },
       {
         "pos": 22,
-        "name": "Artem Slutskii",
+        "name": "Cesare Brusa",
         "points": 3,
         "team": ""
       },
       {
         "pos": 23,
-        "name": "Anthony Imperato",
-        "points": 2,
-        "team": ""
-      },
-      {
-        "pos": 24,
-        "name": "Matteo Malucelli",
+        "name": "Filip Ugran",
         "points": 1,
         "team": ""
       }
@@ -1003,70 +997,70 @@
       {
         "pos": 1,
         "name": "Layne Riggs",
-        "points": 497,
+        "points": 562,
         "team": "#34 Front Row Motorsports",
         "vehicle": "Ford F-150"
       },
       {
         "pos": 2,
         "name": "Kaden Honeycutt",
-        "points": 471,
+        "points": 497,
         "team": "#11 Tricon Garage",
         "vehicle": "Toyota Tundra TRD Pro"
       },
       {
         "pos": 3,
         "name": "Chandler Smith",
-        "points": 407,
+        "points": 434,
         "team": "#38 Front Row Motorsports",
         "vehicle": "Ford F-150"
       },
       {
         "pos": 4,
         "name": "Gio Ruggiero",
-        "points": 383,
+        "points": 410,
         "team": "#17 Tricon Garage",
         "vehicle": "Toyota Tundra TRD Pro"
       },
       {
         "pos": 5,
         "name": "Christian Eckes",
-        "points": 379,
+        "points": 408,
         "team": "#91 McAnally-Hilgemann Racing",
         "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 6,
-        "name": "Ben Rhodes",
-        "points": 316,
-        "team": "#99 ThorSport Racing",
-        "vehicle": "Ford F-150"
-      },
-      {
-        "pos": 7,
         "name": "Ty Majeski",
-        "points": 312,
+        "points": 353,
         "team": "#88 ThorSport Racing",
         "vehicle": "Ford F-150"
       },
       {
+        "pos": 7,
+        "name": "Ben Rhodes",
+        "points": 349,
+        "team": "#99 ThorSport Racing",
+        "vehicle": "Ford F-150"
+      },
+      {
         "pos": 8,
-        "name": "Tyler Ankrum",
-        "points": 283,
-        "team": "#18 McAnally-Hilgemann Racing",
+        "name": "Daniel Hemric",
+        "points": 313,
+        "team": "#19 McAnally-Hilgemann Racing",
         "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 9,
-        "name": "Daniel Hemric",
-        "points": 278,
-        "team": "#19 McAnally-Hilgemann Racing",
+        "name": "Tyler Ankrum",
+        "points": 301,
+        "team": "#18 McAnally-Hilgemann Racing",
         "vehicle": "Chevrolet Silverado RST"
       },
       {
         "pos": 10,
         "name": "Jake Garcia",
-        "points": 278,
+        "points": 283,
         "team": "#98 ThorSport Racing",
         "vehicle": "Ford F-150"
       }
@@ -2130,61 +2124,61 @@
       {
         "pos": 1,
         "name": "David Gravel",
-        "points": 3898,
+        "points": 4078,
         "team": "Watertown, CT"
       },
       {
         "pos": 2,
         "name": "Carson Macedo",
-        "points": 3816,
+        "points": 3996,
         "team": "Lemoore, CA"
       },
       {
         "pos": 3,
         "name": "Michael Kofoid",
-        "points": 3802,
+        "points": 3982,
         "team": "Penngrove, CA"
       },
       {
         "pos": 4,
         "name": "Sheldon Haudenschild",
-        "points": 3758,
+        "points": 3938,
         "team": "Wooster, OH"
       },
       {
         "pos": 5,
         "name": "Donny Schatz",
-        "points": 3664,
+        "points": 3844,
         "team": "Fargo, ND"
       },
       {
         "pos": 6,
         "name": "Logan Schuchart",
-        "points": 3664,
+        "points": 3844,
         "team": "Hanover, PA"
       },
       {
         "pos": 7,
         "name": "Garet Williamson",
-        "points": 3462,
+        "points": 3642,
         "team": "Columbia, MO"
       },
       {
         "pos": 8,
         "name": "Cole Macedo",
-        "points": 3442,
+        "points": 3622,
         "team": "Lemoore, CA"
       },
       {
         "pos": 9,
         "name": "Chris Windom",
-        "points": 3354,
+        "points": 3534,
         "team": "Canton, IL"
       },
       {
         "pos": 10,
         "name": "Spencer Bayston",
-        "points": 3344,
+        "points": 3524,
         "team": "Lebanon, IN"
       }
     ],
@@ -10528,7 +10522,7 @@
     "pgatour": "FedExCup Standings"
   },
   "lastUpdated": {
-    "pgatour": "2026-06-08",
+    "pgatour": "2026-06-20",
     "formuladrift": "2026-05-30",
     "fdjapan": "2026-06-16",
     "c24h": "2026-06-08",
@@ -10537,7 +10531,7 @@
     "pccbnl": "2026-05-24",
     "pccbr": "2026-03-29",
     "pccfr": "2026-05-17",
-    "pccit": "2026-06-16",
+    "pccit": "2026-06-20",
     "pccjp": "2026-05-17",
     "pccscan": "2026-05-31",
     "pccme": "2026-02-01",
@@ -10549,7 +10543,7 @@
     "dtm": "2026-05-24",
     "arcawest": "2026-06-06",
     "highlimit": "2026-06-09",
-    "woosc": "2026-06-12",
+    "woosc": "2026-06-19",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
     "f4british": "2026-05-31",
@@ -10565,7 +10559,7 @@
     "fiakeuro": "2026-05-24",
     "agtm": "2026-05-24",
     "oreilly": "2026-05-30",
-    "truck": "2026-06-06",
+    "truck": "2026-06-19",
     "lucasdirt": "2026-06-14",
     "internationalgt": "2026-06-09",
     "enascar": "2026-06-03",

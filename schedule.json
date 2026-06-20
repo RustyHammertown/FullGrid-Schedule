@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T19:50:35.122Z",
+  "generatedAt": "2026-06-20T16:40:15.658Z",
   "events": [
     {
       "id": 101,
@@ -7515,6 +7515,7 @@
           "name": "MotoGP Practice 1",
           "time": "2026-06-19T10:45:00+02:00",
           "duration": 45,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/fp1/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7525,6 +7526,7 @@
           "name": "MotoGP Practice",
           "time": "2026-06-19T15:00:00+02:00",
           "duration": 60,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/pr/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7535,6 +7537,7 @@
           "name": "MotoGP Practice 2",
           "time": "2026-06-20T10:10:00+02:00",
           "duration": 30,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/fp2/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7545,6 +7548,7 @@
           "name": "MotoGP Qualifying 1",
           "time": "2026-06-20T10:50:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/q1/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7555,6 +7559,7 @@
           "name": "MotoGP Qualifying 2",
           "time": "2026-06-20T11:15:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/q2/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7565,6 +7570,7 @@
           "name": "MotoGP Warm-up",
           "time": "2026-06-21T09:40:00+02:00",
           "duration": 10,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/wup/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7575,6 +7581,7 @@
           "name": "MotoGP Sprint",
           "time": "2026-06-20T15:00:00+02:00",
           "laps": 10,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/spr/classification",
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP VideoPass"
@@ -7585,6 +7592,7 @@
           "name": "MotoGP Race",
           "time": "2026-06-21T14:00:00+02:00",
           "laps": 21,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/rac/classification",
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP VideoPass"
@@ -7736,6 +7744,7 @@
           "name": "Moto2 Practice 1",
           "time": "2026-06-19T09:50:00+02:00",
           "duration": 40,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/fp1/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7746,6 +7755,7 @@
           "name": "Moto2 Practice",
           "time": "2026-06-19T14:05:00+02:00",
           "duration": 40,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/pr/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7756,6 +7766,7 @@
           "name": "Moto2 Practice 2",
           "time": "2026-06-20T09:25:00+02:00",
           "duration": 30,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/fp2/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7766,6 +7777,7 @@
           "name": "Moto2 Qualifying 1",
           "time": "2026-06-20T13:40:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/q1/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7776,6 +7788,7 @@
           "name": "Moto2 Qualifying 2",
           "time": "2026-06-20T14:05:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/q2/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7786,6 +7799,7 @@
           "name": "Moto2 Race",
           "time": "2026-06-21T12:15:00+02:00",
           "laps": 18,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/rac/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7937,6 +7951,7 @@
           "name": "Moto3 Practice 1",
           "time": "2026-06-19T09:00:00+02:00",
           "duration": 40,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/fp1/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7947,6 +7962,7 @@
           "name": "Moto3 Practice",
           "time": "2026-06-19T13:15:00+02:00",
           "duration": 40,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/pr/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7957,6 +7973,7 @@
           "name": "Moto3 Practice 2",
           "time": "2026-06-20T08:40:00+02:00",
           "duration": 30,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/fp2/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7967,6 +7984,7 @@
           "name": "Moto3 Qualifying 1",
           "time": "2026-06-20T12:45:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/q1/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7977,6 +7995,7 @@
           "name": "Moto3 Qualifying 2",
           "time": "2026-06-20T13:10:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/q2/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -7987,6 +8006,7 @@
           "name": "Moto3 Race",
           "time": "2026-06-21T11:00:00+02:00",
           "laps": 16,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/cze/motogp/rac/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -33926,7 +33946,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T10:35:00-04:00",
+          "time": "2026-06-21T10:30:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -60484,7 +60504,7 @@
       "sessions": [
         {
           "name": "250 Moto 1",
-          "time": "2026-06-20T13:00:00-04:00",
+          "time": "2026-06-20T13:11:00-04:00",
           "duration": 35,
           "broadcasts": {
             "US": {
@@ -60506,7 +60526,7 @@
         },
         {
           "name": "450 Moto 1",
-          "time": "2026-06-20T13:00:00-04:00",
+          "time": "2026-06-20T14:10:00-04:00",
           "duration": 35,
           "broadcasts": {
             "US": {
@@ -60528,8 +60548,8 @@
         },
         {
           "name": "250 Moto 2",
-          "time": "2026-06-20T13:00:00-04:00",
-          "duration": 35,
+          "time": "2026-06-20T15:46:00-04:00",
+          "duration": 34,
           "broadcasts": {
             "US": {
               "service": "Peacock"
@@ -60550,7 +60570,7 @@
         },
         {
           "name": "450 Moto 2",
-          "time": "2026-06-20T13:00:00-04:00",
+          "time": "2026-06-20T16:45:00-04:00",
           "duration": 35,
           "broadcasts": {
             "US": {
@@ -78838,9 +78858,9 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Race 1",
+          "name": "Race 17",
           "time": "2026-06-19T17:00:00+09:30",
-          "laps": 32,
+          "laps": 35,
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -78866,9 +78886,9 @@
           }
         },
         {
-          "name": "Race 2",
+          "name": "Race 18",
           "time": "2026-06-20T15:20:00+09:30",
-          "laps": 32,
+          "laps": 35,
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -78894,9 +78914,9 @@
           }
         },
         {
-          "name": "Race 3",
+          "name": "Boost Mobile TTSO",
           "time": "2026-06-21T11:30:00+09:30",
-          "laps": 32,
+          "laps": 35,
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -78922,9 +78942,9 @@
           }
         },
         {
-          "name": "Race 4",
+          "name": "Race 19",
           "time": "2026-06-21T14:40:00+09:30",
-          "laps": 32,
+          "laps": 35,
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -88726,7 +88746,7 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-06-19T10:00:00+02:00",
+          "time": "2026-06-19T11:22:00+02:00",
           "duration": 50
         },
         {
@@ -88735,9 +88755,19 @@
           "duration": 50
         },
         {
-          "name": "Qualifying",
-          "time": "2026-06-20T13:30:00+02:00",
-          "duration": 112
+          "name": "Qualifying 1",
+          "time": "2026-06-20T13:20:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 3",
+          "time": "2026-06-20T14:40:00+02:00",
+          "duration": 20
         },
         {
           "name": "Race",
@@ -89318,7 +89348,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-20T16:25:00+02:00",
+          "time": "2026-06-20T16:35:00+02:00",
           "duration": 25
         },
         {
@@ -89328,7 +89358,7 @@
         },
         {
           "name": "Race 3",
-          "time": "2026-06-21T12:50:00+02:00",
+          "time": "2026-06-21T12:55:00+02:00",
           "duration": 25
         }
       ]
