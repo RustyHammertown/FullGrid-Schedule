@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-20T16:40:15.658Z",
+  "generatedAt": "2026-06-21T19:41:00.691Z",
   "events": [
     {
       "id": 101,
@@ -17429,7 +17429,7 @@
           "duration": 75,
           "broadcasts": {
             "US": {
-              "service": "FS1"
+              "service": "FS2"
             }
           }
         },
@@ -19070,6 +19070,7 @@
           "name": "Race",
           "time": "2026-06-21T13:00:00-07:00",
           "laps": 75,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/anduril-250/",
           "broadcasts": {
             "US": {
               "service": "Prime Video"
@@ -33946,7 +33947,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-21T10:30:00-04:00",
+          "time": "2026-06-21T10:35:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -42395,6 +42396,7 @@
           "name": "Race",
           "time": "2026-06-20T14:00:00-07:00",
           "laps": 60,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-driven-to-serve-250",
           "broadcasts": {
             "US": {
               "service": "The CW"
@@ -43883,6 +43885,7 @@
           "name": "Race",
           "time": "2026-06-19T16:00:00-07:00",
           "laps": 50,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-navy-250/",
           "broadcasts": {
             "US": {
               "service": "FS1"
@@ -52164,7 +52167,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-20T18:00:00-05:00",
+          "time": "2026-06-20T19:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -53865,11 +53868,12 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
+      "postponed": true,
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-19T18:00:00-05:00",
-          "duration": 240,
+          "time": "2026-06-19T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "DIRTVision"
@@ -62018,6 +62022,7 @@
           "name": "Race 1",
           "time": "2026-06-20T11:30:00-05:00",
           "duration": 60,
+          "resultsUrl": "https://www.indynxt.com/results/indy-nxt/2026/grand-prix-at-road-america-race-1/race",
           "broadcasts": {
             "CA": {
               "service": "IndyCar Live"
@@ -62040,6 +62045,7 @@
           "name": "Race 2",
           "time": "2026-06-21T11:00:00-05:00",
           "duration": 60,
+          "resultsUrl": "https://www.indynxt.com/results/indy-nxt/2026/grand-prix-at-road-america-race-2/race",
           "broadcasts": {
             "CA": {
               "service": "IndyCar Live"
@@ -66113,9 +66119,24 @@
           "duration": 60
         },
         {
-          "name": "Qualifying",
+          "name": "GT3 Qualifying 1",
           "time": "2026-06-20T18:35:00+02:00",
-          "duration": 75
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 1",
+          "time": "2026-06-20T18:45:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "GT3 Qualifying 2",
+          "time": "2026-06-20T19:15:00+02:00",
+          "duration": 10
+        },
+        {
+          "name": "GT4 Qualifying 2",
+          "time": "2026-06-20T19:25:00+02:00",
+          "duration": 10
         },
         {
           "name": "Free Practice 2",
@@ -67797,18 +67818,8 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Free Practice 1",
-          "time": "2026-06-19T09:00:00+02:00",
-          "duration": 30
-        },
-        {
-          "name": "Free Practice 2",
-          "time": "2026-06-19T13:00:00+02:00",
-          "duration": 30
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-06-19T19:10:00+02:00",
+          "time": "2026-06-19T19:55:00+02:00",
           "duration": 60
         },
         {
@@ -71009,7 +71020,7 @@
           "duration": 25
         },
         {
-          "name": "Grp 1/1b/3/4 Sprint 1",
+          "name": "Grp 1/1b/3/4 Sprint Race 1",
           "time": "2026-06-20T08:00:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71019,7 +71030,7 @@
           }
         },
         {
-          "name": "Grp 1/1b/3/4 Sprint 2",
+          "name": "Grp 1/1b/3/4 Sprint Race 2",
           "time": "2026-06-20T14:10:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71029,7 +71040,7 @@
           }
         },
         {
-          "name": "Grp 1/1b/3/4 Sprint 3",
+          "name": "Grp 1/1b/3/4 Sprint Race 3",
           "time": "2026-06-21T08:45:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71049,7 +71060,7 @@
           "duration": 25
         },
         {
-          "name": "Grp 9/11a Sprint 1",
+          "name": "Grp 9/11a Sprint Race 1",
           "time": "2026-06-20T08:30:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71059,7 +71070,7 @@
           }
         },
         {
-          "name": "Grp 9/11a Sprint 2",
+          "name": "Grp 9/11a Sprint Race 2",
           "time": "2026-06-20T14:40:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71069,7 +71080,7 @@
           }
         },
         {
-          "name": "Grp 9/11a Sprint 3",
+          "name": "Grp 9/11a Sprint Race 3",
           "time": "2026-06-21T09:35:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71089,7 +71100,7 @@
           "duration": 25
         },
         {
-          "name": "Grp 10 Sprint 1",
+          "name": "Grp 10 Sprint Race 1",
           "time": "2026-06-20T09:00:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71099,7 +71110,7 @@
           }
         },
         {
-          "name": "Grp 10 Sprint 2",
+          "name": "Grp 10 Sprint Race 2",
           "time": "2026-06-20T15:10:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71109,7 +71120,7 @@
           }
         },
         {
-          "name": "Grp 10 Sprint 3",
+          "name": "Grp 10 Sprint Race 3",
           "time": "2026-06-21T11:35:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71129,7 +71140,7 @@
           "duration": 25
         },
         {
-          "name": "Grp 5a/7/11b Sprint 1",
+          "name": "Grp 5a/7/11b Sprint Race 1",
           "time": "2026-06-20T10:35:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71139,7 +71150,7 @@
           }
         },
         {
-          "name": "Grp 5a/7/11b Sprint 2",
+          "name": "Grp 5a/7/11b Sprint Race 2",
           "time": "2026-06-20T15:45:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71149,7 +71160,7 @@
           }
         },
         {
-          "name": "Grp 5a/7/11b Sprint 3",
+          "name": "Grp 5a/7/11b Sprint Race 3",
           "time": "2026-06-21T16:50:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71169,7 +71180,7 @@
           "duration": 25
         },
         {
-          "name": "Grp 6/8/12 Sprint 1",
+          "name": "Grp 6/8/12 Sprint Race 1",
           "time": "2026-06-20T11:10:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71179,7 +71190,7 @@
           }
         },
         {
-          "name": "Grp 6/8/12 Sprint 2",
+          "name": "Grp 6/8/12 Sprint Race 2",
           "time": "2026-06-20T17:35:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71189,7 +71200,7 @@
           }
         },
         {
-          "name": "Grp 6/8/12 Sprint 3",
+          "name": "Grp 6/8/12 Sprint Race 3",
           "time": "2026-06-21T16:15:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71209,7 +71220,7 @@
           "duration": 25
         },
         {
-          "name": "Grp 2/5b Sprint 1",
+          "name": "Grp 2/5b Sprint Race 1",
           "time": "2026-06-20T11:40:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71219,7 +71230,7 @@
           }
         },
         {
-          "name": "Grp 2/5b Sprint 2",
+          "name": "Grp 2/5b Sprint Race 2",
           "time": "2026-06-20T18:05:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71229,7 +71240,7 @@
           }
         },
         {
-          "name": "Grp 2/5b Sprint 3",
+          "name": "Grp 2/5b Sprint Race 3",
           "time": "2026-06-21T15:40:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -71239,7 +71250,7 @@
           }
         },
         {
-          "name": "HSCA Sprint",
+          "name": "HSCA Sprint Race",
           "time": "2026-06-21T17:20:00-04:00",
           "duration": 25,
           "broadcasts": {
@@ -82588,7 +82599,7 @@
           }
         },
         {
-          "name": "Race 1",
+          "name": "Race 5",
           "time": "2026-06-20T15:10:00+01:00",
           "duration": 15,
           "broadcasts": {
@@ -82598,7 +82609,7 @@
           }
         },
         {
-          "name": "Race 2",
+          "name": "Race 10",
           "time": "2026-06-21T09:00:00+01:00",
           "duration": 15,
           "broadcasts": {
@@ -82608,7 +82619,7 @@
           }
         },
         {
-          "name": "Race 3",
+          "name": "Race 16",
           "time": "2026-06-21T12:05:00+01:00",
           "duration": 15,
           "broadcasts": {
@@ -88756,17 +88767,7 @@
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-20T13:20:00+02:00",
-          "duration": 20
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-06-20T14:00:00+02:00",
-          "duration": 20
-        },
-        {
-          "name": "Qualifying 3",
-          "time": "2026-06-20T14:40:00+02:00",
+          "time": "2026-06-20T09:30:00+02:00",
           "duration": 20
         },
         {
@@ -93390,6 +93391,7 @@
           "name": "Round 4",
           "time": "2026-06-21T12:00:00-04:00",
           "duration": 240,
+          "resultsUrl": "https://www.pgatour.com/leaderboard",
           "broadcasts": {
             "US": {
               "service": "NBC"

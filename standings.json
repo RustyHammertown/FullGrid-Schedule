@@ -1,30 +1,30 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-20T16:40:16.792Z",
+  "generatedAt": "2026-06-21T19:41:01.794Z",
   "flat": {
     "pgatour": [
       {
         "pos": 1,
-        "name": "Matt Fitzpatrick",
-        "points": 3185.65,
-        "team": "England"
+        "name": "Scottie Scheffler",
+        "points": 3073.333,
+        "team": "United States"
       },
       {
         "pos": 2,
-        "name": "Scottie Scheffler",
-        "points": 2903.106,
-        "team": "United States"
+        "name": "Matt Fitzpatrick",
+        "points": 2881.9,
+        "team": "England"
       },
       {
         "pos": 3,
         "name": "Cameron Young",
-        "points": 2579.449,
+        "points": 2570.889,
         "team": "United States"
       },
       {
         "pos": 4,
         "name": "Collin Morikawa",
-        "points": 2035.5,
+        "points": 2023,
         "team": "United States"
       },
       {
@@ -41,26 +41,26 @@
       },
       {
         "pos": 7,
-        "name": "Ludvig Åberg",
-        "points": 1740.469,
-        "team": "Sweden"
+        "name": "Tommy Fleetwood",
+        "points": 1840.767,
+        "team": "England"
       },
       {
         "pos": 8,
-        "name": "Rory McIlroy",
-        "points": 1695.198,
-        "team": "Northern Ireland"
+        "name": "Ludvig Åberg",
+        "points": 1744.469,
+        "team": "Sweden"
       },
       {
         "pos": 9,
-        "name": "Xander Schauffele",
-        "points": 1668.097,
-        "team": "United States"
+        "name": "Rory McIlroy",
+        "points": 1630.782,
+        "team": "Northern Ireland"
       },
       {
         "pos": 10,
         "name": "Jacob Bridgeman",
-        "points": 1606.95,
+        "points": 1619.861,
         "team": "United States"
       }
     ],
@@ -403,97 +403,97 @@
       {
         "pos": 1,
         "name": "Andrea Bristot",
-        "points": 89,
+        "points": 117,
         "team": "Dinamic Motorsport"
       },
       {
         "pos": 2,
         "name": "Pietro Delli Guanti",
-        "points": 74,
+        "points": 81,
         "team": "Team Q8 Hi Perform"
       },
       {
         "pos": 3,
-        "name": "Gianmarco Quaresmini",
-        "points": 58,
-        "team": "Prima Ghinzani Motorsport"
+        "name": "Senna Van Soelen",
+        "points": 68,
+        "team": "Target Competition"
       },
       {
         "pos": 4,
+        "name": "Gianmarco Quaresmini",
+        "points": 67,
+        "team": "Prima Ghinzani Motorsport"
+      },
+      {
+        "pos": 5,
         "name": "Harley Haughton",
         "points": 56,
         "team": "Enrico Fulgenzi Racing"
       },
       {
-        "pos": 5,
-        "name": "Senna Van Soelen",
-        "points": 48,
-        "team": "Target Competition"
-      },
-      {
         "pos": 6,
         "name": "Aldo Festante",
-        "points": 41,
+        "points": 55,
         "team": "Target Competition"
       },
       {
         "pos": 7,
-        "name": "Marco Butti",
-        "points": 32,
-        "team": "The Driving Experiences"
+        "name": "Diego Bertonelli",
+        "points": 41,
+        "team": "BeDriver"
       },
       {
         "pos": 8,
         "name": "Lirim Zendeli",
-        "points": 30,
+        "points": 40,
         "team": "BeDriver"
       },
       {
         "pos": 9,
-        "name": "Diego Bertonelli",
-        "points": 29,
-        "team": "BeDriver"
+        "name": "Marco Butti",
+        "points": 40,
+        "team": "The Driving Experiences"
       },
       {
         "pos": 10,
-        "name": "Giorgio Amati",
-        "points": 21,
-        "team": "Prima Ghinzani Motorsport"
+        "name": "Cristian Bertuca",
+        "points": 25,
+        "team": ""
       },
       {
         "pos": 11,
-        "name": "Cristian Bertuca",
-        "points": 19,
+        "name": "Callum Voisin",
+        "points": 24,
         "team": ""
       },
       {
         "pos": 12,
         "name": "Nathan Schaap",
-        "points": 18,
+        "points": 22,
         "team": ""
       },
       {
         "pos": 13,
+        "name": "Giorgio Amati",
+        "points": 21,
+        "team": "Prima Ghinzani Motorsport"
+      },
+      {
+        "pos": 14,
         "name": "Filippo Fant",
         "points": 17,
         "team": ""
       },
       {
-        "pos": 14,
-        "name": "Alberto Cerqui",
-        "points": 11,
-        "team": ""
-      },
-      {
         "pos": 15,
-        "name": "Nicolas Taylor",
-        "points": 9,
+        "name": "Alberto Cerqui",
+        "points": 16,
         "team": ""
       },
       {
         "pos": 16,
-        "name": "Callum Voisin",
-        "points": 7,
+        "name": "Nicolas Taylor",
+        "points": 9,
         "team": ""
       },
       {
@@ -503,26 +503,26 @@
         "team": ""
       },
       {
-        "pos": 18,
+        "pos": 17,
+        "name": "Benjamin Berta",
+        "points": 5,
+        "team": ""
+      },
+      {
+        "pos": 19,
         "name": "Luciano Martinez",
         "points": 4,
         "team": ""
       },
       {
-        "pos": 18,
+        "pos": 19,
         "name": "Lorenzo Cheli",
         "points": 4,
         "team": ""
       },
       {
-        "pos": 18,
+        "pos": 19,
         "name": "Andrea D'Amico",
-        "points": 4,
-        "team": ""
-      },
-      {
-        "pos": 18,
-        "name": "Benjamin Berta",
         "points": 4,
         "team": ""
       },
@@ -533,7 +533,19 @@
         "team": ""
       },
       {
-        "pos": 23,
+        "pos": 22,
+        "name": "Andrea Girondi",
+        "points": 3,
+        "team": ""
+      },
+      {
+        "pos": 24,
+        "name": "Karen Gaillard",
+        "points": 2,
+        "team": ""
+      },
+      {
+        "pos": 25,
         "name": "Filip Ugran",
         "points": 1,
         "team": ""
@@ -791,70 +803,70 @@
       {
         "pos": 1,
         "name": "Tyler Reddick",
-        "points": 669,
+        "points": 704,
         "team": "#45 23XI Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 2,
         "name": "Denny Hamlin",
-        "points": 618,
+        "points": 685,
         "team": "#11 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 3,
         "name": "Ryan Blaney",
-        "points": 512,
+        "points": 539,
         "team": "#12 Team Penske",
         "vehicle": "Ford Mustang Dark Horse"
       },
       {
         "pos": 4,
         "name": "Chase Elliott",
-        "points": 482,
+        "points": 509,
         "team": "#9 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 5,
         "name": "Ty Gibbs",
-        "points": 470,
+        "points": 506,
         "team": "#54 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 6,
         "name": "Kyle Larson",
-        "points": 453,
+        "points": 494,
         "team": "#5 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 7,
-        "name": "Carson Hocevar",
-        "points": 428,
-        "team": "#77 Spire Motorsports",
-        "vehicle": "Chevrolet Camaro ZL1"
-      },
-      {
-        "pos": 8,
         "name": "Chris Buescher",
-        "points": 424,
+        "points": 461,
         "team": "#17 RFK Racing",
         "vehicle": "Ford Mustang Dark Horse"
       },
       {
-        "pos": 9,
+        "pos": 8,
         "name": "Daniel Suárez",
-        "points": 418,
+        "points": 450,
         "team": "#7 Spire Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
+      },
+      {
+        "pos": 9,
+        "name": "Carson Hocevar",
+        "points": 449,
+        "team": "#77 Spire Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 10,
         "name": "Christopher Bell",
-        "points": 410,
+        "points": 421,
         "team": "#20 Joe Gibbs Racing",
         "vehicle": "Toyota Camry XSE"
       }
@@ -863,72 +875,72 @@
       {
         "pos": 1,
         "name": "Justin Allgaier",
-        "points": 770,
+        "points": 847,
         "team": "#7 JR Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 2,
         "name": "Jesse Love",
-        "points": 591,
+        "points": 623,
         "team": "#2 Richard Childress Racing",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 3,
         "name": "Corey Day",
-        "points": 574,
+        "points": 609,
         "team": "#17 Hendrick Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 4,
         "name": "Sheldon Creed",
-        "points": 532,
+        "points": 607,
         "team": "#00 Haas Factory Team",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 5,
-        "name": "Brandon Jones",
-        "points": 512,
-        "team": "#20 Joe Gibbs Racing",
-        "vehicle": "Toyota GR Supra"
-      },
-      {
-        "pos": 6,
         "name": "Austin Hill",
-        "points": 499,
+        "points": 591,
         "team": "#21 Richard Childress Racing",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
+        "pos": 6,
+        "name": "Brandon Jones",
+        "points": 572,
+        "team": "#20 Joe Gibbs Racing",
+        "vehicle": "Toyota GR Supra"
+      },
+      {
         "pos": 7,
         "name": "Carson Kvapil",
-        "points": 493,
+        "points": 567,
         "team": "#1 JR Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 8,
         "name": "Sammy Smith",
-        "points": 482,
+        "points": 543,
         "team": "#8 JR Motorsports",
         "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 9,
-        "name": "William Sawalich",
-        "points": 429,
-        "team": "#18 Joe Gibbs Racing",
-        "vehicle": "Toyota GR Supra"
+        "name": "Parker Retzlaff",
+        "points": 494,
+        "team": "#99 Viking Motorsports",
+        "vehicle": "Chevrolet Camaro SS"
       },
       {
         "pos": 10,
-        "name": "Parker Retzlaff",
-        "points": 416,
-        "team": "#99 Viking Motorsports",
-        "vehicle": "Chevrolet Camaro SS"
+        "name": "Taylor Gray",
+        "points": 476,
+        "team": "",
+        "vehicle": ""
       }
     ],
     "nascarcanada": [
@@ -1486,31 +1498,31 @@
       },
       {
         "pos": 5,
-        "name": "Nico Müller",
-        "points": 83,
-        "team": "#51 Porsche Formula E Team",
+        "name": "Jake Dennis",
+        "points": 94,
+        "team": "#27 Andretti Formula E",
         "vehicle": "Porsche 99X Electric"
       },
       {
         "pos": 6,
         "name": "António Félix da Costa",
-        "points": 80,
+        "points": 92,
         "team": "#13 Jaguar TCS Racing",
         "vehicle": "Jaguar I-Type 7"
       },
       {
         "pos": 7,
+        "name": "Nico Müller",
+        "points": 89,
+        "team": "#51 Porsche Formula E Team",
+        "vehicle": "Porsche 99X Electric"
+      },
+      {
+        "pos": 8,
         "name": "Nick Cassidy",
         "points": 71,
         "team": "#37 Citroën Racing",
         "vehicle": "Citroën ë-CX"
-      },
-      {
-        "pos": 8,
-        "name": "Jake Dennis",
-        "points": 66,
-        "team": "#27 Andretti Formula E",
-        "vehicle": "Porsche 99X Electric"
       },
       {
         "pos": 9,
@@ -1522,7 +1534,7 @@
       {
         "pos": 10,
         "name": "Nyck de Vries",
-        "points": 43,
+        "points": 59,
         "team": "#21 Mahindra Racing",
         "vehicle": "Mahindra M12Electro"
       }
@@ -1846,72 +1858,72 @@
       {
         "pos": 1,
         "name": "Jake Bollman",
-        "points": 348,
+        "points": 389,
         "team": "#20 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 2,
         "name": "Thomas Annunziata",
-        "points": 321,
+        "points": 365,
         "team": "#70 Nitro Motorsports",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 3,
+        "name": "Isabella Robusto",
+        "points": 327,
+        "team": "#55 Nitro Motorsports",
+        "vehicle": "Toyota Camry"
+      },
+      {
+        "pos": 4,
         "name": "Ryan Vargas",
         "points": 315,
         "team": "#91 Maples Motorsports",
         "vehicle": "Ford Mustang"
       },
       {
-        "pos": 4,
-        "name": "Isabella Robusto",
-        "points": 288,
-        "team": "#55 Nitro Motorsports",
-        "vehicle": "Toyota Camry"
-      },
-      {
         "pos": 5,
         "name": "Jason Kitzmiller",
-        "points": 278,
+        "points": 312,
         "team": "#97 CR7 Motorsports",
         "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 6,
         "name": "Takuma Koga",
-        "points": 264,
+        "points": 296,
         "team": "#12 Fast Track Racing",
         "vehicle": "Toyota Camry"
       },
       {
         "pos": 7,
+        "name": "Michael Maples",
+        "points": 279,
+        "team": "#99 Maples Motorsports",
+        "vehicle": "Chevrolet Camaro"
+      },
+      {
+        "pos": 8,
         "name": "Andy Jankowiak",
         "points": 263,
         "team": "#71 KLAS Motorsports",
         "vehicle": "Chevrolet Camaro"
       },
       {
-        "pos": 8,
-        "name": "Michael Maples",
-        "points": 249,
-        "team": "#99 Maples Motorsports",
-        "vehicle": "Chevrolet Camaro"
-      },
-      {
         "pos": 9,
-        "name": "Gio Ruggiero",
-        "points": 231,
-        "team": "#18 Joe Gibbs Racing",
-        "vehicle": "Toyota Camry"
+        "name": "Alex Clubb",
+        "points": 255,
+        "team": "#03 Clubb Racing Inc.",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 10,
-        "name": "Alex Clubb",
-        "points": 224,
-        "team": "#03 Clubb Racing Inc.",
-        "vehicle": "Ford Mustang"
+        "name": "Bobby Dale Earnhardt",
+        "points": 250,
+        "team": "",
+        "vehicle": ""
       }
     ],
     "arcaeast": [
@@ -2248,61 +2260,61 @@
       {
         "pos": 1,
         "name": "Hudson O'Neal",
-        "points": 3560,
+        "points": 3920,
         "team": "Martinsville, IN"
       },
       {
         "pos": 2,
         "name": "Brandon Sheppard",
-        "points": 3410,
+        "points": 3900,
         "team": "New Berlin, IL"
       },
       {
         "pos": 3,
         "name": "Devin Moran",
-        "points": 3310,
+        "points": 3740,
         "team": "Dresden, OH"
       },
       {
         "pos": 4,
         "name": "Brandon Overton",
-        "points": 3265,
+        "points": 3555,
         "team": "Evans, GA"
       },
       {
         "pos": 5,
         "name": "Ricky Thornton Jr",
-        "points": 3170,
+        "points": 3495,
         "team": "Chandler, AZ"
       },
       {
         "pos": 6,
         "name": "Max Blair",
-        "points": 3140,
+        "points": 3485,
         "team": "Centerville, PA"
       },
       {
         "pos": 7,
         "name": "Garrett Alberson",
-        "points": 2970,
+        "points": 3325,
         "team": "Las Cruces, NM"
       },
       {
         "pos": 8,
         "name": "Brian Shirley",
-        "points": 2960,
+        "points": 3260,
         "team": "Chatham, IL"
       },
       {
         "pos": 9,
         "name": "Josh Rice",
-        "points": 2910,
+        "points": 3225,
         "team": "Crittenden, KY"
       },
       {
         "pos": 10,
         "name": "Kyle Bronson",
-        "points": 2840,
+        "points": 3205,
         "team": "Brandon, FL"
       }
     ],
@@ -2568,62 +2580,62 @@
       {
         "pos": 1,
         "name": "Nikita Johnson",
-        "points": 285,
+        "points": 347,
         "team": "Cape/ECR"
       },
       {
         "pos": 2,
-        "name": "Enzo Fittipaldi",
-        "points": 283,
+        "name": "Tymek Kucharczyk",
+        "points": 339,
         "team": "HMD Motorsports"
       },
       {
         "pos": 3,
-        "name": "Tymek Kucharczyk",
-        "points": 280,
+        "name": "Enzo Fittipaldi",
+        "points": 321,
         "team": "HMD Motorsports"
       },
       {
         "pos": 4,
-        "name": "Max Taylor",
-        "points": 258,
-        "team": "Andretti Global"
-      },
-      {
-        "pos": 5,
-        "name": "Myles Rowe",
-        "points": 212,
-        "team": "Abel/Force Indy"
-      },
-      {
-        "pos": 6,
         "name": "Alessandro de Tullio",
-        "points": 211,
+        "points": 302,
         "team": "A.J. Foyt Racing"
       },
       {
-        "pos": 7,
-        "name": "Lochie Hughes",
-        "points": 206,
+        "pos": 5,
+        "name": "Max Taylor",
+        "points": 287,
         "team": "Andretti Global"
+      },
+      {
+        "pos": 6,
+        "name": "Lochie Hughes",
+        "points": 267,
+        "team": "Andretti Global"
+      },
+      {
+        "pos": 7,
+        "name": "Myles Rowe",
+        "points": 262,
+        "team": "Abel Motorsports"
       },
       {
         "pos": 8,
         "name": "Juan Manuel Correa",
-        "points": 172,
+        "points": 222,
         "team": "Cusick Morgan"
       },
       {
         "pos": 9,
-        "name": "Sebastian Murray",
-        "points": 166,
+        "name": "Josh Pierson",
+        "points": 205,
         "team": "Andretti Global"
       },
       {
         "pos": 10,
-        "name": "Jordan Missig",
-        "points": 160,
-        "team": "Abel Motorsports"
+        "name": "Matteo Nannini",
+        "points": 199,
+        "team": "Cape/ECR"
       }
     ],
     "f4us": [
@@ -3165,73 +3177,71 @@
     "f4spain": [
       {
         "pos": 1,
-        "name": "Rocco Coronel",
-        "points": 55,
-        "team": "#23 MP Motorsport",
-        "flag": "🇳🇱"
-      },
-      {
-        "pos": 2,
         "name": "Noah Monteiro",
-        "points": 43,
+        "points": 100,
         "team": "#81 Griffin Core",
         "flag": "🇵🇹"
       },
       {
+        "pos": 2,
+        "name": "Kasper Schormans",
+        "points": 92,
+        "team": "#40 MP Motorsport",
+        "flag": "🇳🇱"
+      },
+      {
         "pos": 3,
-        "name": "Aleix Piñera",
-        "points": 33,
-        "team": "#25 Tecnicar",
-        "flag": "🇪🇸"
+        "name": "Rocco Coronel",
+        "points": 92,
+        "team": "#23 MP Motorsport",
+        "flag": "🇳🇱"
       },
       {
         "pos": 4,
-        "name": "Vivek Kanthan",
-        "points": 31,
-        "team": "#22 Griffin Core",
-        "flag": "🇺🇸"
+        "name": "Nathan Tye",
+        "points": 86,
+        "team": "#46 Drivex",
+        "flag": "🇬🇧"
       },
       {
         "pos": 5,
         "name": "Borys Lyzen",
-        "points": 27,
+        "points": 81,
         "team": "#21 KCL Motorsport",
         "flag": "🇵🇱"
       },
       {
         "pos": 6,
+        "name": "Andrej Petrovic",
+        "points": 74,
+        "team": ""
+      },
+      {
+        "pos": 7,
+        "name": "Nacho Tuñón",
+        "points": 69,
+        "team": ""
+      },
+      {
+        "pos": 8,
+        "name": "Aleix Piñera",
+        "points": 59,
+        "team": "#25 Tecnicar",
+        "flag": "🇪🇸"
+      },
+      {
+        "pos": 9,
         "name": "Ty Fisher",
-        "points": 22,
+        "points": 44,
         "team": "#37 Griffin Core",
         "flag": "🇨🇦"
       },
       {
-        "pos": 7,
-        "name": "Kasper Schormans",
-        "points": 22,
-        "team": "#40 MP Motorsport",
-        "flag": "🇳🇱"
-      },
-      {
-        "pos": 8,
-        "name": "Jensen Burnett",
-        "points": 12,
-        "team": "#15 KCL Motorsport",
-        "flag": "🇨🇦"
-      },
-      {
-        "pos": 9,
-        "name": "Nathan Tye",
-        "points": 11,
-        "team": "#46 Drivex",
-        "flag": "🇬🇧"
-      },
-      {
         "pos": 10,
-        "name": "Elliot Kaczynski",
-        "points": 10,
-        "team": "#44 Drivex",
-        "flag": "🇸🇪"
+        "name": "Vivek Kanthan",
+        "points": 39,
+        "team": "#22 Griffin Core",
+        "flag": "🇺🇸"
       }
     ],
     "pccd": [
@@ -4318,63 +4328,63 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Aurimas Bakchis",
-            "points": 106,
-            "team": "#723"
+            "name": "James Deane",
+            "points": 149,
+            "team": "#130"
           },
           {
             "pos": 2,
-            "name": "James Deane",
-            "points": 98,
-            "team": "#130"
+            "name": "Aurimas Bakchis",
+            "points": 127,
+            "team": "#723"
           },
           {
             "pos": 3,
             "name": "Branden Sorensen",
-            "points": 84,
+            "points": 107,
             "team": "#513"
           },
           {
             "pos": 4,
-            "name": "Fredric Aasbo",
-            "points": 74,
-            "team": "#151"
+            "name": "Jack Shanahan",
+            "points": 106,
+            "team": "#59"
           },
           {
             "pos": 5,
             "name": "Conor Shanahan",
-            "points": 73,
+            "points": 105,
             "team": "#79"
           },
           {
             "pos": 6,
-            "name": "Jack Shanahan",
-            "points": 65,
-            "team": "#59"
-          },
-          {
-            "pos": 7,
             "name": "Dylan Hughes",
-            "points": 63,
+            "points": 87,
             "team": "#129"
           },
           {
+            "pos": 7,
+            "name": "Fredric Aasbo",
+            "points": 85,
+            "team": "#151"
+          },
+          {
             "pos": 8,
-            "name": "Chris Forsberg",
-            "points": 57,
-            "team": "#64"
+            "name": "Ryan Tuerck",
+            "points": 64,
+            "team": "#411"
           },
           {
             "pos": 9,
-            "name": "Cole Richards",
-            "points": 55,
-            "team": "#11"
+            "name": "Chris Forsberg",
+            "points": 58,
+            "team": "#64"
           },
           {
             "pos": 10,
-            "name": "Vaughn Gittin Jr",
-            "points": 51,
-            "team": "#25"
+            "name": "Cole Richards",
+            "points": 56,
+            "team": "#11"
           }
         ]
       },
@@ -10122,30 +10132,30 @@
           {
             "pos": 1,
             "name": "Mexico",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +2 · GF 2"
+            "points": 6,
+            "team": "2W 0D 0L",
+            "vehicle": "GD +3 · GF 3"
           },
           {
             "pos": 2,
             "name": "South Korea",
             "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +1 · GF 2"
+            "team": "1W 0D 1L",
+            "vehicle": "GD 0 · GF 2"
           },
           {
             "pos": 3,
             "name": "Czechia",
-            "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -1 · GF 1"
+            "points": 1,
+            "team": "0W 1D 1L",
+            "vehicle": "GD -1 · GF 2"
           },
           {
             "pos": 4,
             "name": "South Africa",
-            "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -2 · GF 0"
+            "points": 1,
+            "team": "0W 1D 1L",
+            "vehicle": "GD -2 · GF 1"
           }
         ]
       },
@@ -10154,31 +10164,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Switzerland",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "name": "Canada",
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +6 · GF 7"
           },
           {
             "pos": 2,
-            "name": "Canada",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "name": "Switzerland",
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +3 · GF 5"
           },
           {
             "pos": 3,
-            "name": "Qatar",
+            "name": "Bosnia and Herzegovina",
             "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "team": "0W 1D 1L",
+            "vehicle": "GD -3 · GF 2"
           },
           {
             "pos": 4,
-            "name": "Bosnia and Herzegovina",
+            "name": "Qatar",
             "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "team": "0W 1D 1L",
+            "vehicle": "GD -6 · GF 1"
           }
         ]
       },
@@ -10187,31 +10197,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Scotland",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +1 · GF 1"
+            "name": "Brazil",
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +3 · GF 4"
           },
           {
             "pos": 2,
             "name": "Morocco",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +1 · GF 2"
           },
           {
             "pos": 3,
-            "name": "Brazil",
-            "points": 1,
-            "team": "0W 1D 0L",
+            "name": "Scotland",
+            "points": 3,
+            "team": "1W 0D 1L",
             "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 4,
             "name": "Haiti",
             "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -1 · GF 0"
+            "team": "0W 0D 2L",
+            "vehicle": "GD -4 · GF 0"
           }
         ]
       },
@@ -10220,31 +10230,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "USA",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +3 · GF 4"
+            "name": "United States",
+            "points": 6,
+            "team": "2W 0D 0L",
+            "vehicle": "GD +5 · GF 6"
           },
           {
             "pos": 2,
             "name": "Australia",
             "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +2 · GF 2"
+            "team": "1W 0D 1L",
+            "vehicle": "GD 0 · GF 2"
           },
           {
             "pos": 3,
-            "name": "Turkey",
-            "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -2 · GF 0"
+            "name": "Paraguay",
+            "points": 3,
+            "team": "1W 0D 1L",
+            "vehicle": "GD -2 · GF 2"
           },
           {
             "pos": 4,
-            "name": "Paraguay",
+            "name": "Turkey",
             "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -3 · GF 1"
+            "team": "0W 0D 2L",
+            "vehicle": "GD -3 · GF 0"
           }
         ]
       },
@@ -10254,29 +10264,29 @@
           {
             "pos": 1,
             "name": "Germany",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +6 · GF 7"
+            "points": 6,
+            "team": "2W 0D 0L",
+            "vehicle": "GD +7 · GF 9"
           },
           {
             "pos": 2,
             "name": "Ivory Coast",
             "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +1 · GF 1"
+            "team": "1W 0D 1L",
+            "vehicle": "GD 0 · GF 2"
           },
           {
             "pos": 3,
             "name": "Ecuador",
-            "points": 0,
-            "team": "0W 0D 1L",
+            "points": 1,
+            "team": "0W 1D 1L",
             "vehicle": "GD -1 · GF 0"
           },
           {
             "pos": 4,
             "name": "Curaçao",
-            "points": 0,
-            "team": "0W 0D 1L",
+            "points": 1,
+            "team": "0W 1D 1L",
             "vehicle": "GD -6 · GF 1"
           }
         ]
@@ -10286,31 +10296,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Sweden",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +4 · GF 5"
+            "name": "Netherlands",
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +4 · GF 7"
           },
           {
             "pos": 2,
             "name": "Japan",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 2"
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +4 · GF 6"
           },
           {
             "pos": 3,
-            "name": "Netherlands",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 2"
+            "name": "Sweden",
+            "points": 3,
+            "team": "1W 0D 1L",
+            "vehicle": "GD 0 · GF 6"
           },
           {
             "pos": 4,
             "name": "Tunisia",
             "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -4 · GF 1"
+            "team": "0W 0D 2L",
+            "vehicle": "GD -8 · GF 1"
           }
         ]
       },
@@ -10319,14 +10329,14 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Iran",
+            "name": "New Zealand",
             "points": 1,
             "team": "0W 1D 0L",
             "vehicle": "GD 0 · GF 2"
           },
           {
-            "pos": 1,
-            "name": "New Zealand",
+            "pos": 2,
+            "name": "Iran",
             "points": 1,
             "team": "0W 1D 0L",
             "vehicle": "GD 0 · GF 2"
@@ -10339,7 +10349,7 @@
             "vehicle": "GD 0 · GF 1"
           },
           {
-            "pos": 3,
+            "pos": 4,
             "name": "Egypt",
             "points": 1,
             "team": "0W 1D 0L",
@@ -10352,27 +10362,27 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Saudi Arabia",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "name": "Spain",
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +4 · GF 4"
           },
           {
-            "pos": 1,
+            "pos": 2,
             "name": "Uruguay",
             "points": 1,
-            "team": "0W 1D 0L",
+            "team": "0W 1D 1L",
             "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 3,
-            "name": "Spain",
+            "name": "Saudi Arabia",
             "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 1D 1L",
+            "vehicle": "GD -4 · GF 1"
           },
           {
-            "pos": 3,
+            "pos": 4,
             "name": "Cape Verde",
             "points": 1,
             "team": "0W 1D 0L",
@@ -10452,30 +10462,30 @@
           {
             "pos": 1,
             "name": "Colombia",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +2 · GF 3"
           },
           {
             "pos": 2,
             "name": "DR Congo",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 3,
             "name": "Portugal",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "points": 1,
+            "team": "0W 1D 0L",
+            "vehicle": "GD 0 · GF 1"
           },
           {
             "pos": 4,
             "name": "Uzbekistan",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -2 · GF 1"
           }
         ]
       },
@@ -10484,31 +10494,31 @@
         "entries": [
           {
             "pos": 1,
-            "name": "Croatia",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "England",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +2 · GF 4"
           },
           {
             "pos": 2,
-            "name": "England",
-            "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "name": "Ghana",
+            "points": 3,
+            "team": "1W 0D 0L",
+            "vehicle": "GD +1 · GF 1"
           },
           {
             "pos": 3,
-            "name": "Ghana",
+            "name": "Panama",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -1 · GF 0"
           },
           {
             "pos": 4,
-            "name": "Panama",
+            "name": "Croatia",
             "points": 0,
-            "team": "0W 0D 0L",
-            "vehicle": "GD 0 · GF 0"
+            "team": "0W 0D 1L",
+            "vehicle": "GD -2 · GF 2"
           }
         ]
       }
@@ -10523,7 +10533,7 @@
   },
   "lastUpdated": {
     "pgatour": "2026-06-20",
-    "formuladrift": "2026-05-30",
+    "formuladrift": "2026-06-20",
     "fdjapan": "2026-06-16",
     "c24h": "2026-06-08",
     "pccasia": "2026-05-10",
@@ -10537,7 +10547,7 @@
     "pccme": "2026-02-01",
     "gt2": "2026-05-31",
     "f1": "2026-06-07",
-    "nascar": "2026-05-31",
+    "nascar": "2026-06-21",
     "indycar": "2026-06-14",
     "f2": "2026-06-14",
     "dtm": "2026-05-24",
@@ -10549,7 +10559,7 @@
     "f4british": "2026-05-31",
     "f4italy": "2026-05-24",
     "f4french": "2026-05-17",
-    "f4spain": "2026-04-12",
+    "f4spain": "2026-06-21",
     "pccd": "2026-05-24",
     "minichallenge": "2026-05-24",
     "minitrophy": "2026-05-24",
@@ -10558,13 +10568,13 @@
     "britishgt": "2026-05-25",
     "fiakeuro": "2026-05-24",
     "agtm": "2026-05-24",
-    "oreilly": "2026-05-30",
+    "oreilly": "2026-06-20",
     "truck": "2026-06-19",
-    "lucasdirt": "2026-06-14",
+    "lucasdirt": "2026-06-20",
     "internationalgt": "2026-06-09",
     "enascar": "2026-06-03",
     "motogp": "2026-05-31",
-    "fe": "2026-05-17",
+    "fe": "2026-06-20",
     "whelen": "2026-06-06",
     "woolm": "2026-06-13",
     "f4us": "2026-05-17",
@@ -10577,7 +10587,7 @@
     "gtcupeu": "2026-05-31",
     "nhra": "2026-06-14",
     "ffsatourisme": "2026-05-17",
-    "arca": "2026-06-13",
+    "arca": "2026-06-20",
     "arcaeast": "2026-05-16",
     "igtc": "2026-05-16",
     "wrc": "2026-05-31",
@@ -10588,7 +10598,7 @@
     "supercross": "2026-05-10",
     "gtamerica": "2026-06-03",
     "wec": "2026-05-09",
-    "indynxt": "2026-06-07",
+    "indynxt": "2026-06-21",
     "vpscc": "2026-06-13",
     "tcamerica": "2026-06-13",
     "gtwca": "2026-05-09",
@@ -10788,52 +10798,52 @@
       {
         "pos": 1,
         "name": "MP Motorsport",
-        "points": 77
+        "points": 121
       },
       {
         "pos": 2,
         "name": "Griffin Core",
-        "points": 70
+        "points": 101
       },
       {
         "pos": 3,
-        "name": "KCL Motorsport",
-        "points": 39
+        "name": "Drivex",
+        "points": 95
       },
       {
         "pos": 4,
-        "name": "Tecnicar",
-        "points": 33
+        "name": "KCL Motorsport",
+        "points": 76
       },
       {
         "pos": 5,
-        "name": "Drivex",
-        "points": 21
+        "name": "T-Code",
+        "points": 60
       },
       {
         "pos": 6,
-        "name": "Campos Racing",
-        "points": 8
+        "name": "Tecnicar",
+        "points": 59
       },
       {
         "pos": 7,
-        "name": "T-Code",
-        "points": 8
+        "name": "Monlau Motorsport",
+        "points": 20
       },
       {
         "pos": 8,
-        "name": "Monlau Motorsport",
-        "points": 2
+        "name": "Campos Racing",
+        "points": 18
       },
       {
         "pos": 9,
-        "name": "TC Racing",
-        "points": 0
+        "name": "G4 Racing",
+        "points": 7
       },
       {
         "pos": 10,
-        "name": "G4 Racing",
-        "points": 0
+        "name": "DXR",
+        "points": 6
       }
     ],
     "agt4": [
