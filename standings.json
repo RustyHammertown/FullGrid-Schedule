@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-21T19:41:01.794Z",
+  "generatedAt": "2026-06-21T20:00:40.196Z",
   "flat": {
     "pgatour": [
       {
@@ -4322,6 +4322,138 @@
     ]
   },
   "classes": {
+    "bmwm2": [
+      {
+        "className": "Overall",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Michael Schrey",
+            "points": 50
+          },
+          {
+            "pos": 2,
+            "name": "Christopher Holst",
+            "points": 36
+          },
+          {
+            "pos": 3,
+            "name": "Niklas Hirsch",
+            "points": 33
+          },
+          {
+            "pos": 4,
+            "name": "Noah Eichele",
+            "points": 23
+          },
+          {
+            "pos": 5,
+            "name": "Ben Marquardt",
+            "points": 19
+          },
+          {
+            "pos": 6,
+            "name": "Mika König",
+            "points": 19
+          },
+          {
+            "pos": 7,
+            "name": "Tatu Siipola",
+            "points": 16
+          },
+          {
+            "pos": 8,
+            "name": "Farin Megger",
+            "points": 11
+          }
+        ]
+      },
+      {
+        "className": "Road to DTM",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Michael Schrey",
+            "points": 50
+          },
+          {
+            "pos": 2,
+            "name": "Christopher Holst",
+            "points": 36
+          },
+          {
+            "pos": 3,
+            "name": "Niklas Hirsch",
+            "points": 33
+          },
+          {
+            "pos": 4,
+            "name": "Noah Eichele",
+            "points": 22
+          },
+          {
+            "pos": 5,
+            "name": "Ben Marquardt",
+            "points": 18
+          },
+          {
+            "pos": 6,
+            "name": "Mika König",
+            "points": 18
+          },
+          {
+            "pos": 7,
+            "name": "Tatu Siipola",
+            "points": 16
+          },
+          {
+            "pos": 8,
+            "name": "Moritz Groneck",
+            "points": 11
+          },
+          {
+            "pos": 9,
+            "name": "Farin Megger",
+            "points": 10
+          },
+          {
+            "pos": 10,
+            "name": "Marijan Griebel",
+            "points": 6
+          }
+        ]
+      },
+      {
+        "className": "Pro-Am",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Michael Schrey",
+            "points": 50
+          }
+        ]
+      },
+      {
+        "className": "Rookie",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Niklas Hirsch",
+            "points": 45
+          },
+          {
+            "pos": 1,
+            "name": "Christopher Holst",
+            "points": 45
+          },
+          {
+            "pos": 3,
+            "name": "Noah Eichele",
+            "points": 32
+          }
+        ]
+      }
+    ],
     "formuladrift": [
       {
         "className": "PRO",
@@ -10532,6 +10664,7 @@
     "pgatour": "FedExCup Standings"
   },
   "lastUpdated": {
+    "bmwm2": "2026-06-21",
     "pgatour": "2026-06-20",
     "formuladrift": "2026-06-20",
     "fdjapan": "2026-06-16",
@@ -10626,6 +10759,33 @@
     "gt4america": "2026-06-04"
   },
   "teamFlat": {
+    "bmwm2": [
+      {
+        "pos": 1,
+        "name": "Hofor Racing by Bonk Motorsport",
+        "points": 83
+      },
+      {
+        "pos": 2,
+        "name": "ME Motorsport",
+        "points": 59
+      },
+      {
+        "pos": 3,
+        "name": "MK Motorsport",
+        "points": 20
+      },
+      {
+        "pos": 4,
+        "name": "FK Performance Motorsport",
+        "points": 16
+      },
+      {
+        "pos": 5,
+        "name": "Riller & Schnauck powered by Cerny Motorsport",
+        "points": 11
+      }
+    ],
     "f1academy": [
       {
         "pos": 1,
