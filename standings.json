@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T02:06:33.724Z",
+  "generatedAt": "2026-06-22T02:21:13.201Z",
   "flat": {
     "pgatour": [
       {
@@ -810,7 +810,7 @@
         "name": "Taylor Gray",
         "points": 476,
         "team": "",
-        "vehicle": ""
+        "vehicle": "Toyota Supra"
       }
     ],
     "nascarcanada": [
@@ -818,61 +818,71 @@
         "pos": 1,
         "name": "Gary Klutt",
         "points": 48,
-        "team": "#71 Legendary Motorcar Company"
+        "team": "#71 Legendary Motorcar Company",
+        "vehicle": "Dodge Challenger"
       },
       {
         "pos": 2,
         "name": "L.P. Dumoulin",
         "points": 43,
-        "team": "#47 Dumoulin Compétition"
+        "team": "#47 Dumoulin Compétition",
+        "vehicle": "Dodge Challenger"
       },
       {
         "pos": 3,
         "name": "Kyle Steckly",
         "points": 42,
-        "team": "#22 MBS Motorsports"
+        "team": "#22 MBS Motorsports",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 4,
         "name": "Alex Guenette",
         "points": 40,
-        "team": "#39 JASS Racing with XEMIS Racing"
+        "team": "#39 JASS Racing with XEMIS Racing",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 5,
         "name": "Ryan Klutt",
         "points": 39,
-        "team": "#42 Legendary Motorcar Company"
+        "team": "#42 Legendary Motorcar Company",
+        "vehicle": "Dodge Challenger"
       },
       {
         "pos": 6,
         "name": "J.P. Bergeron",
         "points": 38,
-        "team": "#1 Prolon Racing"
+        "team": "#1 Prolon Racing",
+        "vehicle": "Ford Mustang"
       },
       {
         "pos": 7,
         "name": "Darryl Timmers",
         "points": 37,
-        "team": "#85 Larry Jackson Racing"
+        "team": "#85 Larry Jackson Racing",
+        "vehicle": "Dodge Challenger"
       },
       {
         "pos": 8,
         "name": "Connor Bell",
         "points": 36,
-        "team": "#3 Ed Hakonson Racing"
+        "team": "#3 Ed Hakonson Racing",
+        "vehicle": "Chevrolet Camaro"
       },
       {
         "pos": 9,
         "name": "D.J. Kennington",
         "points": 35,
-        "team": "#17 DJK Racing"
+        "team": "#17 DJK Racing",
+        "vehicle": "Dodge Challenger"
       },
       {
         "pos": 10,
         "name": "Marc-Antoine Camirand",
         "points": 35,
-        "team": "#96 Paillé Course//Racing"
+        "team": "#96 Paillé Course//Racing",
+        "vehicle": "Chevrolet Camaro"
       }
     ],
     "truck": [
@@ -1501,12 +1511,14 @@
       {
         "pos": 5,
         "name": "Lionspeed GP",
-        "points": 18.5
+        "points": 18.5,
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 6,
         "name": "2 Seas Motorsport",
-        "points": 18
+        "points": 18,
+        "vehicle": "Mercedes-AMG GT3"
       },
       {
         "pos": 7,
@@ -1517,17 +1529,20 @@
       {
         "pos": 8,
         "name": "Boutsen VDS",
-        "points": 16
+        "points": 16,
+        "vehicle": "Porsche 911 GT3 R"
       },
       {
         "pos": 9,
         "name": "Emil Frey Racing",
-        "points": 12
+        "points": 12,
+        "vehicle": "Ferrari 296 GT3"
       },
       {
         "pos": 10,
         "name": "ROWE Racing",
-        "points": 12
+        "points": 12,
+        "vehicle": "BMW M4 GT3"
       }
     ],
     "whelen": [
@@ -1661,7 +1676,7 @@
         "name": "Bobby Dale Earnhardt",
         "points": 250,
         "team": "",
-        "vehicle": ""
+        "vehicle": "Chevrolet Camaro"
       }
     ],
     "arcaeast": [
@@ -2257,61 +2272,71 @@
         "pos": 1,
         "name": "Steven Wilson",
         "points": 74,
-        "team": "Spire Motorsports"
+        "team": "Spire Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 2,
         "name": "Connor Yeroschak",
         "points": 62,
-        "team": "Letarte eSports"
+        "team": "Letarte eSports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 3,
         "name": "Christopher M. Hill",
         "points": 61,
-        "team": "William Byron eSports"
+        "team": "William Byron eSports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 4,
         "name": "Vicente Salas",
         "points": 57,
-        "team": "Kanaan eSports"
+        "team": "Kanaan eSports",
+        "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 5,
         "name": "Seth DeMerchant",
         "points": 57,
-        "team": "fgrAccel"
+        "team": "fgrAccel",
+        "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 6,
         "name": "Zack Novak",
         "points": 56,
-        "team": "JR Motorsports"
+        "team": "JR Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 7,
         "name": "Bobby Zalenski",
         "points": 55,
-        "team": "ERA"
+        "team": "ERA",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 8,
         "name": "Donovan Strauss",
         "points": 55,
-        "team": "Williams eSports"
+        "team": "Williams eSports",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 9,
         "name": "Wyatt Tinsley",
         "points": 53,
-        "team": "Kansas City Pioneers"
+        "team": "Kansas City Pioneers",
+        "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 10,
         "name": "Blake Reynolds",
         "points": 52,
-        "team": "Channel 199 Sim Racing"
+        "team": "Channel 199 Sim Racing",
+        "vehicle": "Toyota Camry XSE"
       }
     ],
     "indynxt": [
@@ -4911,61 +4936,71 @@
             "pos": 1,
             "name": "Martin Rump / Conrad Tox Leveau",
             "points": 116,
-            "team": "#921 Mühlner Motorsport"
+            "team": "#921 Mühlner Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Ivo Breukers / Rik Breukers / Fabian Danz / Luc Breukers",
             "points": 100,
-            "team": "#909 Red Camel-Jordans.nl"
+            "team": "#909 Red Camel-Jordans.nl",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
             "name": "Ahmed Al-Emadi / Faesal Al Yafei",
             "points": 76,
-            "team": "#974 QMMF by HRT Performance"
+            "team": "#974 QMMF by HRT Performance",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
             "name": "Sebastien Lajoux",
             "points": 76,
-            "team": "Seblajoux Racing"
+            "team": "Seblajoux Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 4,
             "name": "Abdulla Ali Al Khelaifi",
             "points": 68,
-            "team": "#974 QMMF by HRT Performance"
+            "team": "#974 QMMF by HRT Performance",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 5,
             "name": "Lionel Amrouche",
             "points": 60,
-            "team": "#910 Seblajoux Racing"
+            "team": "#910 Seblajoux Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 6,
             "name": "Stephane Perrin / Anthony Vince",
             "points": 56,
-            "team": "#888 Seblajoux Racing"
+            "team": "#888 Seblajoux Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 7,
             "name": "Tracy Krohn / Niclas Jönsson / Philip Hamprecht",
             "points": 54,
-            "team": "#907 RPM Racing"
+            "team": "#907 RPM Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 7,
             "name": "Ivan Jacoma / Valerio Presezzi / Francesco Fenici",
             "points": 54,
-            "team": "#911 The Driving Experiences"
+            "team": "#911 The Driving Experiences",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 8,
             "name": "Igor Sorokin / Jonathan Kearney / Steven Gambrell",
             "points": 52,
-            "team": "#928 HRT Performance"
+            "team": "#928 HRT Performance",
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -4976,55 +5011,64 @@
             "pos": 1,
             "name": "Sebastien Lajoux",
             "points": 100,
-            "team": "Seblajoux Racing"
+            "team": "Seblajoux Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Ahmed Al-Emadi / Faesal Al Yafei",
             "points": 94,
-            "team": "#974 QMMF by HRT Performance"
+            "team": "#974 QMMF by HRT Performance",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
             "name": "Stephane Perrin / Anthony Vince",
             "points": 82,
-            "team": "#888 Seblajoux Racing"
+            "team": "#888 Seblajoux Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 4,
             "name": "Abdulla Ali Al Khelaifi",
             "points": 80,
-            "team": "#974 QMMF by HRT Performance"
+            "team": "#974 QMMF by HRT Performance",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 5,
             "name": "Tracy Krohn / Niclas Jönsson / Philip Hamprecht",
             "points": 76,
-            "team": "#907 RPM Racing"
+            "team": "#907 RPM Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 5,
             "name": "Ivan Jacoma / Valerio Presezzi / Francesco Fenici",
             "points": 76,
-            "team": "#911 The Driving Experiences"
+            "team": "#911 The Driving Experiences",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 6,
             "name": "Lionel Amrouche",
             "points": 74,
-            "team": "#910 Seblajoux Racing"
+            "team": "#910 Seblajoux Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 7,
             "name": "Igor Sorokin / Jonathan Kearney / Steven Gambrell",
             "points": 72,
-            "team": "#928 HRT Performance"
+            "team": "#928 HRT Performance",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 8,
             "name": "Jean-Paul Dominici / Jean-Mathieu Leandri / Antoni de Barn",
             "points": 68,
-            "team": "#920 Chazel Technologie Course"
+            "team": "#920 Chazel Technologie Course",
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -5100,22 +5144,26 @@
           {
             "pos": 3,
             "name": "Rafal Gieras",
-            "points": 80
+            "points": 80,
+            "vehicle": "Seat León Cup Racer"
           },
           {
             "pos": 4,
             "name": "Steven Teirlinck",
-            "points": 76
+            "points": 76,
+            "vehicle": "Seat León Cup Racer"
           },
           {
             "pos": 5,
             "name": "Thomas Alpiger",
-            "points": 40
+            "points": 40,
+            "vehicle": "Seat León Cup Racer"
           },
           {
             "pos": 6,
             "name": "Alberto Antonucci / Jens Wulf",
-            "points": 36
+            "points": 36,
+            "vehicle": "Ligier JS2 R"
           },
           {
             "pos": 7,
@@ -5167,22 +5215,26 @@
           {
             "pos": 3,
             "name": "Rafal Gieras",
-            "points": 80
+            "points": 80,
+            "vehicle": "Seat León Cup Racer"
           },
           {
             "pos": 4,
             "name": "Steven Teirlinck",
-            "points": 76
+            "points": 76,
+            "vehicle": "Seat León Cup Racer"
           },
           {
             "pos": 5,
             "name": "Thomas Alpiger",
-            "points": 40
+            "points": 40,
+            "vehicle": "Seat León Cup Racer"
           },
           {
             "pos": 6,
             "name": "Alberto Antonucci / Jens Wulf",
-            "points": 36
+            "points": 36,
+            "vehicle": "Ligier JS2 R"
           },
           {
             "pos": 7,
@@ -5551,42 +5603,50 @@
           {
             "pos": 1,
             "name": "Philippe Prette",
-            "points": 50
+            "points": 50,
+            "vehicle": "Maserati MC20 GT2"
           },
           {
             "pos": 2,
             "name": "Ondrej Rokos / Petr Lisa",
-            "points": 38
+            "points": 38,
+            "vehicle": "Mercedes-AMG GT2"
           },
           {
             "pos": 3,
             "name": "Oliver Freymuth",
-            "points": 22
+            "points": 22,
+            "vehicle": "Lamborghini Huracán Super Trofeo EVO2"
           },
           {
             "pos": 4,
             "name": "Alexis Berthet / Vincent Iogna",
-            "points": 21
+            "points": 21,
+            "vehicle": "Lamborghini Huracán Super Trofeo EVO2"
           },
           {
             "pos": 5,
             "name": "Stephane Ratel",
-            "points": 20
+            "points": 20,
+            "vehicle": "Audi R8 LMS GT2"
           },
           {
             "pos": 6,
             "name": "Viktor Mraz / Davit Kajaia",
-            "points": 18
+            "points": 18,
+            "vehicle": "KTM X-Bow GT2"
           },
           {
             "pos": 7,
             "name": "Max Grip / Jack Russel",
-            "points": 15
+            "points": 15,
+            "vehicle": "KTM X-Bow GT2"
           },
           {
             "pos": 8,
             "name": "Dominik Olbert / Önder Erdem",
-            "points": 4
+            "points": 4,
+            "vehicle": "KTM X-Bow GT2"
           }
         ]
       }
@@ -8680,25 +8740,29 @@
             "pos": 1,
             "name": "Alejandro Barambio / Borja García",
             "points": 27,
-            "team": "GT Corse"
+            "team": "GT Corse",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Fgani A. Salubre / Lars Zaenen",
             "points": 21,
-            "team": "Hans Weijs Motorsport"
+            "team": "Hans Weijs Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
             "name": "Flávio Sampaio / Bernardo Lucas Pinheiro",
             "points": 16,
-            "team": "LMR Motorsport"
+            "team": "LMR Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 4,
             "name": "Leonardo Reis / Felipe Massa",
             "points": 10,
-            "team": "AF Motorsport"
+            "team": "AF Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       },
@@ -8709,37 +8773,43 @@
             "pos": 1,
             "name": "Hans Weijs / Rick van Zijverden",
             "points": 23,
-            "team": "Hans Weijs Motorsport"
+            "team": "Hans Weijs Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 2,
             "name": "Giacomo Giubergia / H. de Mello",
             "points": 21,
-            "team": "GDL Racing"
+            "team": "GDL Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 3,
             "name": "Fernando Navarrete / Fernando Pedrera",
             "points": 18,
-            "team": "Tsunami RT"
+            "team": "Tsunami RT",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 4,
             "name": "Nelson Marcondes / Nelson Monteiro Jr",
             "points": 12,
-            "team": "GDL Racing"
+            "team": "GDL Racing",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 5,
             "name": "Leandro Martins / Dieter Svepes",
             "points": 11,
-            "team": "LMR Motorsport"
+            "team": "LMR Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           },
           {
             "pos": 6,
             "name": "Evgenii Leonov",
             "points": 7,
-            "team": "Volcano Motorsport"
+            "team": "Volcano Motorsport",
+            "vehicle": "Porsche 911 GT3 Cup"
           }
         ]
       }
@@ -8773,7 +8843,8 @@
             "pos": 4,
             "name": "Dean Lambros",
             "points": 81,
-            "team": "Skip Barber Racing School"
+            "team": "Skip Barber Racing School",
+            "vehicle": "Acura Integra Type S"
           },
           {
             "pos": 5,
@@ -8786,13 +8857,15 @@
             "pos": 6,
             "name": "Logan Anderson",
             "points": 33,
-            "team": "Skip Barber Racing School"
+            "team": "Skip Barber Racing School",
+            "vehicle": "Acura Integra Type S"
           },
           {
             "pos": 7,
             "name": "Mike Lamarra",
             "points": 32,
-            "team": "Precision Racing LA"
+            "team": "Precision Racing LA",
+            "vehicle": "Acura Integra Type S"
           },
           {
             "pos": 8,
