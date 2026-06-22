@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T09:34:01.169Z",
+  "generatedAt": "2026-06-22T18:27:54.187Z",
   "groups": {
     "formuladrift": [
       {
@@ -852,6 +852,9 @@
           "TA/GT Practice",
           "TA2 Practice",
           "TA/TAC/GT Practice",
+          "TA Sprint Practice",
+          "TA/TAC/GT Classes Practice",
+          "CUBE 3 Architecture TA2® Series Practice",
           "TA/GT Testing 1",
           "TA/GT Testing 2",
           "TA2 Testing 1",
@@ -867,7 +870,12 @@
           "TA2 Pro/Am Qualifying",
           "TA2 Pro Qualifying",
           "TA/GT1/TAC Qualifying",
-          "XGT/SGT/GT Qualifying"
+          "XGT/SGT/GT Qualifying",
+          "TA Sprint Qualifying",
+          "TA/GT1/TAC Classes Qualifying",
+          "XGT/SGT/GT Classes Qualifying",
+          "CUBE 3 Architecture TA2® Series Pro/Am Qualifying",
+          "CUBE 3 Architecture TA2® Series Pro Qualifying"
         ]
       }
     ],
@@ -1057,6 +1065,7 @@
       {
         "label": "Qualifying",
         "sessions": [
+          "Qualifying",
           "Qualifying 1",
           "Qualifying 2"
         ]
@@ -1245,7 +1254,8 @@
         "label": "Practice",
         "sessions": [
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Night Practice"
         ]
       },
       {
@@ -1256,6 +1266,13 @@
           "Qualifying 2",
           "Qualifying 3",
           "Qualifying 4"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warm Up",
+          "Warm-up"
         ]
       }
     ],
@@ -1825,6 +1842,8 @@
           "Practice 2",
           "Practice 3",
           "Practice 4",
+          "Free Practice 1",
+          "Free Practice 2",
           "Practice (TBD)",
           "Practice 1 (TBD)",
           "Practice 2 (TBD)",
@@ -1838,6 +1857,7 @@
           "Qualifying 1",
           "Qualifying 2",
           "Qualifying 3",
+          "Qualifying 4",
           "Top Qualifying 1",
           "Top Qualifying 2",
           "Top Qualifying 3",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T09:33:55.932Z",
+  "generatedAt": "2026-06-22T18:27:53.362Z",
   "events": [
     {
       "id": 101,
@@ -8168,8 +8168,8 @@
       "sessions": [
         {
           "name": "MotoGP Practice 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-26T10:45:00+02:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8178,13 +8178,18 @@
         },
         {
           "name": "MotoGP Practice",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T15:00:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
         },
         {
           "name": "MotoGP Practice 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T10:10:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8193,8 +8198,8 @@
         },
         {
           "name": "MotoGP Qualifying 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T10:50:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8203,8 +8208,8 @@
         },
         {
           "name": "MotoGP Qualifying 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T11:15:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8213,8 +8218,8 @@
         },
         {
           "name": "MotoGP Warm-up",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-28T09:40:00+02:00",
+          "duration": 10,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8384,8 +8389,8 @@
         },
         {
           "name": "Moto2 Practice 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-26T09:50:00+02:00",
+          "duration": 40,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8394,13 +8399,18 @@
         },
         {
           "name": "Moto2 Practice",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T14:05:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
         },
         {
           "name": "Moto2 Practice 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T09:25:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8409,8 +8419,8 @@
         },
         {
           "name": "Moto2 Qualifying 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T13:40:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8419,8 +8429,8 @@
         },
         {
           "name": "Moto2 Qualifying 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T14:05:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8430,7 +8440,7 @@
         {
           "name": "Moto2 Race",
           "time": "2026-06-28T12:15:00+02:00",
-          "laps": 23,
+          "laps": 22,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8580,8 +8590,8 @@
         },
         {
           "name": "Moto3 Practice 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-26T09:00:00+02:00",
+          "duration": 40,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8590,13 +8600,18 @@
         },
         {
           "name": "Moto3 Practice",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T13:15:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "US": {
+              "service": "MotoGP Channel / MotoGP VideoPass"
+            }
+          }
         },
         {
           "name": "Moto3 Practice 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T08:40:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8605,8 +8620,8 @@
         },
         {
           "name": "Moto3 Qualifying 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T12:45:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8615,8 +8630,8 @@
         },
         {
           "name": "Moto3 Qualifying 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T13:10:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8626,7 +8641,7 @@
         {
           "name": "Moto3 Race",
           "time": "2026-06-28T11:00:00+02:00",
-          "laps": 21,
+          "laps": 20,
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -56455,13 +56470,23 @@
       "sessions": [
         {
           "name": "Qualifying Day 1",
-          "time": "2026-06-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-26T17:00:00-04:00",
+          "duration": 255,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
         },
         {
           "name": "Qualifying Day 2",
-          "time": "2026-06-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-27T12:00:00-04:00",
+          "duration": 265,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
         },
         {
           "name": "Eliminations",
@@ -70293,33 +70318,38 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-25T10:20:00-05:00",
+          "duration": 30
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-26T09:20:00-05:00",
+          "duration": 25
         },
         {
           "name": "Race 1",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-26T14:35:00-05:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-27T10:15:00-05:00",
+          "duration": 30
         },
         {
           "name": "Race 3",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-28T08:00:00-05:00",
+          "duration": 30
         },
         {
           "name": "Enduro",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-06-27T16:10:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/racingamericatv"
+            }
+          }
         }
       ]
     },
@@ -76339,23 +76369,23 @@
       "sessions": [
         {
           "name": "Free Practice",
-          "time": "2026-06-25T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-25T11:50:00+02:00",
+          "duration": 60
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-25T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-25T17:20:00+02:00",
+          "duration": 60
         },
         {
           "name": "Free Practice 3",
-          "time": "2026-06-25T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T09:10:00+02:00",
+          "duration": 15
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-26T09:30:00+02:00",
+          "duration": 20,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76364,13 +76394,13 @@
         },
         {
           "name": "Free Practice 4",
-          "time": "2026-06-25T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T16:05:00+02:00",
+          "duration": 15
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-26T16:25:00+02:00",
+          "duration": 20,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76379,8 +76409,8 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-26T12:40:00+02:00",
+          "duration": 45,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76389,8 +76419,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T09:20:00+02:00",
+          "duration": 45,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -77841,18 +77871,88 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T18:35:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-27T11:20:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "US": {
+              "service": "F1 TV"
+            },
+            "CA": {
+              "service": "TSN / RDS"
+            },
+            "UK": {
+              "service": "Sky Sports F1"
+            },
+            "AU": {
+              "service": "Fox Sports"
+            },
+            "DE": {
+              "service": "Sky Deutschland"
+            },
+            "IT": {
+              "service": "Sky Italia"
+            },
+            "FR": {
+              "service": "Canal+"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "Global": {
+              "service": "F1 TV Premium"
+            }
+          }
         },
         {
           "name": "Race",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-28T11:55:00+02:00",
+          "duration": 35,
           "broadcasts": {
             "US": {
               "service": "F1 TV"
