@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T02:21:12.040Z",
+  "generatedAt": "2026-06-22T09:33:55.932Z",
   "events": [
     {
       "id": 101,
@@ -32784,22 +32784,22 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-27T11:25:00-04:00",
+          "duration": 90
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-28T10:05:00-04:00",
+          "duration": 105
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-28T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-28T15:40:00-04:00",
+          "duration": 75
         },
         {
           "name": "Race",
-          "time": "2026-06-28T12:00:00-04:00",
+          "time": "2026-06-28T12:10:00-04:00",
           "duration": 360,
           "broadcasts": {
             "US": {
@@ -33445,22 +33445,19 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-26T14:55:00-04:00"
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-27T09:15:00-04:00"
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-27T17:10:00-04:00"
         },
         {
           "name": "Race",
-          "time": "2026-06-27T13:00:00-04:00",
+          "time": "2026-06-28T13:05:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -34265,18 +34262,23 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-25T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-25T10:00:00-04:00",
+          "duration": 45
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-25T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-26T13:55:00-04:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-26T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-26T10:30:00-04:00",
+          "duration": 15
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-26T10:50:00-04:00",
+          "duration": 15
         },
         {
           "name": "Race 1",
@@ -35261,18 +35263,18 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-26T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-25T08:15:00-04:00",
+          "duration": 45
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-26T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-06-25T12:15:00-04:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
           "time": "2026-06-26T08:00:00-04:00",
-          "tbd": true
+          "duration": 30
         },
         {
           "name": "Race 1",
@@ -36148,18 +36150,15 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T11:05:00+02:00"
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T15:55:00+02:00"
         },
         {
           "name": "Sprint Race",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T14:15:00+02:00",
           "laps": 29,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1096",
           "broadcasts": {
@@ -36170,8 +36169,7 @@
         },
         {
           "name": "Feature Race",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-28T10:10:00+02:00",
           "laps": 40,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1096",
           "broadcasts": {
@@ -44781,8 +44779,7 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-06-27T15:40:00-05:00",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -44791,8 +44788,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-06-27T17:20:00-05:00",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -44801,8 +44797,9 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-27T23:00:00-05:00",
+          "time": "2026-06-27T20:00:00-05:00",
           "laps": 200,
+          "duration": 250,
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -45918,8 +45915,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-26T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-06-26T10:40:00-07:00",
+          "duration": 20,
           "broadcasts": {
             "Global": {
               "service": "FloRacing"
@@ -45928,8 +45925,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-26T05:00:00-07:00",
-          "tbd": true,
+          "time": "2026-06-26T12:10:00-07:00",
+          "duration": 20,
           "broadcasts": {
             "Global": {
               "service": "FloRacing"
@@ -45938,7 +45935,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-26T12:00:00-07:00",
+          "time": "2026-06-26T15:30:00-07:00",
           "laps": 64,
           "broadcasts": {
             "US": {
@@ -50720,17 +50717,20 @@
         {
           "name": "Race 1",
           "time": "2026-06-20T13:25:00-04:00",
-          "duration": 35
+          "duration": 35,
+          "resultsUrl": "https://www.framericas.com/pages/2026-racing-america-at-indianapolis-results"
         },
         {
           "name": "Race 2",
           "time": "2026-06-21T08:00:00-04:00",
-          "duration": 35
+          "duration": 35,
+          "resultsUrl": "https://www.framericas.com/pages/2026-racing-america-at-indianapolis-results"
         },
         {
           "name": "Race 3",
           "time": "2026-06-21T12:10:00-04:00",
-          "duration": 35
+          "duration": 35,
+          "resultsUrl": "https://www.framericas.com/pages/2026-racing-america-at-indianapolis-results"
         }
       ]
     },
@@ -53920,7 +53920,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-22T18:00:00-05:00",
+          "time": "2026-06-22T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -53944,7 +53944,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-24T18:00:00-05:00",
+          "time": "2026-06-24T18:30:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -53968,7 +53968,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-26T18:00:00-05:00",
+          "time": "2026-06-26T19:00:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -53992,7 +53992,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-28T18:00:00-05:00",
+          "time": "2026-06-28T19:00:00-05:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -54989,7 +54989,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-23T19:30:00-04:00",
+          "time": "2026-06-23T20:00:00-04:00",
           "laps": 100,
           "broadcasts": {
             "Global": {
@@ -57440,6 +57440,46 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-06-25T10:10:00+02:00",
+          "duration": 90
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-06-25T14:00:00+02:00",
+          "duration": 90
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-25T19:45:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-25T20:05:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying 3",
+          "time": "2026-06-25T20:35:00+02:00",
+          "duration": 30
+        },
+        {
+          "name": "Qualifying 4",
+          "time": "2026-06-25T21:05:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Super Pole",
+          "time": "2026-06-26T15:05:00+02:00",
+          "duration": 15
+        },
+        {
+          "name": "Warm-up",
+          "time": "2026-06-26T19:20:00+02:00",
+          "duration": 60
+        },
+        {
           "name": "Race",
           "time": "2026-06-27T16:30:00+02:00",
           "duration": 1440,
@@ -57690,7 +57730,7 @@
         {
           "name": "Practice 2",
           "time": "2026-06-25T16:10:00+02:00",
-          "duration": 90
+          "duration": 60
         },
         {
           "name": "Qualifying 1",
@@ -57704,8 +57744,8 @@
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-25T20:07:00+02:00",
-          "duration": 15,
+          "time": "2026-06-25T20:10:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57714,8 +57754,8 @@
         },
         {
           "name": "Qualifying 3",
-          "time": "2026-06-25T20:29:00+02:00",
-          "duration": 15,
+          "time": "2026-06-25T20:45:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -57724,8 +57764,33 @@
         },
         {
           "name": "Qualifying 4",
-          "time": "2026-06-25T20:51:00+02:00",
-          "duration": 15,
+          "time": "2026-06-25T21:20:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
+          "name": "Night Practice",
+          "time": "2026-06-25T22:10:00+02:00",
+          "duration": 90
+        },
+        {
+          "name": "Superpole",
+          "time": "2026-06-26T15:05:00+02:00",
+          "duration": 50,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
+          "name": "Warm Up",
+          "time": "2026-06-26T19:20:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -75279,9 +75344,79 @@
       "round": 6,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-06-27T07:00:00-05:00",
-          "tbd": true,
+          "name": "TA Sprint Practice",
+          "time": "2026-06-27T08:35:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "TA/TAC/GT Classes Practice",
+          "time": "2026-06-27T09:10:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "CUBE 3 Architecture TA2® Series Practice",
+          "time": "2026-06-27T09:45:00-05:00",
+          "duration": 30
+        },
+        {
+          "name": "TA Sprint Qualifying",
+          "time": "2026-06-27T12:30:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "TA/GT1/TAC Classes Qualifying",
+          "time": "2026-06-27T13:50:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "XGT/SGT/GT Classes Qualifying",
+          "time": "2026-06-27T14:10:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "CUBE 3 Architecture TA2® Series Pro/Am Qualifying",
+          "time": "2026-06-27T14:35:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "CUBE 3 Architecture TA2® Series Pro Qualifying",
+          "time": "2026-06-27T14:55:00-05:00",
+          "duration": 20
+        },
+        {
+          "name": "TA Sprint Series Race #1",
+          "time": "2026-06-28T09:15:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/TheTransAmSeries"
+            }
+          }
+        },
+        {
+          "name": "TA/TAC/GT Classes Race",
+          "time": "2026-06-28T10:05:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/TheTransAmSeries"
+            }
+          }
+        },
+        {
+          "name": "CUBE 3 Architecture TA2® Series Race",
+          "time": "2026-06-28T13:10:00-05:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/TheTransAmSeries"
+            }
+          }
+        },
+        {
+          "name": "TA Sprint Series Race #2",
+          "time": "2026-06-28T15:20:00-05:00",
+          "duration": 60,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TheTransAmSeries"
@@ -75580,28 +75715,18 @@
       "sessions": [
         {
           "name": "Free Practice",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-25T13:00:00+02:00",
+          "duration": 60
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-26T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-26T18:30:00+02:00",
+          "duration": 60
         },
         {
-          "name": "Qualifying 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "name": "Qualifying",
+          "time": "2026-06-26T10:25:00+02:00",
+          "duration": 45,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -75610,8 +75735,8 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-27T21:35:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -75620,8 +75745,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-06-28T10:40:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -78872,6 +78997,7 @@
           "name": "Race 17",
           "time": "2026-06-19T17:00:00+09:30",
           "laps": 35,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -78900,6 +79026,7 @@
           "name": "Race 18",
           "time": "2026-06-20T15:20:00+09:30",
           "laps": 35,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -78928,6 +79055,7 @@
           "name": "Boost Mobile TTSO",
           "time": "2026-06-21T11:30:00+09:30",
           "laps": 35,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -78956,6 +79084,7 @@
           "name": "Race 19",
           "time": "2026-06-21T14:40:00+09:30",
           "laps": 35,
+          "resultsUrl": "https://www.supercars.com/results/2026/supercars",
           "broadcasts": {
             "US": {
               "service": "SuperView"
@@ -87268,34 +87397,34 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Free Practice 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "name": "Practice 1",
+          "time": "2026-06-27T09:10:00+02:00",
+          "duration": 45
         },
         {
-          "name": "Free Practice 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "name": "Practice 2",
+          "time": "2026-06-27T12:35:00+02:00",
+          "duration": 45
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-27T16:55:00+02:00",
+          "duration": 17
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-27T17:12:00+02:00",
+          "duration": 17
         },
         {
           "name": "Race 1",
-          "time": "2026-06-27T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-28T11:58:00+02:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-06-28T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-06-28T14:38:00+02:00",
+          "duration": 30
         }
       ]
     },
@@ -87926,8 +88055,13 @@
           "duration": 60
         },
         {
-          "name": "Qualifying",
+          "name": "Qualifying 1",
           "time": "2026-06-20T10:50:00+02:00",
+          "duration": 35
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T11:10:00+02:00",
           "duration": 35
         },
         {
@@ -88767,7 +88901,17 @@
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-20T09:30:00+02:00",
+          "time": "2026-06-20T13:20:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T14:00:00+02:00",
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 3",
+          "time": "2026-06-20T14:40:00+02:00",
           "duration": 20
         },
         {
