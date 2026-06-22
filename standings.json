@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T01:54:54.713Z",
+  "generatedAt": "2026-06-22T02:06:33.724Z",
   "flat": {
     "pgatour": [
       {
@@ -4190,61 +4190,71 @@
             "pos": 1,
             "name": "James Deane",
             "points": 149,
-            "team": "#130"
+            "team": "#130",
+            "vehicle": "Ford Mustang RTR"
           },
           {
             "pos": 2,
             "name": "Aurimas Bakchis",
             "points": 127,
-            "team": "#723"
+            "team": "#723",
+            "vehicle": "Subaru BRZ"
           },
           {
             "pos": 3,
             "name": "Branden Sorensen",
             "points": 107,
-            "team": "#513"
+            "team": "#513",
+            "vehicle": "BMW M3 E46"
           },
           {
             "pos": 4,
             "name": "Jack Shanahan",
             "points": 106,
-            "team": "#59"
+            "team": "#59",
+            "vehicle": "BMW 1 Series E82"
           },
           {
             "pos": 5,
             "name": "Conor Shanahan",
             "points": 105,
-            "team": "#79"
+            "team": "#79",
+            "vehicle": "Toyota GT86"
           },
           {
             "pos": 6,
             "name": "Dylan Hughes",
             "points": 87,
-            "team": "#129"
+            "team": "#129",
+            "vehicle": "BMW M3 E46"
           },
           {
             "pos": 7,
             "name": "Fredric Aasbo",
             "points": 85,
-            "team": "#151"
+            "team": "#151",
+            "vehicle": "Toyota GR Supra"
           },
           {
             "pos": 8,
             "name": "Ryan Tuerck",
             "points": 64,
-            "team": "#411"
+            "team": "#411",
+            "vehicle": "Toyota GR Corolla"
           },
           {
             "pos": 9,
             "name": "Chris Forsberg",
             "points": 58,
-            "team": "#64"
+            "team": "#64",
+            "vehicle": "Nissan Z"
           },
           {
             "pos": 10,
             "name": "Cole Richards",
             "points": 56,
-            "team": "#11"
+            "team": "#11",
+            "vehicle": "Toyota GT86"
           }
         ]
       },
@@ -4255,61 +4265,71 @@
             "pos": 1,
             "name": "Cory Talaska",
             "points": 50,
-            "team": "#116"
+            "team": "#116",
+            "vehicle": "BMW M3 E36"
           },
           {
             "pos": 2,
             "name": "Jason Webb",
             "points": 43,
-            "team": "#45"
+            "team": "#45",
+            "vehicle": "Ford Mustang"
           },
           {
             "pos": 3,
             "name": "Dmitriy Brutskiy",
             "points": 30,
-            "team": "#85"
+            "team": "#85",
+            "vehicle": "BMW M3 E46"
           },
           {
             "pos": 4,
             "name": "Joshua (Jerry) Johnson",
             "points": 30,
-            "team": "#97"
+            "team": "#97",
+            "vehicle": "Chevrolet Corvette C6"
           },
           {
             "pos": 5,
             "name": "Sam Maghmoumi",
             "points": 29,
-            "team": "#22"
+            "team": "#22",
+            "vehicle": "BMW M3 E36"
           },
           {
             "pos": 6,
             "name": "Tyler Mayer",
             "points": 26,
-            "team": "#133"
+            "team": "#133",
+            "vehicle": "Nissan 240SX S13"
           },
           {
             "pos": 7,
             "name": "Dustyn Farrell",
             "points": 26,
-            "team": "#160"
+            "team": "#160",
+            "vehicle": "Nissan 240SX S14"
           },
           {
             "pos": 8,
             "name": "Braden Lons",
             "points": 22,
-            "team": "#13"
+            "team": "#13",
+            "vehicle": "Nissan 240SX S13"
           },
           {
             "pos": 9,
             "name": "Camren Sorensen",
             "points": 20,
-            "team": "#514"
+            "team": "#514",
+            "vehicle": "BMW M3 E46"
           },
           {
             "pos": 10,
             "name": "Nik Jimenez",
             "points": 10,
-            "team": "#360"
+            "team": "#360",
+            "vehicle": "Nissan 350Z"
           }
         ]
       }
@@ -4322,61 +4342,71 @@
             "pos": 1,
             "name": "Connor Xia",
             "points": 211,
-            "team": "#18"
+            "team": "#18",
+            "vehicle": "Nissan Silvia S15"
           },
           {
             "pos": 2,
             "name": "Koudai Sobagiri",
             "points": 189,
-            "team": "#31"
+            "team": "#31",
+            "vehicle": "Toyota GR86"
           },
           {
             "pos": 3,
             "name": "Ryuma",
             "points": 175,
-            "team": "#131"
+            "team": "#131",
+            "vehicle": "Toyota GR86"
           },
           {
             "pos": 4,
             "name": "Wataru Masuyama",
             "points": 173,
-            "team": "#530"
+            "team": "#530",
+            "vehicle": "Toyota GR86"
           },
           {
             "pos": 5,
             "name": "Yukio Fausto",
             "points": 153,
-            "team": "#555"
+            "team": "#555",
+            "vehicle": "Nissan Silvia S15"
           },
           {
             "pos": 6,
             "name": "Masanori Kohashi",
             "points": 138,
-            "team": "#4"
+            "team": "#4",
+            "vehicle": "Toyota GR Supra A90"
           },
           {
             "pos": 7,
             "name": "Yusuke Kusaba",
             "points": 138,
-            "team": "#77"
+            "team": "#77",
+            "vehicle": "Toyota GR86"
           },
           {
             "pos": 8,
             "name": "Naoki Nakamura",
             "points": 126,
-            "team": "#999"
+            "team": "#999",
+            "vehicle": "Toyota GR86"
           },
           {
             "pos": 9,
             "name": "Kazumi Takahashi",
             "points": 123,
-            "team": "#36"
+            "team": "#36",
+            "vehicle": "BMW 3 Series E92"
           },
           {
             "pos": 10,
             "name": "Ken Gushi",
             "points": 122,
-            "team": "#21"
+            "team": "#21",
+            "vehicle": "Lexus LBX Morizo RR"
           }
         ]
       },
@@ -4387,61 +4417,71 @@
             "pos": 1,
             "name": "Riki Nakamura",
             "points": 189,
-            "team": "#1"
+            "team": "#1",
+            "vehicle": "Nissan Silvia S15"
           },
           {
             "pos": 2,
             "name": "Jayce",
             "points": 186,
-            "team": "#23"
+            "team": "#23",
+            "vehicle": "Toyota Mark II JZX100"
           },
           {
             "pos": 3,
             "name": "Shoei Tokuyama",
             "points": 108,
-            "team": "#151"
+            "team": "#151",
+            "vehicle": "Toyota Crown JZS151"
           },
           {
             "pos": 4,
             "name": "Eita Uehara",
             "points": 107,
-            "team": "#831"
+            "team": "#831",
+            "vehicle": "Nissan Silvia S15"
           },
           {
             "pos": 5,
             "name": "Manato Mogi",
             "points": 106,
-            "team": "#270"
+            "team": "#270",
+            "vehicle": "Nissan Silvia S15"
           },
           {
             "pos": 6,
             "name": "Hinato",
             "points": 102,
-            "team": "#620"
+            "team": "#620",
+            "vehicle": "Toyota Chaser JZX100"
           },
           {
             "pos": 7,
             "name": "Toshihiko Mizuno",
             "points": 102,
-            "team": "#104"
+            "team": "#104",
+            "vehicle": "Nissan 180SX"
           },
           {
             "pos": 8,
             "name": "Kazuyuki Tomite",
             "points": 85,
-            "team": "#210"
+            "team": "#210",
+            "vehicle": "Toyota Chaser JZX100"
           },
           {
             "pos": 9,
             "name": "Tomoyuki Kitashiba",
             "points": 85,
-            "team": "#48"
+            "team": "#48",
+            "vehicle": "Toyota GR86"
           },
           {
             "pos": 10,
             "name": "Ryusuke Aoki",
             "points": 72,
-            "team": "#109"
+            "team": "#109",
+            "vehicle": "Toyota Crown JZS151"
           }
         ]
       },
@@ -4452,61 +4492,71 @@
             "pos": 1,
             "name": "Souta Notsu",
             "points": 164,
-            "team": "#80"
+            "team": "#80",
+            "vehicle": "Nissan Silvia S13"
           },
           {
             "pos": 2,
             "name": "Muneo Miyachi",
             "points": 125,
-            "team": "#670"
+            "team": "#670",
+            "vehicle": "Nissan Silvia S14"
           },
           {
             "pos": 3,
             "name": "Ricky Peres",
             "points": 107,
-            "team": "#70"
+            "team": "#70",
+            "vehicle": "Toyota Chaser JZX100"
           },
           {
             "pos": 4,
             "name": "Douglas Ozaki",
             "points": 106,
-            "team": "#107"
+            "team": "#107",
+            "vehicle": "Toyota Mark II JZX100"
           },
           {
             "pos": 5,
             "name": "Ryu Funabashi",
             "points": 104,
-            "team": "#64"
+            "team": "#64",
+            "vehicle": "Nissan Fairlady Z Z33"
           },
           {
             "pos": 6,
             "name": "Seika",
             "points": 90,
-            "team": "#19"
+            "team": "#19",
+            "vehicle": "Toyota Chaser JZX100"
           },
           {
             "pos": 7,
             "name": "Issa Minakawa",
             "points": 87,
-            "team": "#135"
+            "team": "#135",
+            "vehicle": "Nissan Silvia S15"
           },
           {
             "pos": 8,
             "name": "Yuto Saito",
             "points": 86,
-            "team": "#67"
+            "team": "#67",
+            "vehicle": "Toyota Chaser JZX100"
           },
           {
             "pos": 9,
             "name": "Ryo Kato",
             "points": 66,
-            "team": "#345"
+            "team": "#345",
+            "vehicle": "Nissan Silvia S14"
           },
           {
             "pos": 10,
             "name": "Buyu Nakazawa",
             "points": 44,
-            "team": "#157"
+            "team": "#157",
+            "vehicle": "Nissan 180SX"
           }
         ]
       }
