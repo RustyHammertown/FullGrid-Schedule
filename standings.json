@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T01:49:43.312Z",
+  "generatedAt": "2026-06-22T01:54:54.713Z",
   "flat": {
     "pgatour": [
       {
@@ -181,46 +181,6 @@
         "pos": 10,
         "name": "David Russell",
         "points": 70
-      },
-      {
-        "pos": 11,
-        "name": "Lockie Bloxsom",
-        "points": 65
-      },
-      {
-        "pos": 12,
-        "name": "Diesel Thomas",
-        "points": 59
-      },
-      {
-        "pos": 13,
-        "name": "Dean Fiore",
-        "points": 39
-      },
-      {
-        "pos": 14,
-        "name": "Tom Bewley",
-        "points": 39
-      },
-      {
-        "pos": 15,
-        "name": "Ryan Casha",
-        "points": 35
-      },
-      {
-        "pos": 16,
-        "name": "Josh Thomas",
-        "points": 32
-      },
-      {
-        "pos": 17,
-        "name": "Amar Sharma",
-        "points": 31
-      },
-      {
-        "pos": 18,
-        "name": "Dale Wood",
-        "points": 23
       }
     ],
     "pccbnl": [
@@ -458,96 +418,6 @@
         "pos": 10,
         "name": "Cristian Bertuca",
         "points": 25,
-        "team": ""
-      },
-      {
-        "pos": 11,
-        "name": "Callum Voisin",
-        "points": 24,
-        "team": ""
-      },
-      {
-        "pos": 12,
-        "name": "Nathan Schaap",
-        "points": 22,
-        "team": ""
-      },
-      {
-        "pos": 13,
-        "name": "Giorgio Amati",
-        "points": 21,
-        "team": "Prima Ghinzani Motorsport"
-      },
-      {
-        "pos": 14,
-        "name": "Filippo Fant",
-        "points": 17,
-        "team": ""
-      },
-      {
-        "pos": 15,
-        "name": "Alberto Cerqui",
-        "points": 16,
-        "team": ""
-      },
-      {
-        "pos": 16,
-        "name": "Nicolas Taylor",
-        "points": 9,
-        "team": ""
-      },
-      {
-        "pos": 17,
-        "name": "Ermanno Quintieri",
-        "points": 5,
-        "team": ""
-      },
-      {
-        "pos": 17,
-        "name": "Benjamin Berta",
-        "points": 5,
-        "team": ""
-      },
-      {
-        "pos": 19,
-        "name": "Luciano Martinez",
-        "points": 4,
-        "team": ""
-      },
-      {
-        "pos": 19,
-        "name": "Lorenzo Cheli",
-        "points": 4,
-        "team": ""
-      },
-      {
-        "pos": 19,
-        "name": "Andrea D'Amico",
-        "points": 4,
-        "team": ""
-      },
-      {
-        "pos": 22,
-        "name": "Cesare Brusa",
-        "points": 3,
-        "team": ""
-      },
-      {
-        "pos": 22,
-        "name": "Andrea Girondi",
-        "points": 3,
-        "team": ""
-      },
-      {
-        "pos": 24,
-        "name": "Karen Gaillard",
-        "points": 2,
-        "team": ""
-      },
-      {
-        "pos": 25,
-        "name": "Filip Ugran",
-        "points": 1,
         "team": ""
       }
     ],
@@ -1209,78 +1079,6 @@
         "name": "Ritomo Miyata",
         "points": 30,
         "team": "Hitech"
-      },
-      {
-        "pos": 11,
-        "name": "Joshua Dürksen",
-        "points": 21,
-        "team": "Invicta Racing"
-      },
-      {
-        "pos": 12,
-        "name": "Sebastián Montoya",
-        "points": 20,
-        "team": "PREMA Racing"
-      },
-      {
-        "pos": 13,
-        "name": "Colton Herta",
-        "points": 20,
-        "team": "Hitech"
-      },
-      {
-        "pos": 14,
-        "name": "Nico Varrone",
-        "points": 14,
-        "team": "Van Amersfoort Racing"
-      },
-      {
-        "pos": 15,
-        "name": "Tasanapol Inthraphuvasak",
-        "points": 13,
-        "team": "ART Grand Prix"
-      },
-      {
-        "pos": 16,
-        "name": "Oliver Goethe",
-        "points": 12,
-        "team": "MP Motorsport"
-      },
-      {
-        "pos": 17,
-        "name": "Roman Bilinski",
-        "points": 11,
-        "team": "DAMS Lucas Oil"
-      },
-      {
-        "pos": 18,
-        "name": "Cian Shields",
-        "points": 10,
-        "team": "AIX Racing"
-      },
-      {
-        "pos": 19,
-        "name": "Emerson Fittipaldi",
-        "points": 10,
-        "team": "AIX Racing"
-      },
-      {
-        "pos": 20,
-        "name": "Mari Boya",
-        "points": 10,
-        "team": "PREMA Racing"
-      },
-      {
-        "pos": 21,
-        "name": "Rafael Villagómez",
-        "points": 0,
-        "team": "Van Amersfoort Racing"
-      },
-      {
-        "pos": 22,
-        "name": "John Bennett",
-        "points": 0,
-        "team": "TRIDENT"
       }
     ],
     "f3": [
@@ -1343,66 +1141,6 @@
         "name": "Pedro Clerot",
         "points": 16,
         "team": "Rodin Motorsport"
-      },
-      {
-        "pos": 11,
-        "name": "Evan Rivera",
-        "points": 16,
-        "team": "Trident"
-      },
-      {
-        "pos": 12,
-        "name": "Maciej Gładysz",
-        "points": 14,
-        "team": "ART Grand Prix"
-      },
-      {
-        "pos": 13,
-        "name": "Adekunle Giusti",
-        "points": 13,
-        "team": "Van Amersfoort Racing"
-      },
-      {
-        "pos": 14,
-        "name": "James Wharton",
-        "points": 11,
-        "team": "Hitech"
-      },
-      {
-        "pos": 15,
-        "name": "Noah Strømsted",
-        "points": 9,
-        "team": "Trident"
-      },
-      {
-        "pos": 16,
-        "name": "Tuomas Taponen",
-        "points": 7,
-        "team": "ART Grand Prix"
-      },
-      {
-        "pos": 17,
-        "name": "Brad Benavides",
-        "points": 6,
-        "team": "AIX Racing"
-      },
-      {
-        "pos": 18,
-        "name": "Jin Nakamura",
-        "points": 6,
-        "team": "Hitech"
-      },
-      {
-        "pos": 19,
-        "name": "Lilou Sharp",
-        "points": 2,
-        "team": "MP Motorsport"
-      },
-      {
-        "pos": 20,
-        "name": "Kamin Le",
-        "points": 2,
-        "team": "Van Amersfoort Racing"
       }
     ],
     "f1academy": [
@@ -4103,16 +3841,6 @@
         "pos": 10,
         "name": "Matt Knight",
         "points": 1260
-      },
-      {
-        "pos": 11,
-        "name": "Nathan Williams",
-        "points": 1170
-      },
-      {
-        "pos": 12,
-        "name": "Nick Price",
-        "points": 1040
       }
     ],
     "pccgb": [
@@ -7178,27 +6906,6 @@
             "points": 12,
             "team": "#23 Zagame Autosport",
             "vehicle": "Ferrari 296 GT3"
-          },
-          {
-            "pos": 11,
-            "name": "Antonio D'Albero / Adrian Deitz",
-            "points": 10,
-            "team": "Wall Racing",
-            "vehicle": "Lamborghini Huracán GT3 Evo2"
-          },
-          {
-            "pos": 12,
-            "name": "Josh Hunt / Geoff Emery",
-            "points": 9,
-            "team": "#15 Volante Rosso Motorsport",
-            "vehicle": "McLaren 720S GT3 Evo"
-          },
-          {
-            "pos": 13,
-            "name": "Garnet Patterson / JP Drake",
-            "points": 4,
-            "team": "#666 Audi",
-            "vehicle": "Audi R8 LMS Evo II"
           }
         ]
       },
@@ -9057,23 +8764,6 @@
             "points": 16,
             "team": "Ricca Autosport",
             "vehicle": "Hyundai Elantra N1 TC Evo"
-          },
-          {
-            "pos": 11,
-            "name": "Jesse Dorkin",
-            "points": 9
-          },
-          {
-            "pos": 12,
-            "name": "PJ Groenke",
-            "points": 6,
-            "team": "Ricca Autosport",
-            "vehicle": "Hyundai Elantra N1 TC Evo"
-          },
-          {
-            "pos": 13,
-            "name": "Robert Bellevue",
-            "points": 2
           }
         ]
       },
@@ -11066,12 +10756,6 @@
         "name": "Wimmer Werk Motorsport",
         "points": 8,
         "vehicle": "Porsche 718 Cayman GT4 RS CS"
-      },
-      {
-        "pos": 10,
-        "name": "KRT Racing",
-        "points": 7,
-        "vehicle": "Ginetta G56 GT4 Evo"
       }
     ],
     "agtm": [
@@ -11565,12 +11249,6 @@
             "name": "#71 Juta Racing",
             "points": 20,
             "vehicle": "Audi R8 LMS GT3 Evo II"
-          },
-          {
-            "pos": 10,
-            "name": "#41 Comtoyou Racing",
-            "points": 16,
-            "vehicle": "Aston Martin Vantage AMR GT3"
           }
         ]
       },
@@ -11626,11 +11304,6 @@
             "pos": 9,
             "name": "#963 Orchid Racing Team",
             "points": 32
-          },
-          {
-            "pos": 10,
-            "name": "#902 Holmgaard Motorsport",
-            "points": 28
           }
         ]
       },
@@ -11686,16 +11359,6 @@
             "pos": 9,
             "name": "#925 Van Berlo Motorsport by CP Motorsport",
             "points": 18
-          },
-          {
-            "pos": 10,
-            "name": "#935 Crubilé Sport",
-            "points": 16
-          },
-          {
-            "pos": 10,
-            "name": "#994 Chazel Technologie Course",
-            "points": 16
           }
         ]
       },
@@ -12629,20 +12292,6 @@
             "points": 16,
             "team": "#137 LAP Motorsports",
             "vehicle": "Ford Mustang GT4 (S650)"
-          },
-          {
-            "pos": 11,
-            "name": "Jack Parriott",
-            "points": 8,
-            "team": "#73 Kellymoss",
-            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
-          },
-          {
-            "pos": 12,
-            "name": "Jonathan Neudorf",
-            "points": 4,
-            "team": "#131 Advance Motorsports",
-            "vehicle": "McLaren Artura GT4"
           }
         ]
       },
