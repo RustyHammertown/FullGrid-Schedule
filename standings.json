@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T18:28:29.117Z",
+  "generatedAt": "2026-06-23T08:41:48.760Z",
   "flat": {
     "pgatour": [
       {
@@ -2075,61 +2075,61 @@
       {
         "pos": 1,
         "name": "Bobby Pierce",
-        "points": 4068,
+        "points": 4470,
         "team": "Oakwood, IL"
       },
       {
         "pos": 2,
         "name": "Nick Hoffman",
-        "points": 4024,
+        "points": 4415,
         "team": "Mooresville, NC"
       },
       {
         "pos": 3,
         "name": "Tyler Erb",
-        "points": 3841,
+        "points": 4224,
         "team": "New Waverly, TX"
       },
       {
         "pos": 4,
-        "name": "Drake Troutman",
-        "points": 3787,
-        "team": "Hyndman, PA"
-      },
-      {
-        "pos": 5,
         "name": "Tim McCreadie",
-        "points": 3753,
+        "points": 4132,
         "team": "Watertown, NY"
       },
       {
+        "pos": 5,
+        "name": "Drake Troutman",
+        "points": 4097,
+        "team": "Hyndman, PA"
+      },
+      {
         "pos": 6,
-        "name": "Ethan Dotson",
-        "points": 3698,
-        "team": "Bakersfield, CA"
+        "name": "Ryan Gustin",
+        "points": 4067,
+        "team": "Marshalltown, IA"
       },
       {
         "pos": 7,
-        "name": "Ryan Gustin",
-        "points": 3689,
-        "team": "Marshalltown, IA"
+        "name": "Ethan Dotson",
+        "points": 4054,
+        "team": "Bakersfield, CA"
       },
       {
         "pos": 8,
         "name": "Daulton Wilson",
-        "points": 3618,
+        "points": 3968,
         "team": "Fayetteville, NC"
       },
       {
         "pos": 9,
-        "name": "Dustin Sorensen",
-        "points": 3570,
-        "team": "Rochester, MN"
+        "name": "Trey Mills",
+        "points": 3900,
+        "team": "St. Augustine, FL"
       },
       {
         "pos": 10,
         "name": "Dennis Erb",
-        "points": 3538,
+        "points": 3900,
         "team": "Carpentersville, IL"
       }
     ],
@@ -10537,7 +10537,7 @@
     "motogp": "2026-05-31",
     "fe": "2026-06-20",
     "whelen": "2026-06-06",
-    "woolm": "2026-06-13",
+    "woolm": "2026-06-22",
     "f4us": "2026-05-17",
     "framericas": "2026-05-17",
     "igtopen": "2026-05-30",
