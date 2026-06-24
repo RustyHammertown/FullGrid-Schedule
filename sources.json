@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-24T21:17:45.863Z",
+  "generatedAt": "2026-06-24T21:40:57.614Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -63,10 +63,6 @@
         {
           "url": "https://www.formula1.com/en/racing/2026.html",
           "label": "Official 2026 calendar"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee74bda9ab1c00023c37e9/Formula%201.ics",
-          "label": "ECAL .ics feed"
         }
       ],
       "results": [
@@ -110,10 +106,6 @@
         {
           "url": "https://www.motogp.com/en/calendar",
           "label": "Official calendar"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee71df133def00024b6af1/MotoGP.ics",
-          "label": "ECAL .ics feed"
         }
       ],
       "results": [
@@ -223,10 +215,6 @@
           "label": "Heavy.com (weekend timetable)"
         },
         {
-          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
-          "label": "ECAL .ics feed (combined NASCAR)"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Cup_Series",
           "label": "Wikipedia (season calendar, fallback)"
         }
@@ -283,10 +271,6 @@
           "label": "Heavy.com (weekend timetable)"
         },
         {
-          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
-          "label": "ECAL .ics feed (combined NASCAR)"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/2026_NASCAR_O%27Reilly_Auto_Parts_Series",
           "label": "Wikipedia (season calendar, fallback)"
         }
@@ -315,10 +299,6 @@
         {
           "url": "https://heavy.com/sports/nascar/",
           "label": "Heavy.com (weekend timetable)"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
-          "label": "ECAL .ics feed (combined NASCAR)"
         },
         {
           "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Craftsman_Truck_Series",
@@ -354,10 +334,6 @@
         {
           "url": "https://heavy.com/sports/nascar/",
           "label": "Heavy.com (weekend timetable)"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
-          "label": "ECAL .ics feed (combined NASCAR)"
         },
         {
           "url": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
@@ -514,10 +490,6 @@
           "label": "Heavy.com (weekend timetable)"
         },
         {
-          "url": "https://ics.ecal.com/ecal-sub/69ee85fb3b49670002817c9c/NASCAR.ics",
-          "label": "ECAL .ics feed (combined NASCAR)"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
           "label": "Wikipedia (season calendar, fallback)"
         }
@@ -580,10 +552,6 @@
           "label": "Heavy.com (weekend timetable)"
         },
         {
-          "url": "https://ics.ecal.com/ecal-sub/69ee87ea3b49670002817ca1/NASCAR.ics",
-          "label": "ECAL .ics feed"
-        },
-        {
           "url": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
           "label": "Wikipedia (season calendar, fallback)"
         }
@@ -622,10 +590,6 @@
         {
           "url": "https://heavy.com/sports/nascar/",
           "label": "Heavy.com (weekend timetable)"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee88c33b49670002817cae/NASCAR.ics",
-          "label": "ECAL .ics feed"
         }
       ],
       "results": [
@@ -651,10 +615,6 @@
         {
           "url": "https://www.fiaformula2.com/Calendar",
           "label": "Official calendar"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee8e68ab2f080002c1714c/Formula%202.ics",
-          "label": "ECAL .ics feed"
         }
       ],
       "results": [
@@ -699,10 +659,6 @@
         {
           "url": "https://www.fiaformula3.com/Calendar",
           "label": "Official calendar"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee8f673b49670002817cfa/Formula%203.ics",
-          "label": "ECAL .ics feed"
         }
       ],
       "standings": [
@@ -861,10 +817,6 @@
         {
           "url": "https://www.imsa.com/weathertech/",
           "label": "IMSA WeatherTech — official (JS-rendered)"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -914,10 +866,6 @@
         {
           "url": "https://www.imsa.com/michelinpilotchallenge/",
           "label": "IMSA Michelin Pilot Challenge — official"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -956,10 +904,6 @@
         {
           "url": "https://www.imsa.com/vpracingsportscarchallenge/",
           "label": "IMSA VP Racing SportsCar Challenge — official"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -998,10 +942,6 @@
         {
           "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/north-america",
           "label": "Lamborghini Super Trofeo NA — official"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -1026,10 +966,6 @@
         {
           "url": "https://www.mx-5cup.com/schedule",
           "label": "Mazda MX-5 Cup — official"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -1083,10 +1019,6 @@
         {
           "url": "https://porschecarreracup.us/series-information/#scroll-to-calendar",
           "label": "Porsche Carrera Cup NA — official"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -1419,10 +1351,6 @@
         {
           "url": "https://www.fordracing.com/motorsport/mustang-challenge",
           "label": "Ford Mustang Challenge — official"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69ee7524133def00024b6b09/IMSA.ics",
-          "label": "ECAL .ics feed (IMSA multi-series)"
         }
       ],
       "results": [
@@ -2147,8 +2075,8 @@
     "igtc": {
       "schedule": [
         {
-          "url": "https://www.intercontinentalgtchallenge.com/feed/get_events_calendar?season_id=16",
-          "label": "Official .ics feed"
+          "url": "https://www.intercontinentalgtchallenge.com/",
+          "label": "Official site (calendar + per-event detail)"
         }
       ],
       "results": [
@@ -2322,8 +2250,8 @@
     "highlimit": {
       "schedule": [
         {
-          "url": "https://www.highlimitracing.com/calendar/",
-          "label": "Official calendar (Google .ics feed)"
+          "url": "https://www.highlimitracing.com/schedules/2026",
+          "label": "Official schedule (per-event hot-laps + racing times)"
         }
       ],
       "results": [
@@ -2361,8 +2289,8 @@
     "woosc": {
       "schedule": [
         {
-          "url": "https://www.addevent.com/feed/eaomsadiw.ics",
-          "label": "AddEvent .ics calendar (canonical schedule feed)"
+          "url": "https://worldofoutlaws.com/sprintcars/schedule/",
+          "label": "Official schedule"
         }
       ],
       "results": [
@@ -2400,8 +2328,8 @@
     "woolm": {
       "schedule": [
         {
-          "url": "https://www.addevent.com/feed/eaomsasgw.ics",
-          "label": "AddEvent .ics calendar (canonical schedule feed)"
+          "url": "https://worldofoutlaws.com/latemodels/schedule/",
+          "label": "Official schedule"
         }
       ],
       "results": [
@@ -2750,10 +2678,6 @@
         {
           "url": "https://www.indynxt.com/schedule",
           "label": "Official Indy NXT schedule"
-        },
-        {
-          "url": "https://ics.ecal.com/ecal-sub/69fe49ad18faaf0002460074/INDYCAR.ics",
-          "label": "ECAL .ics feed (race-only)"
         }
       ],
       "results": [
