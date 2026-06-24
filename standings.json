@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-23T08:41:48.760Z",
+  "generatedAt": "2026-06-24T08:42:57.346Z",
   "flat": {
     "pgatour": [
       {
@@ -2271,72 +2271,72 @@
       {
         "pos": 1,
         "name": "Steven Wilson",
-        "points": 74,
+        "points": 153,
         "team": "Spire Motorsports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 2,
-        "name": "Connor Yeroschak",
-        "points": 62,
-        "team": "Letarte eSports",
-        "vehicle": "Chevrolet Camaro ZL1"
+        "name": "Vicente Salas",
+        "points": 118,
+        "team": "Kanaan eSports",
+        "vehicle": "Toyota Camry XSE"
       },
       {
         "pos": 3,
-        "name": "Christopher M. Hill",
-        "points": 61,
+        "name": "Tucker Minter",
+        "points": 112,
         "team": "William Byron eSports",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
         "pos": 4,
-        "name": "Vicente Salas",
-        "points": 57,
-        "team": "Kanaan eSports",
-        "vehicle": "Toyota Camry XSE"
-      },
-      {
-        "pos": 5,
-        "name": "Seth DeMerchant",
-        "points": 57,
-        "team": "fgrAccel",
-        "vehicle": "Toyota Camry XSE"
-      },
-      {
-        "pos": 6,
-        "name": "Zack Novak",
-        "points": 56,
-        "team": "JR Motorsports",
-        "vehicle": "Chevrolet Camaro ZL1"
-      },
-      {
-        "pos": 7,
         "name": "Bobby Zalenski",
-        "points": 55,
+        "points": 103,
         "team": "ERA",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
-        "pos": 8,
-        "name": "Donovan Strauss",
-        "points": 55,
-        "team": "Williams eSports",
-        "vehicle": "Chevrolet Camaro ZL1"
-      },
-      {
-        "pos": 9,
+        "pos": 5,
         "name": "Wyatt Tinsley",
-        "points": 53,
+        "points": 102,
         "team": "Kansas City Pioneers",
         "vehicle": "Chevrolet Camaro ZL1"
       },
       {
-        "pos": 10,
-        "name": "Blake Reynolds",
-        "points": 52,
+        "pos": 6,
+        "name": "Connor Yeroschak",
+        "points": 96,
+        "team": "Letarte eSports",
+        "vehicle": "Chevrolet Camaro ZL1"
+      },
+      {
+        "pos": 7,
+        "name": "Zack Novak",
+        "points": 95,
+        "team": "JR Motorsports",
+        "vehicle": "Chevrolet Camaro ZL1"
+      },
+      {
+        "pos": 8,
+        "name": "Christopher M. Hill",
+        "points": 92,
+        "team": "William Byron eSports",
+        "vehicle": "Chevrolet Camaro ZL1"
+      },
+      {
+        "pos": 9,
+        "name": "Dylan Duval",
+        "points": 91,
         "team": "Channel 199 Sim Racing",
         "vehicle": "Toyota Camry XSE"
+      },
+      {
+        "pos": 10,
+        "name": "Daniel Faulkingham",
+        "points": 90,
+        "team": "Rick Ware Racing",
+        "vehicle": "Chevrolet Camaro ZL1"
       }
     ],
     "indynxt": [
@@ -10422,30 +10422,30 @@
           {
             "pos": 1,
             "name": "Colombia",
-            "points": 3,
-            "team": "1W 0D 0L",
-            "vehicle": "GD +2 · GF 3"
+            "points": 6,
+            "team": "2W 0D 0L",
+            "vehicle": "GD +3 · GF 4"
           },
           {
             "pos": 2,
-            "name": "DR Congo",
-            "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "name": "Portugal",
+            "points": 4,
+            "team": "1W 1D 0L",
+            "vehicle": "GD +5 · GF 6"
           },
           {
             "pos": 3,
-            "name": "Portugal",
+            "name": "DR Congo",
             "points": 1,
-            "team": "0W 1D 0L",
-            "vehicle": "GD 0 · GF 1"
+            "team": "0W 1D 1L",
+            "vehicle": "GD -1 · GF 1"
           },
           {
             "pos": 4,
             "name": "Uzbekistan",
             "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -2 · GF 1"
+            "team": "0W 0D 2L",
+            "vehicle": "GD -7 · GF 1"
           }
         ]
       },
@@ -10455,30 +10455,30 @@
           {
             "pos": 1,
             "name": "England",
-            "points": 3,
-            "team": "1W 0D 0L",
+            "points": 4,
+            "team": "1W 1D 0L",
             "vehicle": "GD +2 · GF 4"
           },
           {
             "pos": 2,
             "name": "Ghana",
-            "points": 3,
-            "team": "1W 0D 0L",
+            "points": 4,
+            "team": "1W 1D 0L",
             "vehicle": "GD +1 · GF 1"
           },
           {
             "pos": 3,
-            "name": "Panama",
-            "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -1 · GF 0"
+            "name": "Croatia",
+            "points": 3,
+            "team": "1W 0D 1L",
+            "vehicle": "GD -1 · GF 3"
           },
           {
             "pos": 4,
-            "name": "Croatia",
+            "name": "Panama",
             "points": 0,
-            "team": "0W 0D 1L",
-            "vehicle": "GD -2 · GF 2"
+            "team": "0W 0D 2L",
+            "vehicle": "GD -2 · GF 0"
           }
         ]
       }
@@ -10533,7 +10533,7 @@
     "truck": "2026-06-19",
     "lucasdirt": "2026-06-20",
     "internationalgt": "2026-06-09",
-    "enascar": "2026-06-03",
+    "enascar": "2026-06-23",
     "motogp": "2026-05-31",
     "fe": "2026-06-20",
     "whelen": "2026-06-06",
@@ -11077,52 +11077,52 @@
       {
         "pos": 1,
         "name": "Spire Motorsports",
-        "points": 112
+        "points": 237
       },
       {
         "pos": 2,
-        "name": "JR Motorsports",
-        "points": 107
+        "name": "William Byron eSports",
+        "points": 204
       },
       {
         "pos": 3,
-        "name": "William Byron eSports",
-        "points": 98
+        "name": "Kansas City Pioneers",
+        "points": 183
       },
       {
         "pos": 4,
-        "name": "ERA",
-        "points": 96
+        "name": "Kanaan eSports",
+        "points": 182
       },
       {
         "pos": 5,
-        "name": "Letarte eSports",
-        "points": 94
+        "name": "ERA",
+        "points": 177
       },
       {
         "pos": 6,
-        "name": "Kanaan eSports",
-        "points": 94
+        "name": "Channel 199 Sim Racing",
+        "points": 164
       },
       {
         "pos": 7,
-        "name": "fgrAccel",
-        "points": 84
+        "name": "JR Motorsports",
+        "points": 155
       },
       {
         "pos": 8,
-        "name": "Kansas City Pioneers",
-        "points": 83
+        "name": "RFK Racing",
+        "points": 153
       },
       {
         "pos": 9,
-        "name": "Channel 199 Sim Racing",
-        "points": 77
+        "name": "Williams eSports",
+        "points": 148
       },
       {
         "pos": 10,
-        "name": "Williams eSports",
-        "points": 76
+        "name": "Letarte eSports",
+        "points": 146
       }
     ]
   },
