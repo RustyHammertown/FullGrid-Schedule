@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:36:42.766Z",
+  "generatedAt": "2026-06-25T21:07:35.061Z",
   "groups": {
     "formuladrift": [
       {
@@ -217,6 +217,59 @@
           "Moto3 Qualifying 1",
           "Moto3 Qualifying 2",
           "Moto3 Race"
+        ]
+      }
+    ],
+    "worldsbk": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "WorldSBK Free Practice 1",
+          "WorldSBK Free Practice 2",
+          "WorldSBK Free Practice 3",
+          "WorldSSP Free Practice",
+          "WorldWCR Free Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "WorldSBK Superpole",
+          "WorldSSP Superpole",
+          "WorldWCR Superpole"
+        ]
+      },
+      {
+        "label": "WorldSBK",
+        "sessions": [
+          "WorldSBK Free Practice 1",
+          "WorldSBK Free Practice 2",
+          "WorldSBK Free Practice 3",
+          "WorldSBK Superpole",
+          "WorldSBK Warm Up",
+          "WorldSBK Race 1",
+          "WorldSBK Superpole Race",
+          "WorldSBK Race 2"
+        ]
+      },
+      {
+        "label": "WorldSSP",
+        "sessions": [
+          "WorldSSP Free Practice",
+          "WorldSSP Superpole",
+          "WorldSSP Warm Up",
+          "WorldSSP Race 1",
+          "WorldSSP Race 2"
+        ]
+      },
+      {
+        "label": "WorldWCR",
+        "sessions": [
+          "WorldWCR Free Practice",
+          "WorldWCR Superpole",
+          "WorldWCR Warm Up",
+          "WorldWCR Race 1",
+          "WorldWCR Race 2"
         ]
       }
     ],

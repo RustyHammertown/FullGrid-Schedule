@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:36:41.754Z",
+  "generatedAt": "2026-06-25T21:07:33.933Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -154,6 +154,34 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/MotoGP/"
+        }
+      ]
+    },
+    "worldsbk": {
+      "schedule": [
+        {
+          "url": "https://www.worldsbk.com/en/calendar",
+          "label": "Official calendar"
+        },
+        {
+          "url": "https://www.worldsbk.com/en/news",
+          "label": "Per-round \"NEW SCHEDULE\" timetable articles (every session time)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.worldsbk.com/en/results",
+          "label": "Official results (WorldSBK/WorldSSP/WorldWCR)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.worldsbk.com/en/standings",
+          "label": "Official standings (all classes)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Superbike_World_Championship",
+          "label": "Wikipedia WorldSBK (race-by-race, fallback)"
         }
       ]
     },

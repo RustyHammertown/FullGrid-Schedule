@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:36:38.603Z",
+  "generatedAt": "2026-06-25T21:07:33.237Z",
   "flat": {
     "pgatour": [
       {
@@ -6132,6 +6132,272 @@
         ]
       }
     ],
+    "worldsbk": [
+      {
+        "className": "WorldSBK",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Nicolò Bulega",
+            "points": 434,
+            "team": "Aruba.it Racing – Ducati",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 2,
+            "name": "Iker Lecuona",
+            "points": 313,
+            "team": "Aruba.it Racing – Ducati",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 3,
+            "name": "Yari Montella",
+            "points": 170,
+            "team": "Barni Spark Racing Team",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 4,
+            "name": "Alex Lowes",
+            "points": 156,
+            "team": "Bimota by Kawasaki Racing Team",
+            "vehicle": "Bimota KB998 Rimini"
+          },
+          {
+            "pos": 5,
+            "name": "Sam Lowes",
+            "points": 148,
+            "team": "ELF Marc VDS Racing Team",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 6,
+            "name": "Axel Bassani",
+            "points": 128,
+            "team": "Bimota by Kawasaki Racing Team",
+            "vehicle": "Bimota KB998 Rimini"
+          },
+          {
+            "pos": 7,
+            "name": "Lorenzo Baldassarri",
+            "points": 123,
+            "team": "Team GoEleven",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 8,
+            "name": "Álvaro Bautista",
+            "points": 99,
+            "team": "Barni Spark Racing Team",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 9,
+            "name": "Miguel Oliveira",
+            "points": 97,
+            "team": "ROKiT BMW Motorrad WorldSBK Team",
+            "vehicle": "BMW M1000 RR"
+          },
+          {
+            "pos": 10,
+            "name": "Alberto Surra",
+            "points": 95,
+            "team": "Motocorsa Racing",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 11,
+            "name": "Garrett Gerloff",
+            "points": 91,
+            "team": "Kawasaki WorldSBK Team",
+            "vehicle": "Kawasaki ZX-10RR"
+          },
+          {
+            "pos": 12,
+            "name": "Andrea Locatelli",
+            "points": 91,
+            "team": "Pata Maxus Yamaha",
+            "vehicle": "Yamaha YZF-R1"
+          },
+          {
+            "pos": 13,
+            "name": "Tarran Mackenzie",
+            "points": 81,
+            "team": "MGM Optical Express Racing",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 14,
+            "name": "Xavi Vierge",
+            "points": 65,
+            "team": "Pata Maxus Yamaha",
+            "vehicle": "Yamaha YZF-R1"
+          },
+          {
+            "pos": 15,
+            "name": "Danilo Petrucci",
+            "points": 46,
+            "team": "ROKiT BMW Motorrad WorldSBK Team",
+            "vehicle": "BMW M1000 RR"
+          }
+        ]
+      },
+      {
+        "className": "WorldSSP",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Albert Arenas",
+            "points": 251,
+            "team": "AS bLU cRU Racing Team",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 2,
+            "name": "Valentin Debise",
+            "points": 195,
+            "team": "ZXMOTO Factory Evan Bros Racing",
+            "vehicle": "ZXMOTO"
+          },
+          {
+            "pos": 3,
+            "name": "Jaume Masià",
+            "points": 179,
+            "team": "Orelac Racing Verdnatura",
+            "vehicle": "Ducati"
+          },
+          {
+            "pos": 4,
+            "name": "Can Öncü",
+            "points": 159,
+            "team": "Pata Yamaha Ten Kate Racing",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 5,
+            "name": "Philipp Öttl",
+            "points": 122,
+            "team": "Feel Racing WorldSSP Team",
+            "vehicle": "Ducati"
+          },
+          {
+            "pos": 6,
+            "name": "Tom Booth-Amos",
+            "points": 115,
+            "team": "PTR Triumph Factory Racing",
+            "vehicle": "Triumph"
+          },
+          {
+            "pos": 7,
+            "name": "Matteo Ferrari",
+            "points": 110,
+            "team": "WRP Racing",
+            "vehicle": "Ducati"
+          },
+          {
+            "pos": 8,
+            "name": "Alessandro Zaccone",
+            "points": 109,
+            "team": "Ecosantagata Althea Racing Team",
+            "vehicle": "Ducati"
+          },
+          {
+            "pos": 9,
+            "name": "Jeremy Alcoba",
+            "points": 100,
+            "team": "Kawasaki WorldSSP Team",
+            "vehicle": "Kawasaki"
+          },
+          {
+            "pos": 10,
+            "name": "Aldi Satya Mahendra",
+            "points": 95,
+            "team": "AS bLU cRU Racing Team",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 11,
+            "name": "Roberto García",
+            "points": 93,
+            "team": "GMT94 Yamaha",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 12,
+            "name": "Lucas Mahias",
+            "points": 78,
+            "team": "GMT94 Yamaha",
+            "vehicle": "Yamaha"
+          }
+        ]
+      },
+      {
+        "className": "WorldWCR",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "María Herrera",
+            "points": 181,
+            "team": "Terra & Vita GRT Yamaha WorldWCR"
+          },
+          {
+            "pos": 2,
+            "name": "Beatriz Neila",
+            "points": 157,
+            "team": "Ampito Crescent Yamaha"
+          },
+          {
+            "pos": 3,
+            "name": "Paola Ramos",
+            "points": 97,
+            "team": "Klint Racing Team"
+          },
+          {
+            "pos": 4,
+            "name": "Roberta Ponziani",
+            "points": 89,
+            "team": "Klint Racing Team"
+          },
+          {
+            "pos": 5,
+            "name": "Muklada Sarapuech",
+            "points": 82,
+            "team": "EEST NJT Racing Team"
+          },
+          {
+            "pos": 6,
+            "name": "Chloe Jones",
+            "points": 67,
+            "team": "Ampito Crescent Yamaha"
+          },
+          {
+            "pos": 7,
+            "name": "Natalia Rivera",
+            "points": 62,
+            "team": "Terra & Vita GRT Yamaha WorldWCR"
+          },
+          {
+            "pos": 8,
+            "name": "Pakita Ruiz",
+            "points": 56,
+            "team": "PR46+1 Racing Team"
+          },
+          {
+            "pos": 9,
+            "name": "Yvonne Cerpa",
+            "points": 55,
+            "team": "MotoCerpa"
+          },
+          {
+            "pos": 10,
+            "name": "Lucie Boudesseul",
+            "points": 45,
+            "team": "GMT94-Yamaha"
+          }
+        ]
+      }
+    ],
     "promotocross": [
       {
         "className": "450",
@@ -10789,6 +11055,7 @@
     "internationalgt": "2026-06-09",
     "enascar": "2026-06-23",
     "motogp": "2026-05-31",
+    "worldsbk": "2026-06-14",
     "fe": "2026-06-20",
     "whelen": "2026-06-06",
     "woolm": "2026-06-22",

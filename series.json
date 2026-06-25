@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-25T20:36:40.685Z",
+  "generatedAt": "2026-06-25T21:07:32.515Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -130,6 +130,36 @@
         "race": 50
       },
       "typicalLapSeconds": 100,
+      "classGrid": true
+    },
+    "worldsbk": {
+      "id": "worldsbk",
+      "tags": [
+        "motorcycle",
+        "superbike",
+        "supersport",
+        "world-championship",
+        "global",
+        "fim"
+      ],
+      "group": "bikes",
+      "region": "europe",
+      "label": "WorldSBK",
+      "short": "WorldSBK",
+      "color": "#E2001A",
+      "bg": "rgba(226,0,26,0.15)",
+      "broadcast": {
+        "US": "RACER+",
+        "UK": "TNT Sports",
+        "AU": "Fox Sports",
+        "Global": "WorldSBK VideoPass"
+      },
+      "resultsUrl": "https://www.worldsbk.com/en/results",
+      "fallbackMinutes": {
+        "sprint": 16,
+        "race": 40
+      },
+      "typicalLapSeconds": 95,
       "classGrid": true
     },
     "supercross": {
@@ -3848,8 +3878,11 @@
       "Governor's Cup",
       "Free Practice",
       "Warm-up",
+      "Warm Up",
       "Super Heat",
       "Practice",
+      "Superpole Race",
+      "Superpole",
       "Pre-Qualifying",
       "Hyperpole",
       "Qualifying",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:36:39.657Z",
+  "generatedAt": "2026-06-25T21:07:36.498Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -107,6 +107,22 @@
     "Batesville Motor Speedway": {
       "lat": 35.7199,
       "lon": -91.7411
+    },
+    "Autodrom Most": {
+      "lat": 50.5197,
+      "lon": 13.6075,
+      "city": "Most",
+      "region": "Ústí nad Labem",
+      "website": "https://www.autodrom-most.cz",
+      "length_m": 4212
+    },
+    "Cremona Circuit": {
+      "lat": 45.0854,
+      "lon": 10.312,
+      "city": "San Martino del Lago",
+      "region": "Lombardy",
+      "website": "https://cremonacircuit.it",
+      "length_m": 3768
     },
     "Brands Hatch": {
       "lat": 51.3575,

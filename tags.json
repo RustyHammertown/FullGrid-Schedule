@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:36:44.746Z",
+  "generatedAt": "2026-06-25T21:07:35.790Z",
   "categories": [
     {
       "id": "geography",
@@ -75,6 +75,8 @@
         "moto2",
         "moto3",
         "gp-motorcycle",
+        "superbike",
+        "supersport",
         "super-late-model",
         "410-sprint-car",
         "top-fuel",
@@ -163,6 +165,8 @@
     "moto2": "Moto2",
     "moto3": "Moto3",
     "gp-motorcycle": "GP Motorcycle",
+    "superbike": "Superbike",
+    "supersport": "Supersport",
     "super-late-model": "Super Late Model",
     "410-sprint-car": "410 Sprint Car",
     "top-fuel": "Top Fuel",
