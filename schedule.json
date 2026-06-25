@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T08:45:33.186Z",
+  "generatedAt": "2026-06-25T16:47:27.081Z",
   "events": [
     {
       "id": 101,
@@ -57490,7 +57490,7 @@
           "duration": 30
         },
         {
-          "name": "Super Pole",
+          "name": "Superpole",
           "time": "2026-06-26T15:05:00+02:00",
           "duration": 15
         },
