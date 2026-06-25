@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:48:35.201Z",
+  "generatedAt": "2026-06-25T16:50:20.487Z",
   "groups": {
     "formuladrift": [
       {
@@ -1065,6 +1065,7 @@
       {
         "label": "Qualifying",
         "sessions": [
+          "Pre-qualifying",
           "Qualifying",
           "Qualifying 1",
           "Qualifying 2"
@@ -1094,6 +1095,7 @@
         "label": "Practice",
         "sessions": [
           "Free Practice",
+          "Free Practice 1",
           "Free Practice 2",
           "Free Practice 3",
           "Free Practice 4"
