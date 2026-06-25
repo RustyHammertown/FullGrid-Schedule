@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T17:19:02.564Z",
+  "generatedAt": "2026-06-25T17:27:43.120Z",
   "events": [
     {
       "id": 101,
@@ -32799,18 +32799,23 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-27T11:25:00-04:00",
+          "time": "2026-06-26T11:25:00-04:00",
           "duration": 90
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-28T10:05:00-04:00",
+          "time": "2026-06-27T10:05:00-04:00",
           "duration": 105
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-28T15:40:00-04:00",
-          "duration": 75
+          "time": "2026-06-27T15:40:00-04:00",
+          "duration": 75,
+          "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            }
+          }
         },
         {
           "name": "Race",
@@ -33460,19 +33465,22 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-26T14:55:00-04:00"
+          "time": "2026-06-25T14:55:00-04:00",
+          "duration": 60
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-27T09:15:00-04:00"
+          "time": "2026-06-26T09:15:00-04:00",
+          "duration": 60
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T17:10:00-04:00"
+          "time": "2026-06-26T17:10:00-04:00",
+          "duration": 35
         },
         {
           "name": "Race",
-          "time": "2026-06-28T13:05:00-04:00",
+          "time": "2026-06-27T13:05:00-04:00",
           "duration": 120,
           "broadcasts": {
             "US": {
@@ -34282,7 +34290,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-26T13:55:00-04:00",
+          "time": "2026-06-25T13:55:00-04:00",
           "duration": 45
         },
         {
@@ -34302,7 +34310,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-27T17:10:00-04:00",
+          "time": "2026-06-27T17:15:00-04:00",
           "duration": 50,
           "broadcasts": {
             "Global": {
@@ -35274,21 +35282,21 @@
         {
           "name": "Practice 1",
           "time": "2026-06-25T08:15:00-04:00",
-          "duration": 45
+          "duration": 30
         },
         {
           "name": "Practice 2",
           "time": "2026-06-25T12:15:00-04:00",
-          "duration": 45
+          "duration": 30
         },
         {
           "name": "Qualifying",
           "time": "2026-06-26T08:00:00-04:00",
-          "duration": 30
+          "duration": 15
         },
         {
           "name": "Race 1",
-          "time": "2026-06-26T13:50:00-04:00",
+          "time": "2026-06-26T13:55:00-04:00",
           "duration": 45,
           "broadcasts": {
             "Global": {
@@ -35298,7 +35306,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-27T07:55:00-04:00",
+          "time": "2026-06-27T08:00:00-04:00",
           "duration": 45,
           "broadcasts": {
             "Global": {
