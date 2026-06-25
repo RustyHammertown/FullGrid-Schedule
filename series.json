@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-25T21:18:53.580Z",
+  "generatedAt": "2026-06-25T21:27:48.032Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3017,12 +3017,14 @@
         "Global": "YouTube/GTWorld"
       },
       "notTelevisedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld/streams",
       "resultsUrl": "https://www.gt4europeanseries.com/results",
       "unstreamedCategories": [
-        "Practice"
+        "Practice",
+        "Qualifying"
       ]
     },
     "mclarena": {

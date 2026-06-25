@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:18:50.825Z",
+  "generatedAt": "2026-06-25T21:27:47.295Z",
   "events": [
     {
       "id": 101,
@@ -76958,22 +76958,12 @@
         {
           "name": "Qualifying 1",
           "time": "2026-06-26T10:25:00+02:00",
-          "duration": 20,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "duration": 20
         },
         {
           "name": "Qualifying 2",
           "time": "2026-06-26T10:50:00+02:00",
-          "duration": 20,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/GTWorld"
-            }
-          }
+          "duration": 20
         },
         {
           "name": "Race 1",
