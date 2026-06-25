@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:07:55.890Z",
+  "generatedAt": "2026-06-25T21:11:47.036Z",
   "flat": {
     "pgatour": [
       {
@@ -6205,41 +6205,6 @@
             "points": 95,
             "team": "Motocorsa Racing",
             "vehicle": "Ducati Panigale V4 R"
-          },
-          {
-            "pos": 11,
-            "name": "Garrett Gerloff",
-            "points": 91,
-            "team": "Kawasaki WorldSBK Team",
-            "vehicle": "Kawasaki ZX-10RR"
-          },
-          {
-            "pos": 12,
-            "name": "Andrea Locatelli",
-            "points": 91,
-            "team": "Pata Maxus Yamaha",
-            "vehicle": "Yamaha YZF-R1"
-          },
-          {
-            "pos": 13,
-            "name": "Tarran Mackenzie",
-            "points": 81,
-            "team": "MGM Optical Express Racing",
-            "vehicle": "Ducati Panigale V4 R"
-          },
-          {
-            "pos": 14,
-            "name": "Xavi Vierge",
-            "points": 65,
-            "team": "Pata Maxus Yamaha",
-            "vehicle": "Yamaha YZF-R1"
-          },
-          {
-            "pos": 15,
-            "name": "Danilo Petrucci",
-            "points": 46,
-            "team": "ROKiT BMW Motorrad WorldSBK Team",
-            "vehicle": "BMW M1000 RR"
           }
         ]
       },
@@ -6314,20 +6279,6 @@
             "name": "Aldi Satya Mahendra",
             "points": 95,
             "team": "AS bLU cRU Racing Team",
-            "vehicle": "Yamaha"
-          },
-          {
-            "pos": 11,
-            "name": "Roberto García",
-            "points": 93,
-            "team": "GMT94 Yamaha",
-            "vehicle": "Yamaha"
-          },
-          {
-            "pos": 12,
-            "name": "Lucas Mahias",
-            "points": 78,
-            "team": "GMT94 Yamaha",
             "vehicle": "Yamaha"
           }
         ]
