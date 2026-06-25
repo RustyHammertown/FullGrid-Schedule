@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-25T17:28:25.171Z",
+  "generatedAt": "2026-06-25T18:09:35.904Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -640,7 +640,7 @@
       "broadcast": {
         "US": "RACER+",
         "JP": "J SPORTS",
-        "Global": "Check local listings"
+        "Global": "YouTube/SUPERGTOfficialChannel"
       },
       "streamUrl": "https://www.youtube.com/@SUPERGTOfficialChannel/streams",
       "resultsUrl": "https://supergt.net/en/result",
