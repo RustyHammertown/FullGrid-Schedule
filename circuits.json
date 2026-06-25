@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:59:38.193Z",
+  "generatedAt": "2026-06-25T17:18:30.491Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -2393,6 +2393,14 @@
       "region": "Okayama",
       "website": "https://www.okayama-international-circuit.jp",
       "length_m": 3703
+    },
+    "Autopolis": {
+      "lat": 33.0369,
+      "lon": 130.973,
+      "city": "Hita",
+      "region": "Oita",
+      "website": "https://autopolis.jp",
+      "length_m": 4673
     },
     "Beijing Street Circuit": {
       "lat": 39.9905,

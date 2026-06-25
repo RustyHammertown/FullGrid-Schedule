@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-25T16:59:39.190Z",
+  "generatedAt": "2026-06-25T17:18:28.399Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -617,6 +617,34 @@
         "Practice",
         "Warmup"
       ]
+    },
+    "supergt": {
+      "id": "supergt",
+      "tags": [
+        "sports-car",
+        "gt3",
+        "national-series",
+        "asia-pacific",
+        "toyota",
+        "nissan",
+        "honda",
+        "lexus",
+        "jaf"
+      ],
+      "group": "sportscar",
+      "region": "asiapacific",
+      "label": "Super GT",
+      "short": "SGT",
+      "color": "#7C3AED",
+      "bg": "rgba(124,58,237,0.15)",
+      "broadcast": {
+        "US": "RACER+",
+        "JP": "J SPORTS",
+        "Global": "Check local listings"
+      },
+      "streamUrl": "https://www.youtube.com/@SUPERGTOfficialChannel/streams",
+      "resultsUrl": "https://supergt.net/en/result",
+      "typicalLapSeconds": 90
     },
     "pilot": {
       "id": "pilot",

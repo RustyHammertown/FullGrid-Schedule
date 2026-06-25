@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:59:37.167Z",
+  "generatedAt": "2026-06-25T17:18:29.107Z",
   "flat": {
     "pgatour": [
       {
@@ -4075,6 +4075,158 @@
     ]
   },
   "classes": {
+    "supergt": [
+      {
+        "className": "GT500",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Tsuboi / Yamashita",
+            "points": 40,
+            "team": "#36 TGR Team au TOM'S",
+            "vehicle": "Toyota GR Supra GT500"
+          },
+          {
+            "pos": 2,
+            "name": "Fukuzumi / Oshima",
+            "points": 24,
+            "team": "#14 TGR Team ENEOS ROOKIE",
+            "vehicle": "Toyota GR Supra GT500"
+          },
+          {
+            "pos": 3,
+            "name": "Oyu / Kobayashi",
+            "points": 16,
+            "team": "#38 TGR Team KeePer Cerumo",
+            "vehicle": "Toyota GR Supra GT500"
+          },
+          {
+            "pos": 4,
+            "name": "Hiramine / Baguette",
+            "points": 15,
+            "team": "#12 Team Impul",
+            "vehicle": "Nissan Z NISMO GT500"
+          },
+          {
+            "pos": 5,
+            "name": "Chiyo / Takaboshi",
+            "points": 14,
+            "team": "#23 NISMO",
+            "vehicle": "Nissan Z NISMO GT500"
+          },
+          {
+            "pos": 6,
+            "name": "Sekiguchi / Fenestraz",
+            "points": 14,
+            "team": "#39 TGR Team SARD",
+            "vehicle": "Toyota GR Supra GT500"
+          },
+          {
+            "pos": 7,
+            "name": "Nojiri / Sato",
+            "points": 11,
+            "team": "#16 ARTA Mugen",
+            "vehicle": "Honda HRC Prelude-GT"
+          },
+          {
+            "pos": 8,
+            "name": "Natori / Miyake",
+            "points": 7,
+            "team": "#24 Kondo Racing",
+            "vehicle": "Nissan Z NISMO GT500"
+          },
+          {
+            "pos": 9,
+            "name": "Yamamoto / Makino",
+            "points": 7,
+            "team": "#100 Stanley Team Kunimitsu",
+            "vehicle": "Honda HRC Prelude-GT"
+          },
+          {
+            "pos": 10,
+            "name": "Tsukakoshi / Nomura",
+            "points": 3,
+            "team": "#17 Astemo Real Racing",
+            "vehicle": "Honda HRC Prelude-GT"
+          }
+        ]
+      },
+      {
+        "className": "GT300",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Fujii / Fagg",
+            "points": 35,
+            "team": "#777 D'station Racing",
+            "vehicle": "Aston Martin Vantage AMR GT3"
+          },
+          {
+            "pos": 2,
+            "name": "Kotaka / Koyama",
+            "points": 32,
+            "team": "#31 apr",
+            "vehicle": "Lexus LC 500h GT"
+          },
+          {
+            "pos": 3,
+            "name": "Tsutsumi / Urabe",
+            "points": 31,
+            "team": "#2 Hyper Water Racing",
+            "vehicle": "Toyota GR86 GT300"
+          },
+          {
+            "pos": 4,
+            "name": "Gamou / Suganami",
+            "points": 31,
+            "team": "#65 K2 R&D LEON Racing",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 5,
+            "name": "de Oliveira / Kimura",
+            "points": 27,
+            "team": "#56 Kondo Racing",
+            "vehicle": "Nissan GT-R Nismo GT3"
+          },
+          {
+            "pos": 6,
+            "name": "Taniguchi / Kataoka",
+            "points": 21,
+            "team": "#4 Goodsmile Racing & TeamUKYO",
+            "vehicle": "Mercedes-AMG GT3"
+          },
+          {
+            "pos": 7,
+            "name": "Müller / Fujinami",
+            "points": 17,
+            "team": "Seven x Seven Racing",
+            "vehicle": "Porsche 911 GT3 R"
+          },
+          {
+            "pos": 8,
+            "name": "Wurz",
+            "points": 16,
+            "team": "apr",
+            "vehicle": "Lexus LC 500h GT"
+          },
+          {
+            "pos": 9,
+            "name": "Nitta / Takagi",
+            "points": 15,
+            "team": "K-tunes Racing",
+            "vehicle": "Lexus RC F GT3"
+          },
+          {
+            "pos": 10,
+            "name": "Yoshida / Nonaka",
+            "points": 15,
+            "team": "Saitama Green Brave",
+            "vehicle": "Toyota GR Supra GT300"
+          }
+        ]
+      }
+    ],
     "bmwm2": [
       {
         "className": "Overall",

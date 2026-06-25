@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:59:40.222Z",
+  "generatedAt": "2026-06-25T17:18:29.811Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -858,6 +858,45 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/IMSA/"
+        }
+      ]
+    },
+    "supergt": {
+      "schedule": [
+        {
+          "url": "https://supergt.net/en/calendar",
+          "label": "Super GT — official calendar (dates; weekend run-schedule ~1-2 wks out)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Super_GT_Series",
+          "label": "Wikipedia — 2026 season overview"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://supergt.net/en/result",
+          "label": "Super GT — official results (per-round/class selector)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://supergt.net/en/driver_ranking",
+          "label": "Super GT — driver rankings (GT500 + GT300)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://supergt.net/en/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/supergt_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/SUPERGT_JP"
         }
       ]
     },

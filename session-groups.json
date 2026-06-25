@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:59:41.202Z",
+  "generatedAt": "2026-06-25T17:18:31.175Z",
   "groups": {
     "formuladrift": [
       {
@@ -1832,6 +1832,34 @@
         "label": "GTD",
         "sessions": [
           "GTD Qualifying"
+        ]
+      }
+    ],
+    "supergt": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Practice",
+          "Practice 1",
+          "Practice 2",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying (TBD)"
+        ]
+      },
+      {
+        "label": "Warmup",
+        "sessions": [
+          "Warm-up",
+          "Warmup",
+          "Warm-up (TBD)"
         ]
       }
     ],

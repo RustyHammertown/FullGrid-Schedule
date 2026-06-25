@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:59:35.988Z",
+  "generatedAt": "2026-06-25T17:18:27.673Z",
   "events": [
     {
       "id": 101,
@@ -58161,6 +58161,323 @@
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4810,
+      "series": "supergt",
+      "name": "Round 1: Okayama GT 300km",
+      "circuit": "Okayama International Circuit",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-04-11T09:30:00+09:00",
+          "duration": 115
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-11T14:00:00+09:00",
+          "duration": 43
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-11T14:53:00+09:00",
+          "duration": 28
+        },
+        {
+          "name": "Warm-up",
+          "time": "2026-04-12T11:50:00+09:00",
+          "duration": 20
+        },
+        {
+          "name": "Race",
+          "time": "2026-04-12T13:20:00+09:00",
+          "laps": 82,
+          "resultsUrl": "https://supergt.net/en/result?series=2026&gt_class=gt500&race_num=1&round=Round1",
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4811,
+      "series": "supergt",
+      "name": "Round 2: Fuji GT 3 Hours (Golden Week)",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-05-02T10:30:00+09:00",
+          "duration": 90
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-03T14:20:00+09:00",
+          "duration": 60
+        },
+        {
+          "name": "Race",
+          "time": "2026-05-04T14:00:00+09:00",
+          "duration": 180,
+          "resultsUrl": "https://supergt.net/en/result?series=2026&gt_class=gt500&race_num=1&round=Round2",
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4812,
+      "series": "supergt",
+      "name": "Round 3: Sepang GT 300km",
+      "circuit": "Sepang International Circuit",
+      "flag": "🇲🇾",
+      "country": "Malaysia",
+      "tz": "Asia/Kuala_Lumpur",
+      "round": 3,
+      "postponed": true,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-06-21T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-21T20:00:00+08:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-21T20:00:00+08:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4813,
+      "series": "supergt",
+      "name": "Round 4: Fuji GT 300km",
+      "circuit": "Fuji International Speedway",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-02T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-02T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-08-02T21:00:00+09:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4814,
+      "series": "supergt",
+      "name": "Round 5: Suzuka GT 300km",
+      "circuit": "Suzuka International Racing Course",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-08-23T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-23T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-08-23T21:00:00+09:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4815,
+      "series": "supergt",
+      "name": "Round 6: SUGO GT 300km",
+      "circuit": "Sportsland SUGO",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-09-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-20T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-09-20T21:00:00+09:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4816,
+      "series": "supergt",
+      "name": "Round 7: Autopolis GT 3 Hours",
+      "circuit": "Autopolis",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-10-18T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-18T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-10-18T21:00:00+09:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4817,
+      "series": "supergt",
+      "name": "Round 8: Motegi GT 300km",
+      "circuit": "Mobility Resort Motegi",
+      "flag": "🇯🇵",
+      "country": "Japan",
+      "tz": "Asia/Tokyo",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Practice",
+          "time": "2026-11-08T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-08T21:00:00+09:00",
+          "tbd": true
+        },
+        {
+          "name": "Race",
+          "time": "2026-11-08T21:00:00+09:00",
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "JP": {
+              "service": "J SPORTS"
             }
           }
         }
