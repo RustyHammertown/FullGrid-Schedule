@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:17:34.727Z",
+  "generatedAt": "2026-06-25T20:36:01.913Z",
   "flat": {
     "pgatour": [
       {
@@ -4075,6 +4075,108 @@
     ]
   },
   "classes": {
+    "ginettagta": [
+      {
+        "className": "GTA",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Tom Walker",
+            "points": 173,
+            "team": "E3 Sport"
+          },
+          {
+            "pos": 2,
+            "name": "Joseph Ostholthoff",
+            "points": 143,
+            "team": "Want2Race"
+          },
+          {
+            "pos": 3,
+            "name": "Connor Blackburn",
+            "points": 100,
+            "team": "Performance One"
+          },
+          {
+            "pos": 4,
+            "name": "Robin Grimwood",
+            "points": 100,
+            "team": "E3 Sport"
+          },
+          {
+            "pos": 5,
+            "name": "Allan Wright",
+            "points": 100,
+            "team": "Want2Race"
+          },
+          {
+            "pos": 6,
+            "name": "Will Fallon",
+            "points": 98,
+            "team": "Privateer"
+          },
+          {
+            "pos": 7,
+            "name": "Damien Duffy",
+            "points": 54,
+            "team": "Want2Race"
+          },
+          {
+            "pos": 8,
+            "name": "Julian Wantling",
+            "points": 40,
+            "team": "E3 Sport"
+          },
+          {
+            "pos": 9,
+            "name": "Ben Cooke",
+            "points": 32,
+            "team": "Want2Race"
+          }
+        ]
+      },
+      {
+        "className": "Rookie",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Luis Beilicke",
+            "points": 147,
+            "team": "Want2Race"
+          },
+          {
+            "pos": 2,
+            "name": "Ian Beaumont",
+            "points": 145,
+            "team": "SVG Motorsport"
+          },
+          {
+            "pos": 3,
+            "name": "Ben Wiseman",
+            "points": 126,
+            "team": "Want2Race"
+          },
+          {
+            "pos": 4,
+            "name": "Ash Young",
+            "points": 110,
+            "team": "Performance One"
+          },
+          {
+            "pos": 5,
+            "name": "Lucas Theo",
+            "points": 100,
+            "team": "SVG Motorsport"
+          },
+          {
+            "pos": 6,
+            "name": "Faye Goff",
+            "points": 98,
+            "team": "Want2Race"
+          }
+        ]
+      }
+    ],
     "supergt": [
       {
         "className": "GT500",

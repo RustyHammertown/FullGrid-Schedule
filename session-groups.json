@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:17:39.162Z",
+  "generatedAt": "2026-06-25T20:36:03.288Z",
   "groups": {
     "formuladrift": [
       {
@@ -712,6 +712,25 @@
         "sessions": [
           "GT4 Qualifying 1",
           "GT4 Qualifying 2"
+        ]
+      }
+    ],
+    "ginettagta": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Practice",
+          "Practice (TBD)"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2",
+          "Qualifying (TBD)"
         ]
       }
     ],

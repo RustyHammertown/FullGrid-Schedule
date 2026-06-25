@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-25T20:17:36.897Z",
+  "generatedAt": "2026-06-25T20:36:01.186Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1891,6 +1891,36 @@
       "resultsUrl": "https://www.britishgt.com/results",
       "unstreamedCategories": [
         "Practice"
+      ]
+    },
+    "ginettagta": {
+      "id": "ginettagta",
+      "tags": [
+        "sports-car",
+        "one-make",
+        "regional-series",
+        "europe",
+        "ginetta",
+        "sro"
+      ],
+      "group": "sportscar",
+      "region": "europe",
+      "label": "Ginetta GT Academy",
+      "short": "GT Academy",
+      "color": "#CE1126",
+      "bg": "rgba(206,17,38,0.15)",
+      "broadcast": {
+        "Global": "YouTube/GTWorld"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@GTWorld/streams",
+      "resultsUrl": "https://www.tsl-timing.com/Results/bf3gt",
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
       ]
     },
     "gt2": {

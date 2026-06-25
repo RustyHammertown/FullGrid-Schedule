@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T20:17:38.028Z",
+  "generatedAt": "2026-06-25T20:36:02.597Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -1591,6 +1591,57 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/BritishGT"
+        }
+      ]
+    },
+    "ginettagta": {
+      "schedule": [
+        {
+          "url": "https://www.ginetta.com/racing/ginetta-gt-academy/",
+          "label": "Ginetta GT Academy — official (per-round preview articles carry the weekend schedule)"
+        },
+        {
+          "url": "https://www.britishgt.com/calendar",
+          "label": "Host British GT weekend timetables (5 of 6 rounds ride British GT)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.tsl-timing.com/Results/bf3gt",
+          "label": "TSL Timing — British GT & support results (incl. GT Academy)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.tsl-timing.com/Results/bf3gt",
+          "label": "TSL Timing championship points (ginetta.com standings page serves stale 2024 data — avoid)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.ginetta.com/racing/ginetta-gt-academy/",
+          "label": "Ginetta GT Academy — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.tsl-timing.com/Results/bf3gt",
+          "label": "TSL Timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/ginettacars/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/ginettacars"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/ginettacars/"
         }
       ]
     },
