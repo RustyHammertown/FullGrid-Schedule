@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:12:27.690Z",
+  "generatedAt": "2026-06-25T21:18:21.437Z",
   "events": [
     {
       "id": 101,
@@ -57758,12 +57758,20 @@
         {
           "name": "Practice 1",
           "time": "2026-06-25T10:10:00+02:00",
-          "duration": 90
+          "duration": 90,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Practice 2",
           "time": "2026-06-25T16:10:00+02:00",
-          "duration": 60
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
         },
         {
           "name": "Qualifying 1",
@@ -57808,7 +57816,10 @@
         {
           "name": "Night Practice",
           "time": "2026-06-25T22:30:00+02:00",
-          "duration": 90
+          "duration": 90,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Superpole",
