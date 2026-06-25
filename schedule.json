@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-24T21:41:33.372Z",
+  "generatedAt": "2026-06-25T08:45:33.186Z",
   "events": [
     {
       "id": 101,
@@ -34288,16 +34288,11 @@
         {
           "name": "Qualifying",
           "time": "2026-06-26T10:30:00-04:00",
-          "duration": 15
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-06-26T10:50:00-04:00",
-          "duration": 15
+          "duration": 35
         },
         {
           "name": "Race 1",
-          "time": "2026-06-26T15:55:00-04:00",
+          "time": "2026-06-26T16:00:00-04:00",
           "duration": 50,
           "broadcasts": {
             "Global": {
@@ -49996,7 +49991,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-25T18:30:00-04:00",
+          "time": "2026-06-25T18:00:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -50017,7 +50012,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-26T18:30:00-04:00",
+          "time": "2026-06-26T18:00:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -50038,7 +50033,7 @@
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-06-27T18:30:00-04:00",
+          "time": "2026-06-27T18:00:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -57471,8 +57466,8 @@
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-06-25T14:00:00+02:00",
-          "duration": 90
+          "time": "2026-06-25T16:10:00+02:00",
+          "duration": 60
         },
         {
           "name": "Qualifying 1",
@@ -57492,7 +57487,7 @@
         {
           "name": "Qualifying 4",
           "time": "2026-06-25T21:05:00+02:00",
-          "duration": 20
+          "duration": 30
         },
         {
           "name": "Super Pole",
@@ -57502,7 +57497,7 @@
         {
           "name": "Warm-up",
           "time": "2026-06-26T19:20:00+02:00",
-          "duration": 60
+          "duration": 30
         },
         {
           "name": "Race",
@@ -57760,7 +57755,7 @@
         {
           "name": "Qualifying 1",
           "time": "2026-06-25T19:45:00+02:00",
-          "duration": 15,
+          "duration": 20,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -75749,8 +75744,8 @@
           "duration": 60
         },
         {
-          "name": "Free Practice 2",
-          "time": "2026-06-26T18:30:00+02:00",
+          "name": "Pre-qualifying",
+          "time": "2026-06-25T18:30:00+02:00",
           "duration": 60
         },
         {
@@ -76368,7 +76363,7 @@
       "round": 2,
       "sessions": [
         {
-          "name": "Free Practice",
+          "name": "Free Practice 1",
           "time": "2026-06-25T11:50:00+02:00",
           "duration": 60
         },
