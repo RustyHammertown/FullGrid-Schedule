@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T16:50:42.713Z",
+  "generatedAt": "2026-06-25T16:58:56.556Z",
   "events": [
     {
       "id": 101,
@@ -57476,23 +57476,28 @@
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-06-25T20:05:00+02:00",
+          "time": "2026-06-25T20:10:00+02:00",
           "duration": 30
         },
         {
           "name": "Qualifying 3",
-          "time": "2026-06-25T20:35:00+02:00",
+          "time": "2026-06-25T20:45:00+02:00",
           "duration": 30
         },
         {
           "name": "Qualifying 4",
-          "time": "2026-06-25T21:05:00+02:00",
+          "time": "2026-06-25T21:20:00+02:00",
           "duration": 30
+        },
+        {
+          "name": "Night Practice",
+          "time": "2026-06-25T22:30:00+02:00",
+          "duration": 90
         },
         {
           "name": "Superpole",
           "time": "2026-06-26T15:05:00+02:00",
-          "duration": 15
+          "duration": 47
         },
         {
           "name": "Warm-up",
@@ -57794,13 +57799,13 @@
         },
         {
           "name": "Night Practice",
-          "time": "2026-06-25T22:10:00+02:00",
+          "time": "2026-06-25T22:30:00+02:00",
           "duration": 90
         },
         {
           "name": "Superpole",
           "time": "2026-06-26T15:05:00+02:00",
-          "duration": 50,
+          "duration": 47,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -75739,19 +75744,29 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Free Practice",
+          "name": "Free Practice 1",
           "time": "2026-06-25T13:00:00+02:00",
           "duration": 60
         },
         {
-          "name": "Pre-qualifying",
+          "name": "Free Practice 2",
           "time": "2026-06-25T18:30:00+02:00",
           "duration": 60
         },
         {
-          "name": "Qualifying",
+          "name": "Qualifying 1",
           "time": "2026-06-26T10:25:00+02:00",
-          "duration": 45,
+          "duration": 20,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTWorld"
+            }
+          }
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-26T10:50:00+02:00",
+          "duration": 20,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -75760,7 +75775,7 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-06-27T21:35:00+02:00",
+          "time": "2026-06-26T21:35:00+02:00",
           "duration": 60,
           "broadcasts": {
             "Global": {
@@ -75770,7 +75785,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-06-28T10:40:00+02:00",
+          "time": "2026-06-27T10:40:00+02:00",
           "duration": 60,
           "broadcasts": {
             "Global": {
@@ -76374,13 +76389,13 @@
         },
         {
           "name": "Free Practice 3",
-          "time": "2026-06-26T09:10:00+02:00",
+          "time": "2026-06-26T09:05:00+02:00",
           "duration": 15
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-06-26T09:30:00+02:00",
-          "duration": 20,
+          "time": "2026-06-26T09:25:00+02:00",
+          "duration": 15,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76395,7 +76410,7 @@
         {
           "name": "Qualifying 2",
           "time": "2026-06-26T16:25:00+02:00",
-          "duration": 20,
+          "duration": 15,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76405,7 +76420,7 @@
         {
           "name": "Race 1",
           "time": "2026-06-26T12:40:00+02:00",
-          "duration": 45,
+          "duration": 50,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76415,7 +76430,7 @@
         {
           "name": "Race 2",
           "time": "2026-06-27T09:20:00+02:00",
-          "duration": 45,
+          "duration": 50,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -76740,9 +76755,14 @@
           "duration": 60
         },
         {
-          "name": "Qualifying",
+          "name": "Qualifying 1",
           "time": "2026-06-26T11:20:00+02:00",
-          "duration": 50
+          "duration": 20
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-26T11:50:00+02:00",
+          "duration": 20
         },
         {
           "name": "Race 1",
