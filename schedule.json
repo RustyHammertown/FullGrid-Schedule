@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T18:10:11.874Z",
+  "generatedAt": "2026-06-25T19:51:51.086Z",
   "events": [
     {
       "id": 101,
@@ -16254,7 +16254,7 @@
     {
       "id": 301,
       "series": "indycar",
-      "name": "Firestone Grand Prix of St. Petersburg",
+      "name": "Grand Prix of St. Petersburg",
       "circuit": "Streets of St. Petersburg",
       "flag": "🇺🇸",
       "country": "USA",
@@ -16378,7 +16378,7 @@
     {
       "id": 302,
       "series": "indycar",
-      "name": "Good Ranchers 250",
+      "name": "Phoenix",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -16491,7 +16491,7 @@
     {
       "id": 303,
       "series": "indycar",
-      "name": "Java House Grand Prix of Arlington",
+      "name": "Grand Prix of Arlington",
       "circuit": "Streets of Arlington",
       "flag": "🇺🇸",
       "country": "USA",
@@ -16615,7 +16615,7 @@
     {
       "id": 304,
       "series": "indycar",
-      "name": "Children's of Alabama Indy Grand Prix",
+      "name": "Grand Prix of Alabama",
       "circuit": "Barber Motorsports Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -16739,7 +16739,7 @@
     {
       "id": 305,
       "series": "indycar",
-      "name": "Acura Grand Prix of Long Beach",
+      "name": "Grand Prix of Long Beach",
       "circuit": "Streets of Long Beach",
       "flag": "🇺🇸",
       "country": "USA",
@@ -16863,7 +16863,7 @@
     {
       "id": 306,
       "series": "indycar",
-      "name": "Sonsio Grand Prix",
+      "name": "Indianapolis Grand Prix",
       "circuit": "Indianapolis Motor Speedway (Road Course)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17192,7 +17192,7 @@
     {
       "id": 308,
       "series": "indycar",
-      "name": "Chevrolet Detroit Grand Prix",
+      "name": "Detroit Grand Prix",
       "circuit": "Streets of Detroit",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17312,7 +17312,7 @@
     {
       "id": 309,
       "series": "indycar",
-      "name": "Bommarito Automotive Group 500",
+      "name": "Gateway",
       "circuit": "World Wide Technology Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17431,7 +17431,7 @@
     {
       "id": 310,
       "series": "indycar",
-      "name": "XPEL Grand Prix at Road America",
+      "name": "Grand Prix at Road America",
       "circuit": "Road America",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17550,7 +17550,7 @@
     {
       "id": 311,
       "series": "indycar",
-      "name": "Honda Indy 200 at Mid-Ohio",
+      "name": "Indy 200 at Mid-Ohio",
       "circuit": "Mid-Ohio Sports Car Course",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17649,7 +17649,7 @@
     {
       "id": 312,
       "series": "indycar",
-      "name": "Borchetta Bourbon Music City Grand Prix",
+      "name": "Music City Grand Prix",
       "circuit": "Nashville Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17749,7 +17749,7 @@
     {
       "id": 313,
       "series": "indycar",
-      "name": "OnlyBulls Grand Prix of Portland",
+      "name": "Grand Prix of Portland",
       "circuit": "Portland International Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -17848,7 +17848,7 @@
     {
       "id": 314,
       "series": "indycar",
-      "name": "Ontario Honda Dealers Indy at Markham",
+      "name": "Indy at Markham",
       "circuit": "Streets of Markham",
       "flag": "🇨🇦",
       "country": "Canada",
@@ -17947,7 +17947,7 @@
     {
       "id": 315,
       "series": "indycar",
-      "name": "Freedom 250 Grand Prix of Washington, D.C.",
+      "name": "Grand Prix of Washington, D.C.",
       "circuit": "Streets of Washington, D.C.",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18047,7 +18047,7 @@
     {
       "id": 316,
       "series": "indycar",
-      "name": "Snap-on Makers and Fixers 250",
+      "name": "Milwaukee Mile",
       "circuit": "Milwaukee Mile",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18146,7 +18146,7 @@
     {
       "id": 317,
       "series": "indycar",
-      "name": "Snap-on Milwaukee Mile 250",
+      "name": "Milwaukee Mile 250",
       "circuit": "Milwaukee Mile",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18245,7 +18245,7 @@
     {
       "id": 318,
       "series": "indycar",
-      "name": "Firestone Grand Prix of Monterey",
+      "name": "Grand Prix of Monterey",
       "circuit": "WeatherTech Raceway Laguna Seca",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18411,7 +18411,7 @@
     {
       "id": 402,
       "series": "nascar",
-      "name": "Autotrader 400",
+      "name": "Atlanta 400 (Spring)",
       "circuit": "EchoPark Speedway (Atlanta)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18445,7 +18445,7 @@
     {
       "id": 403,
       "series": "nascar",
-      "name": "DuraMAX Texas Grand Prix",
+      "name": "COTA",
       "circuit": "Circuit of the Americas",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18490,7 +18490,7 @@
     {
       "id": 404,
       "series": "nascar",
-      "name": "Straight Talk Wireless 500",
+      "name": "Phoenix 500 (Spring)",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18535,7 +18535,7 @@
     {
       "id": 405,
       "series": "nascar",
-      "name": "Pennzoil 400",
+      "name": "Las Vegas 400 (Spring)",
       "circuit": "Las Vegas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18580,7 +18580,7 @@
     {
       "id": 406,
       "series": "nascar",
-      "name": "Goodyear 400",
+      "name": "Darlington 400",
       "circuit": "Darlington Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18625,7 +18625,7 @@
     {
       "id": 407,
       "series": "nascar",
-      "name": "Cook Out 400",
+      "name": "Martinsville 400",
       "circuit": "Martinsville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18670,7 +18670,7 @@
     {
       "id": 408,
       "series": "nascar",
-      "name": "Food City 500",
+      "name": "Bristol 500",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18715,7 +18715,7 @@
     {
       "id": 409,
       "series": "nascar",
-      "name": "AdventHealth 400",
+      "name": "Kansas 400 (Spring)",
       "circuit": "Kansas Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18760,7 +18760,7 @@
     {
       "id": 410,
       "series": "nascar",
-      "name": "Jack Link's 500",
+      "name": "Talladega 500 (Spring)",
       "circuit": "Talladega Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18794,7 +18794,7 @@
     {
       "id": 411,
       "series": "nascar",
-      "name": "Würth 400 presented by LIQUI MOLY",
+      "name": "Texas 400",
       "circuit": "Texas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18837,7 +18837,7 @@
     {
       "id": 412,
       "series": "nascar",
-      "name": "Go Bowling at The Glen",
+      "name": "Watkins Glen",
       "circuit": "Watkins Glen International",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18925,7 +18925,7 @@
     {
       "id": 414,
       "series": "nascar",
-      "name": "Cracker Barrel 400",
+      "name": "Nashville 400",
       "circuit": "Nashville Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -18968,7 +18968,7 @@
     {
       "id": 415,
       "series": "nascar",
-      "name": "FireKeepers Casino 400",
+      "name": "Michigan 400",
       "circuit": "Michigan International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19011,7 +19011,7 @@
     {
       "id": 416,
       "series": "nascar",
-      "name": "Great American Getaway 400 presented by VISITPA",
+      "name": "Pocono 400",
       "circuit": "Pocono Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19054,7 +19054,7 @@
     {
       "id": 417,
       "series": "nascar",
-      "name": "Anduril 250",
+      "name": "San Diego 250",
       "circuit": "San Diego Street Course (Naval Base Coronado)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19097,7 +19097,7 @@
     {
       "id": 418,
       "series": "nascar",
-      "name": "Toyota / Save Mart 350",
+      "name": "Sonoma 350",
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19139,7 +19139,7 @@
     {
       "id": 419,
       "series": "nascar",
-      "name": "NASCAR Cup Series Race at Chicagoland",
+      "name": "Chicagoland",
       "circuit": "Chicagoland Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19181,7 +19181,7 @@
     {
       "id": 420,
       "series": "nascar",
-      "name": "Quaker State 400 Available at Walmart",
+      "name": "Atlanta 400 (Summer)",
       "circuit": "EchoPark Speedway (Atlanta)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19223,7 +19223,7 @@
     {
       "id": 421,
       "series": "nascar",
-      "name": "Window World 450",
+      "name": "North Wilkesboro 450",
       "circuit": "North Wilkesboro Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19307,7 +19307,7 @@
     {
       "id": 423,
       "series": "nascar",
-      "name": "Iowa Corn 350 Powered by Ethanol",
+      "name": "Iowa 350",
       "circuit": "Iowa Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19349,7 +19349,7 @@
     {
       "id": 424,
       "series": "nascar",
-      "name": "Cook Out 400",
+      "name": "Richmond 400",
       "circuit": "Richmond Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19391,7 +19391,7 @@
     {
       "id": 425,
       "series": "nascar",
-      "name": "Mobil 1 301",
+      "name": "New Hampshire 301",
       "circuit": "New Hampshire Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19433,7 +19433,7 @@
     {
       "id": 426,
       "series": "nascar",
-      "name": "Coke Zero Sugar 400",
+      "name": "Daytona 400",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19475,7 +19475,7 @@
     {
       "id": 427,
       "series": "nascar",
-      "name": "Cook Out Southern 500",
+      "name": "Southern 500",
       "circuit": "Darlington Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19517,7 +19517,7 @@
     {
       "id": 428,
       "series": "nascar",
-      "name": "Enjoy Illinois 300",
+      "name": "Gateway 300",
       "circuit": "World Wide Technology Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19559,7 +19559,7 @@
     {
       "id": 429,
       "series": "nascar",
-      "name": "Bass Pro Shops Night Race",
+      "name": "Bristol Night Race",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19601,7 +19601,7 @@
     {
       "id": 430,
       "series": "nascar",
-      "name": "Hollywood Casino 400",
+      "name": "Kansas 400 (Fall)",
       "circuit": "Kansas Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19643,7 +19643,7 @@
     {
       "id": 431,
       "series": "nascar",
-      "name": "South Point 400",
+      "name": "Las Vegas 400 (Fall)",
       "circuit": "Las Vegas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19685,7 +19685,7 @@
     {
       "id": 432,
       "series": "nascar",
-      "name": "Bank of America 400",
+      "name": "Charlotte 400",
       "circuit": "Charlotte Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19727,7 +19727,7 @@
     {
       "id": 433,
       "series": "nascar",
-      "name": "Freeway Insurance 500",
+      "name": "Phoenix 500 (Fall)",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19770,7 +19770,7 @@
     {
       "id": 434,
       "series": "nascar",
-      "name": "YellaWood 500",
+      "name": "Talladega 500 (Fall)",
       "circuit": "Talladega Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19812,7 +19812,7 @@
     {
       "id": 435,
       "series": "nascar",
-      "name": "Xfinity 500",
+      "name": "Martinsville 500",
       "circuit": "Martinsville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19854,7 +19854,7 @@
     {
       "id": 436,
       "series": "nascar",
-      "name": "Straight Talk Wireless 400",
+      "name": "Homestead-Miami 400",
       "circuit": "Homestead-Miami Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -22615,7 +22615,7 @@
     {
       "id": 505,
       "series": "wrc",
-      "name": "Vodafone Rally de Portugal",
+      "name": "Rally de Portugal",
       "circuit": "Matosinhos Service Park",
       "flag": "🇵🇹",
       "country": "Portugal",
@@ -23148,7 +23148,7 @@
     {
       "id": 513,
       "series": "wrc",
-      "name": "FORUM8 Rally Japan",
+      "name": "Rally Japan",
       "circuit": "Toyota City Service Park",
       "flag": "🇯🇵",
       "country": "Japan",
@@ -25891,7 +25891,7 @@
     {
       "id": 507,
       "series": "wrc",
-      "name": "EKO Acropolis Rally Greece",
+      "name": "Acropolis Rally Greece",
       "circuit": "Loutraki Service Park",
       "flag": "🇬🇷",
       "country": "Greece",
@@ -28243,7 +28243,7 @@
     {
       "id": 508,
       "series": "wrc",
-      "name": "Delfi Rally Estonia",
+      "name": "Rally Estonia",
       "circuit": "Tartu Service Park",
       "flag": "🇪🇪",
       "country": "Estonia",
@@ -28515,7 +28515,7 @@
     {
       "id": 509,
       "series": "wrc",
-      "name": "Secto Rally Finland",
+      "name": "Rally Finland",
       "circuit": "Jyväskylä Service Park",
       "flag": "🇫🇮",
       "country": "Finland",
@@ -32345,7 +32345,7 @@
     {
       "id": 601,
       "series": "imsa",
-      "name": "Rolex 24 at Daytona",
+      "name": "24 Hours of Daytona",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -32434,7 +32434,7 @@
     {
       "id": 602,
       "series": "imsa",
-      "name": "Mobil 1 Twelve Hours of Sebring",
+      "name": "Twelve Hours of Sebring",
       "circuit": "Sebring International Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -32523,7 +32523,7 @@
     {
       "id": 603,
       "series": "imsa",
-      "name": "Acura Grand Prix of Long Beach",
+      "name": "Grand Prix of Long Beach",
       "circuit": "Long Beach Street Circuit",
       "flag": "🇺🇸",
       "country": "USA",
@@ -32691,7 +32691,7 @@
     {
       "id": 605,
       "series": "imsa",
-      "name": "Chevrolet Detroit Sports Car Classic",
+      "name": "Detroit Sports Car Classic",
       "circuit": "Detroit Street Course",
       "flag": "🇺🇸",
       "country": "USA",
@@ -32790,7 +32790,7 @@
     {
       "id": 606,
       "series": "imsa",
-      "name": "Sahlen's Six Hours of The Glen",
+      "name": "Six Hours of The Glen",
       "circuit": "Watkins Glen International",
       "flag": "🇺🇸",
       "country": "USA",
@@ -32874,7 +32874,7 @@
     {
       "id": 607,
       "series": "imsa",
-      "name": "Chevrolet Grand Prix",
+      "name": "Mosport",
       "circuit": "Canadian Tire Motorsport Park",
       "flag": "🇨🇦",
       "country": "Canada",
@@ -32953,7 +32953,7 @@
     {
       "id": 608,
       "series": "imsa",
-      "name": "Motul SportCar Endurance Grand Prix",
+      "name": "SportCar Endurance Grand Prix",
       "circuit": "Road America",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33032,7 +33032,7 @@
     {
       "id": 609,
       "series": "imsa",
-      "name": "Michelin GT Challenge at VIR",
+      "name": "GT Challenge at VIR",
       "circuit": "Virginia International Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33111,7 +33111,7 @@
     {
       "id": 610,
       "series": "imsa",
-      "name": "TireRack.com Battle on The Bricks",
+      "name": "Battle on The Bricks",
       "circuit": "Indianapolis Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33190,7 +33190,7 @@
     {
       "id": 611,
       "series": "imsa",
-      "name": "Motul Petit Le Mans",
+      "name": "Petit Le Mans",
       "circuit": "Michelin Raceway Road Atlanta",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33269,7 +33269,7 @@
     {
       "id": 753,
       "series": "pilot",
-      "name": "BMW M Endurance Challenge At Daytona",
+      "name": "Endurance Challenge At Daytona",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33312,7 +33312,7 @@
     {
       "id": 754,
       "series": "pilot",
-      "name": "Alan Jay Automotive Network 120",
+      "name": "Sebring",
       "circuit": "Sebring International Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33398,7 +33398,7 @@
     {
       "id": 746,
       "series": "pilot",
-      "name": "O'Reilly Auto Parts 4 Hours of Mid-Ohio",
+      "name": "4 Hours of Mid-Ohio",
       "circuit": "Mid-Ohio Sports Car Course",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33456,7 +33456,7 @@
     {
       "id": 747,
       "series": "pilot",
-      "name": "LP Building Solutions 120 at The Glen",
+      "name": "120 at The Glen",
       "circuit": "Watkins Glen International",
       "flag": "🇺🇸",
       "country": "USA",
@@ -33671,7 +33671,7 @@
     {
       "id": 752,
       "series": "pilot",
-      "name": "FOX Factory 120",
+      "name": "Road Atlanta",
       "circuit": "Michelin Raceway Road Atlanta",
       "flag": "🇺🇸",
       "country": "USA",
@@ -39095,7 +39095,7 @@
     {
       "id": 811,
       "series": "fe",
-      "name": "Lianxin Sanya E-Prix",
+      "name": "Sanya E-Prix",
       "circuit": "Haitang Bay Circuit",
       "flag": "🇨🇳",
       "country": "China",
@@ -39775,7 +39775,7 @@
     {
       "id": 903,
       "series": "wec",
-      "name": "TotalEnergies 6 Hours of Spa-Francorchamps",
+      "name": "6 Hours of Spa-Francorchamps",
       "circuit": "Circuit de Spa-Francorchamps",
       "flag": "🇧🇪",
       "country": "Belgium",
@@ -40590,7 +40590,7 @@
     {
       "id": 905,
       "series": "wec",
-      "name": "Rolex 6 Hours of São Paulo",
+      "name": "6 Hours of São Paulo",
       "circuit": "Autódromo José Carlos Pace (Interlagos)",
       "flag": "🇧🇷",
       "country": "Brazil",
@@ -40986,7 +40986,7 @@
     {
       "id": 908,
       "series": "wec",
-      "name": "Bapco Energies 8 Hours of Bahrain",
+      "name": "8 Hours of Bahrain",
       "circuit": "Bahrain International Circuit",
       "flag": "🇧🇭",
       "country": "Bahrain",
@@ -41085,7 +41085,7 @@
     {
       "id": 5706,
       "series": "c24h",
-      "name": "Michelin 6H Abu Dhabi",
+      "name": "6H Abu Dhabi",
       "circuit": "Yas Marina Circuit",
       "flag": "🇦🇪",
       "country": "United Arab Emirates",
@@ -41112,7 +41112,7 @@
     {
       "id": 5707,
       "series": "c24h",
-      "name": "Michelin 24H Dubai",
+      "name": "24H Dubai",
       "circuit": "Dubai Autodrome",
       "flag": "🇦🇪",
       "country": "United Arab Emirates",
@@ -41154,7 +41154,7 @@
     {
       "id": 5708,
       "series": "c24h",
-      "name": "Michelin 12H Mugello",
+      "name": "12H Mugello",
       "circuit": "Autodromo Internazionale del Mugello",
       "flag": "🇮🇹",
       "country": "Italy",
@@ -41186,7 +41186,7 @@
     {
       "id": 5709,
       "series": "c24h",
-      "name": "Michelin 12H Spa-Francorchamps",
+      "name": "12H Spa-Francorchamps",
       "circuit": "Circuit de Spa-Francorchamps",
       "flag": "🇧🇪",
       "country": "Belgium",
@@ -41218,7 +41218,7 @@
     {
       "id": 5710,
       "series": "c24h",
-      "name": "Michelin 12H Paul Ricard",
+      "name": "12H Paul Ricard",
       "circuit": "Circuit Paul Ricard",
       "flag": "🇫🇷",
       "country": "France",
@@ -41250,7 +41250,7 @@
     {
       "id": 5711,
       "series": "c24h",
-      "name": "Michelin 12H Nürburgring",
+      "name": "12H Nürburgring",
       "circuit": "Nürburgring GP",
       "flag": "🇩🇪",
       "country": "Germany",
@@ -41282,7 +41282,7 @@
     {
       "id": 5712,
       "series": "c24h",
-      "name": "Michelin 24H Barcelona",
+      "name": "24H Barcelona",
       "circuit": "Circuit de Barcelona-Catalunya",
       "flag": "🇪🇸",
       "country": "Spain",
@@ -41314,7 +41314,7 @@
     {
       "id": 5713,
       "series": "c24h",
-      "name": "Michelin 8H Qatar",
+      "name": "8H Qatar",
       "circuit": "Lusail International Circuit",
       "flag": "🇶🇦",
       "country": "Qatar",
@@ -41341,7 +41341,7 @@
     {
       "id": 1001,
       "series": "oreilly",
-      "name": "United Rentals 300",
+      "name": "Daytona 300",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41404,7 +41404,7 @@
     {
       "id": 1002,
       "series": "oreilly",
-      "name": "Bennett Transportation & Logistics 250",
+      "name": "Atlanta 250 (Spring)",
       "circuit": "EchoPark Speedway (Atlanta)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41456,7 +41456,7 @@
     {
       "id": 1003,
       "series": "oreilly",
-      "name": "Focused Health 250",
+      "name": "COTA 250",
       "circuit": "Circuit of the Americas",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41519,7 +41519,7 @@
     {
       "id": 1004,
       "series": "oreilly",
-      "name": "GOVX 200",
+      "name": "Phoenix 200",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41582,7 +41582,7 @@
     {
       "id": 1005,
       "series": "oreilly",
-      "name": "The LiUNA!",
+      "name": "Las Vegas",
       "circuit": "Las Vegas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41645,7 +41645,7 @@
     {
       "id": 1006,
       "series": "oreilly",
-      "name": "Sport Clips Haircuts VFW Help a Hero 200",
+      "name": "Darlington 200",
       "circuit": "Darlington Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41708,7 +41708,7 @@
     {
       "id": 1007,
       "series": "oreilly",
-      "name": "NFPA 250",
+      "name": "Martinsville 250 (Spring)",
       "circuit": "Martinsville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41771,7 +41771,7 @@
     {
       "id": 1008,
       "series": "oreilly",
-      "name": "North Carolina Education Lottery 250",
+      "name": "Rockingham 250",
       "circuit": "Rockingham Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41834,7 +41834,7 @@
     {
       "id": 1009,
       "series": "oreilly",
-      "name": "Suburban Propane 300",
+      "name": "Bristol 300 (Spring)",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41897,7 +41897,7 @@
     {
       "id": 1010,
       "series": "oreilly",
-      "name": "Kansas Lottery 300",
+      "name": "Kansas 300",
       "circuit": "Kansas Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -41960,7 +41960,7 @@
     {
       "id": 1011,
       "series": "oreilly",
-      "name": "Ag-Pro 300",
+      "name": "Talladega 300",
       "circuit": "Talladega Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42012,7 +42012,7 @@
     {
       "id": 1012,
       "series": "oreilly",
-      "name": "Andy's Frozen Custard 340",
+      "name": "Texas 340",
       "circuit": "Texas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42073,7 +42073,7 @@
     {
       "id": 1013,
       "series": "oreilly",
-      "name": "Mission 200 at The Glen",
+      "name": "Watkins Glen 200",
       "circuit": "Watkins Glen International",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42136,7 +42136,7 @@
     {
       "id": 1014,
       "series": "oreilly",
-      "name": "BetRivers 200",
+      "name": "Dover 200",
       "circuit": "Dover Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42199,7 +42199,7 @@
     {
       "id": 1015,
       "series": "oreilly",
-      "name": "Charbroil 300",
+      "name": "Charlotte 300",
       "circuit": "Charlotte Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42260,7 +42260,7 @@
     {
       "id": 1016,
       "series": "oreilly",
-      "name": "Sports Illustrated Resorts 250",
+      "name": "Nashville 250",
       "circuit": "Nashville Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42321,7 +42321,7 @@
     {
       "id": 1017,
       "series": "oreilly",
-      "name": "MillerTech Battery 250 presented by KOA",
+      "name": "Pocono 250",
       "circuit": "Pocono Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42381,7 +42381,7 @@
     {
       "id": 1018,
       "series": "oreilly",
-      "name": "United Rentals Driven to Serve 250",
+      "name": "San Diego 250",
       "circuit": "San Diego Street Course (Naval Base Coronado)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42442,7 +42442,7 @@
     {
       "id": 1019,
       "series": "oreilly",
-      "name": "Pit Boss/FoodMaxx 250",
+      "name": "Sonoma 250",
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42502,7 +42502,7 @@
     {
       "id": 1020,
       "series": "oreilly",
-      "name": "O'Reilly Auto Parts Series Race at Chicagoland",
+      "name": "Chicagoland",
       "circuit": "Chicagoland Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42553,7 +42553,7 @@
     {
       "id": 1021,
       "series": "oreilly",
-      "name": "Focused Health 250",
+      "name": "Atlanta 250 (Summer)",
       "circuit": "EchoPark Speedway (Atlanta)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42603,7 +42603,7 @@
     {
       "id": 1022,
       "series": "oreilly",
-      "name": "Pennzoil 250",
+      "name": "Indianapolis 250",
       "circuit": "Indianapolis Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42653,7 +42653,7 @@
     {
       "id": 1023,
       "series": "oreilly",
-      "name": "Hy-Vee PERKS 250",
+      "name": "Iowa 250",
       "circuit": "Iowa Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42703,7 +42703,7 @@
     {
       "id": 1024,
       "series": "oreilly",
-      "name": "Wawa 250",
+      "name": "Daytona 250",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42753,7 +42753,7 @@
     {
       "id": 1025,
       "series": "oreilly",
-      "name": "O'Reilly Auto Parts Series Race at Darlington",
+      "name": "Darlington",
       "circuit": "Darlington Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42803,7 +42803,7 @@
     {
       "id": 1026,
       "series": "oreilly",
-      "name": "Nu Way 225",
+      "name": "Gateway 225",
       "circuit": "World Wide Technology Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42854,7 +42854,7 @@
     {
       "id": 1027,
       "series": "oreilly",
-      "name": "Food City 300",
+      "name": "Bristol 300 (Fall)",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42905,7 +42905,7 @@
     {
       "id": 1028,
       "series": "oreilly",
-      "name": "Focused Health 302",
+      "name": "Las Vegas 302",
       "circuit": "Las Vegas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -42956,7 +42956,7 @@
     {
       "id": 1029,
       "series": "oreilly",
-      "name": "Blue Cross NC 250",
+      "name": "Charlotte 250",
       "circuit": "Charlotte Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43006,7 +43006,7 @@
     {
       "id": 1030,
       "series": "oreilly",
-      "name": "O'Reilly Auto Parts Series Race at Phoenix",
+      "name": "Phoenix",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43056,7 +43056,7 @@
     {
       "id": 1031,
       "series": "oreilly",
-      "name": "TPG 250",
+      "name": "Talladega 250",
       "circuit": "Talladega Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43106,7 +43106,7 @@
     {
       "id": 1032,
       "series": "oreilly",
-      "name": "IAA and Ritchie Bros. 250",
+      "name": "Martinsville 250 (Fall)",
       "circuit": "Martinsville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43156,7 +43156,7 @@
     {
       "id": 1033,
       "series": "oreilly",
-      "name": "Hard Rock Bet 300",
+      "name": "Homestead-Miami 300",
       "circuit": "Homestead-Miami Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43206,7 +43206,7 @@
     {
       "id": 1101,
       "series": "truck",
-      "name": "Fresh From Florida 250",
+      "name": "Daytona 250",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43263,7 +43263,7 @@
     {
       "id": 1102,
       "series": "truck",
-      "name": "Fr8 208",
+      "name": "Atlanta 208",
       "circuit": "EchoPark Speedway (Atlanta)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43309,7 +43309,7 @@
     {
       "id": 1103,
       "series": "truck",
-      "name": "OnlyBulls Green Flag 150 at St. Petersburg",
+      "name": "St. Petersburg 150",
       "circuit": "Streets of St. Petersburg",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43366,7 +43366,7 @@
     {
       "id": 1104,
       "series": "truck",
-      "name": "Buckle Up South Carolina 200",
+      "name": "Darlington 200",
       "circuit": "Darlington Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43423,7 +43423,7 @@
     {
       "id": 1105,
       "series": "truck",
-      "name": "Black's Tire 200",
+      "name": "Rockingham 200",
       "circuit": "Rockingham Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43480,7 +43480,7 @@
     {
       "id": 1106,
       "series": "truck",
-      "name": "Tennessee Army National Guard 250",
+      "name": "Bristol 250 (Spring)",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43537,7 +43537,7 @@
     {
       "id": 1107,
       "series": "truck",
-      "name": "SpeedyCash.com 250",
+      "name": "Texas 250",
       "circuit": "Texas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43592,7 +43592,7 @@
     {
       "id": 1108,
       "series": "truck",
-      "name": "Bully Hill Vineyards 176 at The Glen",
+      "name": "Watkins Glen 176",
       "circuit": "Watkins Glen International",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43649,7 +43649,7 @@
     {
       "id": 1109,
       "series": "truck",
-      "name": "Ecosave 200",
+      "name": "Dover 200",
       "circuit": "Dover Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43706,7 +43706,7 @@
     {
       "id": 1110,
       "series": "truck",
-      "name": "North Carolina Education Lottery 200",
+      "name": "Charlotte 200",
       "circuit": "Charlotte Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43761,7 +43761,7 @@
     {
       "id": 1111,
       "series": "truck",
-      "name": "Allegiance 200",
+      "name": "Nashville 200",
       "circuit": "Nashville Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43816,7 +43816,7 @@
     {
       "id": 1112,
       "series": "truck",
-      "name": "DQS Solutions & Staffing 250",
+      "name": "Michigan 250",
       "circuit": "Michigan International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43870,7 +43870,7 @@
     {
       "id": 1113,
       "series": "truck",
-      "name": "Navy 250",
+      "name": "San Diego 250",
       "circuit": "San Diego Street Course (Naval Base Coronado)",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43925,7 +43925,7 @@
     {
       "id": 1114,
       "series": "truck",
-      "name": "LiUNA! 150",
+      "name": "Lime Rock Park 150",
       "circuit": "Lime Rock Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -43969,7 +43969,7 @@
     {
       "id": 1115,
       "series": "truck",
-      "name": "FaithFest 250",
+      "name": "North Wilkesboro 250",
       "circuit": "North Wilkesboro Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44013,7 +44013,7 @@
     {
       "id": 1116,
       "series": "truck",
-      "name": "TSport 200",
+      "name": "Indianapolis Raceway Park 200",
       "circuit": "Lucas Oil Indianapolis Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44057,7 +44057,7 @@
     {
       "id": 1117,
       "series": "truck",
-      "name": "eero 250",
+      "name": "Richmond 250",
       "circuit": "Richmond Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44101,7 +44101,7 @@
     {
       "id": 1118,
       "series": "truck",
-      "name": "EJP 175",
+      "name": "New Hampshire 175",
       "circuit": "New Hampshire Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44145,7 +44145,7 @@
     {
       "id": 1119,
       "series": "truck",
-      "name": "UNOH 250",
+      "name": "Bristol 250 (Fall)",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44189,7 +44189,7 @@
     {
       "id": 1120,
       "series": "truck",
-      "name": "Heart of Health Care 200",
+      "name": "Kansas 200",
       "circuit": "Kansas Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44233,7 +44233,7 @@
     {
       "id": 1121,
       "series": "truck",
-      "name": "Ecosave 250",
+      "name": "Charlotte 250",
       "circuit": "Charlotte Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44277,7 +44277,7 @@
     {
       "id": 1122,
       "series": "truck",
-      "name": "Craftsman 150",
+      "name": "Phoenix 150",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44321,7 +44321,7 @@
     {
       "id": 1123,
       "series": "truck",
-      "name": "Love's RV Stop 225",
+      "name": "Talladega 225",
       "circuit": "Talladega Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44365,7 +44365,7 @@
     {
       "id": 1124,
       "series": "truck",
-      "name": "Slim Jim 200",
+      "name": "Martinsville 200",
       "circuit": "Martinsville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44409,7 +44409,7 @@
     {
       "id": 1125,
       "series": "truck",
-      "name": "Baptist Health 200",
+      "name": "Homestead-Miami 200",
       "circuit": "Homestead-Miami Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44453,7 +44453,7 @@
     {
       "id": 1330,
       "series": "arca",
-      "name": "General Tire 200",
+      "name": "Daytona 200",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44498,7 +44498,7 @@
     {
       "id": 1331,
       "series": "arca",
-      "name": "General Tire 150",
+      "name": "Phoenix 150",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44543,7 +44543,7 @@
     {
       "id": 1300,
       "series": "arca",
-      "name": "Tide 150",
+      "name": "Kansas 150 (Spring)",
       "circuit": "Kansas Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44588,7 +44588,7 @@
     {
       "id": 1301,
       "series": "arca",
-      "name": "Alabama Manufactured Housing 200",
+      "name": "Talladega 200",
       "circuit": "Talladega Superspeedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44623,7 +44623,7 @@
     {
       "id": 1304,
       "series": "arca",
-      "name": "General Tire 100 at The Glen",
+      "name": "Watkins Glen 100",
       "circuit": "Watkins Glen International",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44648,7 +44648,7 @@
     {
       "id": 1305,
       "series": "arca",
-      "name": "Owens Corning 200",
+      "name": "Toledo 200",
       "circuit": "Toledo Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44673,7 +44673,7 @@
     {
       "id": 1307,
       "series": "arca",
-      "name": "Henry Ford Health 200",
+      "name": "Michigan 200",
       "circuit": "Michigan International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44708,7 +44708,7 @@
     {
       "id": 1309,
       "series": "arca",
-      "name": "Sunset Hill Shooting Range 150",
+      "name": "Pocono 150",
       "circuit": "Pocono Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44743,7 +44743,7 @@
     {
       "id": 1310,
       "series": "arca",
-      "name": "Herr's Snacks 200",
+      "name": "Berlin 200",
       "circuit": "Berlin Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44788,7 +44788,7 @@
     {
       "id": 1312,
       "series": "arca",
-      "name": "Shore Lunch 250",
+      "name": "Elko 250",
       "circuit": "Elko Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44832,7 +44832,7 @@
     {
       "id": 1313,
       "series": "arca",
-      "name": "Ashley Furniture 150",
+      "name": "Chicagoland 150",
       "circuit": "Chicagoland Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44922,7 +44922,7 @@
     {
       "id": 1315,
       "series": "arca",
-      "name": "LiUNA! 150",
+      "name": "Indianapolis Raceway Park 150",
       "circuit": "Lucas Oil Indianapolis Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -44967,7 +44967,7 @@
     {
       "id": 1317,
       "series": "arca",
-      "name": "Atlas 150",
+      "name": "Iowa 150",
       "circuit": "Iowa Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45147,7 +45147,7 @@
     {
       "id": 1323,
       "series": "arca",
-      "name": "Kentuckiana Ford Dealers ARCA 200",
+      "name": "Salem 200",
       "circuit": "Salem Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45192,7 +45192,7 @@
     {
       "id": 1324,
       "series": "arca",
-      "name": "Bush's Beans 200",
+      "name": "Bristol 200",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45237,7 +45237,7 @@
     {
       "id": 1325,
       "series": "arca",
-      "name": "Reese's 150",
+      "name": "Kansas 150 (Fall)",
       "circuit": "Kansas Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45282,7 +45282,7 @@
     {
       "id": 1340,
       "series": "arcaeast",
-      "name": "Cook Out 200",
+      "name": "Hickory 200",
       "circuit": "Hickory Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45330,7 +45330,7 @@
     {
       "id": 1341,
       "series": "arcaeast",
-      "name": "Rockingham ARCA Menards Series East 125",
+      "name": "Rockingham 125",
       "circuit": "Rockingham Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45378,7 +45378,7 @@
     {
       "id": 1302,
       "series": "arcaeast",
-      "name": "Cook Out Music City 150",
+      "name": "Music City 150",
       "circuit": "Nashville Fairgrounds Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45426,7 +45426,7 @@
     {
       "id": 1342,
       "series": "arcaeast",
-      "name": "Owens Corning 200",
+      "name": "Toledo 200",
       "circuit": "Toledo Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45454,7 +45454,7 @@
     {
       "id": 1343,
       "series": "arcaeast",
-      "name": "LiUNA! 150",
+      "name": "Indianapolis Raceway Park 150",
       "circuit": "Lucas Oil Indianapolis Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45502,7 +45502,7 @@
     {
       "id": 1316,
       "series": "arcaeast",
-      "name": "Sunbelt Rentals 150",
+      "name": "Flat Rock 150",
       "circuit": "Flat Rock Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45550,7 +45550,7 @@
     {
       "id": 1344,
       "series": "arcaeast",
-      "name": "Atlas 150",
+      "name": "Iowa 150",
       "circuit": "Iowa Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45598,7 +45598,7 @@
     {
       "id": 1345,
       "series": "arcaeast",
-      "name": "Bush's Beans 200",
+      "name": "Bristol 200",
       "circuit": "Bristol Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45694,7 +45694,7 @@
     {
       "id": 1360,
       "series": "arcawest",
-      "name": "General Tire 150",
+      "name": "Phoenix 150",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45742,7 +45742,7 @@
     {
       "id": 1361,
       "series": "arcawest",
-      "name": "Tucson ARCA Menards West 150",
+      "name": "Tucson 150",
       "circuit": "Tucson Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45848,7 +45848,7 @@
     {
       "id": 1306,
       "series": "arcawest",
-      "name": "Legendary Billy Green 150 presented by NAPA Auto Parts",
+      "name": "Legendary Billy Green 150",
       "circuit": "Colorado National Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45876,7 +45876,7 @@
     {
       "id": 1308,
       "series": "arcawest",
-      "name": "NAPA Auto Care 150 Greg Biffle Memorial",
+      "name": "Greg Biffle Memorial 150",
       "circuit": "Tri-City Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -45924,7 +45924,7 @@
     {
       "id": 1311,
       "series": "arcawest",
-      "name": "General Tire 150",
+      "name": "Sonoma 150",
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46020,7 +46020,7 @@
     {
       "id": 1321,
       "series": "arcawest",
-      "name": "NAPA Auto Parts 150",
+      "name": "All American 150",
       "circuit": "All American Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46116,7 +46116,7 @@
     {
       "id": 1327,
       "series": "arcawest",
-      "name": "Star Nursery 150",
+      "name": "The Bullring 150",
       "circuit": "The Bullring at Las Vegas Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46164,7 +46164,7 @@
     {
       "id": 1328,
       "series": "arcawest",
-      "name": "Desert Diamond Casino West Valley 100",
+      "name": "Phoenix 100",
       "circuit": "Phoenix Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46212,7 +46212,7 @@
     {
       "id": 1362,
       "series": "arcawest",
-      "name": "NAPA Auto Parts 150",
+      "name": "Kern 150",
       "circuit": "Kevin Harvick's Kern Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46792,7 +46792,7 @@
     {
       "id": 1490,
       "series": "whelen",
-      "name": "New Smyrna Beach Area Visitors Bureau 200",
+      "name": "New Smyrna 200",
       "circuit": "New Smyrna Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46847,7 +46847,7 @@
     {
       "id": 1491,
       "series": "whelen",
-      "name": "Virginia is for Racing Lovers 200",
+      "name": "Martinsville 200",
       "circuit": "Martinsville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46957,7 +46957,7 @@
     {
       "id": 1501,
       "series": "whelen",
-      "name": "J&R Precast 150",
+      "name": "Seekonk 150",
       "circuit": "Seekonk Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -46982,7 +46982,7 @@
     {
       "id": 1502,
       "series": "whelen",
-      "name": "Miller Lite Salutes Don Howe 200",
+      "name": "Don Howe 200",
       "circuit": "Riverhead Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -47037,7 +47037,7 @@
     {
       "id": 1500,
       "series": "whelen",
-      "name": "All States Materials Group 150",
+      "name": "Oxford Plains 150",
       "circuit": "Oxford Plains Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -47287,7 +47287,7 @@
     {
       "id": 1508,
       "series": "whelen",
-      "name": "Mohegan Sun 100",
+      "name": "New Hampshire 100",
       "circuit": "New Hampshire Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -47327,7 +47327,7 @@
     {
       "id": 1509,
       "series": "whelen",
-      "name": "GAF 150",
+      "name": "Stafford 150",
       "circuit": "Stafford Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -47367,7 +47367,7 @@
     {
       "id": 1510,
       "series": "whelen",
-      "name": "Toyota Mod Classic 150",
+      "name": "Mod Classic 150",
       "circuit": "Oswego Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49338,7 +49338,7 @@
     {
       "id": 5300,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals",
+      "name": "Winter Nationals",
       "circuit": "All-Tech Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49359,7 +49359,7 @@
     {
       "id": 5301,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 1)",
+      "name": "Winter Nationals (Night 1)",
       "circuit": "All-Tech Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49380,7 +49380,7 @@
     {
       "id": 5302,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 2)",
+      "name": "Winter Nationals (Night 2)",
       "circuit": "All-Tech Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49401,7 +49401,7 @@
     {
       "id": 5303,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 3)",
+      "name": "Winter Nationals (Night 3)",
       "circuit": "All-Tech Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49422,7 +49422,7 @@
     {
       "id": 5304,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals",
+      "name": "Winter Nationals",
       "circuit": "Ocala Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49443,7 +49443,7 @@
     {
       "id": 5305,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 1)",
+      "name": "Winter Nationals (Night 1)",
       "circuit": "Ocala Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49464,7 +49464,7 @@
     {
       "id": 5306,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 2)",
+      "name": "Winter Nationals (Night 2)",
       "circuit": "Ocala Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49485,7 +49485,7 @@
     {
       "id": 5307,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 3)",
+      "name": "Winter Nationals (Night 3)",
       "circuit": "Ocala Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49506,7 +49506,7 @@
     {
       "id": 5308,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 4)",
+      "name": "Winter Nationals (Night 4)",
       "circuit": "Ocala Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49527,7 +49527,7 @@
     {
       "id": 5309,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 5)",
+      "name": "Winter Nationals (Night 5)",
       "circuit": "Ocala Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49548,7 +49548,7 @@
     {
       "id": 5310,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals",
+      "name": "Winter Nationals",
       "circuit": "Golden Isles Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49569,7 +49569,7 @@
     {
       "id": 5311,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 1)",
+      "name": "Winter Nationals (Night 1)",
       "circuit": "Golden Isles Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49590,7 +49590,7 @@
     {
       "id": 5312,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 2)",
+      "name": "Winter Nationals (Night 2)",
       "circuit": "Golden Isles Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49611,7 +49611,7 @@
     {
       "id": 5313,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 3)",
+      "name": "Winter Nationals (Night 3)",
       "circuit": "Golden Isles Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49632,7 +49632,7 @@
     {
       "id": 5314,
       "series": "lucasdirt",
-      "name": "Wieland Winter Nationals (Night 4)",
+      "name": "Winter Nationals (Night 4)",
       "circuit": "Golden Isles Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -49739,7 +49739,7 @@
     {
       "id": 5319,
       "series": "lucasdirt",
-      "name": "Superior Homes Late Model York County Nationals",
+      "name": "York County Nationals",
       "circuit": "BAPS Motor Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -50138,7 +50138,7 @@
     {
       "id": 5338,
       "series": "lucasdirt",
-      "name": "CMH Diamond Nationals",
+      "name": "Diamond Nationals",
       "circuit": "Lucas Oil Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -50755,7 +50755,7 @@
     {
       "id": 5404,
       "series": "framericas",
-      "name": "New Jersey Lottery SpeedTour",
+      "name": "New Jersey SpeedTour",
       "circuit": "New Jersey Motorsports Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51624,7 +51624,7 @@
     {
       "id": 2100,
       "series": "woosc",
-      "name": "Federated Auto Parts Spring Classic",
+      "name": "Spring Classic",
       "circuit": "I-55 Federated Auto Parts Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51648,7 +51648,7 @@
     {
       "id": 2101,
       "series": "woosc",
-      "name": "Federated Auto Parts Spring Classic",
+      "name": "Spring Classic",
       "circuit": "I-55 Federated Auto Parts Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51696,7 +51696,7 @@
     {
       "id": 2103,
       "series": "woosc",
-      "name": "Premier Chevy Dealers Clash",
+      "name": "Knoxville Clash",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51720,7 +51720,7 @@
     {
       "id": 2104,
       "series": "woosc",
-      "name": "Premier Chevy Dealers Clash",
+      "name": "Knoxville Clash",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51768,7 +51768,7 @@
     {
       "id": 2106,
       "series": "woosc",
-      "name": "HVAC Distributors Morgan Cup",
+      "name": "Morgan Cup",
       "circuit": "Williams Grove Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51792,7 +51792,7 @@
     {
       "id": 2107,
       "series": "woosc",
-      "name": "HVAC Distributors Morgan Cup",
+      "name": "Morgan Cup",
       "circuit": "Williams Grove Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51864,7 +51864,7 @@
     {
       "id": 2110,
       "series": "woosc",
-      "name": "Hy-Vee Perks 40",
+      "name": "Jacksonville 40",
       "circuit": "Jacksonville Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51960,7 +51960,7 @@
     {
       "id": 2114,
       "series": "woosc",
-      "name": "Gerdau Metals Recycling Magic City Showdown",
+      "name": "Magic City Showdown",
       "circuit": "Nodak Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -51985,7 +51985,7 @@
     {
       "id": 2115,
       "series": "woosc",
-      "name": "Pure Michigan Showdown",
+      "name": "Michigan Showdown",
       "circuit": "Hartford Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52057,7 +52057,7 @@
     {
       "id": 2118,
       "series": "woosc",
-      "name": "Premier Chevy Dealers Clash",
+      "name": "Knoxville Clash",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52081,7 +52081,7 @@
     {
       "id": 2119,
       "series": "woosc",
-      "name": "Premier Chevy Dealers Clash",
+      "name": "Knoxville Clash",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52105,7 +52105,7 @@
     {
       "id": 2120,
       "series": "woosc",
-      "name": "Hefty Seed Huset's Hustle",
+      "name": "Huset's Hustle",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52129,7 +52129,7 @@
     {
       "id": 2121,
       "series": "woosc",
-      "name": "Hefty Seed Huset's Hustle",
+      "name": "Huset's Hustle",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52153,7 +52153,7 @@
     {
       "id": 2122,
       "series": "woosc",
-      "name": "BillionAuto.com Huset's High Bank Nationals",
+      "name": "Huset's High Bank Nationals",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52177,7 +52177,7 @@
     {
       "id": 2123,
       "series": "woosc",
-      "name": "BillionAuto.com Huset's High Bank Nationals",
+      "name": "Huset's High Bank Nationals",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52249,7 +52249,7 @@
     {
       "id": 2126,
       "series": "woosc",
-      "name": "O'Reilly Auto Parts presents the Larry Hillerud Memorial",
+      "name": "Larry Hillerud Memorial",
       "circuit": "Wilmot Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52273,7 +52273,7 @@
     {
       "id": 2127,
       "series": "woosc",
-      "name": "O'Reilly Auto Parts presents the Larry Hillerud Memorial",
+      "name": "Larry Hillerud Memorial",
       "circuit": "Wilmot Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52297,7 +52297,7 @@
     {
       "id": 2128,
       "series": "woosc",
-      "name": "Ohio Logistics Brad Doty Classic presented by dac Vitamins and Minerals",
+      "name": "Brad Doty Classic",
       "circuit": "Attica Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52369,7 +52369,7 @@
     {
       "id": 2131,
       "series": "woosc",
-      "name": "Federated Auto Parts Six Nations Showdown",
+      "name": "Six Nations Showdown",
       "circuit": "Ohsweken Speedway",
       "flag": "🇨🇦",
       "country": "Canada",
@@ -52393,7 +52393,7 @@
     {
       "id": 2132,
       "series": "woosc",
-      "name": "Federated Auto Parts Six Nations Showdown",
+      "name": "Six Nations Showdown",
       "circuit": "Ohsweken Speedway",
       "flag": "🇨🇦",
       "country": "Canada",
@@ -52489,7 +52489,7 @@
     {
       "id": 2136,
       "series": "woosc",
-      "name": "C&D Rigging Summer Nationals",
+      "name": "Summer Nationals",
       "circuit": "Williams Grove Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52513,7 +52513,7 @@
     {
       "id": 2137,
       "series": "woosc",
-      "name": "C&D Rigging Summer Nationals",
+      "name": "Summer Nationals",
       "circuit": "Williams Grove Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52585,7 +52585,7 @@
     {
       "id": 2140,
       "series": "woosc",
-      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "name": "Knoxville Nationals",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52609,7 +52609,7 @@
     {
       "id": 2141,
       "series": "woosc",
-      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "name": "Knoxville Nationals",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52633,7 +52633,7 @@
     {
       "id": 2142,
       "series": "woosc",
-      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "name": "Knoxville Nationals",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52657,7 +52657,7 @@
     {
       "id": 2143,
       "series": "woosc",
-      "name": "NOS Energy Drink Knoxville Nationals pres. by Casey's",
+      "name": "Knoxville Nationals",
       "circuit": "Knoxville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52681,7 +52681,7 @@
     {
       "id": 2144,
       "series": "woosc",
-      "name": "Big O Showdown presented by Wagamon Brothers",
+      "name": "Big O Showdown",
       "circuit": "Ogilvie Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52705,7 +52705,7 @@
     {
       "id": 2145,
       "series": "woosc",
-      "name": "FENDT Showdown",
+      "name": "Jackson Showdown",
       "circuit": "Jackson Motorplex",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52777,7 +52777,7 @@
     {
       "id": 2148,
       "series": "woosc",
-      "name": "L.G. Everist Huset’s Shootout presented by D & I Railroad",
+      "name": "Huset's Shootout (Night 1)",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52801,7 +52801,7 @@
     {
       "id": 2149,
       "series": "woosc",
-      "name": "L.G. Everist Huset’s Shootout presented by Ace Ready Mix",
+      "name": "Huset's Shootout (Night 2)",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -52825,7 +52825,7 @@
     {
       "id": 2150,
       "series": "woosc",
-      "name": "L.G. Everist Huset’s Shootout presented by Myrl & Roy’s Paving",
+      "name": "Huset's Shootout (Night 3)",
       "circuit": "Huset's Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53041,7 +53041,7 @@
     {
       "id": 2159,
       "series": "woosc",
-      "name": "J&S Classics National Open",
+      "name": "National Open",
       "circuit": "Williams Grove Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53065,7 +53065,7 @@
     {
       "id": 2160,
       "series": "woosc",
-      "name": "J&S Classics National Open",
+      "name": "National Open",
       "circuit": "Williams Grove Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53089,7 +53089,7 @@
     {
       "id": 2161,
       "series": "woosc",
-      "name": "Sheldon Haudenschild's NOS Energy Drink Buckeye Brawl Weekend: Round 1",
+      "name": "Sheldon Haudenschild's Buckeye Brawl Weekend: Round 1",
       "circuit": "Millstream Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53113,7 +53113,7 @@
     {
       "id": 2162,
       "series": "woosc",
-      "name": "Sheldon Haudenschild's NOS Energy Drink Buckeye Brawl Weekend: Round 2",
+      "name": "Sheldon Haudenschild's Buckeye Brawl Weekend: Round 2",
       "circuit": "Mansfield Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53137,7 +53137,7 @@
     {
       "id": 2163,
       "series": "woosc",
-      "name": "Sheldon Haudenschild's NOS Energy Drink Buckeye Brawl Weekend: Round 3",
+      "name": "Sheldon Haudenschild's Buckeye Brawl Weekend: Round 3",
       "circuit": "Sharon Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53329,7 +53329,7 @@
     {
       "id": 2171,
       "series": "woosc",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 6",
+      "name": "DIRTcar Nationals - Day 6",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53353,7 +53353,7 @@
     {
       "id": 2172,
       "series": "woosc",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 7",
+      "name": "DIRTcar Nationals - Day 7",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53377,7 +53377,7 @@
     {
       "id": 2173,
       "series": "woosc",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 8",
+      "name": "DIRTcar Nationals - Day 8",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -53401,7 +53401,7 @@
     {
       "id": 2174,
       "series": "woosc",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 9",
+      "name": "DIRTcar Nationals - Day 9",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54050,7 +54050,7 @@
     {
       "id": 2224,
       "series": "woolm",
-      "name": "NAPA Auto Parts Gopher 50",
+      "name": "Gopher 50",
       "circuit": "Deer Creek Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54074,7 +54074,7 @@
     {
       "id": 2225,
       "series": "woolm",
-      "name": "NAPA Auto Parts Gopher 50",
+      "name": "Gopher 50",
       "circuit": "Deer Creek Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54098,7 +54098,7 @@
     {
       "id": 2226,
       "series": "woolm",
-      "name": "NAPA Auto Parts Gopher 50",
+      "name": "Gopher 50",
       "circuit": "Deer Creek Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54122,7 +54122,7 @@
     {
       "id": 2227,
       "series": "woolm",
-      "name": "Rick Briggs Memorial powered by Dave Warren Powersports",
+      "name": "Rick Briggs Memorial",
       "circuit": "Stateline Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54794,7 +54794,7 @@
     {
       "id": 2255,
       "series": "woolm",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 13",
+      "name": "DIRTcar Nationals - Day 13",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54818,7 +54818,7 @@
     {
       "id": 2256,
       "series": "woolm",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 14",
+      "name": "DIRTcar Nationals - Day 14",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54842,7 +54842,7 @@
     {
       "id": 2257,
       "series": "woolm",
-      "name": "Federated Auto Parts DIRTcar Nationals - Day 15",
+      "name": "DIRTcar Nationals - Day 15",
       "circuit": "Volusia Speedway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -54954,7 +54954,7 @@
     {
       "id": 1604,
       "series": "enascar",
-      "name": "EchoPark",
+      "name": "Atlanta",
       "circuit": "EchoPark Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -55218,7 +55218,7 @@
     {
       "id": 1700,
       "series": "nhra",
-      "name": "Amalie Motor Oil NHRA Gatornationals",
+      "name": "NHRA Gatornationals",
       "circuit": "Gainesville Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -55306,7 +55306,7 @@
     {
       "id": 1701,
       "series": "nhra",
-      "name": "FMP NHRA Arizona Nationals",
+      "name": "NHRA Arizona Nationals",
       "circuit": "Wild Horse Pass Motorsports Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -55394,7 +55394,7 @@
     {
       "id": 1702,
       "series": "nhra",
-      "name": "Lucas Oil NHRA Winternationals",
+      "name": "NHRA Winternationals",
       "circuit": "In-N-Out Burger Pomona Dragstrip",
       "flag": "🇺🇸",
       "country": "USA",
@@ -55658,7 +55658,7 @@
     {
       "id": 1705,
       "series": "nhra",
-      "name": "Gerber Collision & Glass NHRA Nationals",
+      "name": "Route 66 NHRA Nationals",
       "circuit": "Route 66 Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -55985,7 +55985,7 @@
     {
       "id": 1707,
       "series": "nhra",
-      "name": "NHRA New England Nationals presented by bproauto",
+      "name": "NHRA New England Nationals",
       "circuit": "New England Dragway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -56182,7 +56182,7 @@
     {
       "id": 1708,
       "series": "nhra",
-      "name": "Super Grip NHRA Thunder Valley Nationals",
+      "name": "NHRA Thunder Valley Nationals",
       "circuit": "Bristol Dragway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -56464,7 +56464,7 @@
     {
       "id": 1709,
       "series": "nhra",
-      "name": "Summit Racing Equipment NHRA Nationals",
+      "name": "NHRA Norwalk Nationals",
       "circuit": "Summit Motorsports Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -56551,7 +56551,7 @@
     {
       "id": 1710,
       "series": "nhra",
-      "name": "Denso NHRA Sonoma Nationals",
+      "name": "NHRA Sonoma Nationals",
       "circuit": "Sonoma Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -56628,7 +56628,7 @@
     {
       "id": 1711,
       "series": "nhra",
-      "name": "Muckleshoot Resort Casino NHRA Northwest Nationals",
+      "name": "NHRA Northwest Nationals",
       "circuit": "Pacific Raceways",
       "flag": "🇺🇸",
       "country": "USA",
@@ -56783,7 +56783,7 @@
     {
       "id": 1713,
       "series": "nhra",
-      "name": "Cornwell Quality Tools NHRA U.S. Nationals",
+      "name": "NHRA U.S. Nationals",
       "circuit": "Lucas Oil Indianapolis Raceway Park",
       "flag": "🇺🇸",
       "country": "USA",
@@ -57014,7 +57014,7 @@
     {
       "id": 1716,
       "series": "nhra",
-      "name": "NAPA NHRA Midwest Nationals",
+      "name": "NHRA Midwest Nationals",
       "circuit": "World Wide Technology Raceway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -57247,7 +57247,7 @@
     {
       "id": 1719,
       "series": "nhra",
-      "name": "In-N-Out Burger NHRA Finals",
+      "name": "NHRA Finals",
       "circuit": "In-N-Out Burger Pomona Dragstrip",
       "flag": "🇺🇸",
       "country": "USA",
@@ -57324,7 +57324,7 @@
     {
       "id": 1800,
       "series": "igtc",
-      "name": "Meguiar's Bathurst 12 Hour",
+      "name": "Bathurst 12 Hour",
       "circuit": "Mount Panorama",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -57344,7 +57344,7 @@
     {
       "id": 1801,
       "series": "igtc",
-      "name": "ADAC RAVENOL 24h Nürburgring",
+      "name": "24h Nürburgring",
       "circuit": "Nürburgring Nordschleife",
       "flag": "🇩🇪",
       "country": "Germany",
@@ -57460,7 +57460,7 @@
     {
       "id": 1802,
       "series": "igtc",
-      "name": "CrowdStrike 24 Hours of Spa",
+      "name": "24 Hours of Spa",
       "circuit": "Circuit de Spa-Francorchamps",
       "flag": "🇧🇪",
       "country": "Belgium",
@@ -57748,7 +57748,7 @@
     {
       "id": 1903,
       "series": "gtwce",
-      "name": "CrowdStrike 24 Hours of Spa",
+      "name": "24 Hours of Spa",
       "circuit": "Circuit de Spa-Francorchamps",
       "flag": "🇧🇪",
       "country": "Belgium",
@@ -58888,7 +58888,7 @@
     {
       "id": 2004,
       "series": "elms",
-      "name": "Goodyear 4 Hours of Silverstone",
+      "name": "4 Hours of Silverstone",
       "circuit": "Silverstone Circuit",
       "flag": "🇬🇧",
       "country": "Great Britain",
@@ -63706,7 +63706,7 @@
     {
       "id": 2952,
       "series": "dtm",
-      "name": "DEKRA Lausitzring Sprint",
+      "name": "Lausitzring Sprint",
       "circuit": "Lausitzring",
       "flag": "🇩🇪",
       "country": "Germany",
@@ -73031,7 +73031,7 @@
     {
       "id": 5215,
       "series": "hsr",
-      "name": "IMSA Classic at Rolex 24",
+      "name": "IMSA Classic at Daytona",
       "circuit": "Daytona International Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -79271,7 +79271,7 @@
     {
       "id": 4900,
       "series": "supercars",
-      "name": "Tyrepower Tasmania Super 440",
+      "name": "Tasmania Super 440",
       "circuit": "Symmons Plains Raceway",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79426,7 +79426,7 @@
     {
       "id": 4901,
       "series": "supercars",
-      "name": "betr Darwin Triple Crown",
+      "name": "Darwin Triple Crown",
       "circuit": "Hidden Valley Raceway",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79554,7 +79554,7 @@
     {
       "id": 4902,
       "series": "supercars",
-      "name": "NTI Townsville 500",
+      "name": "Townsville 500",
       "circuit": "Townsville Street Circuit",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79634,7 +79634,7 @@
     {
       "id": 4904,
       "series": "supercars",
-      "name": "Century Batteries Ipswich Super 440",
+      "name": "Ipswich Super 440",
       "circuit": "Queensland Raceway",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79674,7 +79674,7 @@
     {
       "id": 4905,
       "series": "supercars",
-      "name": "AirTouch 500 at The Bend",
+      "name": "The Bend 500",
       "circuit": "The Bend Motorsport Park",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79714,7 +79714,7 @@
     {
       "id": 4906,
       "series": "supercars",
-      "name": "Repco Bathurst 1000",
+      "name": "Bathurst 1000",
       "circuit": "Mount Panorama",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79754,7 +79754,7 @@
     {
       "id": 4907,
       "series": "supercars",
-      "name": "Boost Mobile Gold Coast 500",
+      "name": "Gold Coast 500",
       "circuit": "Surfers Paradise Street Circuit",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79794,7 +79794,7 @@
     {
       "id": 4908,
       "series": "supercars",
-      "name": "Penrite Oil Sandown 500",
+      "name": "Sandown 500",
       "circuit": "Sandown International Raceway",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -79834,7 +79834,7 @@
     {
       "id": 4909,
       "series": "supercars",
-      "name": "bp Adelaide Grand Final",
+      "name": "Adelaide Grand Final",
       "circuit": "Adelaide Street Circuit",
       "flag": "🇦🇺",
       "country": "Australia",
@@ -88231,7 +88231,7 @@
     {
       "id": 5183,
       "series": "f4us",
-      "name": "New Jersey Lottery SpeedTour",
+      "name": "New Jersey SpeedTour",
       "circuit": "New Jersey Motorsports Park",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116084,7 +116084,7 @@
     {
       "id": 9701,
       "series": "pgatour",
-      "name": "Sony Open in Hawaii",
+      "name": "Waialae",
       "circuit": "Waialae Country Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116135,7 +116135,7 @@
     {
       "id": 9702,
       "series": "pgatour",
-      "name": "The American Express",
+      "name": "PGA West",
       "circuit": "PGA West (Stadium Course)",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116186,7 +116186,7 @@
     {
       "id": 9703,
       "series": "pgatour",
-      "name": "Farmers Insurance Open",
+      "name": "Torrey Pines",
       "circuit": "Torrey Pines (South Course)",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116237,7 +116237,7 @@
     {
       "id": 9704,
       "series": "pgatour",
-      "name": "WM Phoenix Open",
+      "name": "Phoenix Open",
       "circuit": "TPC Scottsdale",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116288,7 +116288,7 @@
     {
       "id": 9705,
       "series": "pgatour",
-      "name": "AT&T Pebble Beach Pro-Am",
+      "name": "Pebble Beach Pro-Am",
       "circuit": "Pebble Beach Golf Links",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116339,7 +116339,7 @@
     {
       "id": 9706,
       "series": "pgatour",
-      "name": "The Genesis Invitational",
+      "name": "Riviera",
       "circuit": "Riviera Country Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116390,7 +116390,7 @@
     {
       "id": 9707,
       "series": "pgatour",
-      "name": "Cognizant Classic in The Palm Beaches",
+      "name": "PGA National",
       "circuit": "PGA National (Champion Course)",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116441,7 +116441,7 @@
     {
       "id": 9708,
       "series": "pgatour",
-      "name": "Arnold Palmer Invitational presented by Mastercard",
+      "name": "Arnold Palmer Invitational",
       "circuit": "Bay Hill Club & Lodge",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116594,7 +116594,7 @@
     {
       "id": 9711,
       "series": "pgatour",
-      "name": "Valspar Championship",
+      "name": "Innisbrook",
       "circuit": "Innisbrook (Copperhead Course)",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116645,7 +116645,7 @@
     {
       "id": 9712,
       "series": "pgatour",
-      "name": "Texas Children's Houston Open",
+      "name": "Houston Open",
       "circuit": "Memorial Park Golf Course",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116696,7 +116696,7 @@
     {
       "id": 9713,
       "series": "pgatour",
-      "name": "Valero Texas Open",
+      "name": "Texas Open",
       "circuit": "TPC San Antonio (Oaks Course)",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116798,7 +116798,7 @@
     {
       "id": 9715,
       "series": "pgatour",
-      "name": "RBC Heritage",
+      "name": "Harbour Town",
       "circuit": "Harbour Town Golf Links",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116849,7 +116849,7 @@
     {
       "id": 9716,
       "series": "pgatour",
-      "name": "Zurich Classic of New Orleans",
+      "name": "TPC Louisiana",
       "circuit": "TPC Louisiana",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116900,7 +116900,7 @@
     {
       "id": 9717,
       "series": "pgatour",
-      "name": "Cadillac Championship",
+      "name": "Doral",
       "circuit": "Trump National Doral (Blue Monster)",
       "flag": "🇺🇸",
       "country": "United States",
@@ -116951,7 +116951,7 @@
     {
       "id": 9718,
       "series": "pgatour",
-      "name": "Truist Championship",
+      "name": "Quail Hollow",
       "circuit": "Quail Hollow Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117104,7 +117104,7 @@
     {
       "id": 9721,
       "series": "pgatour",
-      "name": "THE CJ CUP Byron Nelson",
+      "name": "Byron Nelson",
       "circuit": "TPC Craig Ranch",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117155,7 +117155,7 @@
     {
       "id": 9722,
       "series": "pgatour",
-      "name": "Charles Schwab Challenge",
+      "name": "Colonial",
       "circuit": "Colonial Country Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117206,7 +117206,7 @@
     {
       "id": 9723,
       "series": "pgatour",
-      "name": "the Memorial Tournament presented by Workday",
+      "name": "Memorial Tournament",
       "circuit": "Muirfield Village Golf Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117257,7 +117257,7 @@
     {
       "id": 9724,
       "series": "pgatour",
-      "name": "RBC Canadian Open",
+      "name": "Canadian Open",
       "circuit": "TPC Toronto at Osprey Valley",
       "flag": "🇨🇦",
       "country": "Canada",
@@ -117360,7 +117360,7 @@
     {
       "id": 9726,
       "series": "pgatour",
-      "name": "Travelers Championship",
+      "name": "TPC River Highlands",
       "circuit": "TPC River Highlands",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117411,7 +117411,7 @@
     {
       "id": 9727,
       "series": "pgatour",
-      "name": "John Deere Classic",
+      "name": "TPC Deere Run",
       "circuit": "TPC Deere Run",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117462,7 +117462,7 @@
     {
       "id": 9728,
       "series": "pgatour",
-      "name": "Genesis Scottish Open",
+      "name": "Scottish Open",
       "circuit": "The Renaissance Club",
       "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "country": "Scotland",
@@ -117513,7 +117513,7 @@
     {
       "id": 9729,
       "series": "pgatour",
-      "name": "ISCO Championship",
+      "name": "Hurstbourne",
       "circuit": "Hurstbourne Country Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117615,7 +117615,7 @@
     {
       "id": 9731,
       "series": "pgatour",
-      "name": "3M Open",
+      "name": "TPC Twin Cities",
       "circuit": "TPC Twin Cities",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117666,7 +117666,7 @@
     {
       "id": 9732,
       "series": "pgatour",
-      "name": "Rocket Classic",
+      "name": "Detroit Golf Club",
       "circuit": "Detroit Golf Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117717,7 +117717,7 @@
     {
       "id": 9733,
       "series": "pgatour",
-      "name": "Wyndham Championship",
+      "name": "Sedgefield",
       "circuit": "Sedgefield Country Club",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117768,7 +117768,7 @@
     {
       "id": 9734,
       "series": "pgatour",
-      "name": "FedEx St. Jude Championship",
+      "name": "TPC Southwind",
       "circuit": "TPC Southwind",
       "flag": "🇺🇸",
       "country": "United States",
@@ -117819,7 +117819,7 @@
     {
       "id": 9735,
       "series": "pgatour",
-      "name": "BMW Championship",
+      "name": "Bellerive",
       "circuit": "Bellerive Country Club",
       "flag": "🇺🇸",
       "country": "United States",
