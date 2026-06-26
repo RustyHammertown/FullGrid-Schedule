@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:28:22.169Z",
+  "generatedAt": "2026-06-26T01:01:32.894Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -562,6 +562,57 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/nascarcanadaseries/"
+        }
+      ]
+    },
+    "nascarmx": {
+      "schedule": [
+        {
+          "url": "https://www.nascar.mx/schedule/",
+          "label": "NASCAR México — official (calendar + winners; 403 to plain fetch, use cffetch.py)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.nascar.mx/schedule/",
+          "label": "NASCAR México — per-race \"Reporte\" + winners"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.nascar.mx/standings/",
+          "label": "NASCAR México — official (JS \"Live Timing\" widget, no static table)"
+        },
+        {
+          "url": "https://lapeando.com/standings?categoria=10",
+          "label": "lapeando.com (live-timing mirror, machine-readable points)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.nascar.mx/",
+          "label": "NASCAR México Series — official"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.nascar.mx/standings/",
+          "label": "NASCAR México — Live Timing"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/nascarmex/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://twitter.com/NASCARMex"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/NASCARmex/"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-25T21:28:21.233Z",
+  "generatedAt": "2026-06-26T01:01:31.452Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -533,6 +533,39 @@
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
       "fallbackMinutes": 90,
       "typicalLapSeconds": 35,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
+    },
+    "nascarmx": {
+      "id": "nascarmx",
+      "tags": [
+        "stock-car",
+        "national-series",
+        "north-america",
+        "ford",
+        "chevrolet",
+        "nascar"
+      ],
+      "group": "nascar",
+      "region": "americas",
+      "label": "NASCAR México Series",
+      "short": "MEX",
+      "color": "#006847",
+      "bg": "rgba(0,104,71,0.15)",
+      "broadcast": {
+        "MX": "Fox Sports Mexico",
+        "Global": "YouTube/nascarmexicoseries"
+      },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
+      "streamUrl": "https://www.youtube.com/@nascarmexicoseries/streams",
+      "resultsUrl": "https://www.nascar.mx/schedule/",
+      "fallbackMinutes": 90,
+      "typicalLapSeconds": 40,
       "unstreamedCategories": [
         "Practice",
         "Qualifying"

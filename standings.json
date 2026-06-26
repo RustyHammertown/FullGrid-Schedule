@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:28:19.288Z",
+  "generatedAt": "2026-06-26T01:01:32.167Z",
   "flat": {
     "pgatour": [
       {
@@ -883,6 +883,78 @@
         "points": 35,
         "team": "#96 Paillé Course//Racing",
         "vehicle": "Chevrolet Camaro"
+      }
+    ],
+    "nascarmx": [
+      {
+        "pos": 1,
+        "name": "Rubén García Jr.",
+        "points": 215,
+        "team": "#88 Team GP",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 2,
+        "name": "Eloy López",
+        "points": 199,
+        "team": "#9 Alpha Racing",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 3,
+        "name": "Alex de Alba",
+        "points": 198,
+        "team": "#14 AGA Racing Team",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 4,
+        "name": "Rubén Rovelo",
+        "points": 180,
+        "team": "#28 Alessandros Racing",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 5,
+        "name": "Rodrigo Rejón",
+        "points": 178,
+        "team": "#95 Prorally Mothers GGG",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 6,
+        "name": "Irwin Vences",
+        "points": 175,
+        "team": "#46 JV Motorsports",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 7,
+        "name": "Max Gutiérrez",
+        "points": 173,
+        "team": "#23 Team GP",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 8,
+        "name": "Germán Quiroga",
+        "points": 168,
+        "team": "#69 Car Motion",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 9,
+        "name": "Jake Cosío",
+        "points": 162,
+        "team": "#51 Dynamic Motorsports",
+        "vehicle": "Ford"
+      },
+      {
+        "pos": 10,
+        "name": "José Luis Ramírez",
+        "points": 158,
+        "team": "#08 Ramírez Racing",
+        "vehicle": "Ford"
       }
     ],
     "truck": [
@@ -11052,6 +11124,7 @@
     "gt4european": "2026-04-12",
     "f3": "2026-06-14",
     "nascarcanada": "2026-05-29",
+    "nascarmx": "2026-06-07",
     "mx5": "2026-03-01",
     "supercup": "2026-06-07",
     "xtrial": "2025-10-04",

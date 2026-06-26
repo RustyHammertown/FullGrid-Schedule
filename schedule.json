@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:28:18.186Z",
+  "generatedAt": "2026-06-26T01:01:30.765Z",
   "events": [
     {
       "id": 101,
@@ -67599,6 +67599,215 @@
         {
           "name": "WorldSSP Race 2",
           "time": "2026-10-18T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 4850,
+      "series": "nascarmx",
+      "name": "La Potosina 200",
+      "circuit": "Súper Óvalo Potosino",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-15T15:00:00-06:00",
+          "laps": 200
+        }
+      ]
+    },
+    {
+      "id": 4851,
+      "series": "nascarmx",
+      "name": "Chiapas 200",
+      "circuit": "Súper Óvalo Chiapas",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 2,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-03-29T15:00:00-06:00",
+          "laps": 200
+        }
+      ]
+    },
+    {
+      "id": 4852,
+      "series": "nascarmx",
+      "name": "Tulum 100",
+      "circuit": "Aeropuerto Internacional de Tulum",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Cancun",
+      "round": 3,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-04-26T15:00:00-05:00",
+          "laps": 100
+        }
+      ]
+    },
+    {
+      "id": 4853,
+      "series": "nascarmx",
+      "name": "La Poblana 75",
+      "circuit": "Autódromo Miguel E. Abed",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 4,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-05-17T15:00:00-06:00",
+          "laps": 75
+        }
+      ]
+    },
+    {
+      "id": 4854,
+      "series": "nascarmx",
+      "name": "Aguascalientes 250",
+      "circuit": "Óvalo Aguascalientes México",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 5,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-06-07T15:00:00-06:00",
+          "laps": 250
+        }
+      ]
+    },
+    {
+      "id": 4855,
+      "series": "nascarmx",
+      "name": "Querétaro",
+      "circuit": "Autódromo de Querétaro",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 6,
+      "sessions": [
+        {
+          "name": "Qualifying",
+          "time": "2026-06-27T11:00:00-06:00",
+          "duration": 80
+        },
+        {
+          "name": "Race",
+          "time": "2026-06-27T15:40:00-06:00",
+          "laps": 140
+        }
+      ]
+    },
+    {
+      "id": 4856,
+      "series": "nascarmx",
+      "name": "San Luis Potosí",
+      "circuit": "Súper Óvalo Potosino",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 7,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-02T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 4857,
+      "series": "nascarmx",
+      "name": "Puebla",
+      "circuit": "Autódromo Miguel E. Abed",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 8,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-08-23T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 4858,
+      "series": "nascarmx",
+      "name": "Monterrey",
+      "circuit": "Autódromo Monterrey",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Monterrey",
+      "round": 9,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-05T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 4859,
+      "series": "nascarmx",
+      "name": "Aguascalientes",
+      "circuit": "Óvalo Aguascalientes México",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 10,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-09-27T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 4860,
+      "series": "nascarmx",
+      "name": "Yucatán",
+      "circuit": "Súper Óvalo Mérida",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Merida",
+      "round": 11,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-10-18T06:00:00-06:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 4861,
+      "series": "nascarmx",
+      "name": "Ciudad de México",
+      "circuit": "Autódromo Hermanos Rodríguez",
+      "flag": "🇲🇽",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "round": 12,
+      "sessions": [
+        {
+          "name": "Race",
+          "time": "2026-11-08T06:00:00-06:00",
           "tbd": true
         }
       ]

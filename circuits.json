@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-25T21:28:20.263Z",
+  "generatedAt": "2026-06-26T01:01:34.256Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -44,6 +44,60 @@
       "city": "Mexico City",
       "website": "https://autodromohermanosrodriguez.mx",
       "length_m": 4304
+    },
+    "Autódromo Miguel E. Abed": {
+      "lat": 19.03,
+      "lon": -97.9881,
+      "city": "Amozoc",
+      "region": "Puebla",
+      "length_m": 3363
+    },
+    "Autódromo de Querétaro": {
+      "lat": 20.5864,
+      "lon": -100.3281,
+      "city": "El Marqués",
+      "region": "Querétaro",
+      "length_m": 1283
+    },
+    "Autódromo Monterrey": {
+      "lat": 25.8561,
+      "lon": -100.2172,
+      "city": "Apodaca",
+      "region": "Nuevo León",
+      "length_m": 3200
+    },
+    "Súper Óvalo Potosino": {
+      "lat": 22.0914,
+      "lon": -100.7256,
+      "city": "San Luis Potosí",
+      "region": "San Luis Potosí",
+      "length_m": 804
+    },
+    "Súper Óvalo Chiapas": {
+      "lat": 16.7787,
+      "lon": -93.2507,
+      "city": "Tuxtla Gutiérrez",
+      "region": "Chiapas",
+      "length_m": 1210
+    },
+    "Óvalo Aguascalientes México": {
+      "lat": 21.7231,
+      "lon": -102.3275,
+      "city": "Aguascalientes",
+      "region": "Aguascalientes",
+      "length_m": 1408
+    },
+    "Aeropuerto Internacional de Tulum": {
+      "lat": 20.1721,
+      "lon": -87.6603,
+      "city": "Tulum",
+      "region": "Quintana Roo"
+    },
+    "Súper Óvalo Mérida": {
+      "lat": 20.9674,
+      "lon": -89.6237,
+      "city": "Mérida",
+      "region": "Yucatán"
     },
     "Autodromo Internazionale del Mugello": {
       "lat": 43.9975,
