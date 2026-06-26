@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T08:47:43.459Z",
+  "generatedAt": "2026-06-26T15:33:48.591Z",
   "events": [
     {
       "id": 101,
@@ -34791,6 +34791,9 @@
           "time": "2026-03-17T12:00:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34801,6 +34804,9 @@
           "time": "2026-03-18T12:00:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34823,6 +34829,9 @@
           "time": "2026-04-18T12:00:00-07:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34833,6 +34842,9 @@
           "time": "2026-04-19T12:00:00-07:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34870,6 +34882,9 @@
           "time": "2026-05-02T14:50:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34880,6 +34895,9 @@
           "time": "2026-05-03T11:10:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34917,6 +34935,9 @@
           "time": "2026-06-26T15:00:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34927,6 +34948,9 @@
           "time": "2026-06-27T09:05:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34964,6 +34988,9 @@
           "time": "2026-07-31T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -34974,6 +35001,9 @@
           "time": "2026-08-01T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -35011,6 +35041,9 @@
           "time": "2026-09-18T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -35021,6 +35054,9 @@
           "time": "2026-09-19T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -35058,6 +35094,9 @@
           "time": "2026-10-01T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -35068,6 +35107,9 @@
           "time": "2026-10-02T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -35105,6 +35147,9 @@
           "time": "2026-10-24T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -35115,6 +35160,9 @@
           "time": "2026-10-25T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79865,6 +79913,9 @@
           "time": "2026-03-07T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79875,6 +79926,9 @@
           "time": "2026-03-08T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79897,6 +79951,9 @@
           "time": "2026-03-28T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79907,6 +79964,9 @@
           "time": "2026-03-29T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79929,6 +79989,9 @@
           "time": "2026-04-11T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79939,6 +80002,9 @@
           "time": "2026-04-12T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79961,6 +80027,9 @@
           "time": "2026-05-08T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -79971,6 +80040,9 @@
           "time": "2026-05-09T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80008,6 +80080,9 @@
           "time": "2026-06-20T13:50:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80018,6 +80093,9 @@
           "time": "2026-06-21T09:35:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80048,6 +80126,9 @@
           "time": "2026-06-20T15:50:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80058,6 +80139,9 @@
           "time": "2026-06-21T12:55:00-04:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80095,6 +80179,9 @@
           "time": "2026-08-15T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80105,6 +80192,9 @@
           "time": "2026-08-16T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80142,6 +80232,9 @@
           "time": "2026-09-12T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80152,6 +80245,9 @@
           "time": "2026-09-13T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80174,6 +80270,9 @@
           "time": "2026-02-07T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80184,6 +80283,9 @@
           "time": "2026-02-08T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80206,6 +80308,9 @@
           "time": "2026-04-11T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80216,6 +80321,9 @@
           "time": "2026-04-12T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80238,6 +80346,9 @@
           "time": "2026-05-08T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80248,6 +80359,9 @@
           "time": "2026-05-09T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80270,6 +80384,9 @@
           "time": "2026-05-29T08:40:00-07:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80280,6 +80397,9 @@
           "time": "2026-05-29T12:50:00-07:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80290,6 +80410,9 @@
           "time": "2026-05-30T08:30:00-07:00",
           "duration": 20,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80300,6 +80423,9 @@
           "time": "2026-05-30T13:15:00-07:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80310,6 +80436,9 @@
           "time": "2026-05-31T13:15:00-07:00",
           "duration": 40,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80347,6 +80476,9 @@
           "time": "2026-08-15T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80357,6 +80489,9 @@
           "time": "2026-08-16T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80394,6 +80529,9 @@
           "time": "2026-09-05T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80404,6 +80542,9 @@
           "time": "2026-09-06T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80426,6 +80567,9 @@
           "time": "2026-03-07T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80448,6 +80592,9 @@
           "time": "2026-04-11T05:00:00-07:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80470,6 +80617,9 @@
           "time": "2026-08-15T07:00:00-05:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
@@ -80492,6 +80642,9 @@
           "time": "2026-09-12T08:00:00-04:00",
           "tbd": true,
           "broadcasts": {
+            "US": {
+              "service": "Peacock"
+            },
             "Global": {
               "service": "YouTube/PorscheMotorsportNorthAmerica"
             }
