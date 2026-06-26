@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T15:40:25.093Z",
+  "generatedAt": "2026-06-26T15:45:52.132Z",
   "events": [
     {
       "id": 101,
@@ -56510,9 +56510,9 @@
       "round": 10,
       "sessions": [
         {
-          "name": "Qualifying Day 1",
-          "time": "2026-06-26T11:45:00-04:00",
-          "duration": 255,
+          "name": "Top Fuel Qualifying 1",
+          "time": "2026-06-26T12:30:00-04:00",
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "NHRA.tv"
@@ -56520,9 +56520,19 @@
           }
         },
         {
-          "name": "Qualifying Day 2",
+          "name": "Top Fuel Qualifying 2",
+          "time": "2026-06-26T15:00:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Top Fuel Qualifying 3",
           "time": "2026-06-27T12:00:00-04:00",
-          "duration": 265,
+          "duration": 45,
           "broadcasts": {
             "US": {
               "service": "NHRA.tv"
@@ -56530,9 +56540,149 @@
           }
         },
         {
-          "name": "Eliminations",
-          "time": "2026-06-28T19:00:00-04:00",
-          "duration": 180,
+          "name": "Top Fuel Qualifying 4",
+          "time": "2026-06-27T14:30:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 1",
+          "time": "2026-06-26T12:30:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 2",
+          "time": "2026-06-26T15:00:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 3",
+          "time": "2026-06-27T12:40:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Funny Car Qualifying 4",
+          "time": "2026-06-27T15:10:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 1",
+          "time": "2026-06-26T11:45:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 2",
+          "time": "2026-06-26T14:15:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 3",
+          "time": "2026-06-27T13:15:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Qualifying 4",
+          "time": "2026-06-27T15:40:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Motorcycle Qualifying 1",
+          "time": "2026-06-26T11:45:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Motorcycle Qualifying 2",
+          "time": "2026-06-26T14:15:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Motorcycle Qualifying 3",
+          "time": "2026-06-27T13:40:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Pro Stock Motorcycle Qualifying 4",
+          "time": "2026-06-27T16:05:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Live",
+          "time": "2026-06-28T11:00:00-04:00",
+          "duration": 240,
+          "broadcasts": {
+            "US": {
+              "service": "NHRA.tv"
+            }
+          }
+        },
+        {
+          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Broadcast",
+          "time": "2026-06-28T17:30:00-04:00",
+          "duration": 210,
           "broadcasts": {
             "CA": {
               "service": "FOX Sports Racing"
