@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T01:02:11.381Z",
+  "generatedAt": "2026-06-26T01:27:42.752Z",
   "events": [
     {
       "id": 101,
@@ -67614,8 +67614,23 @@
       "round": 1,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-03-14T10:00:00-06:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-14T13:10:00-06:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-14T14:40:00-06:00",
+          "duration": 25
+        },
+        {
           "name": "Race",
-          "time": "2026-03-15T15:00:00-06:00",
+          "time": "2026-03-15T13:40:00-06:00",
           "laps": 200
         }
       ]
@@ -67631,8 +67646,18 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Practice",
+          "time": "2026-03-28T13:00:00-06:00",
+          "duration": 100
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-28T15:10:00-06:00",
+          "duration": 25
+        },
+        {
           "name": "Race",
-          "time": "2026-03-29T15:00:00-06:00",
+          "time": "2026-03-29T13:40:00-06:00",
           "laps": 200
         }
       ]
@@ -67648,9 +67673,19 @@
       "round": 3,
       "sessions": [
         {
+          "name": "Final Practice",
+          "time": "2026-04-25T17:10:00-05:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-04-25T21:00:00-05:00",
+          "duration": 50
+        },
+        {
           "name": "Race",
-          "time": "2026-04-26T15:00:00-05:00",
-          "laps": 100
+          "time": "2026-04-26T18:30:00-05:00",
+          "duration": 60
         }
       ]
     },
@@ -67665,9 +67700,24 @@
       "round": 4,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-05-16T10:35:00-06:00",
+          "duration": 25
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-16T13:00:00-06:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-16T14:10:00-06:00",
+          "duration": 30
+        },
+        {
           "name": "Race",
-          "time": "2026-05-17T15:00:00-06:00",
-          "laps": 75
+          "time": "2026-05-17T13:50:00-06:00",
+          "duration": 75
         }
       ]
     },
@@ -67682,9 +67732,24 @@
       "round": 5,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-06-06T10:00:00-06:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-06T13:00:00-06:00",
+          "duration": 60
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T14:30:00-06:00",
+          "duration": 25
+        },
+        {
           "name": "Race",
-          "time": "2026-06-07T15:00:00-06:00",
-          "laps": 250
+          "time": "2026-06-07T13:40:00-06:00",
+          "laps": 170
         }
       ]
     },
@@ -67698,6 +67763,16 @@
       "tz": "America/Mexico_City",
       "round": 6,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-26T14:30:00-06:00",
+          "duration": 60
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-26T16:30:00-06:00",
+          "duration": 60
+        },
         {
           "name": "Qualifying",
           "time": "2026-06-27T11:00:00-06:00",
@@ -67721,6 +67796,21 @@
       "round": 7,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-08-02T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-02T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-02T06:00:00-06:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-08-02T06:00:00-06:00",
           "tbd": true
@@ -67737,6 +67827,21 @@
       "tz": "America/Mexico_City",
       "round": 8,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-23T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-23T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-23T06:00:00-06:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-08-23T06:00:00-06:00",
@@ -67755,6 +67860,21 @@
       "round": 9,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-09-05T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-05T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T06:00:00-06:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-09-05T06:00:00-06:00",
           "tbd": true
@@ -67771,6 +67891,21 @@
       "tz": "America/Mexico_City",
       "round": 10,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-27T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-27T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-27T06:00:00-06:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-09-27T06:00:00-06:00",
@@ -67789,6 +67924,21 @@
       "round": 11,
       "sessions": [
         {
+          "name": "Practice 1",
+          "time": "2026-10-18T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-18T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-18T06:00:00-06:00",
+          "tbd": true
+        },
+        {
           "name": "Race",
           "time": "2026-10-18T06:00:00-06:00",
           "tbd": true
@@ -67805,6 +67955,21 @@
       "tz": "America/Mexico_City",
       "round": 12,
       "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-08T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-08T06:00:00-06:00",
+          "tbd": true
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-08T06:00:00-06:00",
+          "tbd": true
+        },
         {
           "name": "Race",
           "time": "2026-11-08T06:00:00-06:00",

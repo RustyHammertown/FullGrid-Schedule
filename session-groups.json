@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T01:02:16.792Z",
+  "generatedAt": "2026-06-26T01:27:44.214Z",
   "groups": {
     "formuladrift": [
       {
@@ -1310,7 +1310,8 @@
         "sessions": [
           "Practice",
           "Practice 1",
-          "Practice 2"
+          "Practice 2",
+          "Final Practice"
         ]
       },
       {
