@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-26T19:16:28.808Z",
+  "generatedAt": "2026-06-26T19:20:12.212Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -502,8 +502,16 @@
       "broadcast": {
         "Global": "FloRacing"
       },
+      "notTelevisedCategories": [
+        "Practice",
+        "Qualifying"
+      ],
       "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West",
-      "typicalLapSeconds": 35
+      "typicalLapSeconds": 35,
+      "unstreamedCategories": [
+        "Practice",
+        "Qualifying"
+      ]
     },
     "nascarcanada": {
       "id": "nascarcanada",
