@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T01:28:19.284Z",
+  "generatedAt": "2026-06-26T01:45:47.923Z",
   "events": [
     {
       "id": 101,
@@ -46381,8 +46381,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T09:00:00-03:00",
-          "tbd": true
+          "time": "2026-06-27T17:30:00-03:00",
+          "duration": 30
         },
         {
           "name": "Race",
