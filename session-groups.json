@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-26T19:06:26.923Z",
+  "generatedAt": "2026-06-26T19:15:20.420Z",
   "groups": {
     "formuladrift": [
       {
@@ -926,7 +926,6 @@
           "TA/TAC/GT Practice",
           "TA Sprint Practice",
           "TA/TAC/GT Classes Practice",
-          "CUBE 3 Architecture TA2® Series Practice",
           "TA/GT Testing 1",
           "TA/GT Testing 2",
           "TA2 Testing 1",
@@ -945,9 +944,7 @@
           "XGT/SGT/GT Qualifying",
           "TA Sprint Qualifying",
           "TA/GT1/TAC Classes Qualifying",
-          "XGT/SGT/GT Classes Qualifying",
-          "CUBE 3 Architecture TA2® Series Pro/Am Qualifying",
-          "CUBE 3 Architecture TA2® Series Pro Qualifying"
+          "XGT/SGT/GT Classes Qualifying"
         ]
       }
     ],
