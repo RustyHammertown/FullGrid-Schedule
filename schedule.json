@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T20:40:48.580Z",
+  "generatedAt": "2026-06-27T20:44:32.424Z",
   "events": [
     {
       "id": 101,
@@ -32785,8 +32785,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T18:25:00-04:00",
-          "duration": 75,
+          "time": "2026-06-27T18:20:00-04:00",
+          "duration": 80,
           "broadcasts": {
             "US": {
               "service": "Peacock"
