@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T20:45:26.654Z",
+  "generatedAt": "2026-06-27T21:09:08.755Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -1064,8 +1064,8 @@
       ],
       "results": [
         {
-          "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
-          "label": "Squadra Corse — Super Trofeo (official)"
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/north-america",
+          "label": "Lamborghini Super Trofeo NA — official"
         }
       ],
       "website": [
@@ -3794,8 +3794,8 @@
       ],
       "results": [
         {
-          "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
-          "label": "Squadra Corse — Super Trofeo"
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/europe",
+          "label": "Lamborghini Super Trofeo Europe — official"
         }
       ],
       "website": [
@@ -3818,8 +3818,8 @@
       ],
       "results": [
         {
-          "url": "https://squadracorse.lamborghini.com/en/super-trofeo",
-          "label": "Squadra Corse — Super Trofeo"
+          "url": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/asia",
+          "label": "Lamborghini Super Trofeo Asia — official"
         }
       ],
       "website": [

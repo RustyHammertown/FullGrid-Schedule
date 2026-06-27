@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-27T20:45:25.664Z",
+  "generatedAt": "2026-06-27T21:09:07.990Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -815,7 +815,7 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://squadracorse.lamborghini.com/en/super-trofeo",
+      "resultsUrl": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/north-america",
       "fallbackMinutes": 50,
       "unstreamedCategories": [
         "Practice",
@@ -846,7 +846,7 @@
         "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@LamborghiniSquadraCorse/streams",
-      "resultsUrl": "https://squadracorse.lamborghini.com/en/super-trofeo",
+      "resultsUrl": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/europe",
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -876,7 +876,7 @@
         "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@LamborghiniSquadraCorse/streams",
-      "resultsUrl": "https://squadracorse.lamborghini.com/en/super-trofeo",
+      "resultsUrl": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/asia",
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
