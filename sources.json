@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T21:41:47.975Z",
+  "generatedAt": "2026-06-27T21:51:02.249Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -1075,7 +1075,7 @@
       ],
       "liveTiming": [
         {
-          "url": "http://lamborghinisupertrofeo.alkamelsystems.com/"
+          "url": "https://www.imsa.com/scoring/"
         }
       ]
     },
