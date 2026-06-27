@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T20:37:38.886Z",
+  "generatedAt": "2026-06-27T20:39:01.917Z",
   "events": [
     {
       "id": 101,
@@ -19088,7 +19088,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19098,7 +19098,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19108,7 +19108,7 @@
           "laps": 110,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         }
@@ -19130,7 +19130,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19140,7 +19140,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19150,7 +19150,7 @@
           "laps": 200,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         }
@@ -19172,7 +19172,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19182,7 +19182,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19192,7 +19192,7 @@
           "laps": 260,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         }
@@ -19214,7 +19214,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19224,7 +19224,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19234,7 +19234,7 @@
           "laps": 450,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         }
@@ -19256,7 +19256,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19266,7 +19266,7 @@
           "tbd": true,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         },
@@ -19276,7 +19276,7 @@
           "laps": 160,
           "broadcasts": {
             "US": {
-              "service": "TNT"
+              "service": "TNT / HBO Max"
             }
           }
         }
