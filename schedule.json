@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T20:39:01.917Z",
+  "generatedAt": "2026-06-27T20:39:47.765Z",
   "events": [
     {
       "id": 101,
@@ -32785,7 +32785,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T18:10:00-04:00",
+          "time": "2026-06-27T18:25:00-04:00",
           "duration": 75,
           "broadcasts": {
             "US": {
