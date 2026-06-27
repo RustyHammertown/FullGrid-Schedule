@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-27T22:07:08.409Z",
+  "generatedAt": "2026-06-27T22:14:52.511Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3845,7 +3845,7 @@
       "id": "worldcup",
       "tags": [
         "north-america",
-        "special-event"
+        "non-motorsports"
       ],
       "group": "special",
       "label": "World Cup 2026",
@@ -3861,7 +3861,7 @@
     "pgatour": {
       "id": "pgatour",
       "tags": [
-        "special-event",
+        "non-motorsports",
         "north-america"
       ],
       "group": "special",

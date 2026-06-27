@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-06-27T22:07:11.484Z",
+  "generatedAt": "2026-06-27T22:14:53.422Z",
   "groups": [
     {
       "id": "bikes",
@@ -80,7 +80,7 @@
     },
     {
       "id": "special",
-      "label": "Non-motorsports Events",
+      "label": "Non-Motorsports Events",
       "regional": false
     },
     {
