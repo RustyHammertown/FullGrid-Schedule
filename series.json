@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-27T19:10:39.484Z",
+  "generatedAt": "2026-06-27T19:32:38.626Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -352,7 +352,7 @@
         "BR": "ESPN / PicPay / X Sports",
         "Global": "NASCAR.com"
       },
-      "resultsUrl": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
+      "resultsUrl": "https://www.nascar.com/results/nascar-cup-series/",
       "fallbackMinutes": 200,
       "typicalLapSeconds": 60
     },
@@ -382,7 +382,7 @@
         "NZ": "ThreeNow",
         "Global": "Check local listings"
       },
-      "resultsUrl": "https://www.nascar.com/nascar-oreilly-auto-parts-series/2026/schedule",
+      "resultsUrl": "https://www.nascar.com/results/nascar-oreilly-auto-parts-series/",
       "fallbackMinutes": 150,
       "typicalLapSeconds": 55
     },
@@ -420,7 +420,7 @@
           "service": "Check local listings"
         }
       },
-      "resultsUrl": "https://www.nascar.com/nascar-craftsman-truck-series/2026/schedule",
+      "resultsUrl": "https://www.nascar.com/results/nascar-craftsman-truck-series/",
       "fallbackMinutes": 120,
       "typicalLapSeconds": 55
     },
@@ -449,7 +449,7 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series",
+      "resultsUrl": "https://www.arcaracing.com/race-center-ams/",
       "fallbackMinutes": 90,
       "typicalLapSeconds": 45,
       "unstreamedCategories": [
@@ -478,7 +478,7 @@
       "broadcast": {
         "Global": "FloRacing"
       },
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_East",
+      "resultsUrl": "https://www.arcaracing.com/race-center-arca-menards-series-east/",
       "typicalLapSeconds": 35
     },
     "arcawest": {
@@ -506,7 +506,7 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_ARCA_Menards_Series_West",
+      "resultsUrl": "https://www.arcaracing.com/race-center-arca-menards-series-west/",
       "typicalLapSeconds": 35,
       "unstreamedCategories": [
         "Practice",
@@ -538,7 +538,7 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Canada_Series",
+      "resultsUrl": "https://www.nascar.ca/schedule/",
       "fallbackMinutes": 90,
       "typicalLapSeconds": 35,
       "unstreamedCategories": [
@@ -602,7 +602,7 @@
         "Qualifying",
         "Warmup"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_NASCAR_Whelen_Modified_Tour",
+      "resultsUrl": "https://www.nascar.com/nascar-whelen-modified-tour-schedule/",
       "fallbackMinutes": 75,
       "typicalLapSeconds": 25,
       "unstreamedCategories": [
@@ -752,7 +752,7 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Michelin_Pilot_Challenge",
+      "resultsUrl": "https://www.imsa.com/michelinpilotchallenge/results/",
       "fallbackMinutes": 120,
       "unstreamedCategories": [
         "Practice",
@@ -784,7 +784,7 @@
         "Practice",
         "Qualifying"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_IMSA_VP_Racing_SportsCar_Challenge",
+      "resultsUrl": "https://www.imsa.com/vpracingsportscarchallenge/results/",
       "fallbackMinutes": 60,
       "unstreamedCategories": [
         "Practice",
@@ -906,7 +906,7 @@
         "Qualifying",
         "Warmup"
       ],
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup",
+      "resultsUrl": "https://www.mx-5cup.com/results",
       "fallbackMinutes": 35,
       "unstreamedCategories": [
         "Practice",
@@ -3286,7 +3286,7 @@
         "Global": "YouTube/BritishF4"
       },
       "streamUrl": "https://www.youtube.com/@BritishF4/streams",
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_F4_British_Championship",
+      "resultsUrl": "https://fiaformula4.com/results/",
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"
@@ -3441,7 +3441,7 @@
         "Qualifying"
       ],
       "streamUrl": "https://racing.porsche.com/en-GB/series/carrera-cup-great-britain",
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Great_Britain",
+      "resultsUrl": "https://racing.porsche.com/en-GB/porsche-carrera-cup-great-britain/season-standings-2026",
       "unstreamedCategories": [
         "Practice",
         "Qualifying"
@@ -3753,7 +3753,7 @@
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTOPENseries/streams",
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_International_GT_Open",
+      "resultsUrl": "https://gtopen.gtsport.es/resultados",
       "unstreamedCategories": [
         "Practice"
       ]
@@ -3780,7 +3780,7 @@
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@EuroFormulaOpen/streams",
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Euroformula_Open_Championship",
+      "resultsUrl": "https://euroformula.gtsport.es/resultados",
       "unstreamedCategories": [
         "Practice"
       ]
@@ -3806,7 +3806,7 @@
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTCupOpenSeries/streams",
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_GT_Cup_Open_Europe",
+      "resultsUrl": "https://gtcup.gtsport.es/resultados",
       "unstreamedCategories": [
         "Practice"
       ]
@@ -3835,7 +3835,7 @@
         "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@PorscheCarreraCupDeutschland/streams",
-      "resultsUrl": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Germany",
+      "resultsUrl": "https://racing.porsche.com/carrera-cup-deutschland/ergebnisse",
       "unstreamedCategories": [
         "Practice",
         "Qualifying"

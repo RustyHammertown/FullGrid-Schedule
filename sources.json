@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T19:10:40.361Z",
+  "generatedAt": "2026-06-27T19:32:39.433Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -1181,8 +1181,8 @@
       ],
       "standings": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Asia",
-          "label": "Wikipedia — 2026 standings"
+          "url": "https://www.carreracupasia.com/en/",
+          "label": "Official 2026 standings"
         }
       ],
       "website": [
@@ -1235,8 +1235,8 @@
       ],
       "standings": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Benelux",
-          "label": "Wikipedia — 2026 standings"
+          "url": "https://racing.porsche.com/carrera-cup-benelux-results-and-standings",
+          "label": "Official 2026 standings"
         }
       ],
       "website": [
@@ -1295,8 +1295,8 @@
       ],
       "standings": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_France",
-          "label": "Wikipedia — 2026 standings"
+          "url": "https://racing.porsche.com/fr-FR/series/carrera-cup-france",
+          "label": "Official 2026 standings"
         }
       ],
       "website": [
@@ -1369,8 +1369,8 @@
       ],
       "standings": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Carrera_Cup_Japan",
-          "label": "Wikipedia — 2026 standings"
+          "url": "https://racing.porsche.com/series/carrera-cup-japan",
+          "label": "Official 2026 standings"
         }
       ],
       "website": [
@@ -3371,20 +3371,20 @@
     "worldcup": {
       "schedule": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
-          "label": "FIFA World Cup 2026 — fixtures (Wikipedia)"
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "label": "Official fixtures (FIFA)"
         }
       ],
       "standings": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_group_stage",
-          "label": "Group standings + results (Wikipedia)"
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/standings",
+          "label": "Official group standings (FIFA)"
         }
       ],
       "results": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
-          "label": "FIFA World Cup 2026 (Wikipedia)"
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "label": "Official scores (FIFA)"
         }
       ],
       "website": [
@@ -3902,8 +3902,8 @@
       ],
       "standings": [
         {
-          "url": "https://en.wikipedia.org/wiki/2026_Porsche_Supercup",
-          "label": "Wikipedia — 2026 standings"
+          "url": "https://racing.porsche.com/mobil-1-supercup/results-season-2026",
+          "label": "Official 2026 standings"
         }
       ],
       "results": [
