@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-27T21:19:09.446Z",
+  "generatedAt": "2026-06-27T21:32:29.622Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1179,7 +1179,7 @@
       "broadcast": {
         "Global": "YouTube/PorscheCupBrasil"
       },
-      "resultsUrl": "https://www.porschegt3cup.com.br/resultados",
+      "resultsUrl": "https://www.porschegt3cup.com.br/resultados/",
       "notTelevisedCategories": [
         "Practice",
         "Qualifying"
@@ -2498,7 +2498,7 @@
         "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@adacmotorsports/streams",
-      "resultsUrl": "https://www.adac-motorsport.de/bmw-m2-cup/results/2026/",
+      "resultsUrl": "https://www.adac-motorsport.de/bmw-m2-cup/rankings/2026/",
       "unstreamedCategories": [
         "Practice"
       ]

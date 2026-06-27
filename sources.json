@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T21:19:10.416Z",
+  "generatedAt": "2026-06-27T21:32:30.408Z",
   "sources": {
     "fdjapan": {
       "schedule": [
@@ -698,8 +698,8 @@
       ],
       "results": [
         {
-          "url": "https://www.fiaformula2.com/Results",
-          "label": "Per-round results (raceid query param)"
+          "url": "https://www.fiaformula2.com/Calendar",
+          "label": "Calendar & Results — official"
         }
       ],
       "standings": [
@@ -1254,7 +1254,7 @@
       ],
       "results": [
         {
-          "url": "https://www.porschegt3cup.com.br/resultados",
+          "url": "https://www.porschegt3cup.com.br/resultados/",
           "label": "Porsche Cup Brasil — official"
         }
       ],
@@ -1289,8 +1289,8 @@
       ],
       "results": [
         {
-          "url": "https://porsche-carrera-cup-france.fr/en/newsroom/actualites/",
-          "label": "Carrera Cup France — results PDFs"
+          "url": "https://racing.porsche.com/fr-FR/series/carrera-cup-france",
+          "label": "Carrera Cup France — Porsche Motorsport Hub"
         }
       ],
       "standings": [
@@ -2043,8 +2043,8 @@
       ],
       "results": [
         {
-          "url": "https://www.adac-motorsport.de/bmw-m2-cup/results/2026/",
-          "label": "Live once the season starts (Jun 19)"
+          "url": "https://www.adac-motorsport.de/bmw-m2-cup/rankings/2026/",
+          "label": "ADAC BMW M2 Cup — standings/results (official)"
         }
       ],
       "standings": [
@@ -4637,7 +4637,7 @@
     "igtopen": {
       "schedule": [
         {
-          "url": "https://www.gtopenseries.com/",
+          "url": "https://gtopen.gtsport.es/",
           "label": "International GT Open — official"
         },
         {
@@ -4647,7 +4647,7 @@
       ],
       "results": [
         {
-          "url": "https://www.gtopenseries.com/",
+          "url": "https://gtopen.gtsport.es/",
           "label": "International GT Open — official"
         },
         {
