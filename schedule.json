@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T21:33:22.185Z",
+  "generatedAt": "2026-06-27T21:40:54.506Z",
   "events": [
     {
       "id": 101,
@@ -38182,7 +38182,6 @@
           "name": "Race",
           "time": "2025-12-06T14:05:00-03:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/sao-paulo",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38286,7 +38285,6 @@
           "name": "Race",
           "time": "2026-01-10T14:05:00-06:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/mexico-city",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38390,7 +38388,6 @@
           "name": "Race",
           "time": "2026-01-31T14:05:00-05:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/miami",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38494,7 +38491,6 @@
           "name": "Race",
           "time": "2026-02-13T20:05:00+03:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/jeddah/round-4",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38588,7 +38584,6 @@
           "name": "Race",
           "time": "2026-02-14T20:05:00+03:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/jeddah/round-5",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38692,7 +38687,6 @@
           "name": "Race",
           "time": "2026-03-21T15:05:00+01:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/madrid",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38796,7 +38790,6 @@
           "name": "Race",
           "time": "2026-05-02T16:05:00+02:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/berlin/round-7",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
@@ -38890,7 +38883,6 @@
           "name": "Race",
           "time": "2026-05-03T16:05:00+02:00",
           "duration": 50,
-          "resultsUrl": "https://www.fiaformulae.com/en/results/2025-26/berlin/round-8",
           "broadcasts": {
             "US": {
               "service": "The Roku Channel"
