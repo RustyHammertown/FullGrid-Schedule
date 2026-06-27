@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-27T22:15:52.028Z",
+  "generatedAt": "2026-06-27T22:58:07.049Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -160,6 +160,36 @@
         "race": 40
       },
       "typicalLapSeconds": 95,
+      "classGrid": true
+    },
+    "motoamerica": {
+      "id": "motoamerica",
+      "tags": [
+        "motorcycle",
+        "superbike",
+        "supersport",
+        "national-series",
+        "north-america",
+        "ama",
+        "fim"
+      ],
+      "group": "bikes",
+      "region": "americas",
+      "label": "MotoAmerica",
+      "short": "MotoAmerica",
+      "color": "#1C2C5B",
+      "bg": "rgba(28,44,91,0.15)",
+      "broadcast": {
+        "US": "MotoAmerica Live+",
+        "Global": "MotoAmerica Live+"
+      },
+      "streamUrl": "https://www.youtube.com/@motoamerica/streams",
+      "resultsUrl": "https://results.motoamerica.com/",
+      "fallbackMinutes": {
+        "sprint": 20,
+        "race": 35
+      },
+      "typicalLapSeconds": 100,
       "classGrid": true
     },
     "supercross": {

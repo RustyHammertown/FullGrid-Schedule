@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T22:15:53.001Z",
+  "generatedAt": "2026-06-27T22:58:08.847Z",
   "sources": {
+    "motoamerica": {
+      "schedule": [
+        {
+          "url": "https://www.motoamerica.com/schedule/",
+          "label": "MotoAmerica — official schedule"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://results.motoamerica.com/",
+          "label": "MotoAmerica — official results & timing"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.motoamerica.com/standings/",
+          "label": "MotoAmerica — championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.motoamerica.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://livetiming.motoamerica.com/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/MotoAmerica/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/motoamerica"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/MotoAmerica/"
+        }
+      ]
+    },
     "fdjapan": {
       "schedule": [
         {

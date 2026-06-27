@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T22:15:51.077Z",
+  "generatedAt": "2026-06-27T22:58:09.685Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -781,6 +781,14 @@
       "region": "Alabama",
       "website": "https://www.barbermotorsports.com",
       "length_m": 3825
+    },
+    "Ridge Motorsports Park": {
+      "lat": 47.2417,
+      "lon": -123.1936,
+      "city": "Shelton",
+      "region": "Washington",
+      "website": "https://www.ridgemotorsportspark.com",
+      "length_m": 4023
     },
     "NOLA Motorsports Park": {
       "lat": 29.8836,

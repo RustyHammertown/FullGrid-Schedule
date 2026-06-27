@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T22:15:53.956Z",
+  "generatedAt": "2026-06-27T22:58:10.505Z",
   "groups": {
     "formuladrift": [
       {
@@ -270,6 +270,133 @@
           "WorldWCR Warm Up",
           "WorldWCR Race 1",
           "WorldWCR Race 2"
+        ]
+      }
+    ],
+    "motoamerica": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Superbike Free Practice 1",
+          "Superbike Free Practice 2",
+          "Superbike Free Practice 3",
+          "Supersport Practice 1",
+          "Supersport Practice 2",
+          "Twins Cup Practice 1",
+          "Twins Cup Practice 2",
+          "Talent Cup Practice 1",
+          "Talent Cup Practice 2",
+          "King of the Baggers Practice 1",
+          "King of the Baggers Practice 2",
+          "Super Hooligan Practice 1",
+          "Super Hooligan Practice 2",
+          "Royal Enfield BTR Practice 1",
+          "Royal Enfield BTR Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Superbike Qualifying 1",
+          "Superbike Qualifying 2",
+          "Supersport Qualifying 1",
+          "Supersport Qualifying 2",
+          "Twins Cup Qualifying 1",
+          "Twins Cup Qualifying 2",
+          "Talent Cup Qualifying 1",
+          "Talent Cup Qualifying 2",
+          "King of the Baggers Qualifying 1",
+          "King of the Baggers Qualifying 2",
+          "Super Hooligan Qualifying 1",
+          "Super Hooligan Qualifying 2",
+          "Royal Enfield BTR Qualifying 1",
+          "Royal Enfield BTR Qualifying 2"
+        ]
+      },
+      {
+        "label": "Superbike",
+        "sessions": [
+          "Superbike Free Practice 1",
+          "Superbike Free Practice 2",
+          "Superbike Free Practice 3",
+          "Superbike Qualifying 1",
+          "Superbike Qualifying 2",
+          "Superbike Warm Up",
+          "Superbike Race 1",
+          "Superbike Race 2",
+          "Superbike Race 3"
+        ]
+      },
+      {
+        "label": "Supersport",
+        "sessions": [
+          "Supersport Practice 1",
+          "Supersport Practice 2",
+          "Supersport Qualifying 1",
+          "Supersport Qualifying 2",
+          "Supersport Warm Up",
+          "Supersport Race 1",
+          "Supersport Race 2"
+        ]
+      },
+      {
+        "label": "Twins Cup",
+        "sessions": [
+          "Twins Cup Practice 1",
+          "Twins Cup Practice 2",
+          "Twins Cup Qualifying 1",
+          "Twins Cup Qualifying 2",
+          "Twins Cup Warm Up",
+          "Twins Cup Race 1",
+          "Twins Cup Race 2"
+        ]
+      },
+      {
+        "label": "Talent Cup",
+        "sessions": [
+          "Talent Cup Practice 1",
+          "Talent Cup Practice 2",
+          "Talent Cup Qualifying 1",
+          "Talent Cup Qualifying 2",
+          "Talent Cup Warm Up",
+          "Talent Cup Race 1",
+          "Talent Cup Race 2"
+        ]
+      },
+      {
+        "label": "King of the Baggers",
+        "sessions": [
+          "King of the Baggers Practice 1",
+          "King of the Baggers Practice 2",
+          "King of the Baggers Qualifying 1",
+          "King of the Baggers Qualifying 2",
+          "King of the Baggers Warm Up",
+          "King of the Baggers Race 1",
+          "King of the Baggers Race 2"
+        ]
+      },
+      {
+        "label": "Super Hooligan",
+        "sessions": [
+          "Super Hooligan Practice 1",
+          "Super Hooligan Practice 2",
+          "Super Hooligan Qualifying 1",
+          "Super Hooligan Qualifying 2",
+          "Super Hooligan Warm Up",
+          "Super Hooligan Race 1",
+          "Super Hooligan Race 2"
+        ]
+      },
+      {
+        "label": "Royal Enfield BTR",
+        "sessions": [
+          "Royal Enfield BTR Practice 1",
+          "Royal Enfield BTR Practice 2",
+          "Royal Enfield BTR Qualifying 1",
+          "Royal Enfield BTR Qualifying 2",
+          "Royal Enfield BTR Warm Up",
+          "Royal Enfield BTR Race 1",
+          "Royal Enfield BTR Race 2"
         ]
       }
     ],

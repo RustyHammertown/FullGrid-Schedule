@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T22:15:50.086Z",
+  "generatedAt": "2026-06-27T22:58:07.911Z",
   "flat": {
     "pgatour": [
       {
@@ -4147,6 +4147,511 @@
     ]
   },
   "classes": {
+    "motoamerica": [
+      {
+        "className": "Superbike",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Sean Dylan Kelly",
+            "points": 106,
+            "team": "OrangeCat Racing",
+            "vehicle": "BMW M 1000 RR"
+          },
+          {
+            "pos": 2,
+            "name": "Mathew Scholtz",
+            "points": 105,
+            "team": "Strack Racing",
+            "vehicle": "Yamaha YZF-R1"
+          },
+          {
+            "pos": 3,
+            "name": "Bobby Fong",
+            "points": 80,
+            "team": "Attack Performance Progressive Yamaha Racing",
+            "vehicle": "Yamaha YZF-R1"
+          },
+          {
+            "pos": 4,
+            "name": "JD Beach",
+            "points": 73,
+            "team": "Attack Performance Progressive Yamaha Racing",
+            "vehicle": "Yamaha YZF-R1"
+          },
+          {
+            "pos": 5,
+            "name": "Cameron Petersen",
+            "points": 70,
+            "team": "Wrench Motorcycles",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 6,
+            "name": "Richie Escalante",
+            "points": 49,
+            "team": "M4 ECSTAR Suzuki",
+            "vehicle": "Suzuki GSX-R1000R"
+          },
+          {
+            "pos": 7,
+            "name": "Cameron Beaubier",
+            "points": 47,
+            "team": "Warhorse HSBK Ducati Flo4Law",
+            "vehicle": "Ducati Panigale V4 R"
+          },
+          {
+            "pos": 8,
+            "name": "Brandon Paasch",
+            "points": 40,
+            "team": "M4 ECSTAR Suzuki",
+            "vehicle": "Suzuki GSX-R1000R"
+          },
+          {
+            "pos": 9,
+            "name": "Andrew Lee",
+            "points": 40,
+            "team": "Real Steel Honda",
+            "vehicle": "Honda CBR1000RR-R SP"
+          },
+          {
+            "pos": 10,
+            "name": "PJ Jacobsen",
+            "points": 38,
+            "team": "Rahal Ducati Moto with XPEL",
+            "vehicle": "Ducati Panigale V4 R"
+          }
+        ]
+      },
+      {
+        "className": "Supersport",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Darryn Binder",
+            "points": 153,
+            "team": "Celtic / Economy Lube + Tire / Warhorse",
+            "vehicle": "Ducati Panigale V2"
+          },
+          {
+            "pos": 2,
+            "name": "Josh Herrin",
+            "points": 119,
+            "team": "Rahal Ducati Moto",
+            "vehicle": "Ducati Panigale V2"
+          },
+          {
+            "pos": 3,
+            "name": "Kayla Yaakov",
+            "points": 110,
+            "team": "Rahal Ducati Moto with Droplight",
+            "vehicle": "Ducati Panigale V2"
+          },
+          {
+            "pos": 4,
+            "name": "Tyler Scott",
+            "points": 109,
+            "team": "M4 ECSTAR Suzuki",
+            "vehicle": "Suzuki GSX-R750"
+          },
+          {
+            "pos": 5,
+            "name": "Blake Davis",
+            "points": 74,
+            "team": "Strack Racing",
+            "vehicle": "Yamaha YZF-R9"
+          },
+          {
+            "pos": 6,
+            "name": "Joshua Hayes",
+            "points": 56,
+            "team": "BPR Racing Yamaha",
+            "vehicle": "Yamaha YZF-R9"
+          },
+          {
+            "pos": 7,
+            "name": "Dominic Doyle",
+            "points": 51,
+            "team": "Liberty Yamaha Racing",
+            "vehicle": "Yamaha YZF-R9"
+          },
+          {
+            "pos": 8,
+            "name": "Alessandro Di Mario",
+            "points": 48,
+            "team": "Rahal Ducati Moto",
+            "vehicle": "Ducati Panigale V2"
+          },
+          {
+            "pos": 9,
+            "name": "Aiden Sneed",
+            "points": 45,
+            "team": "3D Motorsports",
+            "vehicle": "Suzuki GSX-R750"
+          },
+          {
+            "pos": 10,
+            "name": "Maximiliano Gerardo",
+            "points": 42,
+            "team": "Altus Motorsports",
+            "vehicle": "Yamaha YZF-R9"
+          }
+        ]
+      },
+      {
+        "className": "Twins Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Hank Vossberg",
+            "points": 177,
+            "team": "Robem Engineering",
+            "vehicle": "Aprilia RS 660"
+          },
+          {
+            "pos": 2,
+            "name": "Matthew Chapin",
+            "points": 115,
+            "team": "M4 ECSTAR Suzuki",
+            "vehicle": "Suzuki GSX-8R"
+          },
+          {
+            "pos": 3,
+            "name": "Bodie Paige",
+            "points": 107,
+            "team": "M4 ECSTAR Suzuki",
+            "vehicle": "Suzuki GSX-8R"
+          },
+          {
+            "pos": 4,
+            "name": "Sam Drane",
+            "points": 98,
+            "team": "Yamaha BLU CRU Estenson Racing",
+            "vehicle": "Yamaha YZF-R7"
+          },
+          {
+            "pos": 5,
+            "name": "Isaac Woodworth",
+            "points": 93,
+            "team": "Karns / TST Industries Racing",
+            "vehicle": "Suzuki GSX-8R"
+          },
+          {
+            "pos": 6,
+            "name": "Kevin Olmedo",
+            "points": 72,
+            "team": "Karns / TST Industries Racing",
+            "vehicle": "Suzuki GSX-8R"
+          },
+          {
+            "pos": 7,
+            "name": "Kyle Ohnsorg",
+            "points": 50,
+            "team": "TAB Performance",
+            "vehicle": "Suzuki GSX-8R"
+          },
+          {
+            "pos": 8,
+            "name": "Chris Parrish",
+            "points": 50,
+            "team": "Ghetto Customs",
+            "vehicle": "Aprilia RS 660"
+          },
+          {
+            "pos": 9,
+            "name": "Andrew Weyh",
+            "points": 48,
+            "team": "Weyh Racing",
+            "vehicle": "Aprilia RS 660"
+          },
+          {
+            "pos": 10,
+            "name": "Logan Cunnison",
+            "points": 47,
+            "team": "Speed Demon Racing",
+            "vehicle": "Aprilia RS 660"
+          }
+        ]
+      },
+      {
+        "className": "King of the Baggers",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Hayden Gillim",
+            "points": 132,
+            "team": "Vance & Hines Factory Indian",
+            "vehicle": "Indian Challenger"
+          },
+          {
+            "pos": 2,
+            "name": "Troy Herfoss",
+            "points": 107,
+            "team": "Vance & Hines Factory Indian",
+            "vehicle": "Indian Challenger"
+          },
+          {
+            "pos": 3,
+            "name": "Bradley Smith",
+            "points": 91,
+            "team": "Harley-Davidson x Dynojet Factory Racing",
+            "vehicle": "Harley-Davidson Road Glide"
+          },
+          {
+            "pos": 4,
+            "name": "Kyle Wyman",
+            "points": 77,
+            "team": "Harley-Davidson x Dynojet Factory Racing",
+            "vehicle": "Harley-Davidson Road Glide"
+          },
+          {
+            "pos": 5,
+            "name": "Tyler O'Hara",
+            "points": 64,
+            "team": "SDI Racing",
+            "vehicle": "Indian Challenger"
+          },
+          {
+            "pos": 6,
+            "name": "Rocco Landers",
+            "points": 62,
+            "team": "Vance & Hines Factory Indian",
+            "vehicle": "Indian Challenger"
+          },
+          {
+            "pos": 7,
+            "name": "James Rispoli",
+            "points": 62,
+            "team": "Big Diehl x Harley-Davidson Factory Racing",
+            "vehicle": "Harley-Davidson Road Glide"
+          },
+          {
+            "pos": 8,
+            "name": "Max Flinders",
+            "points": 33,
+            "team": "M3 / Tobacco Road Harley-Davidson",
+            "vehicle": "Harley-Davidson Road Glide"
+          },
+          {
+            "pos": 9,
+            "name": "Cory West",
+            "points": 32,
+            "team": "Saddlemen Race Development",
+            "vehicle": "Harley-Davidson Road Glide"
+          },
+          {
+            "pos": 10,
+            "name": "Jake Lewis",
+            "points": 32,
+            "team": "Saddlemen Race Development",
+            "vehicle": "Harley-Davidson Road Glide"
+          }
+        ]
+      },
+      {
+        "className": "Super Hooligan",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Gus Rodio",
+            "points": 72,
+            "team": "Rodio Racing",
+            "vehicle": "Ducati Streetfighter V2"
+          },
+          {
+            "pos": 2,
+            "name": "James Rispoli",
+            "points": 65,
+            "team": "Saddlemen Race Development",
+            "vehicle": "Harley-Davidson Pan America"
+          },
+          {
+            "pos": 3,
+            "name": "Jake Lewis",
+            "points": 59,
+            "team": "Saddlemen Race Development",
+            "vehicle": "Harley-Davidson Pan America"
+          },
+          {
+            "pos": 4,
+            "name": "Cory West",
+            "points": 50,
+            "team": "Saddlemen Race Development",
+            "vehicle": "Harley-Davidson Pan America"
+          },
+          {
+            "pos": 5,
+            "name": "Bryce Kornbau",
+            "points": 48,
+            "team": "BPR Racing Yamaha",
+            "vehicle": "Yamaha MT-09 SP"
+          },
+          {
+            "pos": 6,
+            "name": "Robertino Pietri",
+            "points": 42,
+            "team": "CoatzyMoto LatinWe",
+            "vehicle": "Yamaha XSR900"
+          },
+          {
+            "pos": 7,
+            "name": "Jason Waters",
+            "points": 40,
+            "team": "TopPro Motorsports / Edge Racing",
+            "vehicle": "Ducati Streetfighter V2"
+          },
+          {
+            "pos": 8,
+            "name": "Josh Herrin",
+            "points": 33,
+            "team": "OrangeCat Racing",
+            "vehicle": "Lightfighter V3-RH"
+          },
+          {
+            "pos": 9,
+            "name": "Andy DiBrino",
+            "points": 33,
+            "team": "BPR Racing Yamaha",
+            "vehicle": "Yamaha MT-09 SP"
+          },
+          {
+            "pos": 10,
+            "name": "Travis Wyman",
+            "points": 23
+          }
+        ]
+      },
+      {
+        "className": "Talent Cup",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Nathan Gouker",
+            "points": 131,
+            "team": "Quarterley Racing"
+          },
+          {
+            "pos": 2,
+            "name": "Kensei Matsudaira",
+            "points": 131,
+            "team": "Team Roberts"
+          },
+          {
+            "pos": 3,
+            "name": "Jake Paige",
+            "points": 90,
+            "team": "Team Hammer"
+          },
+          {
+            "pos": 4,
+            "name": "Nathan Bettencourt",
+            "points": 62,
+            "team": "Bettencourt Racing"
+          },
+          {
+            "pos": 5,
+            "name": "Sam Drane",
+            "points": 58,
+            "team": "Yamaha BLU CRU Estenson Racing"
+          },
+          {
+            "pos": 6,
+            "name": "Derek Sanchez",
+            "points": 50,
+            "team": "Real Steel Honda"
+          },
+          {
+            "pos": 7,
+            "name": "Reese Frankenfield",
+            "points": 50,
+            "team": "Phison / Pascari-Rocksolid Racing"
+          },
+          {
+            "pos": 8,
+            "name": "Ian Fraley",
+            "points": 44,
+            "team": "Real Steel Honda"
+          },
+          {
+            "pos": 9,
+            "name": "Rossi Garcia",
+            "points": 42,
+            "team": "Rossi Motorsports"
+          },
+          {
+            "pos": 10,
+            "name": "Sawyer Lafayette",
+            "points": 34,
+            "team": "Sawyer Lafayette Racing"
+          }
+        ]
+      },
+      {
+        "className": "Royal Enfield BTR",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Jasmine Noelle",
+            "points": 85,
+            "team": "Deming, NM"
+          },
+          {
+            "pos": 2,
+            "name": "Tati Paze",
+            "points": 62,
+            "team": "São Paulo, Brazil"
+          },
+          {
+            "pos": 3,
+            "name": "Brianna Cutler",
+            "points": 60,
+            "team": "Hampton, VA"
+          },
+          {
+            "pos": 4,
+            "name": "Bryanna Everitt",
+            "points": 57,
+            "team": "Columbia, SC"
+          },
+          {
+            "pos": 5,
+            "name": "Emily Dickson",
+            "points": 44,
+            "team": "Almonte, Ontario"
+          },
+          {
+            "pos": 6,
+            "name": "Tiffanie Vo",
+            "points": 44,
+            "team": "Irvine, CA"
+          },
+          {
+            "pos": 7,
+            "name": "Marie Madura",
+            "points": 44,
+            "team": "Island Lake, IL"
+          },
+          {
+            "pos": 8,
+            "name": "Karina Simões",
+            "points": 34,
+            "team": "São Paulo, Brazil"
+          },
+          {
+            "pos": 9,
+            "name": "Juliana Bernardes",
+            "points": 28,
+            "team": "São Paulo, Brazil"
+          },
+          {
+            "pos": 10,
+            "name": "Sany Max",
+            "points": 24,
+            "team": "São Paulo, Brazil"
+          }
+        ]
+      }
+    ],
     "ginettagta": [
       {
         "className": "GTA",
@@ -11079,6 +11584,7 @@
     "enascar": "2026-06-23",
     "motogp": "2026-05-31",
     "worldsbk": "2026-06-14",
+    "motoamerica": "2026-05-31",
     "fe": "2026-06-20",
     "whelen": "2026-06-06",
     "woolm": "2026-06-26",
