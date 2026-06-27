@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T01:32:47.928Z",
+  "generatedAt": "2026-06-27T08:58:29.020Z",
   "events": [
     {
       "id": 101,
@@ -44848,7 +44848,7 @@
           "time": "2026-06-27T15:40:00-05:00",
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS2"
             }
           }
         },
@@ -44857,7 +44857,7 @@
           "time": "2026-06-27T17:20:00-05:00",
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS2"
             }
           }
         },
@@ -44868,7 +44868,7 @@
           "duration": 250,
           "broadcasts": {
             "US": {
-              "service": "FloRacing"
+              "service": "FS2"
             },
             "CA": {
               "service": "TSN"
@@ -46429,12 +46429,12 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T17:30:00-03:00",
+          "time": "2026-06-27T17:50:00-03:00",
           "duration": 30
         },
         {
           "name": "Race",
-          "time": "2026-06-27T21:00:00-03:00",
+          "time": "2026-06-27T21:10:00-03:00",
           "laps": 300,
           "broadcasts": {
             "US": {
@@ -50016,28 +50016,6 @@
         {
           "name": "Race",
           "time": "2026-06-20T19:00:00-04:00",
-          "duration": 240,
-          "broadcasts": {
-            "Global": {
-              "service": "FloRacing"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": 5331,
-      "series": "lucasdirt",
-      "name": "Firecracker 100 (Night 1)",
-      "circuit": "Lernerville Speedway",
-      "flag": "🇺🇸",
-      "country": "USA",
-      "tz": "America/New_York",
-      "postponed": true,
-      "sessions": [
-        {
-          "name": "Race",
-          "time": "2026-06-25T18:00:00-04:00",
           "duration": 240,
           "broadcasts": {
             "Global": {
@@ -56673,6 +56651,7 @@
           "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Live",
           "time": "2026-06-28T11:00:00-04:00",
           "duration": 240,
+          "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73880",
           "broadcasts": {
             "US": {
               "service": "NHRA.tv"
@@ -56683,6 +56662,7 @@
           "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Broadcast",
           "time": "2026-06-28T17:30:00-04:00",
           "duration": 210,
+          "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73880",
           "broadcasts": {
             "CA": {
               "service": "FOX Sports Racing"
@@ -57704,6 +57684,7 @@
           "name": "Race",
           "time": "2026-06-27T16:30:00+02:00",
           "duration": 1440,
+          "resultsUrl": "https://www.intercontinentalgtchallenge.com/results/2026/crowdstrike-24-hours-of-spa",
           "broadcasts": {
             "Global": "YouTube/GTWorld"
           }
@@ -77513,23 +77494,18 @@
           "duration": 60
         },
         {
-          "name": "Free Practice 2",
+          "name": "Pre-qualifying",
           "time": "2026-06-25T18:30:00+02:00",
           "duration": 60
         },
         {
-          "name": "Qualifying 1",
+          "name": "Qualifying",
           "time": "2026-06-26T10:25:00+02:00",
-          "duration": 20
-        },
-        {
-          "name": "Qualifying 2",
-          "time": "2026-06-26T10:50:00+02:00",
-          "duration": 20
+          "duration": 45
         },
         {
           "name": "Race 1",
-          "time": "2026-06-26T21:00:00+02:00",
+          "time": "2026-06-26T21:35:00+02:00",
           "duration": 60,
           "broadcasts": {
             "Global": {
@@ -78150,6 +78126,7 @@
           "name": "Qualifying 1",
           "time": "2026-06-26T09:30:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/spa-francorchamps/qualifying-1",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -78165,6 +78142,7 @@
           "name": "Qualifying 2",
           "time": "2026-06-26T16:25:00+02:00",
           "duration": 15,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/spa-francorchamps/qualifying-2",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -78175,6 +78153,7 @@
           "name": "Race 1",
           "time": "2026-06-26T12:40:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/spa-francorchamps/race-1",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"
@@ -78185,6 +78164,7 @@
           "name": "Race 2",
           "time": "2026-06-27T09:20:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://mclarentrophyeurope.com/results/2026/spa-francorchamps/race-2",
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTWorld"

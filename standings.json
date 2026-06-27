@@ -1,66 +1,66 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T01:32:49.056Z",
+  "generatedAt": "2026-06-27T08:58:30.228Z",
   "flat": {
     "pgatour": [
       {
         "pos": 1,
         "name": "Scottie Scheffler",
-        "points": 3073.333,
+        "points": 3810.833,
         "team": "United States"
       },
       {
         "pos": 2,
         "name": "Matt Fitzpatrick",
-        "points": 2881.9,
+        "points": 3136.567,
         "team": "England"
       },
       {
         "pos": 3,
         "name": "Cameron Young",
-        "points": 2570.889,
+        "points": 2578.122,
         "team": "United States"
       },
       {
         "pos": 4,
-        "name": "Collin Morikawa",
-        "points": 2023,
+        "name": "Wyndham Clark",
+        "points": 1982.394,
         "team": "United States"
       },
       {
         "pos": 5,
-        "name": "Wyndham Clark",
-        "points": 1911.144,
-        "team": "United States"
-      },
-      {
-        "pos": 6,
         "name": "Si Woo Kim",
-        "points": 1843.5,
+        "points": 1887.5,
         "team": "South Korea"
       },
       {
-        "pos": 7,
-        "name": "Tommy Fleetwood",
-        "points": 1840.767,
-        "team": "England"
+        "pos": 6,
+        "name": "Collin Morikawa",
+        "points": 1848.156,
+        "team": "United States"
       },
       {
-        "pos": 8,
+        "pos": 7,
         "name": "Ludvig Åberg",
-        "points": 1744.469,
+        "points": 1775.719,
         "team": "Sweden"
       },
       {
+        "pos": 8,
+        "name": "Akshay Bhatia",
+        "points": 1773.081,
+        "team": "United States"
+      },
+      {
         "pos": 9,
-        "name": "Rory McIlroy",
-        "points": 1630.782,
-        "team": "Northern Ireland"
+        "name": "Tommy Fleetwood",
+        "points": 1753.267,
+        "team": "England"
       },
       {
         "pos": 10,
-        "name": "Jacob Bridgeman",
-        "points": 1619.861,
+        "name": "Sam Burns",
+        "points": 1684.612,
         "team": "United States"
       }
     ],
@@ -1425,62 +1425,62 @@
       {
         "pos": 1,
         "name": "Theo Oeverhaus",
-        "points": 25,
+        "points": 42,
         "team": "Martinet by Alméras"
       },
       {
         "pos": 2,
-        "name": "Andrea Bristot",
-        "points": 20,
-        "team": "Dinamic Motorsport"
+        "name": "Flynt Schuring",
+        "points": 37,
+        "team": "Schumacher CLRT"
       },
       {
         "pos": 3,
-        "name": "Gustav Burton",
-        "points": 17,
-        "team": "Team GP Elite"
+        "name": "Andrea Bristot",
+        "points": 27,
+        "team": "Dinamic Motorsport"
       },
       {
         "pos": 4,
-        "name": "Robert de Haan",
-        "points": 14,
-        "team": "BWT Lechner Racing"
+        "name": "Gustav Burton",
+        "points": 25,
+        "team": "Team GP Elite"
       },
       {
         "pos": 5,
-        "name": "Flynt Schuring",
+        "name": "Keagan Masters",
+        "points": 22,
+        "team": "Proton Competition"
+      },
+      {
+        "pos": 6,
+        "name": "Chester Kieffer",
         "points": 12,
         "team": "Schumacher CLRT"
       },
       {
-        "pos": 6,
-        "name": "Keagan Masters",
-        "points": 10,
-        "team": "Proton Competition"
-      },
-      {
         "pos": 7,
         "name": "Jaap van Lagen",
-        "points": 9,
+        "points": 11,
         "team": "Martinet by Alméras"
       },
       {
         "pos": 8,
         "name": "Dirk Schouten",
-        "points": 8,
+        "points": 10,
         "team": "Looping by CarTech"
       },
       {
         "pos": 9,
         "name": "Matheus Ferreira",
-        "points": 7,
+        "points": 9,
         "team": "Team GP Elite"
       },
       {
         "pos": 10,
-        "name": "Chester Kieffer",
-        "points": 6,
-        "team": "Schumacher CLRT"
+        "name": "Robert de Haan",
+        "points": 8,
+        "team": "BWT Lechner Racing"
       }
     ],
     "dtm": [
@@ -1899,62 +1899,62 @@
       {
         "pos": 1,
         "name": "Rico Abreu",
-        "points": 1326,
+        "points": 1434,
         "team": "St. Helena, CA"
       },
       {
         "pos": 2,
         "name": "Aaron Reutzel",
-        "points": 1287,
+        "points": 1405,
         "team": "Clute, TX"
       },
       {
         "pos": 3,
         "name": "Giovanni Scelzi",
-        "points": 1238,
+        "points": 1365,
         "team": "Fresno, CA"
       },
       {
         "pos": 4,
         "name": "Tanner Thorson",
-        "points": 1187,
+        "points": 1285,
         "team": "Broken Arrow, OK"
       },
       {
         "pos": 5,
-        "name": "Justin Peck",
-        "points": 1167,
-        "team": "Monrovia, IN"
-      },
-      {
-        "pos": 6,
         "name": "Tyler Courtney",
-        "points": 1147,
+        "points": 1276,
         "team": "Indianapolis, IN"
       },
       {
-        "pos": 7,
-        "name": "Kerry Madsen",
-        "points": 1110,
-        "team": "Knoxville, IA"
+        "pos": 6,
+        "name": "Justin Peck",
+        "points": 1255,
+        "team": "Monrovia, IN"
       },
       {
-        "pos": 8,
+        "pos": 7,
         "name": "Brent Marks",
-        "points": 1102,
+        "points": 1239,
         "team": "Myerstown, PA"
       },
       {
+        "pos": 8,
+        "name": "Kerry Madsen",
+        "points": 1238,
+        "team": "Knoxville, IA"
+      },
+      {
         "pos": 9,
-        "name": "Daison Pursley",
-        "points": 984,
-        "team": "Locust Grove, OK"
+        "name": "Tanner Holmes",
+        "points": 1112,
+        "team": "Jacksonville, OR"
       },
       {
         "pos": 10,
-        "name": "Tanner Holmes",
-        "points": 982,
-        "team": "Jacksonville, OR"
+        "name": "Daison Pursley",
+        "points": 1092,
+        "team": "Locust Grove, OK"
       }
     ],
     "woosc": [
@@ -2147,62 +2147,62 @@
       {
         "pos": 1,
         "name": "Bobby Pierce",
-        "points": 4470,
+        "points": 4772,
         "team": "Oakwood, IL"
       },
       {
         "pos": 2,
         "name": "Nick Hoffman",
-        "points": 4415,
+        "points": 4705,
         "team": "Mooresville, NC"
       },
       {
         "pos": 3,
         "name": "Tyler Erb",
-        "points": 4224,
+        "points": 4510,
         "team": "New Waverly, TX"
       },
       {
         "pos": 4,
         "name": "Tim McCreadie",
-        "points": 4132,
+        "points": 4413,
         "team": "Watertown, NY"
       },
       {
         "pos": 5,
-        "name": "Drake Troutman",
-        "points": 4097,
-        "team": "Hyndman, PA"
-      },
-      {
-        "pos": 6,
         "name": "Ryan Gustin",
-        "points": 4067,
+        "points": 4339,
         "team": "Marshalltown, IA"
       },
       {
-        "pos": 7,
+        "pos": 6,
         "name": "Ethan Dotson",
-        "points": 4054,
+        "points": 4325,
         "team": "Bakersfield, CA"
       },
       {
-        "pos": 8,
+        "pos": 7,
         "name": "Daulton Wilson",
-        "points": 3968,
+        "points": 4234,
         "team": "Fayetteville, NC"
       },
       {
-        "pos": 9,
+        "pos": 8,
         "name": "Trey Mills",
-        "points": 3900,
+        "points": 4166,
         "team": "St. Augustine, FL"
       },
       {
-        "pos": 10,
+        "pos": 9,
         "name": "Dennis Erb",
-        "points": 3900,
+        "points": 4156,
         "team": "Carpentersville, IL"
+      },
+      {
+        "pos": 10,
+        "name": "Drake Troutman",
+        "points": 4097,
+        "team": "Hyndman, PA"
       }
     ],
     "igtc": [
@@ -7614,72 +7614,72 @@
           {
             "pos": 1,
             "name": "Dillon Machavern / Luca Mars",
-            "points": 930,
-            "team": "#95 Turner Motorsport",
-            "vehicle": "BMW M4 GT4 Evo (G82)"
+            "points": 1250,
+            "team": "Turner Motorsport",
+            "vehicle": "BMW M4 GT4 Evo"
           },
           {
             "pos": 2,
-            "name": "Daan Arrow / Bryce Ward",
-            "points": 900,
-            "team": "#57 Winward Racing",
-            "vehicle": "Mercedes-AMG GT4"
-          },
-          {
-            "pos": 3,
-            "name": "Nate Cicero / Robert Noaker",
-            "points": 780,
-            "team": "#13 McCumbee McAleer Racing",
-            "vehicle": "Ford Mustang GT4 (2024)"
-          },
-          {
-            "pos": 4,
-            "name": "Austin Krainz / Stevan McAleer",
-            "points": 770,
-            "team": "#27 Auto Technic Racing",
-            "vehicle": "BMW M4 GT4 Evo (G82)"
-          },
-          {
-            "pos": 5,
             "name": "Michael Cooper / Moisey Uretsky",
-            "points": 700,
-            "team": "#44 Accelerating Performance",
+            "points": 1050,
+            "team": "Accelerating Performance",
             "vehicle": "McLaren Artura GT4"
           },
           {
+            "pos": 3,
+            "name": "Austin Krainz / Stevan McAleer",
+            "points": 1050,
+            "team": "AutoTechnic Racing",
+            "vehicle": "BMW M4 GT4 Evo"
+          },
+          {
+            "pos": 4,
+            "name": "Nate Cicero / Robert Noaker",
+            "points": 990,
+            "team": "McCumbee McAleer Racing",
+            "vehicle": "Ford Mustang GT4"
+          },
+          {
+            "pos": 5,
+            "name": "Daan Arrow / Bryce Ward",
+            "points": 970,
+            "team": "Winward Racing",
+            "vehicle": "Mercedes-AMG GT4"
+          },
+          {
             "pos": 6,
-            "name": "Morgan Burkhard / Gordon Scully",
-            "points": 640,
-            "team": "#67 Czabok-Simpson Motorsport",
-            "vehicle": "Porsche 718 Cayman GT4 RS Clubsport"
+            "name": "Gregory Liefooghe / Sean Quinlan",
+            "points": 820,
+            "team": "Stephen Cameron Racing",
+            "vehicle": "Ford Mustang GT4"
           },
           {
             "pos": 7,
-            "name": "Greg Liefooghe / Sean Quinlan",
-            "points": 620,
-            "team": "#19 Stephen Cameron Racing",
-            "vehicle": "Ford Mustang GT4 (2024)"
+            "name": "Bill Auberlen / Samantha Tan",
+            "points": 770,
+            "team": "ST Racing by Random Vandals",
+            "vehicle": "BMW M4 GT4 Evo"
           },
           {
             "pos": 8,
-            "name": "Hannah Grisham / Hannah Greenemeier",
-            "points": 580,
-            "team": "#26 Heart of Racing Team",
+            "name": "Hannah Greenemeier / Hannah Grisham",
+            "points": 770,
+            "team": "Heart of Racing Team",
             "vehicle": "Aston Martin Vantage AMR GT4 Evo"
           },
           {
             "pos": 9,
-            "name": "Bill Auberlen / Samantha Tan",
-            "points": 530,
-            "team": "#38 ST Racing by Random Vandals",
-            "vehicle": "BMW M4 GT4 Evo (G82)"
+            "name": "Caio Chaves",
+            "points": 750,
+            "team": "Panam Motorsport",
+            "vehicle": "Toyota GR Supra GT4 Evo2"
           },
           {
             "pos": 10,
-            "name": "Caio Chaves",
-            "points": 360,
-            "team": "#54 Panam Motorsport",
-            "vehicle": "Toyota GR Supra GT4 Evo2"
+            "name": "Trenton Estep / Allen Patten",
+            "points": 730,
+            "team": "Car Blanche",
+            "vehicle": "Aston Martin Vantage AMR GT4 Evo"
           }
         ]
       },
@@ -9752,61 +9752,61 @@
             "pos": 1,
             "name": "Shawn Langdon",
             "vehicle": "Kalitta Air Careers",
-            "points": 828
+            "points": 920
           },
           {
             "pos": 2,
             "name": "Doug Kalitta",
             "vehicle": "Mac Tools Dragster",
-            "points": 728
+            "points": 806
           },
           {
             "pos": 3,
             "name": "Leah Pruett",
             "vehicle": "TSR Dodge//SRT Direct Connection Top Fuel Dragster",
-            "points": 629
+            "points": 693
           },
           {
             "pos": 4,
             "name": "Tony Stewart",
             "vehicle": "R+L Carriers",
-            "points": 424
+            "points": 533
           },
           {
             "pos": 5,
-            "name": "Josh Hart",
-            "vehicle": "Speedmaster dragster",
-            "points": 409
+            "name": "Antron Brown",
+            "vehicle": "Matco Tools/Lucas Oil/Toyota Top Fuel dragster",
+            "points": 517
           },
           {
             "pos": 6,
-            "name": "Maddi Gordon",
-            "vehicle": "Carlyle Tools/Ron Capps Motorsports dragster",
-            "points": 395
+            "name": "Josh Hart",
+            "vehicle": "Speedmaster dragster",
+            "points": 500
           },
           {
             "pos": 7,
-            "name": "Justin Ashley",
-            "vehicle": "SCAG Power Equipment Top Fuel Dragster",
-            "points": 364
+            "name": "Maddi Gordon",
+            "vehicle": "Carlyle Tools/Ron Capps Motorsports dragster",
+            "points": 499
           },
           {
             "pos": 8,
             "name": "Billy Torrence",
             "vehicle": "Capco Racing/Torrence Motorsports Dragster",
-            "points": 356
+            "points": 466
           },
           {
             "pos": 9,
-            "name": "Antron Brown",
-            "vehicle": "Matco Tools/Lucas Oil/Toyota Top Fuel dragster",
-            "points": 345
+            "name": "Justin Ashley",
+            "vehicle": "SCAG Power Equipment Top Fuel Dragster",
+            "points": 419
           },
           {
             "pos": 10,
             "name": "Clay Millican",
             "vehicle": "Parts Plus dragster",
-            "points": 294
+            "points": 365
           }
         ]
       },
@@ -11036,7 +11036,7 @@
   },
   "lastUpdated": {
     "bmwm2": "2026-06-21",
-    "pgatour": "2026-06-20",
+    "pgatour": "2026-06-27",
     "formuladrift": "2026-06-20",
     "fdjapan": "2026-06-16",
     "c24h": "2026-06-08",
@@ -11056,7 +11056,7 @@
     "f2": "2026-06-14",
     "dtm": "2026-05-24",
     "arcawest": "2026-06-06",
-    "highlimit": "2026-06-09",
+    "highlimit": "2026-06-26",
     "woosc": "2026-06-20",
     "btcc": "2026-05-29",
     "supercars": "2026-05-24",
@@ -11081,7 +11081,7 @@
     "worldsbk": "2026-06-14",
     "fe": "2026-06-20",
     "whelen": "2026-06-06",
-    "woolm": "2026-06-22",
+    "woolm": "2026-06-26",
     "f4us": "2026-05-17",
     "framericas": "2026-05-17",
     "igtopen": "2026-05-30",
@@ -11090,7 +11090,7 @@
     "japancup": "2026-05-17",
     "ffsagt": "2026-05-17",
     "gtcupeu": "2026-05-31",
-    "nhra": "2026-06-14",
+    "nhra": "2026-06-28",
     "ffsatourisme": "2026-05-17",
     "arca": "2026-06-20",
     "arcaeast": "2026-05-16",
@@ -11116,7 +11116,7 @@
     "elms": "2026-05-03",
     "alms": "2026-02-08",
     "trofeo": "2026-05-03",
-    "pilot": "2026-05-02",
+    "pilot": "2026-06-27",
     "agt4": "2026-04-26",
     "grcup": "2026-04-26",
     "pscgb": "2026-04-19",
@@ -11126,7 +11126,7 @@
     "nascarcanada": "2026-05-29",
     "nascarmx": "2026-06-07",
     "mx5": "2026-03-01",
-    "supercup": "2026-06-07",
+    "supercup": "2026-06-27",
     "xtrial": "2025-10-04",
     "promotocross": "2026-05-30",
     "gt4america": "2026-06-04"
