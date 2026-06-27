@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-27T08:58:29.020Z",
+  "generatedAt": "2026-06-27T13:04:24.112Z",
   "events": [
     {
       "id": 101,
@@ -1008,7 +1008,7 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-06-26T11:30:00+02:00",
+          "time": "2026-06-26T13:30:00+02:00",
           "duration": 60,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1288/austria/practice/1",
           "broadcasts": {
@@ -1019,7 +1019,7 @@
         },
         {
           "name": "Practice 2",
-          "time": "2026-06-26T15:00:00+02:00",
+          "time": "2026-06-26T17:00:00+02:00",
           "duration": 60,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1288/austria/practice/2",
           "broadcasts": {
@@ -1030,7 +1030,7 @@
         },
         {
           "name": "Practice 3",
-          "time": "2026-06-27T10:30:00+02:00",
+          "time": "2026-06-27T12:30:00+02:00",
           "duration": 60,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1288/austria/practice/3",
           "broadcasts": {
@@ -1041,7 +1041,7 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-27T14:00:00+02:00",
+          "time": "2026-06-27T16:00:00+02:00",
           "duration": 60,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1288/austria/qualifying",
           "broadcasts": {
@@ -1052,7 +1052,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-06-28T13:00:00+02:00",
+          "time": "2026-06-28T15:00:00+02:00",
           "laps": 71,
           "resultsUrl": "https://www.formula1.com/en/results/2026/races/1288/austria/race-result",
           "broadcasts": {
