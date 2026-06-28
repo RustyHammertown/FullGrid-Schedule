@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T23:01:03.619Z",
+  "generatedAt": "2026-06-28T23:33:44.292Z",
   "flat": {
+    "superformula": [
+      {
+        "pos": 1,
+        "name": "Kakunoshin Ohta",
+        "points": 52,
+        "team": "#6 Dandelion Racing",
+        "vehicle": "Honda"
+      },
+      {
+        "pos": 2,
+        "name": "Ayumu Iwasa",
+        "points": 37.5,
+        "team": "#1 Team Mugen",
+        "vehicle": "Honda"
+      },
+      {
+        "pos": 3,
+        "name": "Nirei Fukuzumi",
+        "points": 35,
+        "team": "#14 Rookie Racing",
+        "vehicle": "Toyota"
+      },
+      {
+        "pos": 4,
+        "name": "Sacha Fenestraz",
+        "points": 26.5,
+        "team": "#37 Team TOM'S",
+        "vehicle": "Toyota"
+      },
+      {
+        "pos": 5,
+        "name": "Sena Sakaguchi",
+        "points": 23,
+        "team": "#38 Cerumo·Inging",
+        "vehicle": "Toyota"
+      },
+      {
+        "pos": 6,
+        "name": "Sho Tsuboi",
+        "points": 18,
+        "team": "#36 Team TOM'S",
+        "vehicle": "Toyota"
+      },
+      {
+        "pos": 7,
+        "name": "Nobuharu Matsushita",
+        "points": 16,
+        "team": "#22 Delightworks Racing",
+        "vehicle": "Honda"
+      },
+      {
+        "pos": 8,
+        "name": "Luke Browning",
+        "points": 16,
+        "team": "#3 Kondo Racing",
+        "vehicle": "Toyota"
+      },
+      {
+        "pos": 9,
+        "name": "Toshiki Oyu",
+        "points": 13,
+        "team": "#39 Cerumo·Inging",
+        "vehicle": "Toyota"
+      },
+      {
+        "pos": 10,
+        "name": "Ren Sato",
+        "points": 8.5,
+        "team": "#64 Nakajima Racing",
+        "vehicle": "Honda"
+      }
+    ],
     "f1h2o": [
       {
         "pos": 1,
@@ -12474,9 +12546,11 @@
     "alms": "Team Standings",
     "worldcup": "Team Standings",
     "pgatour": "FedExCup Standings",
-    "mxgp": "Rider Standings"
+    "mxgp": "Rider Standings",
+    "superformula": "Driver Standings"
   },
   "lastUpdated": {
+    "superformula": "2026-05-24",
     "mxgp": "2026-06-28",
     "dakar": "2026-01-17",
     "f1h2o": "2026-05-31",

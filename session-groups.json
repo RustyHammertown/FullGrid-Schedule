@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T23:01:07.417Z",
+  "generatedAt": "2026-06-28T23:33:46.477Z",
   "groups": {
     "f1h2o": [
       {
@@ -533,6 +533,23 @@
         "sessions": [
           "MX2 Race 1",
           "MX2 Race 2"
+        ]
+      }
+    ],
+    "superformula": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying",
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

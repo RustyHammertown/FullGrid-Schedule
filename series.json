@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T23:01:05.536Z",
+  "generatedAt": "2026-06-28T23:33:44.998Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -305,6 +305,29 @@
         "race": 35
       },
       "classGrid": true
+    },
+    "superformula": {
+      "id": "superformula",
+      "tags": [
+        "open-wheel",
+        "national-series",
+        "asia-pacific",
+        "honda",
+        "toyota"
+      ],
+      "group": "openwheel",
+      "region": "asiapacific",
+      "label": "Super Formula",
+      "short": "SF",
+      "color": "#EA580C",
+      "bg": "rgba(234,88,12,0.15)",
+      "broadcast": {
+        "JP": "J SPORTS",
+        "Global": "SFgo"
+      },
+      "streamUrl": "https://superformula.net/sfgo/en/",
+      "resultsUrl": "https://superformula.net/sf3/live_timing/",
+      "fallbackMinutes": 75
     },
     "xtrial": {
       "id": "xtrial",

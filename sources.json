@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T23:01:06.481Z",
+  "generatedAt": "2026-06-28T23:33:47.889Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -2509,6 +2509,57 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/F1H2O/"
+        }
+      ]
+    },
+    "superformula": {
+      "schedule": [
+        {
+          "url": "https://superformula.net/sf3/race_taxonomy/2026",
+          "label": "Super Formula — 2026 calendar"
+        }
+      ],
+      "timetables": [
+        {
+          "url": "https://superformula.net/sf3/race_taxonomy/2026",
+          "label": "Super Formula — per-round time schedule (each race page carries its timetable)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://superformula.net/sf3/live_timing/",
+          "label": "Super Formula — live timing & official results"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://superformula.net/sf3/driver_taxonomy/2026",
+          "label": "Super Formula — driver & team standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://superformula.net/sf3/?lang=en"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://superformula.net/sf3/live_timing/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/superformula_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/SUPER_FORMULA"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/superformula.official/"
         }
       ]
     },
