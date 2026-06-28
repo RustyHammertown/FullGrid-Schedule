@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T19:15:40.973Z",
+  "generatedAt": "2026-06-28T19:23:11.966Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1415,7 +1415,8 @@
         "Qualifying"
       ],
       "streamUrl": "https://www.youtube.com/@FordRacing/streams",
-      "resultsUrl": "https://www.fordracing.com/motorsport/mustang-cup"
+      "resultsUrl": "https://www.fordracing.com/motorsport/mustang-cup",
+      "classGrid": true
     },
     "mustangcupau": {
       "id": "mustangcupau",
