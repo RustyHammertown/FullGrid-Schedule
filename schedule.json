@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T02:23:19.877Z",
+  "generatedAt": "2026-06-28T02:27:02.163Z",
   "events": [
     {
       "id": 101,
@@ -121006,7 +121006,6 @@
       "flag": "🇸🇦",
       "country": "Saudi Arabia",
       "tz": "Asia/Riyadh",
-      "round": 1,
       "sessions": [
         {
           "name": "Prologue",
@@ -121088,7 +121087,6 @@
       "flag": "🇸🇦",
       "country": "Saudi Arabia",
       "tz": "Asia/Riyadh",
-      "round": 1,
       "sessions": [
         {
           "name": "Prologue",
