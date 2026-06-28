@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T21:39:32.762Z",
+  "generatedAt": "2026-06-28T21:43:53.940Z",
   "events": [
     {
       "id": 101,
@@ -18475,6 +18475,7 @@
           "name": "Race",
           "time": "2026-03-01T14:30:00-06:00",
           "laps": 95,
+          "duration": 185,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/duramax-grand-prix-powered-by-reladyne/",
           "broadcasts": {
             "US": {
@@ -18852,6 +18853,7 @@
           "name": "Race",
           "time": "2026-05-10T15:00:00-04:00",
           "laps": 90,
+          "duration": 185,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-go-bowling-at-the-glen/",
           "broadcasts": {
             "US": {
@@ -19067,6 +19069,7 @@
           "name": "Race",
           "time": "2026-06-21T13:00:00-07:00",
           "laps": 75,
+          "duration": 170,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/anduril-250/",
           "broadcasts": {
             "US": {
@@ -41507,6 +41510,7 @@
           "name": "Race",
           "time": "2026-02-28T14:00:00-06:00",
           "laps": 46,
+          "duration": 130,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-focused-health-250-cota/",
           "broadcasts": {
             "US": {
@@ -42107,6 +42111,7 @@
           "name": "Race",
           "time": "2026-05-09T16:00:00-04:00",
           "laps": 82,
+          "duration": 130,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-mission-200-at-the-glen/",
           "broadcasts": {
             "US": {
@@ -42411,6 +42416,7 @@
           "name": "Race",
           "time": "2026-06-20T14:00:00-07:00",
           "laps": 60,
+          "duration": 130,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026-united-rentals-driven-to-serve-250",
           "broadcasts": {
             "US": {
@@ -42472,6 +42478,7 @@
           "name": "Race",
           "time": "2026-06-27T14:30:00-07:00",
           "laps": 79,
+          "duration": 130,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026/pit-boss-food-maxx-250/",
           "broadcasts": {
             "US": {
@@ -43337,6 +43344,7 @@
           "name": "Race",
           "time": "2026-02-28T12:00:00-05:00",
           "laps": 84,
+          "duration": 120,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/onlybulls-green-flag-150-at-st-petersburg/",
           "broadcasts": {
             "US": {
@@ -43612,6 +43620,7 @@
           "name": "Race",
           "time": "2026-05-08T16:30:00-04:00",
           "laps": 70,
+          "duration": 120,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-bully-hill-vineyards-176-at-the-glen/",
           "broadcasts": {
             "US": {
@@ -43886,6 +43895,7 @@
           "name": "Race",
           "time": "2026-06-19T16:00:00-07:00",
           "laps": 50,
+          "duration": 120,
           "resultsUrl": "https://www.nascar.com/live-results/nascar-craftsman-truck-series/2026-navy-250/",
           "broadcasts": {
             "US": {
