@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T13:40:54.577Z",
+  "generatedAt": "2026-06-28T13:45:44.799Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -1953,8 +1953,7 @@
         "Global": "YouTube/GTWorld"
       },
       "notTelevisedCategories": [
-        "Practice",
-        "Qualifying"
+        "Practice"
       ],
       "streamUrl": "https://www.youtube.com/@GTWorld/streams",
       "resultsUrl": "https://www.tsl-timing.com/Results/bf3gt"
