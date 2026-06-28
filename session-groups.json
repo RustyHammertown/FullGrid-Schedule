@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T00:44:52.469Z",
+  "generatedAt": "2026-06-28T01:27:30.348Z",
   "groups": {
     "formuladrift": [
       {
@@ -270,6 +270,23 @@
           "WorldWCR Warm Up",
           "WorldWCR Race 1",
           "WorldWCR Race 2"
+        ]
+      }
+    ],
+    "etrc": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warm Up"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying 1",
+          "Qualifying 2"
         ]
       }
     ],

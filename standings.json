@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T00:44:49.428Z",
+  "generatedAt": "2026-06-28T01:27:28.019Z",
   "flat": {
     "pgatour": [
       {
@@ -4147,6 +4147,156 @@
     ]
   },
   "classes": {
+    "etrc": [
+      {
+        "className": "Titan",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Norbert Kiss",
+            "points": 106,
+            "team": "#1 Révész Racing",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 2,
+            "name": "Sascha Lenz",
+            "points": 70,
+            "team": "#30",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 3,
+            "name": "Antonio Albacete",
+            "points": 62,
+            "team": "#23 Team T Sport Bernau",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 4,
+            "name": "Jochen Hahn",
+            "points": 57,
+            "team": "#2",
+            "vehicle": "Iveco"
+          },
+          {
+            "pos": 5,
+            "name": "Stephanie Halm",
+            "points": 50,
+            "team": "#44",
+            "vehicle": "Iveco"
+          },
+          {
+            "pos": 6,
+            "name": "René Reinert",
+            "points": 38,
+            "team": "#77",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 7,
+            "name": "José Eduardo Rodrigues",
+            "points": 36,
+            "team": "#38",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 8,
+            "name": "Lukas Hahn",
+            "points": 34,
+            "team": "#22",
+            "vehicle": "Iveco"
+          },
+          {
+            "pos": 9,
+            "name": "Mark Taylor",
+            "points": 32,
+            "team": "#81",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 10,
+            "name": "John Newell",
+            "points": 15,
+            "team": "#18",
+            "vehicle": "MAN"
+          }
+        ]
+      },
+      {
+        "className": "Chrome",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Mark Taylor",
+            "points": 81,
+            "team": "#81",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 2,
+            "name": "John Newell",
+            "points": 78,
+            "team": "#18",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 3,
+            "name": "Steffen Faas",
+            "points": 60,
+            "team": "#24 tankpool24 Racing",
+            "vehicle": "Freightliner"
+          },
+          {
+            "pos": 4,
+            "name": "Lukas Hahn",
+            "points": 50,
+            "team": "#22",
+            "vehicle": "Iveco"
+          },
+          {
+            "pos": 5,
+            "name": "Luke Garrett",
+            "points": 48,
+            "team": "#42",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 6,
+            "name": "Bradley Smith",
+            "points": 47,
+            "team": "#46",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 7,
+            "name": "Stefan Kursch",
+            "points": 35,
+            "team": "#33",
+            "vehicle": "MAN"
+          },
+          {
+            "pos": 8,
+            "name": "Luis Recuenco",
+            "points": 33
+          },
+          {
+            "pos": 9,
+            "name": "Clemens Hecker",
+            "points": 31,
+            "team": "#25",
+            "vehicle": "Scania"
+          },
+          {
+            "pos": 10,
+            "name": "Jonathan André",
+            "points": 22,
+            "team": "#66",
+            "vehicle": "MAN"
+          }
+        ]
+      }
+    ],
     "motoamerica": [
       {
         "className": "Superbike",
@@ -11585,6 +11735,7 @@
     "motogp": "2026-05-31",
     "worldsbk": "2026-06-14",
     "motoamerica": "2026-05-31",
+    "etrc": "2026-06-07",
     "fe": "2026-06-20",
     "whelen": "2026-06-06",
     "woolm": "2026-06-26",

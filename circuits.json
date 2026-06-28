@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T00:44:50.191Z",
+  "generatedAt": "2026-06-28T01:27:29.616Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -217,7 +217,9 @@
       "city": "Le Mans",
       "region": "Pays de la Loire",
       "website": "https://www.lemans.org",
-      "length_m": 13626
+      "length_m": 13626,
+      "base": "Le Mans",
+      "layout": "24 Hours"
     },
     "Circuit de Monaco": {
       "lat": 43.7347,
@@ -370,7 +372,17 @@
       "city": "Le Mans",
       "region": "Pays de la Loire",
       "website": "https://www.lemans.org",
-      "length_m": 4185
+      "length_m": 4185,
+      "base": "Le Mans",
+      "layout": "Bugatti"
+    },
+    "Slovakia Ring": {
+      "lat": 48.0489,
+      "lon": 17.5806,
+      "city": "Orechová Potôň",
+      "region": "Slovakia",
+      "website": "https://www.slovakiaring.sk",
+      "length_m": 5922
     },
     "Lusail International Circuit": {
       "lat": 25.49,

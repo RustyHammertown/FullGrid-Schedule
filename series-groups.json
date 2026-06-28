@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-06-28T00:44:53.281Z",
+  "generatedAt": "2026-06-28T01:27:31.085Z",
   "groups": [
     {
       "id": "bikes",
@@ -188,6 +188,28 @@
         },
         {
           "id": "to-europe",
+          "label": "Europe",
+          "region": "europe"
+        }
+      ]
+    },
+    {
+      "id": "truck",
+      "label": "Trucks",
+      "regional": true,
+      "subgroups": [
+        {
+          "id": "tr-americas",
+          "label": "Americas",
+          "region": "americas"
+        },
+        {
+          "id": "tr-asia",
+          "label": "Asia Pacific",
+          "region": "asiapacific"
+        },
+        {
+          "id": "tr-europe",
           "label": "Europe",
           "region": "europe"
         }

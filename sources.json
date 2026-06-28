@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T00:44:51.677Z",
+  "generatedAt": "2026-06-28T01:27:28.838Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -44,6 +44,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/MotoAmerica/"
+        }
+      ]
+    },
+    "etrc": {
+      "schedule": [
+        {
+          "url": "https://www.goodyearfiaetrc.com/events",
+          "label": "ETRC — official events & per-round timetables"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.goodyearfiaetrc.com/standings",
+          "label": "ETRC — official results & standings"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.goodyearfiaetrc.com/standings",
+          "label": "ETRC — championship standings (Titan + Chrome)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.goodyearfiaetrc.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.goodyearfiaetrc.com/live"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/fia_etrc_official/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/FIA_ETRC"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/fiaetrc/"
         }
       ]
     },

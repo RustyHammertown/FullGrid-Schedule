@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T01:02:10.717Z",
+  "generatedAt": "2026-06-28T01:27:27.225Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -161,6 +161,27 @@
       },
       "typicalLapSeconds": 95,
       "classGrid": true
+    },
+    "etrc": {
+      "id": "etrc",
+      "tags": [
+        "truck",
+        "europe",
+        "fia"
+      ],
+      "group": "truck",
+      "region": "europe",
+      "label": "European Truck Racing Championship",
+      "short": "ETRC",
+      "color": "#0C4DA2",
+      "bg": "rgba(12,77,162,0.15)",
+      "broadcast": {
+        "Global": "YouTube/FIAETRC"
+      },
+      "streamUrl": "https://www.youtube.com/@FIAETRC/streams",
+      "resultsUrl": "https://www.goodyearfiaetrc.com/standings",
+      "fallbackMinutes": 25,
+      "typicalLapSeconds": 130
     },
     "motoamerica": {
       "id": "motoamerica",
