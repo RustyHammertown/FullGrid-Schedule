@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T02:27:52.616Z",
+  "generatedAt": "2026-06-28T02:52:30.052Z",
   "groups": {
+    "f1h2o": [
+      {
+        "label": "Practice",
+        "sessions": [
+          "Free Practice",
+          "Free Practice 1",
+          "Free Practice 2",
+          "Warm Up"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "Qualifying"
+        ]
+      },
+      {
+        "label": "Sprint",
+        "sessions": [
+          "Sprint Race 1",
+          "Sprint Race 2"
+        ]
+      }
+    ],
     "formuladrift": [
       {
         "label": "PRO",

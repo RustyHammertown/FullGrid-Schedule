@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T02:27:48.906Z",
+  "generatedAt": "2026-06-28T02:52:27.974Z",
   "flat": {
+    "f1h2o": [
+      {
+        "pos": 1,
+        "name": "Stefan Arand",
+        "points": 28,
+        "team": "#18 Sharjah Team",
+        "vehicle": "Sharjah · Mercury"
+      },
+      {
+        "pos": 2,
+        "name": "Grant Trask",
+        "points": 21,
+        "team": "#19 Sharjah Team",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 3,
+        "name": "Bartek Marszałek",
+        "points": 20,
+        "team": "#77 Strømøy Racing",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 4,
+        "name": "Jonas Andersson",
+        "points": 14,
+        "team": "#5 Team Abu Dhabi",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 5,
+        "name": "Ben Jelf",
+        "points": 12,
+        "team": "#9 Atlantic Team",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 6,
+        "name": "Alberto Comparato",
+        "points": 11,
+        "team": "#44 Comparato F1",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 6,
+        "name": "Alec Weckström",
+        "points": 11,
+        "team": "#3 Victory Team",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 8,
+        "name": "Shaun Torrente",
+        "points": 10,
+        "team": "#1 Victory Team",
+        "vehicle": "DAC · Mercury"
+      },
+      {
+        "pos": 8,
+        "name": "Rusty Wyatt",
+        "points": 10,
+        "team": "#17 Sharjah Team",
+        "vehicle": "Sharjah · Mercury"
+      },
+      {
+        "pos": 10,
+        "name": "Peter Morin",
+        "points": 9,
+        "team": "#7 China CTIC Team",
+        "vehicle": "Moore · Mercury"
+      }
+    ],
     "pgatour": [
       {
         "pos": 1,
@@ -11986,6 +12058,7 @@
   },
   "lastUpdated": {
     "dakar": "2026-01-17",
+    "f1h2o": "2026-05-31",
     "bmwm2": "2026-06-21",
     "pgatour": "2026-06-27",
     "formuladrift": "2026-06-20",

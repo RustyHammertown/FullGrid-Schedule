@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T02:27:49.839Z",
+  "generatedAt": "2026-06-28T02:52:29.378Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -1500,6 +1500,40 @@
       "city": "Yanbu",
       "region": "Al Madinah Province",
       "website": "https://www.dakar.com/en"
+    },
+    "Cagliari": {
+      "lat": 39.198,
+      "lon": 9.157,
+      "city": "Cagliari",
+      "region": "Sardinia",
+      "website": "https://www.f1h2o.com"
+    },
+    "Issyk-Kul": {
+      "lat": 42.649,
+      "lon": 77.082,
+      "city": "Issyk-Kul",
+      "region": "Issyk-Kul Region",
+      "website": "https://www.f1h2o.com"
+    },
+    "Shanghai (Baoshan)": {
+      "lat": 31.4,
+      "lon": 121.5,
+      "city": "Shanghai",
+      "region": "Baoshan",
+      "website": "https://www.f1h2o.com"
+    },
+    "Jeddah Corniche": {
+      "lat": 21.65,
+      "lon": 39.1,
+      "city": "Jeddah",
+      "region": "Makkah Province",
+      "website": "https://www.f1h2o.com"
+    },
+    "Khalid Lagoon": {
+      "lat": 25.345,
+      "lon": 55.383,
+      "city": "Sharjah",
+      "website": "https://www.f1h2o.com"
     },
     "Alghero Service Park": {
       "lat": 40.5587,

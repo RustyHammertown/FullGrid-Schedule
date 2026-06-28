@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T02:27:50.769Z",
+  "generatedAt": "2026-06-28T02:52:28.677Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -723,6 +723,28 @@
         "Global": "Check local listings"
       },
       "resultsUrl": "https://www.dakar.com/en/rankings"
+    },
+    "f1h2o": {
+      "id": "f1h2o",
+      "tags": [
+        "powerboat",
+        "world-championship",
+        "global"
+      ],
+      "group": "powerboat",
+      "label": "F1H2O",
+      "short": "F1H2O",
+      "color": "#1CA3D4",
+      "bg": "rgba(28,163,212,0.15)",
+      "broadcast": {
+        "Global": "TrillerTV"
+      },
+      "streamUrl": "https://www.trillertv.com/",
+      "resultsUrl": "https://www.f1h2o.com/standings/2026/f1h2o",
+      "fallbackMinutes": {
+        "sprint": 15,
+        "race": 30
+      }
     },
     "imsa": {
       "id": "imsa",

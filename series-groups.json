@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-06-28T02:27:53.512Z",
+  "generatedAt": "2026-06-28T02:52:30.763Z",
   "groups": [
     {
       "id": "bikes",
@@ -76,6 +76,11 @@
     {
       "id": "esports",
       "label": "eSports",
+      "regional": false
+    },
+    {
+      "id": "powerboat",
+      "label": "Powerboat",
       "regional": false
     },
     {

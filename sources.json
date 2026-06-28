@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T02:27:51.700Z",
+  "generatedAt": "2026-06-28T02:52:31.492Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -2464,6 +2464,51 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/WorldRally/"
+        }
+      ]
+    },
+    "f1h2o": {
+      "schedule": [
+        {
+          "url": "https://www.f1h2o.com/calendar",
+          "label": "F1H2O — official calendar"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.f1h2o.com/standings/2026/f1h2o",
+          "label": "F1H2O — results & standings (Drivers / Teams)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.f1h2o.com/standings/2026/f1h2o",
+          "label": "F1H2O — drivers championship standings"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.f1h2o.com"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.f1h2o.com/standings/2026/f1h2o"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/f1h2o/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/F1_H2O"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/F1H2O/"
         }
       ]
     },
