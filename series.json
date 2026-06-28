@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T00:57:21.857Z",
+  "generatedAt": "2026-06-28T01:02:10.717Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -654,7 +654,7 @@
       ],
       "group": "rally",
       "region": "europe",
-      "label": "FIA WRC",
+      "label": "WRC",
       "short": "WRC",
       "color": "#7F77DD",
       "bg": "rgba(127,119,221,0.15)",
@@ -1663,7 +1663,7 @@
       ],
       "group": "sportscar",
       "region": "europe",
-      "label": "FIA World Endurance Championship",
+      "label": "World Endurance Championship",
       "short": "WEC",
       "color": "#AFA9EC",
       "bg": "rgba(175,169,236,0.15)",
