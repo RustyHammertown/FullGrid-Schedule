@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T14:19:10.928Z",
+  "generatedAt": "2026-06-28T18:59:19.238Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -2509,6 +2509,57 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/F1H2O/"
+        }
+      ]
+    },
+    "mxgp": {
+      "schedule": [
+        {
+          "url": "https://www.mxgp.com/calendar",
+          "label": "MXGP — official calendar"
+        }
+      ],
+      "timetables": [
+        {
+          "url": "https://mxgpresults.com/tv-schedule",
+          "label": "MXGP — weekend timetable + TV schedule (per round)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://mxgpresults.com/mxgp/",
+          "label": "MXGP — race results (MXGP + MX2, per round)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://mxgpresults.com/mxgp/standings",
+          "label": "MXGP — rider championship standings (MXGP + MX2)"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.mxgp.com/"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://mxgpresults.com/live-results"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/mxgp/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/mxgp"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/mxgp"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T14:19:11.791Z",
+  "generatedAt": "2026-06-28T18:59:20.227Z",
   "groups": {
     "f1h2o": [
       {
@@ -503,6 +503,36 @@
         "sessions": [
           "450 Moto 1",
           "450 Moto 2"
+        ]
+      }
+    ],
+    "mxgp": [
+      {
+        "label": "Time Practice",
+        "sessions": [
+          "MXGP Time Practice",
+          "MX2 Time Practice"
+        ]
+      },
+      {
+        "label": "Qualifying",
+        "sessions": [
+          "MXGP Qualifying",
+          "MX2 Qualifying"
+        ]
+      },
+      {
+        "label": "MXGP",
+        "sessions": [
+          "MXGP Race 1",
+          "MXGP Race 2"
+        ]
+      },
+      {
+        "label": "MX2",
+        "sessions": [
+          "MX2 Race 1",
+          "MX2 Race 2"
         ]
       }
     ],

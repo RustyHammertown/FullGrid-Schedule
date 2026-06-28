@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T14:19:10.026Z",
+  "generatedAt": "2026-06-28T18:59:18.254Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -278,6 +278,37 @@
         "Global": "Check local listings"
       },
       "resultsUrl": "https://www.supermotocross.com/results/"
+    },
+    "mxgp": {
+      "id": "mxgp",
+      "tags": [
+        "motorcycle",
+        "450cc",
+        "250cc",
+        "world-championship",
+        "fim",
+        "europe"
+      ],
+      "group": "bikes",
+      "region": "europe",
+      "label": "MXGP",
+      "short": "MXGP",
+      "color": "#2563EB",
+      "bg": "rgba(37,99,235,0.15)",
+      "broadcast": {
+        "US": "CBS Sports Network",
+        "CA": "CBS Sports Network",
+        "UK": "Eurosport 2",
+        "BE": "Play Sports",
+        "NL": "NPO",
+        "Global": "MXGP-TV"
+      },
+      "streamUrl": "https://www.mxgp-tv.com/",
+      "resultsUrl": "https://mxgpresults.com/mxgp/",
+      "fallbackMinutes": {
+        "sprint": 25,
+        "race": 35
+      }
     },
     "xtrial": {
       "id": "xtrial",

@@ -1,7 +1,148 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T14:19:09.156Z",
+  "generatedAt": "2026-06-28T18:59:17.293Z",
   "circuits": {
+    "Bariloche": {
+      "lat": -41.14638,
+      "lon": -71.21695,
+      "city": "San Carlos de Bariloche",
+      "region": "Río Negro",
+      "length_m": 1800
+    },
+    "Almonte": {
+      "lat": 37.20088,
+      "lon": -6.5003,
+      "city": "Almonte",
+      "region": "Andalusia",
+      "website": "https://mxgpandaluciaspain.es",
+      "length_m": 1890
+    },
+    "Frauenfeld": {
+      "lat": 47.54598,
+      "lon": 8.86968,
+      "city": "Frauenfeld",
+      "region": "Thurgau",
+      "website": "https://www.mxgp-switzerland.com",
+      "length_m": 1500
+    },
+    "Riola Sardo": {
+      "lat": 40.02375,
+      "lon": 8.50557,
+      "city": "Riola Sardo",
+      "region": "Sardinia",
+      "length_m": 1750
+    },
+    "Pietramurata": {
+      "lat": 46.011,
+      "lon": 10.9334,
+      "city": "Pietramurata",
+      "region": "Trentino-Alto Adige",
+      "website": "https://www.mxtrentino.com",
+      "length_m": 1570
+    },
+    "Lacapelle-Marival": {
+      "lat": 44.73361,
+      "lon": 1.92529,
+      "city": "Lacapelle-Marival",
+      "region": "Occitanie",
+      "website": "https://motoclublacapelle.com"
+    },
+    "Teutschenthal": {
+      "lat": 51.45855,
+      "lon": 11.79516,
+      "city": "Teutschenthal",
+      "region": "Saxony-Anhalt",
+      "website": "https://www.msc-teutschenthal.de",
+      "length_m": 1565
+    },
+    "Kegums": {
+      "lat": 56.75375,
+      "lon": 24.73558,
+      "city": "Ķegums",
+      "region": "Ogre Municipality",
+      "length_m": 1750
+    },
+    "Montevarchi": {
+      "lat": 43.49511,
+      "lon": 11.53784,
+      "city": "Montevarchi",
+      "region": "Tuscany",
+      "website": "https://www.mcbrilliperi.it",
+      "length_m": 1520
+    },
+    "Águeda": {
+      "lat": 40.55295,
+      "lon": -8.40195,
+      "city": "Águeda",
+      "region": "Aveiro",
+      "website": "https://mxgpportugal.com",
+      "length_m": 1500
+    },
+    "Johannesburg": {
+      "lat": -25.9341,
+      "lon": 27.97452,
+      "city": "Johannesburg",
+      "region": "Gauteng"
+    },
+    "Foxhill": {
+      "lat": 51.537,
+      "lon": -1.673,
+      "city": "Swindon",
+      "region": "Wiltshire"
+    },
+    "Loket": {
+      "lat": 50.19573,
+      "lon": 12.75848,
+      "city": "Loket",
+      "region": "Karlovy Vary",
+      "website": "https://www.loketmx.com",
+      "length_m": 1586
+    },
+    "Lommel": {
+      "lat": 51.21357,
+      "lon": 5.28473,
+      "city": "Lommel",
+      "region": "Limburg",
+      "website": "https://motorcrosscentrumlommel.be",
+      "length_m": 1850
+    },
+    "Uddevalla": {
+      "lat": 58.33808,
+      "lon": 12.01833,
+      "city": "Uddevalla",
+      "region": "Västra Götaland",
+      "website": "https://uddevallagp.com"
+    },
+    "Arnhem": {
+      "lat": 52.03831,
+      "lon": 5.92689,
+      "city": "Arnhem",
+      "region": "Gelderland",
+      "website": "https://www.motorsportparkgelderlandmidden.nl",
+      "length_m": 1700
+    },
+    "Afyonkarahisar": {
+      "lat": 38.78578,
+      "lon": 30.48142,
+      "city": "Afyonkarahisar",
+      "region": "Afyonkarahisar",
+      "website": "https://www.turkeymxgp.com",
+      "length_m": 1725
+    },
+    "Shanghai (MXGP)": {
+      "lat": 30.82972,
+      "lon": 121.50222,
+      "city": "Shanghai",
+      "region": "Fengxian District"
+    },
+    "Darwin": {
+      "lat": -12.4428,
+      "lon": 130.9042,
+      "city": "Darwin",
+      "region": "Northern Territory",
+      "website": "https://www.hiddenvalleyraceway.com.au",
+      "length_m": 1600
+    },
     "34 Raceway": {
       "lat": 40.8345,
       "lon": -91.2477

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T14:19:08.251Z",
+  "generatedAt": "2026-06-28T18:59:16.293Z",
   "flat": {
     "f1h2o": [
       {
@@ -4269,6 +4269,158 @@
     ]
   },
   "classes": {
+    "mxgp": [
+      {
+        "className": "MXGP",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Lucas Coenen",
+            "points": 506,
+            "team": "#5 · Belgium",
+            "vehicle": "KTM"
+          },
+          {
+            "pos": 2,
+            "name": "Jeffrey Herlings",
+            "points": 449,
+            "team": "#84 · Netherlands",
+            "vehicle": "Honda"
+          },
+          {
+            "pos": 3,
+            "name": "Romain Febvre",
+            "points": 394,
+            "team": "#1 · France",
+            "vehicle": "Kawasaki"
+          },
+          {
+            "pos": 4,
+            "name": "Tim Gajser",
+            "points": 371,
+            "team": "#243 · Slovenia",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 5,
+            "name": "Maxime Renaux",
+            "points": 334,
+            "team": "#959 · France",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 6,
+            "name": "Andrea Adamo",
+            "points": 313,
+            "team": "#80 · Italy",
+            "vehicle": "KTM"
+          },
+          {
+            "pos": 7,
+            "name": "Ruben Fernandez",
+            "points": 304,
+            "team": "#70 · Spain",
+            "vehicle": "Honda"
+          },
+          {
+            "pos": 8,
+            "name": "Kay de Wolf",
+            "points": 273,
+            "team": "#74 · Netherlands",
+            "vehicle": "Husqvarna"
+          },
+          {
+            "pos": 9,
+            "name": "Tom Vialle",
+            "points": 265,
+            "team": "#16 · France",
+            "vehicle": "Honda"
+          },
+          {
+            "pos": 10,
+            "name": "Pauls Jonass",
+            "points": 234,
+            "team": "#41 · Latvia",
+            "vehicle": "Kawasaki"
+          }
+        ]
+      },
+      {
+        "className": "MX2",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Sacha Coenen",
+            "points": 477,
+            "team": "#19 · Belgium",
+            "vehicle": "KTM"
+          },
+          {
+            "pos": 2,
+            "name": "Guillem Farres",
+            "points": 450,
+            "team": "#99 · Spain",
+            "vehicle": "Triumph"
+          },
+          {
+            "pos": 3,
+            "name": "Simon Längenfelder",
+            "points": 415,
+            "team": "#1 · Germany",
+            "vehicle": "KTM"
+          },
+          {
+            "pos": 4,
+            "name": "Camden McLellan",
+            "points": 413,
+            "team": "#8 · South Africa",
+            "vehicle": "Triumph"
+          },
+          {
+            "pos": 5,
+            "name": "Liam Everts",
+            "points": 397,
+            "team": "#26 · Belgium",
+            "vehicle": "Husqvarna"
+          },
+          {
+            "pos": 6,
+            "name": "Janis Martins Reisulis",
+            "points": 355,
+            "team": "#772 · Latvia",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 7,
+            "name": "Mathis Valin",
+            "points": 352,
+            "team": "#317 · France",
+            "vehicle": "Kawasaki"
+          },
+          {
+            "pos": 8,
+            "name": "Karlis Alberts Reisulis",
+            "points": 273,
+            "team": "#47 · Latvia",
+            "vehicle": "Yamaha"
+          },
+          {
+            "pos": 9,
+            "name": "Valerio Lata",
+            "points": 256,
+            "team": "#18 · Italy",
+            "vehicle": "Honda"
+          },
+          {
+            "pos": 10,
+            "name": "Kay Karssemakers",
+            "points": 205,
+            "team": "#33 · Netherlands",
+            "vehicle": "Kawasaki"
+          }
+        ]
+      }
+    ],
     "dakar": [
       {
         "className": "Bike",
@@ -12321,9 +12473,11 @@
     "elms": "Team Standings",
     "alms": "Team Standings",
     "worldcup": "Team Standings",
-    "pgatour": "FedExCup Standings"
+    "pgatour": "FedExCup Standings",
+    "mxgp": "Rider Standings"
   },
   "lastUpdated": {
+    "mxgp": "2026-06-28",
     "dakar": "2026-01-17",
     "f1h2o": "2026-05-31",
     "bmwm2": "2026-06-21",
