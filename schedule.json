@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T13:45:41.581Z",
+  "generatedAt": "2026-06-28T14:19:07.221Z",
   "events": [
     {
       "id": 101,
@@ -116699,7 +116699,743 @@
       ]
     },
     {
-      "id": 9080,
+      "id": 9819,
+      "series": "worldcup",
+      "name": "🇨🇦 Canada vs 🇿🇦 South Africa",
+      "circuit": "SoFi Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "teams": [
+        "Canada",
+        "South Africa"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-28T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9820,
+      "series": "worldcup",
+      "name": "🇧🇷 Brazil vs 🇯🇵 Japan",
+      "circuit": "NRG Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "teams": [
+        "Brazil",
+        "Japan"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-29T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9821,
+      "series": "worldcup",
+      "name": "🇩🇪 Germany vs 🇵🇾 Paraguay",
+      "circuit": "Gillette Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "teams": [
+        "Germany",
+        "Paraguay"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-29T16:30:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9822,
+      "series": "worldcup",
+      "name": "🇳🇱 Netherlands vs 🇲🇦 Morocco",
+      "circuit": "Estadio BBVA",
+      "flag": "",
+      "country": "Mexico",
+      "tz": "America/Monterrey",
+      "teams": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-29T20:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9823,
+      "series": "worldcup",
+      "name": "🇨🇮 Ivory Coast vs 🇳🇴 Norway",
+      "circuit": "AT&T Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "teams": [
+        "Ivory Coast",
+        "Norway"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-30T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9824,
+      "series": "worldcup",
+      "name": "🇫🇷 France vs 🇸🇪 Sweden",
+      "circuit": "MetLife Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "teams": [
+        "France",
+        "Sweden"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-30T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9825,
+      "series": "worldcup",
+      "name": "🇲🇽 Mexico vs 🇪🇨 Ecuador",
+      "circuit": "Estadio Azteca",
+      "flag": "",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "teams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-06-30T20:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9826,
+      "series": "worldcup",
+      "name": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇨🇩 DR Congo",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "teams": [
+        "England",
+        "DR Congo"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-01T12:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9827,
+      "series": "worldcup",
+      "name": "🇧🇪 Belgium vs 🇸🇳 Senegal",
+      "circuit": "Lumen Field",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-01T13:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9828,
+      "series": "worldcup",
+      "name": "🇺🇸 United States vs 🇧🇦 Bosnia and Herzegovina",
+      "circuit": "Levi's Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "teams": [
+        "United States",
+        "Bosnia and Herzegovina"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-01T17:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9829,
+      "series": "worldcup",
+      "name": "🇪🇸 Spain vs 🇦🇹 Austria",
+      "circuit": "SoFi Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-02T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9830,
+      "series": "worldcup",
+      "name": "🇵🇹 Portugal vs 🇭🇷 Croatia",
+      "circuit": "BMO Field",
+      "flag": "",
+      "country": "Canada",
+      "tz": "America/Toronto",
+      "teams": [
+        "Portugal",
+        "Croatia"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-02T19:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9831,
+      "series": "worldcup",
+      "name": "🇨🇭 Switzerland vs 🇩🇿 Algeria",
+      "circuit": "BC Place",
+      "flag": "",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "teams": [
+        "Switzerland",
+        "Algeria"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-02T20:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9832,
+      "series": "worldcup",
+      "name": "🇦🇺 Australia vs 🇪🇬 Egypt",
+      "circuit": "AT&T Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-03T13:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9833,
+      "series": "worldcup",
+      "name": "🇦🇷 Argentina vs 🇨🇻 Cape Verde",
+      "circuit": "Hard Rock Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "teams": [
+        "Argentina",
+        "Cape Verde"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-03T18:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9834,
+      "series": "worldcup",
+      "name": "🇨🇴 Colombia vs 🇬🇭 Ghana",
+      "circuit": "Arrowhead Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "teams": [
+        "Colombia",
+        "Ghana"
+      ],
+      "sessions": [
+        {
+          "name": "Round of 32 Match",
+          "time": "2026-07-03T20:30:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9835,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "NRG Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-04T12:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9836,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Lincoln Financial Field",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-04T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9837,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "MetLife Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-05T16:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9838,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Estadio Azteca",
+      "flag": "",
+      "country": "Mexico",
+      "tz": "America/Mexico_City",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-05T19:00:00-06:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9839,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "AT&T Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-06T14:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9840,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Lumen Field",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-06T14:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9841,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-07T12:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9842,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "BC Place",
+      "flag": "",
+      "country": "Canada",
+      "tz": "America/Vancouver",
+      "sessions": [
+        {
+          "name": "Round of 16 Match",
+          "time": "2026-07-07T13:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9843,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Gillette Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Quarter-final Match",
+          "time": "2026-07-09T16:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9844,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "SoFi Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Los_Angeles",
+      "sessions": [
+        {
+          "name": "Quarter-final Match",
+          "time": "2026-07-10T12:00:00-07:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9845,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Hard Rock Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Quarter-final Match",
+          "time": "2026-07-11T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9846,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Arrowhead Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Quarter-final Match",
+          "time": "2026-07-11T20:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9847,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "AT&T Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/Chicago",
+      "sessions": [
+        {
+          "name": "Semi-final Match",
+          "time": "2026-07-14T14:00:00-05:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9848,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Mercedes-Benz Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Semi-final Match",
+          "time": "2026-07-15T15:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9849,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "Hard Rock Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Third-place Match",
+          "time": "2026-07-18T17:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9850,
+      "series": "worldcup",
+      "name": "TBD vs TBD",
+      "circuit": "MetLife Stadium",
+      "flag": "",
+      "country": "USA",
+      "tz": "America/New_York",
+      "sessions": [
+        {
+          "name": "Final Match",
+          "time": "2026-07-19T15:00:00-04:00",
+          "duration": 120,
+          "broadcasts": {
+            "US": {
+              "service": "FOX"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 9794,
       "series": "formuladrift",
       "name": "Streets of Long Beach",
       "circuit": "Long Beach Street Circuit",
@@ -116741,7 +117477,7 @@
       ]
     },
     {
-      "id": 9081,
+      "id": 9795,
       "series": "formuladrift",
       "name": "Road to the Championship",
       "circuit": "Michelin Raceway Road Atlanta",
@@ -116790,7 +117526,7 @@
       ]
     },
     {
-      "id": 9082,
+      "id": 9796,
       "series": "formuladrift",
       "name": "Scorched",
       "circuit": "Orlando Speed World",
@@ -116837,7 +117573,7 @@
       ]
     },
     {
-      "id": 9083,
+      "id": 9797,
       "series": "formuladrift",
       "name": "Battle at the Springs",
       "circuit": "Stafford Speedway",
@@ -116907,7 +117643,7 @@
       ]
     },
     {
-      "id": 9084,
+      "id": 9798,
       "series": "formuladrift",
       "name": "Midwest Mayhem",
       "circuit": "Lucas Oil Indianapolis Raceway Park",
@@ -116952,7 +117688,7 @@
       ]
     },
     {
-      "id": 9085,
+      "id": 9799,
       "series": "formuladrift",
       "name": "Throwdown",
       "circuit": "Evergreen Speedway",
@@ -116982,7 +117718,7 @@
       ]
     },
     {
-      "id": 9086,
+      "id": 9800,
       "series": "formuladrift",
       "name": "High Stakes",
       "circuit": "Las Vegas Motor Speedway",
@@ -117027,7 +117763,7 @@
       ]
     },
     {
-      "id": 9087,
+      "id": 9801,
       "series": "formuladrift",
       "name": "Shoreline Showdown",
       "circuit": "Long Beach Street Circuit",
@@ -117057,7 +117793,7 @@
       ]
     },
     {
-      "id": 9100,
+      "id": 9814,
       "series": "fdjapan",
       "name": "Fuji (FDJ R1)",
       "circuit": "Fuji International Speedway",
@@ -117083,7 +117819,7 @@
       ]
     },
     {
-      "id": 9101,
+      "id": 9815,
       "series": "fdjapan",
       "name": "Suzuka Twin (FDJ R2)",
       "circuit": "Suzuka Twin Circuit",
@@ -117109,7 +117845,7 @@
       ]
     },
     {
-      "id": 9102,
+      "id": 9816,
       "series": "fdjapan",
       "name": "Ebisu (FDJ R3)",
       "circuit": "Ebisu Circuit",
@@ -117140,7 +117876,7 @@
       ]
     },
     {
-      "id": 9103,
+      "id": 9817,
       "series": "fdjapan",
       "name": "Sportsland SUGO (FDJ R4)",
       "circuit": "Sportsland SUGO",
@@ -117166,7 +117902,7 @@
       ]
     },
     {
-      "id": 9104,
+      "id": 9818,
       "series": "fdjapan",
       "name": "Okuibuki (FDJ R5)",
       "circuit": "Okuibuki Motorpark",
