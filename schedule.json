@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T23:34:55.367Z",
+  "generatedAt": "2026-06-28T23:58:16.181Z",
   "events": [
     {
       "id": 101,
@@ -124699,12 +124699,13 @@
     {
       "id": 9870,
       "series": "superformula",
-      "name": "Mobility Resort Motegi (Rounds 1-2)",
+      "name": "Mobility Resort Motegi",
       "circuit": "Mobility Resort Motegi",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 1,
+      "roundLabel": "Rounds 1-2",
       "sessions": [
         {
           "name": "Free Practice 1",
@@ -124743,12 +124744,13 @@
     {
       "id": 9871,
       "series": "superformula",
-      "name": "Autopolis (Round 3)",
+      "name": "Autopolis",
       "circuit": "Autopolis",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 2,
+      "roundLabel": "Round 3",
       "sessions": [
         {
           "name": "Free Practice 1",
@@ -124776,12 +124778,13 @@
     {
       "id": 9872,
       "series": "superformula",
-      "name": "Suzuka (Rounds 4-5)",
+      "name": "Suzuka",
       "circuit": "Suzuka International Racing Course",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 3,
+      "roundLabel": "Rounds 4-5",
       "sessions": [
         {
           "name": "Free Practice 1",
@@ -124820,12 +124823,13 @@
     {
       "id": 9873,
       "series": "superformula",
-      "name": "Fuji Speedway (Rounds 6-7)",
+      "name": "Fuji Speedway",
       "circuit": "Fuji International Speedway",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 4,
+      "roundLabel": "Rounds 6-7",
       "sessions": [
         {
           "name": "Free Practice 1",
@@ -124864,12 +124868,13 @@
     {
       "id": 9874,
       "series": "superformula",
-      "name": "Sportsland SUGO (Round 8)",
+      "name": "Sportsland SUGO",
       "circuit": "Sportsland SUGO",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 5,
+      "roundLabel": "Round 8",
       "sessions": [
         {
           "name": "Free Practice 1",
@@ -124891,12 +124896,13 @@
     {
       "id": 9875,
       "series": "superformula",
-      "name": "Fuji Speedway (Rounds 9-10)",
+      "name": "Fuji Speedway",
       "circuit": "Fuji International Speedway",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 6,
+      "roundLabel": "Rounds 9-10",
       "sessions": [
         {
           "name": "Free Practice 1",
@@ -124933,12 +124939,13 @@
     {
       "id": 9876,
       "series": "superformula",
-      "name": "Suzuka (Rounds 11-12)",
+      "name": "Suzuka",
       "circuit": "Suzuka International Racing Course",
       "flag": "🇯🇵",
       "country": "Japan",
       "tz": "Asia/Tokyo",
       "round": 7,
+      "roundLabel": "Rounds 11-12",
       "sessions": [
         {
           "name": "Free Practice 1",
