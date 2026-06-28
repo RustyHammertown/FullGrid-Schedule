@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T01:27:25.763Z",
+  "generatedAt": "2026-06-28T02:05:56.033Z",
   "events": [
     {
       "id": 101,
@@ -120994,6 +120994,170 @@
         {
           "name": "Race 4",
           "time": "2026-10-04T14:00:00+02:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9760,
+      "series": "dakar",
+      "name": "Dakar Rally",
+      "circuit": "King Abdullah Economic City",
+      "flag": "🇸🇦",
+      "country": "Saudi Arabia",
+      "tz": "Asia/Riyadh",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Prologue",
+          "time": "2027-01-01T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 1",
+          "time": "2027-01-02T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 2",
+          "time": "2027-01-03T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 3",
+          "time": "2027-01-04T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 4",
+          "time": "2027-01-05T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 5",
+          "time": "2027-01-06T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 6",
+          "time": "2027-01-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 7",
+          "time": "2027-01-08T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 8",
+          "time": "2027-01-10T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 9",
+          "time": "2027-01-11T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 10",
+          "time": "2027-01-12T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 11",
+          "time": "2027-01-13T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 12",
+          "time": "2027-01-14T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 13",
+          "time": "2027-01-15T15:00:00+03:00",
+          "tbd": true
+        }
+      ]
+    },
+    {
+      "id": 9761,
+      "series": "dakar",
+      "name": "Dakar Rally",
+      "circuit": "Yanbu",
+      "flag": "🇸🇦",
+      "country": "Saudi Arabia",
+      "tz": "Asia/Riyadh",
+      "round": 1,
+      "sessions": [
+        {
+          "name": "Prologue",
+          "time": "2026-01-03T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 1",
+          "time": "2026-01-04T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 2",
+          "time": "2026-01-05T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 3",
+          "time": "2026-01-06T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 4",
+          "time": "2026-01-07T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 5",
+          "time": "2026-01-08T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 6",
+          "time": "2026-01-09T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 7",
+          "time": "2026-01-11T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 8",
+          "time": "2026-01-12T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 9",
+          "time": "2026-01-13T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 10",
+          "time": "2026-01-14T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 11",
+          "time": "2026-01-15T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 12",
+          "time": "2026-01-16T15:00:00+03:00",
+          "tbd": true
+        },
+        {
+          "name": "Stage 13",
+          "time": "2026-01-17T15:00:00+03:00",
           "tbd": true
         }
       ]

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T01:27:27.225Z",
+  "generatedAt": "2026-06-28T02:05:57.593Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -695,6 +695,34 @@
       },
       "resultsUrl": "https://www.wrc.com/en/results-and-standings",
       "classGrid": true
+    },
+    "dakar": {
+      "id": "dakar",
+      "tags": [
+        "rally",
+        "world-championship",
+        "global",
+        "fia",
+        "fim"
+      ],
+      "group": "rally",
+      "region": "asiapacific",
+      "label": "Dakar Rally",
+      "short": "DAKAR",
+      "color": "#D98324",
+      "bg": "rgba(217,131,36,0.15)",
+      "broadcast": {
+        "US": "Peacock",
+        "UK": "TNT Sports",
+        "AU": "SBS",
+        "FR": "L'Équipe",
+        "DE": "Eurosport",
+        "IT": "Sky Italia",
+        "ES": "RTVE",
+        "JP": "J SPORTS",
+        "Global": "Check local listings"
+      },
+      "resultsUrl": "https://www.dakar.com/en/rankings"
     },
     "imsa": {
       "id": "imsa",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T01:27:28.838Z",
+  "generatedAt": "2026-06-28T02:06:00.483Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -2464,6 +2464,57 @@
       "facebook": [
         {
           "url": "https://www.facebook.com/WorldRally/"
+        }
+      ]
+    },
+    "dakar": {
+      "schedule": [
+        {
+          "url": "https://www.dakar.com/en/overall-route",
+          "label": "Dakar — official route / stage itinerary"
+        }
+      ],
+      "timetables": [
+        {
+          "url": "https://www.dakar.com/en/overall-route",
+          "label": "Dakar — stage dates (clock times publish in the roadbook at the rally)"
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.dakar.com/en/rankings",
+          "label": "Dakar — official rankings (per category, per stage + overall)"
+        }
+      ],
+      "standings": [
+        {
+          "url": "https://www.dakar.com/en/rankings",
+          "label": "Dakar — final overall classification by category"
+        }
+      ],
+      "website": [
+        {
+          "url": "https://www.dakar.com/en"
+        }
+      ],
+      "liveTiming": [
+        {
+          "url": "https://www.dakar.live.worldrallyraidchampionship.com/en/"
+        }
+      ],
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/dakarrally/"
+        }
+      ],
+      "x": [
+        {
+          "url": "https://x.com/dakar"
+        }
+      ],
+      "facebook": [
+        {
+          "url": "https://www.facebook.com/dakar/"
         }
       ]
     },

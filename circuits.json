@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T01:27:29.616Z",
+  "generatedAt": "2026-06-28T02:05:58.363Z",
   "circuits": {
     "34 Raceway": {
       "lat": 40.8345,
@@ -1486,6 +1486,20 @@
       "city": "Joliet",
       "region": "Illinois",
       "length_m": 604
+    },
+    "King Abdullah Economic City": {
+      "lat": 22.4167,
+      "lon": 39.09,
+      "city": "King Abdullah Economic City",
+      "region": "Makkah Province",
+      "website": "https://www.dakar.com/en"
+    },
+    "Yanbu": {
+      "lat": 24.089,
+      "lon": 38.0618,
+      "city": "Yanbu",
+      "region": "Al Madinah Province",
+      "website": "https://www.dakar.com/en"
     },
     "Alghero Service Park": {
       "lat": 40.5587,

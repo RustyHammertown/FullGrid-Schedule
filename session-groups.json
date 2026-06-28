@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T01:27:30.348Z",
+  "generatedAt": "2026-06-28T02:05:59.067Z",
   "groups": {
     "formuladrift": [
       {
@@ -1281,7 +1281,8 @@
         "sessions": [
           "Qualifying",
           "Qualifying 1",
-          "Qualifying 2"
+          "Qualifying 2",
+          "Pre-qualifying"
         ]
       }
     ],

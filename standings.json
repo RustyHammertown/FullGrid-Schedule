@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T01:27:28.019Z",
+  "generatedAt": "2026-06-28T02:05:56.892Z",
   "flat": {
     "pgatour": [
       {
@@ -4147,6 +4147,301 @@
     ]
   },
   "classes": {
+    "dakar": [
+      {
+        "className": "Bike",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Luciano Benavides",
+            "points": 38,
+            "team": "Red Bull KTM Factory Racing",
+            "vehicle": "KTM 450 Rally"
+          },
+          {
+            "pos": 2,
+            "name": "Ricky Brabec",
+            "points": 30,
+            "team": "Monster Energy Honda HRC",
+            "vehicle": "Honda CRF450"
+          },
+          {
+            "pos": 3,
+            "name": "Tosha Schareina",
+            "points": 24,
+            "team": "Monster Energy Honda HRC",
+            "vehicle": "Honda CRF450"
+          },
+          {
+            "pos": 4,
+            "name": "Skyler Howes",
+            "points": 20,
+            "team": "Monster Energy Honda HRC",
+            "vehicle": "Honda CRF450"
+          },
+          {
+            "pos": 5,
+            "name": "Daniel Sanders",
+            "points": 17,
+            "team": "Red Bull KTM Factory Racing",
+            "vehicle": "KTM 450 Rally"
+          },
+          {
+            "pos": 6,
+            "name": "Adrien Van Beveren",
+            "points": 15,
+            "team": "Monster Energy Honda HRC",
+            "vehicle": "Honda CRF450"
+          },
+          {
+            "pos": 7,
+            "name": "José Ignacio Cornejo",
+            "points": 14,
+            "team": "Hero MotoSports Team Rally",
+            "vehicle": "Hero 450 Rally"
+          },
+          {
+            "pos": 8,
+            "name": "Ross Branch",
+            "points": 12,
+            "team": "Hero MotoSports Team Rally",
+            "vehicle": "Hero 450 Rally"
+          },
+          {
+            "pos": 9,
+            "name": "Edgar Canet",
+            "points": 11,
+            "team": "Red Bull KTM Factory Racing",
+            "vehicle": "KTM 450 Rally"
+          }
+        ]
+      },
+      {
+        "className": "Car",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Nasser Al-Attiyah",
+            "points": 73,
+            "team": "The Dacia Sandriders",
+            "vehicle": "Dacia Sandrider"
+          },
+          {
+            "pos": 2,
+            "name": "Mattias Ekström",
+            "points": 52,
+            "team": "Ford Racing (M-Sport)",
+            "vehicle": "Ford Raptor"
+          },
+          {
+            "pos": 3,
+            "name": "Nani Roma",
+            "points": 45,
+            "team": "Ford Racing (M-Sport)",
+            "vehicle": "Ford Raptor"
+          },
+          {
+            "pos": 4,
+            "name": "Sébastien Loeb",
+            "points": 39,
+            "team": "The Dacia Sandriders",
+            "vehicle": "Dacia Sandrider"
+          },
+          {
+            "pos": 5,
+            "name": "Carlos Sainz Sr.",
+            "points": 27,
+            "team": "Ford Racing (M-Sport)",
+            "vehicle": "Ford Raptor"
+          },
+          {
+            "pos": 6,
+            "name": "Mathieu Serradori",
+            "points": 27,
+            "team": "Century Racing Factory Team",
+            "vehicle": "Century CR7"
+          },
+          {
+            "pos": 7,
+            "name": "Toby Price",
+            "points": 27,
+            "team": "Toyota Gazoo Racing W2RC",
+            "vehicle": "Toyota Hilux GR"
+          },
+          {
+            "pos": 8,
+            "name": "Lucas Moraes",
+            "points": 24,
+            "team": "The Dacia Sandriders",
+            "vehicle": "Dacia Sandrider"
+          },
+          {
+            "pos": 9,
+            "name": "Seth Quintero",
+            "points": 24,
+            "team": "Toyota Gazoo Racing W2RC",
+            "vehicle": "Toyota Hilux GR"
+          },
+          {
+            "pos": 10,
+            "name": "Mitchell Guthrie",
+            "points": 23,
+            "team": "M-Sport Rally Raid Team",
+            "vehicle": "Ford Raptor"
+          }
+        ]
+      },
+      {
+        "className": "Challenger",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Pau Navarro",
+            "points": 66,
+            "team": "Odyssey Academy by BBR",
+            "vehicle": "Taurus T3 Max"
+          },
+          {
+            "pos": 2,
+            "name": "Yasir Seaidan",
+            "points": 61,
+            "team": "Team Race World",
+            "vehicle": "Taurus EVO Max"
+          },
+          {
+            "pos": 3,
+            "name": "Nicolás Cavigliasso",
+            "points": 57,
+            "team": "Vertical Motorsport",
+            "vehicle": "Taurus EVO Max"
+          },
+          {
+            "pos": 4,
+            "name": "Kevin Benavides",
+            "points": 46,
+            "team": "Odyssey Academy by BBR",
+            "vehicle": "Taurus T3 Max"
+          },
+          {
+            "pos": 5,
+            "name": "Puck Klaassen",
+            "points": 43,
+            "team": "KTM X-Bow / G Rally Team",
+            "vehicle": "GRallyTeam G-Ecko"
+          },
+          {
+            "pos": 6,
+            "name": "Dania Akeel",
+            "points": 43,
+            "team": "Odyssey Academy by BBR",
+            "vehicle": "Taurus T3 Max"
+          },
+          {
+            "pos": 7,
+            "name": "Lucas del Rio",
+            "points": 41,
+            "team": "BBR Motorsport",
+            "vehicle": "Taurus T3 Max"
+          },
+          {
+            "pos": 8,
+            "name": "Paul Spierings",
+            "points": 36,
+            "team": "Rebellion – Spierings",
+            "vehicle": "Taurus EVO Max"
+          },
+          {
+            "pos": 9,
+            "name": "David Zille",
+            "points": 30,
+            "team": "BBR Motorsport",
+            "vehicle": "Taurus T3 Max"
+          },
+          {
+            "pos": 10,
+            "name": "Pedro Gonçalves",
+            "points": 11,
+            "team": "BBR Motorsport",
+            "vehicle": "Taurus T3 Max"
+          }
+        ]
+      },
+      {
+        "className": "SSV",
+        "entries": [
+          {
+            "pos": 1,
+            "name": "Kyle Chaney",
+            "points": 90,
+            "team": "Can-Am Factory Team",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 2,
+            "name": "João Monteiro",
+            "points": 74,
+            "team": "Can-Am Factory Team",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 3,
+            "name": "Jeremías Gonzalez Ferioli",
+            "points": 70,
+            "team": "Can-Am Factory Team LATAM",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 4,
+            "name": "Francisco López",
+            "points": 59,
+            "team": "Can-Am Factory Team LATAM",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 5,
+            "name": "Manuel Andújar",
+            "points": 29,
+            "team": "Can-Am Factory Team LATAM",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 6,
+            "name": "Hunter Miller",
+            "points": 24,
+            "team": "Can-Am Factory Team",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 7,
+            "name": "Maciej Oleksowicz",
+            "points": 20,
+            "team": "South Racing Can-Am",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 8,
+            "name": "Richard Aczel",
+            "points": 17,
+            "team": "South Racing Can-Am",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 9,
+            "name": "Joan Piferrer",
+            "points": 15,
+            "team": "Buggy Masters Team",
+            "vehicle": "Can-Am Maverick R"
+          },
+          {
+            "pos": 10,
+            "name": "Helder Rodrigues",
+            "points": 15,
+            "team": "Santag Racing",
+            "vehicle": "Polaris RZR Pro R Sport"
+          }
+        ]
+      }
+    ],
     "etrc": [
       {
         "className": "Titan",
@@ -11690,6 +11985,7 @@
     "pgatour": "FedExCup Standings"
   },
   "lastUpdated": {
+    "dakar": "2026-01-17",
     "bmwm2": "2026-06-21",
     "pgatour": "2026-06-27",
     "formuladrift": "2026-06-20",
