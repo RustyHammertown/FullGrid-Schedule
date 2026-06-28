@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T18:59:43.614Z",
+  "generatedAt": "2026-06-28T19:15:11.615Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -296,11 +296,6 @@
       "color": "#2563EB",
       "bg": "rgba(37,99,235,0.15)",
       "broadcast": {
-        "US": "CBS Sports Network",
-        "CA": "CBS Sports Network",
-        "UK": "Eurosport 2",
-        "BE": "Play Sports",
-        "NL": "NPO",
         "Global": "MXGP-TV"
       },
       "streamUrl": "https://www.mxgp-tv.com/",
@@ -308,7 +303,8 @@
       "fallbackMinutes": {
         "sprint": 25,
         "race": 35
-      }
+      },
+      "classGrid": true
     },
     "xtrial": {
       "id": "xtrial",
@@ -3717,6 +3713,7 @@
       "Vintage Enduro",
       "Governor's Cup",
       "Free Practice",
+      "Time Practice",
       "Warm-up",
       "Warm Up",
       "Super Heat",
@@ -3730,6 +3727,7 @@
       "Enduro",
       "Testing",
       "Final",
+      "Race \\d+",
       "Race",
       "SS\\d+",
       "Eliminations",

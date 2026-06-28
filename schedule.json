@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T18:59:37.758Z",
+  "generatedAt": "2026-06-28T19:15:08.183Z",
   "events": [
     {
       "id": 101,
@@ -122210,22 +122210,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-03-08T09:00:00-03:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-03-08T09:00:00-03:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-03-08T09:00:00-03:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-03-08T09:00:00-03:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122262,22 +122342,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-03-22T13:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-03-22T14:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-03-22T16:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-03-22T17:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122314,22 +122474,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-03-29T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-03-29T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-03-29T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-03-29T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122366,22 +122606,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-04-12T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-04-12T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-04-12T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-04-12T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122418,22 +122738,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-04-19T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-04-19T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-04-19T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-04-19T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122470,22 +122870,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-05-24T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-05-24T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-05-24T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-05-24T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122522,22 +123002,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-05-31T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-05-31T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-05-31T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-05-31T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122574,22 +123134,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-06-07T15:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-06-07T16:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-06-07T18:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-06-07T19:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122626,22 +123266,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-06-21T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-06-21T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-06-21T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-06-21T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122678,22 +123398,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-06-28T13:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-06-28T14:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-06-28T16:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-06-28T17:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122730,22 +123530,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-07-05T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-07-05T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-07-05T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-07-05T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122782,22 +123662,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-07-19T13:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-07-19T14:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-07-19T16:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-07-19T17:00:00+01:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122834,22 +123794,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-07-26T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-07-26T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-07-26T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-07-26T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122886,22 +123926,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-08-02T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-08-02T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-08-02T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-08-02T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122938,22 +124058,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-08-16T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-08-16T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-08-16T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-08-16T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -122990,22 +124190,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-08-23T14:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-08-23T15:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-08-23T17:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-08-23T18:00:00+02:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -123042,22 +124322,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-09-06T15:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-09-06T16:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-09-06T18:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-09-06T19:00:00+03:00",
-          "duration": 35
+          "duration": 35,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -123094,22 +124454,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-09-13T20:00:00+08:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-09-13T20:00:00+08:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-09-13T20:00:00+08:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-09-13T20:00:00+08:00",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     },
@@ -123146,22 +124586,102 @@
         {
           "name": "MX2 Race 1",
           "time": "2026-09-20T21:30:00+09:30",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 1",
           "time": "2026-09-20T21:30:00+09:30",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MX2 Race 2",
           "time": "2026-09-20T21:30:00+09:30",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         },
         {
           "name": "MXGP Race 2",
           "time": "2026-09-20T21:30:00+09:30",
-          "tbd": true
+          "tbd": true,
+          "broadcasts": {
+            "US": {
+              "service": "CBS Sports Network"
+            },
+            "CA": {
+              "service": "CBS Sports Network"
+            },
+            "UK": {
+              "service": "Eurosport 2"
+            },
+            "BE": {
+              "service": "Play Sports"
+            },
+            "NL": {
+              "service": "NPO"
+            },
+            "Global": {
+              "service": "MXGP-TV"
+            }
+          }
         }
       ]
     }
