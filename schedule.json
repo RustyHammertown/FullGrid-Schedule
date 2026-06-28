@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T02:53:32.719Z",
+  "generatedAt": "2026-06-28T09:01:56.079Z",
   "events": [
     {
       "id": 101,
@@ -8230,6 +8230,7 @@
           "name": "MotoGP Sprint",
           "time": "2026-06-27T15:00:00+02:00",
           "laps": 13,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/ned/motogp/spr/classification",
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP VideoPass"
@@ -8240,6 +8241,7 @@
           "name": "MotoGP Race",
           "time": "2026-06-28T14:00:00+02:00",
           "laps": 26,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/ned/motogp/rac/classification",
           "broadcasts": {
             "US": {
               "service": "FS1 / MotoGP VideoPass"
@@ -8441,6 +8443,7 @@
           "name": "Moto2 Race",
           "time": "2026-06-28T12:15:00+02:00",
           "laps": 22,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/ned/moto2/rac/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -8642,6 +8645,7 @@
           "name": "Moto3 Race",
           "time": "2026-06-28T11:00:00+02:00",
           "laps": 20,
+          "resultsUrl": "https://www.motogp.com/en/gp-results/2026/ned/moto3/rac/classification",
           "broadcasts": {
             "US": {
               "service": "MotoGP Channel / MotoGP VideoPass"
@@ -19088,7 +19092,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "TNT / HBO Max"
+              "service": "TruTV"
             }
           }
         },
@@ -19098,7 +19102,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "TNT / HBO Max"
+              "service": "TruTV"
             }
           }
         },
@@ -35322,6 +35326,7 @@
           "name": "Race 1",
           "time": "2026-06-26T13:55:00-04:00",
           "duration": 45,
+          "resultsUrl": "https://imsa.results.alkamelcloud.com/Results/26_2026/14_Watkins%20Glen%20International/05_Mustang%20Challenge%20North%20America/202606261355_Race%201/03_Results_Race%201_Provisional.PDF",
           "broadcasts": {
             "Global": {
               "service": "YouTube/imsaofficial"
@@ -35332,6 +35337,7 @@
           "name": "Race 2",
           "time": "2026-06-27T08:00:00-04:00",
           "duration": 45,
+          "resultsUrl": "https://imsa.results.alkamelcloud.com/Results/26_2026/14_Watkins%20Glen%20International/05_Mustang%20Challenge%20North%20America/202606270800_Race%202/03_Results_Race%202_Provisional.PDF",
           "broadcasts": {
             "Global": {
               "service": "YouTube/imsaofficial"
@@ -42465,6 +42471,7 @@
           "name": "Race",
           "time": "2026-06-27T14:30:00-07:00",
           "laps": 79,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-oreilly-auto-parts-series/2026/pit-boss-food-maxx-250/",
           "broadcasts": {
             "US": {
               "service": "The CW"
@@ -44795,6 +44802,7 @@
           "time": "2026-06-27T20:00:00-05:00",
           "laps": 200,
           "duration": 250,
+          "resultsUrl": "https://www.arcaracing.com/2026/06/27/race-results-shore-lunch-250-elko-speedway/",
           "broadcasts": {
             "US": {
               "service": "FS2"
@@ -48173,7 +48181,7 @@
     {
       "id": 1230,
       "series": "highlimit",
-      "name": "Big Sky Speedway",
+      "name": "Rayce Rudeen Foundation Race",
       "circuit": "Big Sky Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -48183,6 +48191,7 @@
           "name": "Race",
           "time": "2026-06-26T18:15:00-06:00",
           "duration": 240,
+          "resultsUrl": "https://www.highlimitracing.com/schedules/event/597384",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -48197,7 +48206,7 @@
     {
       "id": 1231,
       "series": "highlimit",
-      "name": "Big Sky Speedway",
+      "name": "Rayce Rudeen Foundation Race",
       "circuit": "Big Sky Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -48207,6 +48216,7 @@
           "name": "Race",
           "time": "2026-06-27T18:15:00-06:00",
           "duration": 240,
+          "resultsUrl": "https://www.highlimitracing.com/schedules/event/597387",
           "broadcasts": {
             "US": {
               "service": "FloRacing"
@@ -56577,7 +56587,7 @@
           }
         },
         {
-          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Live",
+          "name": "All classes Eliminations Live",
           "time": "2026-06-28T11:00:00-04:00",
           "duration": 240,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73880",
@@ -56588,7 +56598,7 @@
           }
         },
         {
-          "name": "Top Fuel · Funny Car · Pro Stock · Pro Stock Motorcycle Eliminations Broadcast",
+          "name": "All classes Eliminations Broadcast",
           "time": "2026-06-28T17:30:00-04:00",
           "duration": 210,
           "resultsUrl": "https://www.nhra.com/results/2026/nhra-mission-foods-drag-racing-series/73880",
@@ -78429,6 +78439,7 @@
           "name": "Race 1",
           "time": "2026-06-26T17:10:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/calendar-%26-results/spa-francorchamps",
           "broadcasts": {
             "Global": {
               "service": "YouTube/LamborghiniSquadraCorse"
@@ -78439,6 +78450,7 @@
           "name": "Race 2",
           "time": "2026-06-27T12:10:00+02:00",
           "duration": 50,
+          "resultsUrl": "https://www.lamborghini.com/en-en/motorsport/super-trofeo/calendar-%26-results/spa-francorchamps",
           "broadcasts": {
             "Global": {
               "service": "YouTube/LamborghiniSquadraCorse"
