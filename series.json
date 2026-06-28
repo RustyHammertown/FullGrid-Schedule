@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-28T00:44:50.928Z",
+  "generatedAt": "2026-06-28T00:57:21.857Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -561,8 +561,8 @@
       "color": "#C8102E",
       "bg": "rgba(200,16,46,0.15)",
       "broadcast": {
-        "US": "FloRacing",
-        "Global": "YouTube/NASCARCanadaSeries"
+        "US": "YouTube/NASCAR_CanadaSeries",
+        "Global": "YouTube/NASCAR_CanadaSeries"
       },
       "notTelevisedCategories": [
         "Practice",

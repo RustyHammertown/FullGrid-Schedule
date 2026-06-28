@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T00:44:48.526Z",
+  "generatedAt": "2026-06-28T00:57:20.904Z",
   "events": [
     {
       "id": 101,
@@ -46265,13 +46265,13 @@
           "laps": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46308,13 +46308,13 @@
           "laps": 125,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         },
@@ -46324,13 +46324,13 @@
           "laps": 125,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46367,13 +46367,13 @@
           "laps": 300,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46410,13 +46410,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         },
@@ -46426,13 +46426,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46469,13 +46469,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46512,13 +46512,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         },
@@ -46528,13 +46528,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46571,13 +46571,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46614,13 +46614,13 @@
           "laps": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46657,13 +46657,13 @@
           "laps": 50,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46700,13 +46700,13 @@
           "laps": 60,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
@@ -46743,13 +46743,13 @@
           "laps": 200,
           "broadcasts": {
             "US": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             },
             "CA": {
               "service": "REV TV / TVA Sports / TSN"
             },
             "Global": {
-              "service": "YouTube/NASCARCanadaSeries"
+              "service": "YouTube/NASCAR_CanadaSeries"
             }
           }
         }
