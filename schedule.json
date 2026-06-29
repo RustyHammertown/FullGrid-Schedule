@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T20:44:26.002Z",
+  "generatedAt": "2026-06-29T20:51:33.661Z",
   "events": [
     {
       "id": 101,
@@ -71747,7 +71747,7 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Grid 6 Qualifying",
+          "name": "Proto/GT 1972-84 Qualifying",
           "time": "2026-07-03T13:00:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71755,7 +71755,7 @@
           }
         },
         {
-          "name": "Grid 6 Night Practice",
+          "name": "Proto/GT 1972-84 Night Practice",
           "time": "2026-07-03T22:10:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71763,7 +71763,7 @@
           }
         },
         {
-          "name": "Grid 6 Race 1",
+          "name": "Proto/GT 1972-84 Race 1",
           "time": "2026-07-04T16:00:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71771,7 +71771,7 @@
           }
         },
         {
-          "name": "Grid 6 Race 2",
+          "name": "Proto/GT 1972-84 Race 2",
           "time": "2026-07-04T23:55:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71779,7 +71779,7 @@
           }
         },
         {
-          "name": "Grid 6 Race 3",
+          "name": "Proto/GT 1972-84 Race 3",
           "time": "2026-07-05T06:30:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71787,7 +71787,7 @@
           }
         },
         {
-          "name": "Grid 7 Qualifying",
+          "name": "Group C Qualifying",
           "time": "2026-07-03T14:15:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71795,7 +71795,7 @@
           }
         },
         {
-          "name": "Grid 7 Night Practice",
+          "name": "Group C Night Practice",
           "time": "2026-07-03T23:00:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71803,7 +71803,7 @@
           }
         },
         {
-          "name": "Grid 7 Race 1",
+          "name": "Group C Race 1",
           "time": "2026-07-04T18:15:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71811,7 +71811,7 @@
           }
         },
         {
-          "name": "Grid 7 Race 2",
+          "name": "Group C Race 2",
           "time": "2026-07-05T01:05:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71819,7 +71819,7 @@
           }
         },
         {
-          "name": "Grid 7 Race 3",
+          "name": "Group C Race 3",
           "time": "2026-07-05T07:40:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71827,7 +71827,7 @@
           }
         },
         {
-          "name": "Grid 8 Qualifying",
+          "name": "Proto/GT 1994-99 Qualifying",
           "time": "2026-07-03T15:05:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71835,7 +71835,7 @@
           }
         },
         {
-          "name": "Grid 8 Night Practice",
+          "name": "Proto/GT 1994-99 Night Practice",
           "time": "2026-07-03T23:40:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71843,7 +71843,7 @@
           }
         },
         {
-          "name": "Grid 8 Race 1",
+          "name": "Proto/GT 1994-99 Race 1",
           "time": "2026-07-04T20:45:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71851,7 +71851,7 @@
           }
         },
         {
-          "name": "Grid 8 Race 2",
+          "name": "Proto/GT 1994-99 Race 2",
           "time": "2026-07-05T02:05:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71859,7 +71859,7 @@
           }
         },
         {
-          "name": "Grid 8 Race 3",
+          "name": "Proto/GT 1994-99 Race 3",
           "time": "2026-07-05T08:45:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71867,7 +71867,7 @@
           }
         },
         {
-          "name": "Grid 9 Qualifying",
+          "name": "Proto/GT 2000-10 Qualifying",
           "time": "2026-07-03T16:05:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71875,7 +71875,7 @@
           }
         },
         {
-          "name": "Grid 9 Night Practice",
+          "name": "Proto/GT 2000-10 Night Practice",
           "time": "2026-07-04T00:30:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71883,7 +71883,7 @@
           }
         },
         {
-          "name": "Grid 9 Race 1",
+          "name": "Proto/GT 2000-10 Race 1",
           "time": "2026-07-04T21:50:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71891,7 +71891,7 @@
           }
         },
         {
-          "name": "Grid 9 Race 2",
+          "name": "Proto/GT 2000-10 Race 2",
           "time": "2026-07-05T04:25:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71899,7 +71899,7 @@
           }
         },
         {
-          "name": "Grid 9 Race 3",
+          "name": "Proto/GT 2000-10 Race 3",
           "time": "2026-07-05T11:40:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71907,7 +71907,7 @@
           }
         },
         {
-          "name": "Grid 10 Free Practice",
+          "name": "Legends of Le Mans Free Practice",
           "time": "2026-07-03T17:10:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -71915,7 +71915,7 @@
           }
         },
         {
-          "name": "Grid 10 Qualifying",
+          "name": "Legends of Le Mans Qualifying",
           "time": "2026-07-03T17:40:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71923,7 +71923,7 @@
           }
         },
         {
-          "name": "Grid 10 Qualifying 2",
+          "name": "Legends of Le Mans Qualifying 2",
           "time": "2026-07-04T01:10:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71931,7 +71931,7 @@
           }
         },
         {
-          "name": "Grid 10 Race 1",
+          "name": "Legends of Le Mans Race 1",
           "time": "2026-07-04T22:55:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71939,7 +71939,7 @@
           }
         },
         {
-          "name": "Grid 10 Race 2",
+          "name": "Legends of Le Mans Race 2",
           "time": "2026-07-05T05:30:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71947,7 +71947,7 @@
           }
         },
         {
-          "name": "Grid 10 Race 3",
+          "name": "Legends of Le Mans Race 3",
           "time": "2026-07-05T12:45:00+02:00",
           "duration": 40,
           "broadcasts": {

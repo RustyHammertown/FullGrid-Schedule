@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T20:44:31.455Z",
+  "generatedAt": "2026-06-29T20:51:34.407Z",
   "groups": {
     "f1h2o": [
       {
@@ -1218,11 +1218,11 @@
           "Heritage Touring Cup 2 Practice",
           "Practice",
           "Sixties' Endurance Practice",
-          "Grid 6 Night Practice",
-          "Grid 7 Night Practice",
-          "Grid 8 Night Practice",
-          "Grid 9 Night Practice",
-          "Grid 10 Free Practice"
+          "Proto/GT 1972-84 Night Practice",
+          "Group C Night Practice",
+          "Proto/GT 1994-99 Night Practice",
+          "Proto/GT 2000-10 Night Practice",
+          "Legends of Le Mans Free Practice"
         ]
       },
       {
@@ -1241,63 +1241,63 @@
           "Heritage Touring Cup 2 Qualifying",
           "Qualifying",
           "Sixties' Endurance Qualifying",
-          "Grid 6 Qualifying",
-          "Grid 7 Qualifying",
-          "Grid 8 Qualifying",
-          "Grid 9 Qualifying",
-          "Grid 10 Qualifying",
-          "Grid 10 Qualifying 2"
+          "Proto/GT 1972-84 Qualifying",
+          "Group C Qualifying",
+          "Proto/GT 1994-99 Qualifying",
+          "Proto/GT 2000-10 Qualifying",
+          "Legends of Le Mans Qualifying",
+          "Legends of Le Mans Qualifying 2"
         ]
       },
       {
-        "label": "Grid 6",
+        "label": "Proto/GT 1972-84",
         "sessions": [
-          "Grid 6 Qualifying",
-          "Grid 6 Night Practice",
-          "Grid 6 Race 1",
-          "Grid 6 Race 2",
-          "Grid 6 Race 3"
+          "Proto/GT 1972-84 Qualifying",
+          "Proto/GT 1972-84 Night Practice",
+          "Proto/GT 1972-84 Race 1",
+          "Proto/GT 1972-84 Race 2",
+          "Proto/GT 1972-84 Race 3"
         ]
       },
       {
-        "label": "Grid 7",
+        "label": "Group C",
         "sessions": [
-          "Grid 7 Qualifying",
-          "Grid 7 Night Practice",
-          "Grid 7 Race 1",
-          "Grid 7 Race 2",
-          "Grid 7 Race 3"
+          "Group C Qualifying",
+          "Group C Night Practice",
+          "Group C Race 1",
+          "Group C Race 2",
+          "Group C Race 3"
         ]
       },
       {
-        "label": "Grid 8",
+        "label": "Proto/GT 1994-99",
         "sessions": [
-          "Grid 8 Qualifying",
-          "Grid 8 Night Practice",
-          "Grid 8 Race 1",
-          "Grid 8 Race 2",
-          "Grid 8 Race 3"
+          "Proto/GT 1994-99 Qualifying",
+          "Proto/GT 1994-99 Night Practice",
+          "Proto/GT 1994-99 Race 1",
+          "Proto/GT 1994-99 Race 2",
+          "Proto/GT 1994-99 Race 3"
         ]
       },
       {
-        "label": "Grid 9",
+        "label": "Proto/GT 2000-10",
         "sessions": [
-          "Grid 9 Qualifying",
-          "Grid 9 Night Practice",
-          "Grid 9 Race 1",
-          "Grid 9 Race 2",
-          "Grid 9 Race 3"
+          "Proto/GT 2000-10 Qualifying",
+          "Proto/GT 2000-10 Night Practice",
+          "Proto/GT 2000-10 Race 1",
+          "Proto/GT 2000-10 Race 2",
+          "Proto/GT 2000-10 Race 3"
         ]
       },
       {
-        "label": "Grid 10",
+        "label": "Legends of Le Mans",
         "sessions": [
-          "Grid 10 Free Practice",
-          "Grid 10 Qualifying",
-          "Grid 10 Qualifying 2",
-          "Grid 10 Race 1",
-          "Grid 10 Race 2",
-          "Grid 10 Race 3"
+          "Legends of Le Mans Free Practice",
+          "Legends of Le Mans Qualifying",
+          "Legends of Le Mans Qualifying 2",
+          "Legends of Le Mans Race 1",
+          "Legends of Le Mans Race 2",
+          "Legends of Le Mans Race 3"
         ]
       },
       {
