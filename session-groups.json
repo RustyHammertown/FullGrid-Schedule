@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T19:14:23.376Z",
+  "generatedAt": "2026-06-29T19:30:28.228Z",
   "groups": {
     "f1h2o": [
       {
@@ -1958,7 +1958,11 @@
         "label": "Qualifying",
         "sessions": [
           "Qualifying 1",
-          "Qualifying 2"
+          "Qualifying 2",
+          "Qualifying 1 Group A",
+          "Qualifying 1 Group B",
+          "Qualifying 2 Group A",
+          "Qualifying 2 Group B"
         ]
       }
     ],
@@ -1969,7 +1973,9 @@
           "Practice 1",
           "Practice 2",
           "Practice 1 (TBD)",
-          "Practice 2 (TBD)"
+          "Practice 2 (TBD)",
+          "Free Practice 1",
+          "Free Practice 2"
         ]
       },
       {
@@ -1978,7 +1984,11 @@
           "LMGT3 Qualifying",
           "LMP3 Qualifying",
           "LMP2 Pro/Am Qualifying",
-          "LMP2 Qualifying"
+          "LMP2 Qualifying",
+          "Qualifying - LMGT3",
+          "Qualifying - LMP3",
+          "Qualifying - LMP2",
+          "Qualifying - LMP2 PRO/AM"
         ]
       }
     ],

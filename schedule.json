@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T19:14:17.981Z",
+  "generatedAt": "2026-06-29T19:30:26.427Z",
   "events": [
     {
       "id": 101,
@@ -88738,18 +88738,18 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-04T09:00:00+02:00",
+          "duration": 35
         },
         {
           "name": "Race 1",
           "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-05T09:45:00+02:00",
+          "duration": 30
         }
       ]
     },
@@ -88921,32 +88921,27 @@
     {
       "id": 5633,
       "series": "pccbr",
-      "name": "Estoril",
-      "circuit": "Circuito do Estoril",
+      "name": "Portimão",
+      "circuit": "Algarve International Circuit",
       "flag": "🇵🇹",
       "country": "Portugal",
       "tz": "Europe/Lisbon",
       "round": 3,
       "sessions": [
         {
-          "name": "Free Practice",
-          "time": "2026-07-03T13:00:00+01:00",
-          "tbd": true
-        },
-        {
           "name": "Qualifying",
-          "time": "2026-07-04T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-07-04T09:30:00+01:00",
+          "duration": 70
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-07-04T14:30:00+01:00",
+          "duration": 30
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-07-05T13:10:00+01:00",
+          "duration": 30
         }
       ]
     },
