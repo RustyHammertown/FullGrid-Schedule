@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T19:31:31.878Z",
+  "generatedAt": "2026-06-29T19:57:54.217Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -3926,6 +3926,10 @@
     },
     "lemansclassic": {
       "schedule": [
+        {
+          "url": "https://www.lemansclassic.com/en/information/programme/",
+          "label": "Le Mans Classic — official programme (flagship event)"
+        },
         {
           "url": "https://www.peterauto.fr/en/events/",
           "label": "Peter Auto events calendar"

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T19:31:27.724Z",
+  "generatedAt": "2026-06-29T19:57:53.383Z",
   "events": [
     {
       "id": 101,
@@ -71739,7 +71739,7 @@
     {
       "id": 3753,
       "series": "lemansclassic",
-      "name": "Le Mans Classic Legend",
+      "name": "Le Mans Classic",
       "circuit": "Circuit de la Sarthe",
       "flag": "🇫🇷",
       "country": "France",
@@ -71747,25 +71747,209 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice",
-          "time": "2026-07-03T09:20:00+02:00",
+          "name": "Plateau 6 Qualifying",
+          "time": "2026-07-03T13:00:00+02:00",
           "duration": 40,
           "broadcasts": {
             "Global": "Not Televised"
           }
         },
         {
-          "name": "Qualifying",
-          "time": "2026-07-03T09:20:00+02:00",
+          "name": "Plateau 6 Night Practice",
+          "time": "2026-07-03T22:10:00+02:00",
           "duration": 40,
           "broadcasts": {
             "Global": "Not Televised"
           }
         },
         {
-          "name": "Race",
-          "time": "2026-07-04T09:20:00+02:00",
-          "duration": 60,
+          "name": "Plateau 6 Race 1",
+          "time": "2026-07-04T16:00:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 6 Race 2",
+          "time": "2026-07-04T23:55:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 6 Race 3",
+          "time": "2026-07-05T06:30:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 7 Qualifying",
+          "time": "2026-07-03T14:15:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 7 Night Practice",
+          "time": "2026-07-03T23:00:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 7 Race 1",
+          "time": "2026-07-04T18:15:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 7 Race 2",
+          "time": "2026-07-05T01:05:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 7 Race 3",
+          "time": "2026-07-05T07:40:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 8 Qualifying",
+          "time": "2026-07-03T15:05:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 8 Night Practice",
+          "time": "2026-07-03T23:40:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 8 Race 1",
+          "time": "2026-07-04T20:45:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 8 Race 2",
+          "time": "2026-07-05T02:05:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 8 Race 3",
+          "time": "2026-07-05T08:45:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 9 Qualifying",
+          "time": "2026-07-03T16:05:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 9 Night Practice",
+          "time": "2026-07-04T00:30:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 9 Race 1",
+          "time": "2026-07-04T21:50:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 9 Race 2",
+          "time": "2026-07-05T04:25:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 9 Race 3",
+          "time": "2026-07-05T11:40:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 10 Free Practice",
+          "time": "2026-07-03T17:10:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 10 Qualifying",
+          "time": "2026-07-03T17:40:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 10 Qualifying 2",
+          "time": "2026-07-04T01:10:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Plateau 10 Race 1",
+          "time": "2026-07-04T22:55:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 10 Race 2",
+          "time": "2026-07-05T05:30:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/peterautoracing"
+          }
+        },
+        {
+          "name": "Plateau 10 Race 3",
+          "time": "2026-07-05T12:45:00+02:00",
+          "duration": 45,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
