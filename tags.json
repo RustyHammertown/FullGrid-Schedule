@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T00:19:58.109Z",
+  "generatedAt": "2026-06-29T00:37:12.035Z",
   "categories": [
     {
       "id": "geography",
@@ -144,8 +144,7 @@
         "national-series",
         "regional-series",
         "feeder-series",
-        "support-series",
-        "non-motorsports"
+        "support-series"
       ]
     }
   ],
@@ -227,7 +226,6 @@
     "wsc": "WSC",
     "global": "Global",
     "north-america": "North America",
-    "non-motorsports": "Non-Motorsports Events",
     "south-america": "South America",
     "europe": "Europe",
     "asia-pacific": "Asia Pacific",

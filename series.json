@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-29T00:19:55.654Z",
+  "generatedAt": "2026-06-29T00:37:11.378Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3660,10 +3660,7 @@
     },
     "worldcup": {
       "id": "worldcup",
-      "tags": [
-        "north-america",
-        "non-motorsports"
-      ],
+      "tags": [],
       "group": "special",
       "label": "World Cup 2026",
       "short": "World Cup 2026",
@@ -3677,10 +3674,7 @@
     },
     "pgatour": {
       "id": "pgatour",
-      "tags": [
-        "non-motorsports",
-        "north-america"
-      ],
+      "tags": [],
       "group": "special",
       "label": "PGA Tour",
       "short": "PGA Tour",
