@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-28T23:59:08.944Z",
+  "generatedAt": "2026-06-29T00:13:01.887Z",
   "events": [
     {
       "id": 101,
@@ -19095,7 +19095,7 @@
           "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "TruTV"
+              "service": "truTV / HBO Max"
             }
           }
         },
@@ -19105,7 +19105,7 @@
           "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "TruTV"
+              "service": "truTV / HBO Max"
             }
           }
         },
