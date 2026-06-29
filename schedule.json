@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T20:52:31.766Z",
+  "generatedAt": "2026-06-29T22:04:32.680Z",
   "events": [
     {
       "id": 101,
@@ -47140,18 +47140,33 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-01T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-01T15:00:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
         },
         {
           "name": "Final Practice",
-          "time": "2026-07-01T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-01T15:40:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-01T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-01T17:30:00-04:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": {
+              "service": "FloRacing"
+            }
+          }
         },
         {
           "name": "Race",
