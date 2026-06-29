@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T20:18:42.264Z",
+  "generatedAt": "2026-06-29T20:43:31.138Z",
   "events": [
     {
       "id": 101,
@@ -71739,7 +71739,7 @@
     {
       "id": 3753,
       "series": "lemansclassic",
-      "name": "Le Mans Classic",
+      "name": "Le Mans Classic Legend",
       "circuit": "Circuit de la Sarthe",
       "flag": "🇫🇷",
       "country": "France",
@@ -71747,7 +71747,7 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Plateau 6 Qualifying",
+          "name": "Grid 6 Qualifying",
           "time": "2026-07-03T13:00:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71755,7 +71755,7 @@
           }
         },
         {
-          "name": "Plateau 6 Night Practice",
+          "name": "Grid 6 Night Practice",
           "time": "2026-07-03T22:10:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71763,7 +71763,7 @@
           }
         },
         {
-          "name": "Plateau 6 Race 1",
+          "name": "Grid 6 Race 1",
           "time": "2026-07-04T16:00:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71771,7 +71771,7 @@
           }
         },
         {
-          "name": "Plateau 6 Race 2",
+          "name": "Grid 6 Race 2",
           "time": "2026-07-04T23:55:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71779,7 +71779,7 @@
           }
         },
         {
-          "name": "Plateau 6 Race 3",
+          "name": "Grid 6 Race 3",
           "time": "2026-07-05T06:30:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71787,7 +71787,7 @@
           }
         },
         {
-          "name": "Plateau 7 Qualifying",
+          "name": "Grid 7 Qualifying",
           "time": "2026-07-03T14:15:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71795,7 +71795,7 @@
           }
         },
         {
-          "name": "Plateau 7 Night Practice",
+          "name": "Grid 7 Night Practice",
           "time": "2026-07-03T23:00:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71803,7 +71803,7 @@
           }
         },
         {
-          "name": "Plateau 7 Race 1",
+          "name": "Grid 7 Race 1",
           "time": "2026-07-04T18:15:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71811,7 +71811,7 @@
           }
         },
         {
-          "name": "Plateau 7 Race 2",
+          "name": "Grid 7 Race 2",
           "time": "2026-07-05T01:05:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71819,7 +71819,7 @@
           }
         },
         {
-          "name": "Plateau 7 Race 3",
+          "name": "Grid 7 Race 3",
           "time": "2026-07-05T07:40:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71827,7 +71827,7 @@
           }
         },
         {
-          "name": "Plateau 8 Qualifying",
+          "name": "Grid 8 Qualifying",
           "time": "2026-07-03T15:05:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71835,7 +71835,7 @@
           }
         },
         {
-          "name": "Plateau 8 Night Practice",
+          "name": "Grid 8 Night Practice",
           "time": "2026-07-03T23:40:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71843,7 +71843,7 @@
           }
         },
         {
-          "name": "Plateau 8 Race 1",
+          "name": "Grid 8 Race 1",
           "time": "2026-07-04T20:45:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71851,7 +71851,7 @@
           }
         },
         {
-          "name": "Plateau 8 Race 2",
+          "name": "Grid 8 Race 2",
           "time": "2026-07-05T02:05:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71859,7 +71859,7 @@
           }
         },
         {
-          "name": "Plateau 8 Race 3",
+          "name": "Grid 8 Race 3",
           "time": "2026-07-05T08:45:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71867,7 +71867,7 @@
           }
         },
         {
-          "name": "Plateau 9 Qualifying",
+          "name": "Grid 9 Qualifying",
           "time": "2026-07-03T16:05:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71875,7 +71875,7 @@
           }
         },
         {
-          "name": "Plateau 9 Night Practice",
+          "name": "Grid 9 Night Practice",
           "time": "2026-07-04T00:30:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71883,7 +71883,7 @@
           }
         },
         {
-          "name": "Plateau 9 Race 1",
+          "name": "Grid 9 Race 1",
           "time": "2026-07-04T21:50:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71891,7 +71891,7 @@
           }
         },
         {
-          "name": "Plateau 9 Race 2",
+          "name": "Grid 9 Race 2",
           "time": "2026-07-05T04:25:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71899,7 +71899,7 @@
           }
         },
         {
-          "name": "Plateau 9 Race 3",
+          "name": "Grid 9 Race 3",
           "time": "2026-07-05T11:40:00+02:00",
           "duration": 45,
           "broadcasts": {
@@ -71907,7 +71907,7 @@
           }
         },
         {
-          "name": "Plateau 10 Free Practice",
+          "name": "Grid 10 Free Practice",
           "time": "2026-07-03T17:10:00+02:00",
           "duration": 30,
           "broadcasts": {
@@ -71915,7 +71915,7 @@
           }
         },
         {
-          "name": "Plateau 10 Qualifying",
+          "name": "Grid 10 Qualifying",
           "time": "2026-07-03T17:40:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71923,7 +71923,7 @@
           }
         },
         {
-          "name": "Plateau 10 Qualifying 2",
+          "name": "Grid 10 Qualifying 2",
           "time": "2026-07-04T01:10:00+02:00",
           "duration": 40,
           "broadcasts": {
@@ -71931,25 +71931,25 @@
           }
         },
         {
-          "name": "Plateau 10 Race 1",
+          "name": "Grid 10 Race 1",
           "time": "2026-07-04T22:55:00+02:00",
-          "duration": 45,
+          "duration": 40,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
         },
         {
-          "name": "Plateau 10 Race 2",
+          "name": "Grid 10 Race 2",
           "time": "2026-07-05T05:30:00+02:00",
-          "duration": 45,
+          "duration": 40,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
         },
         {
-          "name": "Plateau 10 Race 3",
+          "name": "Grid 10 Race 3",
           "time": "2026-07-05T12:45:00+02:00",
-          "duration": 45,
+          "duration": 40,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
@@ -72268,7 +72268,7 @@
     {
       "id": 3762,
       "series": "legendsoflemans",
-      "name": "24 Hours of Le Mans",
+      "name": "Le Mans Classic Legend",
       "circuit": "Circuit de la Sarthe",
       "flag": "🇫🇷",
       "country": "France",
@@ -72276,9 +72276,53 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "name": "Free Practice 1",
+          "time": "2026-07-03T17:10:00+02:00",
+          "duration": 30,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-03T17:40:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-04T01:10:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
+        },
+        {
+          "name": "Race 1",
+          "time": "2026-07-04T22:55:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/peterautoracing"
+            }
+          }
+        },
+        {
+          "name": "Race 2",
+          "time": "2026-07-05T05:30:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/peterautoracing"
+            }
+          }
+        },
+        {
+          "name": "Race 3",
+          "time": "2026-07-05T12:45:00+02:00",
+          "duration": 40,
           "broadcasts": {
             "Global": {
               "service": "YouTube/peterautoracing"

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T20:18:47.320Z",
+  "generatedAt": "2026-06-29T20:43:31.891Z",
   "groups": {
     "f1h2o": [
       {
@@ -1218,11 +1218,11 @@
           "Heritage Touring Cup 2 Practice",
           "Practice",
           "Sixties' Endurance Practice",
-          "Plateau 6 Night Practice",
-          "Plateau 7 Night Practice",
-          "Plateau 8 Night Practice",
-          "Plateau 9 Night Practice",
-          "Plateau 10 Free Practice"
+          "Grid 6 Night Practice",
+          "Grid 7 Night Practice",
+          "Grid 8 Night Practice",
+          "Grid 9 Night Practice",
+          "Grid 10 Free Practice"
         ]
       },
       {
@@ -1241,63 +1241,63 @@
           "Heritage Touring Cup 2 Qualifying",
           "Qualifying",
           "Sixties' Endurance Qualifying",
-          "Plateau 6 Qualifying",
-          "Plateau 7 Qualifying",
-          "Plateau 8 Qualifying",
-          "Plateau 9 Qualifying",
-          "Plateau 10 Qualifying",
-          "Plateau 10 Qualifying 2"
+          "Grid 6 Qualifying",
+          "Grid 7 Qualifying",
+          "Grid 8 Qualifying",
+          "Grid 9 Qualifying",
+          "Grid 10 Qualifying",
+          "Grid 10 Qualifying 2"
         ]
       },
       {
-        "label": "Plateau 6",
+        "label": "Grid 6",
         "sessions": [
-          "Plateau 6 Qualifying",
-          "Plateau 6 Night Practice",
-          "Plateau 6 Race 1",
-          "Plateau 6 Race 2",
-          "Plateau 6 Race 3"
+          "Grid 6 Qualifying",
+          "Grid 6 Night Practice",
+          "Grid 6 Race 1",
+          "Grid 6 Race 2",
+          "Grid 6 Race 3"
         ]
       },
       {
-        "label": "Plateau 7",
+        "label": "Grid 7",
         "sessions": [
-          "Plateau 7 Qualifying",
-          "Plateau 7 Night Practice",
-          "Plateau 7 Race 1",
-          "Plateau 7 Race 2",
-          "Plateau 7 Race 3"
+          "Grid 7 Qualifying",
+          "Grid 7 Night Practice",
+          "Grid 7 Race 1",
+          "Grid 7 Race 2",
+          "Grid 7 Race 3"
         ]
       },
       {
-        "label": "Plateau 8",
+        "label": "Grid 8",
         "sessions": [
-          "Plateau 8 Qualifying",
-          "Plateau 8 Night Practice",
-          "Plateau 8 Race 1",
-          "Plateau 8 Race 2",
-          "Plateau 8 Race 3"
+          "Grid 8 Qualifying",
+          "Grid 8 Night Practice",
+          "Grid 8 Race 1",
+          "Grid 8 Race 2",
+          "Grid 8 Race 3"
         ]
       },
       {
-        "label": "Plateau 9",
+        "label": "Grid 9",
         "sessions": [
-          "Plateau 9 Qualifying",
-          "Plateau 9 Night Practice",
-          "Plateau 9 Race 1",
-          "Plateau 9 Race 2",
-          "Plateau 9 Race 3"
+          "Grid 9 Qualifying",
+          "Grid 9 Night Practice",
+          "Grid 9 Race 1",
+          "Grid 9 Race 2",
+          "Grid 9 Race 3"
         ]
       },
       {
-        "label": "Plateau 10",
+        "label": "Grid 10",
         "sessions": [
-          "Plateau 10 Free Practice",
-          "Plateau 10 Qualifying",
-          "Plateau 10 Qualifying 2",
-          "Plateau 10 Race 1",
-          "Plateau 10 Race 2",
-          "Plateau 10 Race 3"
+          "Grid 10 Free Practice",
+          "Grid 10 Qualifying",
+          "Grid 10 Qualifying 2",
+          "Grid 10 Race 1",
+          "Grid 10 Race 2",
+          "Grid 10 Race 3"
         ]
       },
       {
