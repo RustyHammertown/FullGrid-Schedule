@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T13:21:15.509Z",
+  "generatedAt": "2026-06-29T19:13:07.649Z",
   "events": [
     {
       "id": 101,
@@ -87306,22 +87306,12 @@
         {
           "name": "Free Practice 1",
           "time": "2026-07-03T09:07:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/EuroFormulaOpen"
-            }
-          }
+          "duration": 40
         },
         {
           "name": "Free Practice 2",
           "time": "2026-07-03T14:10:00+02:00",
-          "duration": 40,
-          "broadcasts": {
-            "Global": {
-              "service": "YouTube/EuroFormulaOpen"
-            }
-          }
+          "duration": 40
         },
         {
           "name": "Qualifying",

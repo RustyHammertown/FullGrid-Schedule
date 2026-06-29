@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T13:21:19.415Z",
+  "generatedAt": "2026-06-29T19:13:08.528Z",
   "sources": {
     "motoamerica": {
       "schedule": [
@@ -4962,7 +4962,7 @@
     "efo": {
       "schedule": [
         {
-          "url": "https://www.euroformula.com/",
+          "url": "https://euroformula.gtsport.es/",
           "label": "Euroformula Open — official"
         },
         {
@@ -4972,7 +4972,7 @@
       ],
       "results": [
         {
-          "url": "https://www.euroformula.com/",
+          "url": "https://euroformula.gtsport.es/resultados",
           "label": "Euroformula Open — official"
         },
         {
