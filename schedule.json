@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T00:38:14.832Z",
+  "generatedAt": "2026-06-29T12:52:14.709Z",
   "events": [
     {
       "id": 101,
@@ -19114,6 +19114,7 @@
           "time": "2026-06-28T12:30:00-07:00",
           "laps": 110,
           "duration": 195,
+          "resultsUrl": "https://www.nascar.com/live-results/nascar-cup-series/2026-toyota-save-mart-350/",
           "broadcasts": {
             "US": {
               "service": "TNT / HBO Max"
@@ -19125,7 +19126,7 @@
     {
       "id": 419,
       "series": "nascar",
-      "name": "NASCAR Cup Series Race at Chicagoland",
+      "name": "eero 400",
       "circuit": "Chicagoland Speedway",
       "flag": "🇺🇸",
       "country": "USA",
@@ -19134,21 +19135,21 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-05T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-03T17:00:00-05:00",
+          "duration": 50,
           "broadcasts": {
             "US": {
-              "service": "TNT / HBO Max"
+              "service": "truTV / HBO Max"
             }
           }
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-05T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-04T14:00:00-05:00",
+          "duration": 60,
           "broadcasts": {
             "US": {
-              "service": "TNT / HBO Max"
+              "service": "truTV / HBO Max"
             }
           }
         },
@@ -36274,18 +36275,17 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-04T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-07-03T10:00:00+01:00",
+          "duration": 45
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T13:00:00+01:00",
-          "tbd": true
+          "time": "2026-07-03T14:55:00+01:00",
+          "duration": 30
         },
         {
           "name": "Sprint Race",
-          "time": "2026-07-04T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-07-04T13:45:00+01:00",
           "laps": 21,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1098",
           "broadcasts": {
@@ -36296,8 +36296,7 @@
         },
         {
           "name": "Feature Race",
-          "time": "2026-07-05T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-07-05T11:15:00+01:00",
           "laps": 29,
           "resultsUrl": "https://www.fiaformula2.com/Results?raceid=1098",
           "broadcasts": {
@@ -39218,22 +39217,19 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-07-04T20:00:00+08:00",
-          "tbd": true
+          "time": "2026-07-03T16:00:00+08:00"
         },
         {
           "name": "Practice 2",
-          "time": "2026-07-04T20:00:00+08:00",
-          "tbd": true
+          "time": "2026-07-04T08:30:00+08:00"
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T20:00:00+08:00",
-          "tbd": true
+          "time": "2026-07-04T10:40:00+08:00"
         },
         {
           "name": "Race",
-          "time": "2026-07-04T15:00:00+08:00",
+          "time": "2026-07-04T15:05:00+08:00",
           "duration": 50,
           "broadcasts": {
             "US": {
@@ -39305,9 +39301,8 @@
       "round": 13,
       "sessions": [
         {
-          "name": "Practice 1",
-          "time": "2026-07-05T20:00:00+08:00",
-          "tbd": true
+          "name": "Practice 3",
+          "time": "2026-07-05T08:30:00+08:00"
         },
         {
           "name": "Practice 2",
@@ -39316,12 +39311,11 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-05T20:00:00+08:00",
-          "tbd": true
+          "time": "2026-07-05T10:40:00+08:00"
         },
         {
           "name": "Race",
-          "time": "2026-07-05T15:00:00+08:00",
+          "time": "2026-07-05T15:05:00+08:00",
           "duration": 50,
           "broadcasts": {
             "US": {
@@ -42518,18 +42512,27 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-04T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-07-03T15:30:00-05:00",
+          "duration": 50,
+          "broadcasts": {
+            "US": {
+              "service": "CW App"
+            }
+          }
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T07:00:00-05:00",
-          "tbd": true
+          "time": "2026-07-04T12:30:00-05:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "CW App"
+            }
+          }
         },
         {
           "name": "Race",
-          "time": "2026-07-04T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-04T16:30:00-05:00",
           "laps": 200,
           "broadcasts": {
             "US": {
@@ -44837,8 +44840,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-03T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-03T13:00:00-05:00",
+          "duration": 80,
           "broadcasts": {
             "US": {
               "service": "FS1"
@@ -44847,8 +44850,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-03T07:00:00-05:00",
-          "tbd": true,
+          "time": "2026-07-03T14:35:00-05:00",
+          "duration": 20,
           "broadcasts": {
             "US": {
               "service": "FS1"
@@ -44857,7 +44860,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-07-03T22:00:00-05:00",
+          "time": "2026-07-03T19:00:00-05:00",
           "laps": 100,
           "broadcasts": {
             "US": {
@@ -47082,21 +47085,22 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 7,
+      "round": 9,
+      "postponed": true,
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-06-29T11:00:00-04:00",
-          "duration": 60
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Qualifying",
-          "time": "2026-06-29T13:20:00-04:00",
-          "duration": 20
+          "time": "2026-07-18T08:00:00-04:00",
+          "tbd": true
         },
         {
           "name": "Race",
-          "time": "2026-06-29T14:30:00-04:00",
+          "time": "2026-07-18T20:00:00-04:00",
           "laps": 200,
           "broadcasts": {
             "US": {
@@ -47117,7 +47121,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 8,
+      "round": 7,
       "sessions": [
         {
           "name": "Practice",
@@ -47157,7 +47161,7 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/New_York",
-      "round": 9,
+      "round": 8,
       "sessions": [
         {
           "name": "Practice",
@@ -51310,8 +51314,7 @@
       "sessions": [
         {
           "name": "KZ · KZ2 Free Practice",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T09:40:00+02:00"
         },
         {
           "name": "KZ · KZ2 Qualifying Practice",
@@ -51320,8 +51323,8 @@
         },
         {
           "name": "KZ · KZ2 Qualifying Heats",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-03T16:35:00+02:00",
+          "duration": 170,
           "broadcasts": {
             "Global": "Not Televised"
           }
@@ -58844,8 +58847,8 @@
       "round": 3,
       "sessions": [
         {
-          "name": "Practice 1",
-          "time": "2026-07-03T10:40:00+02:00",
+          "name": "Free Practice 1",
+          "time": "2026-07-03T10:50:00+02:00",
           "duration": 90,
           "broadcasts": {
             "Global": {
@@ -58854,8 +58857,8 @@
           }
         },
         {
-          "name": "Practice 2",
-          "time": "2026-07-04T10:40:00+02:00",
+          "name": "Free Practice 2",
+          "time": "2026-07-04T10:50:00+02:00",
           "duration": 90,
           "broadcasts": {
             "Global": {
@@ -58864,7 +58867,7 @@
           }
         },
         {
-          "name": "LMGT3 Qualifying",
+          "name": "Qualifying - LMGT3",
           "time": "2026-07-04T14:55:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -58874,7 +58877,7 @@
           }
         },
         {
-          "name": "LMP3 Qualifying",
+          "name": "Qualifying - LMP3",
           "time": "2026-07-04T15:20:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -58884,7 +58887,7 @@
           }
         },
         {
-          "name": "LMP2 Pro/Am Qualifying",
+          "name": "Qualifying - LMP2 PRO/AM",
           "time": "2026-07-04T15:45:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -58894,7 +58897,7 @@
           }
         },
         {
-          "name": "LMP2 Qualifying",
+          "name": "Qualifying - LMP2",
           "time": "2026-07-04T16:10:00+02:00",
           "duration": 25,
           "broadcasts": {
@@ -58905,7 +58908,7 @@
         },
         {
           "name": "Race",
-          "time": "2026-07-05T12:30:00+02:00",
+          "time": "2026-07-05T13:00:00+02:00",
           "duration": 240,
           "broadcasts": {
             "US": {
@@ -64016,34 +64019,263 @@
       "round": 4,
       "sessions": [
         {
-          "name": "Practice 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "name": "Free Practice 1",
+          "time": "2026-07-03T11:30:00+02:00",
+          "duration": 55
         },
         {
-          "name": "Practice 2",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "name": "Free Practice 2",
+          "time": "2026-07-03T16:00:00+02:00",
+          "duration": 45
         },
         {
-          "name": "Practice 3",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "name": "Qualifying 1 Group A",
+          "time": "2026-07-04T09:35:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "ran.de"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "FR": {
+              "service": "DAZN"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "DAZN"
+            },
+            "BE": {
+              "service": "DAZN"
+            },
+            "PL": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "AU": {
+              "service": "beIN Sports"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "JP": {
+              "service": "DAZN"
+            },
+            "CN": {
+              "service": "DAZN"
+            },
+            "IN": {
+              "service": "FanCode"
+            },
+            "BR": {
+              "service": "ESPN"
+            },
+            "Global": {
+              "service": "YouTube/DTM"
+            }
+          }
         },
         {
-          "name": "Qualifying 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "name": "Qualifying 1 Group B",
+          "time": "2026-07-04T10:00:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "ran.de"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "FR": {
+              "service": "DAZN"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "DAZN"
+            },
+            "BE": {
+              "service": "DAZN"
+            },
+            "PL": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "AU": {
+              "service": "beIN Sports"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "JP": {
+              "service": "DAZN"
+            },
+            "CN": {
+              "service": "DAZN"
+            },
+            "IN": {
+              "service": "FanCode"
+            },
+            "BR": {
+              "service": "ESPN"
+            },
+            "Global": {
+              "service": "YouTube/DTM"
+            }
+          }
         },
         {
-          "name": "Qualifying 2",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "name": "Qualifying 2 Group A",
+          "time": "2026-07-05T09:35:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "ran.de"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "FR": {
+              "service": "DAZN"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "DAZN"
+            },
+            "BE": {
+              "service": "DAZN"
+            },
+            "PL": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "AU": {
+              "service": "beIN Sports"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "JP": {
+              "service": "DAZN"
+            },
+            "CN": {
+              "service": "DAZN"
+            },
+            "IN": {
+              "service": "FanCode"
+            },
+            "BR": {
+              "service": "ESPN"
+            },
+            "Global": {
+              "service": "YouTube/DTM"
+            }
+          }
+        },
+        {
+          "name": "Qualifying 2 Group B",
+          "time": "2026-07-05T09:10:00+02:00",
+          "duration": 20,
+          "broadcasts": {
+            "DE": {
+              "service": "ran.de"
+            },
+            "US": {
+              "service": "RACER+"
+            },
+            "CA": {
+              "service": "RACER+"
+            },
+            "FR": {
+              "service": "DAZN"
+            },
+            "ES": {
+              "service": "DAZN"
+            },
+            "IT": {
+              "service": "DAZN"
+            },
+            "BE": {
+              "service": "DAZN"
+            },
+            "PL": {
+              "service": "DAZN"
+            },
+            "NL": {
+              "service": "Viaplay"
+            },
+            "Nordics": {
+              "service": "Viaplay"
+            },
+            "AU": {
+              "service": "beIN Sports"
+            },
+            "NZ": {
+              "service": "beIN Sports"
+            },
+            "ZA": {
+              "service": "SuperSport"
+            },
+            "JP": {
+              "service": "DAZN"
+            },
+            "CN": {
+              "service": "DAZN"
+            },
+            "IN": {
+              "service": "FanCode"
+            },
+            "BR": {
+              "service": "ESPN"
+            },
+            "Global": {
+              "service": "YouTube/DTM"
+            }
+          }
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T13:30:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "DE": {
               "service": "ProSieben"
@@ -64112,8 +64344,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-05T13:30:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "DE": {
               "service": "ProSieben"
@@ -65379,28 +65611,47 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T09:00:00+02:00",
+          "duration": 45,
+          "broadcasts": {
+            "Global": "YouTube/adacmotorsports"
+          }
         },
         {
           "name": "Practice 2",
-          "time": "2026-07-04T14:00:00+02:00",
+          "time": "2026-07-03T14:00:00+02:00",
           "tbd": true
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-04T08:40:00+02:00",
+          "duration": 15,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-04T09:05:00+02:00",
+          "duration": 15,
+          "broadcasts": {
+            "DE": {
+              "service": "SPORT1"
+            },
+            "Global": {
+              "service": "YouTube/adacmotorsports"
+            }
+          }
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T15:10:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "DE": {
               "service": "SPORT1"
@@ -65412,8 +65663,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-05T15:10:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "DE": {
               "service": "SPORT1"
@@ -65721,9 +65972,24 @@
       "round": 2,
       "sessions": [
         {
+          "name": "Free Practice 1",
+          "time": "2026-07-03T12:40:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Free Practice 2",
+          "time": "2026-07-03T17:00:00+02:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T10:35:00+02:00",
+          "duration": 15
+        },
+        {
           "name": "Race 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T16:40:00+02:00",
+          "duration": 25,
           "broadcasts": {
             "DE": {
               "service": "Joyn"
@@ -65735,8 +66001,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-05T10:35:00+02:00",
+          "duration": 25,
           "broadcasts": {
             "DE": {
               "service": "Joyn"
@@ -71482,21 +71748,24 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T09:20:00+02:00",
+          "duration": 40,
+          "broadcasts": {
+            "Global": "Not Televised"
+          }
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-03T09:20:00+02:00",
+          "duration": 40,
           "broadcasts": {
-            "Global": "YouTube/peterautoracing"
+            "Global": "Not Televised"
           }
         },
         {
           "name": "Race",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T09:20:00+02:00",
+          "duration": 60,
           "broadcasts": {
             "Global": "YouTube/peterautoracing"
           }
@@ -75526,14 +75795,34 @@
       "round": 5,
       "sessions": [
         {
-          "name": "Race",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "name": "NASCAR Classic Qualifying 1",
+          "time": "2026-07-03T10:20:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "NASCAR Classic Qualifying 2",
+          "time": "2026-07-03T18:20:00+02:00",
+          "duration": 40
+        },
+        {
+          "name": "NASCAR Classic Race 1",
+          "time": "2026-07-04T17:10:00+02:00",
+          "duration": 35,
           "broadcasts": {
             "Global": {
               "service": "YouTube/imsaofficial"
             }
           }
+        },
+        {
+          "name": "NASCAR Classic Race 2",
+          "time": "2026-07-05T10:25:00+02:00",
+          "duration": 35
+        },
+        {
+          "name": "NASCAR Classic Race 3",
+          "time": "2026-07-05T15:25:00+02:00",
+          "duration": 35
         }
       ]
     },
@@ -86238,8 +86527,8 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-03T09:54:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -86248,8 +86537,8 @@
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-03T16:04:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -86258,8 +86547,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T10:50:00+02:00",
+          "duration": 35,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -86268,8 +86557,8 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T17:25:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -86278,8 +86567,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-05T13:00:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/TCRTV"
@@ -86570,28 +86859,48 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T10:31:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTOPENseries"
+            }
+          }
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T14:57:00+02:00",
+          "duration": 60,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTOPENseries"
+            }
+          }
         },
         {
           "name": "Qualifying 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-04T09:45:00+02:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTOPENseries"
+            }
+          }
         },
         {
           "name": "Qualifying 2",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-05T09:15:00+02:00",
+          "duration": 25,
+          "broadcasts": {
+            "Global": {
+              "service": "YouTube/GTOPENseries"
+            }
+          }
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T14:35:00+02:00",
+          "duration": 70,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTOPENseries"
@@ -86601,7 +86910,7 @@
         {
           "name": "Race 2",
           "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true,
+          "duration": 60,
           "broadcasts": {
             "Global": {
               "service": "YouTube/GTOPENseries"
@@ -87813,18 +88122,18 @@
       "sessions": [
         {
           "name": "Free Practice",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T10:15:00+02:00",
+          "duration": 30
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true
+          "time": "2026-07-03T15:10:00+02:00",
+          "duration": 15
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-04T11:20:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
@@ -87833,8 +88142,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T14:00:00+02:00",
-          "tbd": true,
+          "time": "2026-07-05T11:25:00+02:00",
+          "duration": 30,
           "broadcasts": {
             "Global": {
               "service": "YouTube/PorscheCarreraCupDeutschland"
