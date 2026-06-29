@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-06-29T00:13:55.106Z",
+  "generatedAt": "2026-06-29T00:19:03.082Z",
   "series": {
     "f1": {
       "id": "f1",
@@ -3687,7 +3687,7 @@
       "color": "#0B4DA2",
       "bg": "rgba(11,77,162,0.15)",
       "broadcast": {
-        "US": "Golf Channel, CBS, NBC"
+        "US": "Golf Channel / CBS / NBC"
       },
       "resultsUrl": "https://www.pgatour.com/leaderboard"
     }
