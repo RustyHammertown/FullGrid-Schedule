@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-30T08:39:53.000Z",
+  "generatedAt": "2026-06-30T21:48:13.918Z",
   "events": [
     {
       "id": 101,
@@ -37841,8 +37841,8 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-03T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-07-03T07:45:00+01:00",
+          "duration": 40,
           "broadcasts": {
             "US": {
               "service": "F1 TV"
@@ -37851,8 +37851,8 @@
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-03T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-07-03T18:00:00+01:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "F1 TV"
@@ -37861,8 +37861,8 @@
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-07-04T18:05:00+01:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "F1 TV"
@@ -37871,8 +37871,8 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T13:00:00+01:00",
-          "tbd": true,
+          "time": "2026-07-05T10:00:00+01:00",
+          "duration": 30,
           "broadcasts": {
             "US": {
               "service": "F1 TV"
@@ -46428,22 +46428,22 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "time": "2026-07-04T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-04T11:20:00-04:00",
+          "duration": 25
         },
         {
           "name": "Practice 2",
-          "time": "2026-07-04T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-04T12:55:00-04:00",
+          "duration": 25
         },
         {
           "name": "Qualifying",
-          "time": "2026-07-04T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-04T16:20:00-04:00",
+          "duration": 30
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T18:00:00-04:00",
+          "time": "2026-07-04T18:10:00-04:00",
           "laps": 50,
           "broadcasts": {
             "US": {
@@ -46459,7 +46459,7 @@
         },
         {
           "name": "Race 2",
-          "time": "2026-07-04T20:00:00-04:00",
+          "time": "2026-07-04T20:10:00-04:00",
           "laps": 50,
           "broadcasts": {
             "US": {
@@ -62657,8 +62657,13 @@
       "sessions": [
         {
           "name": "Practice",
-          "time": "2026-07-03T08:00:00-04:00",
-          "tbd": true
+          "time": "2026-07-03T14:00:00-04:00",
+          "duration": 45,
+          "broadcasts": {
+            "US": {
+              "service": "FS2"
+            }
+          }
         },
         {
           "name": "Qualifying",
