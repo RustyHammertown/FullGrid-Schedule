@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-01T16:33:32.097Z",
+  "generatedAt": "2026-07-01T16:53:58.916Z",
   "events": [
     {
       "id": 101,
@@ -88567,28 +88567,33 @@
       "sessions": [
         {
           "name": "Free Practice 1",
-          "time": "2026-07-03T19:00:00+07:00",
-          "tbd": true
+          "time": "2026-07-03T10:55:00+07:00",
+          "duration": 40
         },
         {
           "name": "Free Practice 2",
-          "time": "2026-07-03T19:00:00+07:00",
-          "tbd": true
+          "time": "2026-07-03T15:40:00+07:00",
+          "duration": 40
         },
         {
-          "name": "Qualifying",
-          "time": "2026-07-04T19:00:00+07:00",
-          "tbd": true
+          "name": "Qualifying 1",
+          "time": "2026-07-04T08:40:00+07:00",
+          "duration": 25
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-04T09:15:00+07:00",
+          "duration": 25
         },
         {
           "name": "Race 1",
-          "time": "2026-07-04T19:00:00+07:00",
-          "tbd": true
+          "time": "2026-07-04T13:20:00+07:00",
+          "duration": 35
         },
         {
           "name": "Race 2",
-          "time": "2026-07-05T19:00:00+07:00",
-          "tbd": true
+          "time": "2026-07-05T13:35:00+07:00",
+          "duration": 35
         }
       ]
     },
