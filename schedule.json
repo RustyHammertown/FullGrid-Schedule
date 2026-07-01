@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-01T16:59:44.164Z",
+  "generatedAt": "2026-07-01T18:35:40.691Z",
   "events": [
     {
       "id": 101,
@@ -112240,7 +112240,7 @@
               "service": "DGO"
             },
             "US": {
-              "service": "FS1 / FOX One"
+              "service": "FOX / FOX One"
             },
             "VE": {
               "service": "DGO"
@@ -112580,7 +112580,7 @@
               "service": "DGO"
             },
             "US": {
-              "service": "FOX / FOX One"
+              "service": "FS1 / FOX One"
             },
             "VE": {
               "service": "DGO"
