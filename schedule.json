@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-01T08:40:20.176Z",
+  "generatedAt": "2026-07-01T16:32:50.783Z",
   "events": [
     {
       "id": 101,
@@ -88974,16 +88974,6 @@
       "tz": "Europe/Rome",
       "round": 3,
       "sessions": [
-        {
-          "name": "Free Practice 1",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true
-        },
-        {
-          "name": "Free Practice 2",
-          "time": "2026-07-03T14:00:00+02:00",
-          "tbd": true
-        },
         {
           "name": "Qualifying",
           "time": "2026-07-04T09:00:00+02:00",
