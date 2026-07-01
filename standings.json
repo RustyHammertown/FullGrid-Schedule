@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-30T21:48:49.485Z",
+  "generatedAt": "2026-07-01T08:40:21.354Z",
   "flat": {
     "superformula": [
       {
@@ -2393,62 +2393,62 @@
       {
         "pos": 1,
         "name": "Bobby Pierce",
-        "points": 4772,
+        "points": 5074,
         "team": "Oakwood, IL"
       },
       {
         "pos": 2,
         "name": "Nick Hoffman",
-        "points": 4705,
+        "points": 4998,
         "team": "Mooresville, NC"
       },
       {
         "pos": 3,
         "name": "Tyler Erb",
-        "points": 4510,
+        "points": 4777,
         "team": "New Waverly, TX"
       },
       {
         "pos": 4,
         "name": "Tim McCreadie",
-        "points": 4413,
+        "points": 4699,
         "team": "Watertown, NY"
       },
       {
         "pos": 5,
         "name": "Ryan Gustin",
-        "points": 4339,
+        "points": 4619,
         "team": "Marshalltown, IA"
       },
       {
         "pos": 6,
         "name": "Ethan Dotson",
-        "points": 4325,
+        "points": 4565,
         "team": "Bakersfield, CA"
       },
       {
         "pos": 7,
         "name": "Daulton Wilson",
-        "points": 4234,
+        "points": 4481,
         "team": "Fayetteville, NC"
       },
       {
         "pos": 8,
         "name": "Trey Mills",
-        "points": 4166,
+        "points": 4430,
         "team": "St. Augustine, FL"
       },
       {
         "pos": 9,
         "name": "Dennis Erb",
-        "points": 4156,
+        "points": 4418,
         "team": "Carpentersville, IL"
       },
       {
         "pos": 10,
-        "name": "Drake Troutman",
-        "points": 4097,
-        "team": "Hyndman, PA"
+        "name": "Dustin Sorensen",
+        "points": 4327,
+        "team": "Rochester, MN"
       }
     ],
     "igtc": [
@@ -12065,28 +12065,28 @@
             "name": "Germany",
             "points": 6,
             "team": "2W 0D 1L",
-            "vehicle": "GD +7 · GF 9"
+            "vehicle": "GD +6 · GF 10"
           },
           {
             "pos": 2,
             "name": "Ivory Coast",
             "points": 6,
             "team": "2W 0D 1L",
-            "vehicle": "GD  0 · GF 2"
+            "vehicle": "GD +2 · GF 4"
           },
           {
             "pos": 3,
             "name": "Ecuador",
             "points": 4,
             "team": "1W 1D 1L",
-            "vehicle": "GD -1 · GF 0"
+            "vehicle": "GD +0 · GF 2"
           },
           {
             "pos": 4,
             "name": "Curaçao",
             "points": 1,
             "team": "0W 1D 2L",
-            "vehicle": "GD -6 · GF 1"
+            "vehicle": "GD -8 · GF 1"
           }
         ]
       },
