@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-02T04:05:39.529Z",
+  "generatedAt": "2026-07-02T08:41:02.641Z",
   "events": [
     {
       "id": 101,
@@ -54055,11 +54055,12 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
+      "postponed": true,
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-02T18:00:00-05:00",
-          "duration": 240,
+          "time": "2026-07-02T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "DIRTVision"
@@ -54079,11 +54080,12 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
+      "postponed": true,
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-03T18:00:00-05:00",
-          "duration": 240,
+          "time": "2026-07-03T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "DIRTVision"
@@ -54103,11 +54105,12 @@
       "flag": "🇺🇸",
       "country": "USA",
       "tz": "America/Chicago",
+      "postponed": true,
       "sessions": [
         {
           "name": "Race",
-          "time": "2026-07-04T18:00:00-05:00",
-          "duration": 240,
+          "time": "2026-07-04T07:00:00-05:00",
+          "tbd": true,
           "broadcasts": {
             "US": {
               "service": "DIRTVision"

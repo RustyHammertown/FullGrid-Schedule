@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-02T04:05:40.443Z",
+  "generatedAt": "2026-07-02T08:41:03.756Z",
   "flat": {
     "superformula": [
       {
@@ -150,7 +150,7 @@
       {
         "pos": 1,
         "name": "Scottie Scheffler",
-        "points": 3810.833,
+        "points": 3510.833,
         "team": "United States"
       },
       {
@@ -179,33 +179,153 @@
       },
       {
         "pos": 6,
+        "name": "Jacob Bridgeman",
+        "points": 2135.826,
+        "team": "United States"
+      },
+      {
+        "pos": 7,
+        "name": "Chris Gotterup",
+        "points": 2132.455,
+        "team": "United States"
+      },
+      {
+        "pos": 8,
         "name": "Si Woo Kim",
         "points": 1860,
         "team": "South Korea"
       },
       {
-        "pos": 7,
+        "pos": 9,
         "name": "Ludvig Åberg",
         "points": 1772.761,
         "team": "Sweden"
       },
       {
-        "pos": 8,
+        "pos": 10,
         "name": "Sam Burns",
         "points": 1728.362,
         "team": "United States"
       },
       {
-        "pos": 9,
+        "pos": 11,
         "name": "Akshay Bhatia",
         "points": 1723.081,
         "team": "United States"
       },
       {
-        "pos": 10,
+        "pos": 12,
+        "name": "J.T. Poston",
+        "points": 1686.761,
+        "team": "United States"
+      },
+      {
+        "pos": 13,
         "name": "Tommy Fleetwood",
         "points": 1677.017,
         "team": "England"
+      },
+      {
+        "pos": 14,
+        "name": "Rory McIlroy",
+        "points": 1630.782,
+        "team": "Northern Ireland"
+      },
+      {
+        "pos": 15,
+        "name": "Ben Griffin",
+        "points": 1557.899,
+        "team": "United States"
+      },
+      {
+        "pos": 16,
+        "name": "Rickie Fowler",
+        "points": 1557.225,
+        "team": "United States"
+      },
+      {
+        "pos": 17,
+        "name": "Russell Henley",
+        "points": 1510.189,
+        "team": "United States"
+      },
+      {
+        "pos": 18,
+        "name": "Xander Schauffele",
+        "points": 1426.097,
+        "team": "United States"
+      },
+      {
+        "pos": 19,
+        "name": "Kristoffer Reitan",
+        "points": 1409.825,
+        "team": "Norway"
+      },
+      {
+        "pos": 20,
+        "name": "Alex Fitzpatrick",
+        "points": 1397.181,
+        "team": "England"
+      },
+      {
+        "pos": 21,
+        "name": "J.J. Spaun",
+        "points": 1350.542,
+        "team": "United States"
+      },
+      {
+        "pos": 22,
+        "name": "Justin Rose",
+        "points": 1333.15,
+        "team": "England"
+      },
+      {
+        "pos": 23,
+        "name": "Eric Cole",
+        "points": 1313.219,
+        "team": "United States"
+      },
+      {
+        "pos": 24,
+        "name": "Ryo Hisatsune",
+        "points": 1302.806,
+        "team": "Japan"
+      },
+      {
+        "pos": 25,
+        "name": "Viktor Hovland",
+        "points": 1283.862,
+        "team": "Norway"
+      },
+      {
+        "pos": 26,
+        "name": "Keith Mitchell",
+        "points": 1281.462,
+        "team": "United States"
+      },
+      {
+        "pos": 27,
+        "name": "Alex Smalley",
+        "points": 1239.459,
+        "team": "United States"
+      },
+      {
+        "pos": 28,
+        "name": "Ryan Gerard",
+        "points": 1237.916,
+        "team": "United States"
+      },
+      {
+        "pos": 29,
+        "name": "Sudarshan Yellamaraju",
+        "points": 1230.583,
+        "team": "Canada"
+      },
+      {
+        "pos": 30,
+        "name": "Daniel Berger",
+        "points": 1209.158,
+        "team": "United States"
       }
     ],
     "pccasia": [
